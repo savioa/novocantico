@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>157</numero>
+  <n>157</n>
+  <titulo>Segurança em Cristo</titulo>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <metrica id="8_6_8_6_Coro">8.6.8.6.Coro</metrica>
+  <titulo_original>Remember me</titulo_original>
+  <texto>
+    <estrofe>
+      <verso>Por meus delitos expirou</verso>
+      <verso>Jesus, a vida e luz!</verso>
+      <verso>Do meu pecado me livrou</verso>
+      <verso>Na ensangüentada cruz.</verso>
+      <coro>
+        <verso>Faze-me forte em confessar</verso>
+        <verso>A Ti, Jesus, Senhor!</verso>
+        <verso>Faze-me pronto a confiar</verso>
+        <verso>No Teu eterno amor.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Jamais terei tão fraca voz,</verso>
+      <verso>Que trema ao confessar</verso>
+      <verso>A quem, por morte tão atroz,</verso>
+      <verso>Minha alma quis salvar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, eu desejo aqui cantar</verso>
+      <verso>Tão grande Salvador!</verso>
+      <verso>E, quando lá no céu chegar,</verso>
+      <verso>Louvá-Lo-ei melhor.</verso>
+    </estrofe>
+  </texto>
+  <primeiro_verso_original>Alas! and Did My Saviour Bleed?</primeiro_verso_original>
+  <origem_musica id="HullA" referencia="Hull, Asa">Asa Hull</origem_musica>
+  <origem_letra ano="1707" id="WattsI" referencia="Watts, Isaac">Isaac Watts</origem_letra>
+  <origem_letra ano="1886" id="RansomJJ" referencia="Ransom, John James">John James Ransom</origem_letra>
+  <referencia_biblica id="47_004_013_014">2Co 4.13,14</referencia_biblica>
+</hino>

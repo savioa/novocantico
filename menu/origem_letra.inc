@@ -1,0 +1,460 @@
+
+		<ul id='indice_estatico'>
+			<li>* <em>somente a letra</em></li>
+			<li><span id='a'>A</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='AdamsSFF'>Adams, Sarah Fuller Flower: 
+						<a href='hino/116/116.xml'>116</a>
+					<li id='AlmeidaA'>Almeida, Antonio: 
+						<a href='hino/080/080.xml'>080</a>, 
+						<a href='hino/218/218.xml'>218</a>, 
+						<a href='hino/266/266.xml'>266</a>
+					<li id='AndradeMGL'>Andrade, Maria da Glória Loureiro de: 
+						<a href='hino/375/375.xml'>375</a>
+					<li id='Anonimo'>Anônimo: 
+						<a href='hino/030/030.xml'>030</a> *, 
+						<a href='hino/031/031.xml'>031</a> *, 
+						<a href='hino/104/104.xml'>104</a>, 
+						<a href='hino/177/177.xml'>177</a>, 
+						<a href='hino/230/230.xml'>230</a>, 
+						<a href='hino/231/231.xml'>231</a>
+					<li id='AssisF'>Assis, Francisco de: 
+						<a href='hino/010/010.xml'>010</a> *
+					</li>
+				</ul>
+			</li>
+			<li><span id='b'>B</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='BakerMA'>Baker, Mary Ann: 
+						<a href='hino/254/254.xml'>254</a>
+					<li id='BandeiraB'>Bandeira, Bolivar: 
+						<a href='hino/326/326.xml'>326</a>
+					<li id='BaringGouldS'>Baring-Gould, Sabine: 
+						<a href='hino/148/148.xml'>148</a>
+					<li id='BarrosMC'>Barros, Manuela C.: 
+						<a href='hino/084/084.xml'>084</a>
+					<li id='BattersbyCM'>Battersby, C. M.: 
+						<a href='hino/071/071.xml'>071</a>
+					<li id='BennardG'>Bennard, George: 
+						<a href='hino/266/266.xml'>266</a>
+					<li id='BilhornPB'>Bilhorn, Peter Philip: 
+						<a href='hino/161/161.xml'>161</a>
+					<li id='BlackJM'>Black, James Milton: 
+						<a href='hino/297/297.xml'>297</a>
+					<li id='BobergC'>Boberg, Carl: 
+						<a href='hino/026/026.xml'>026</a>
+					<li id='BorthwickJL'>Borthwick, Jane Laurie: 
+						<a href='hino/156/156.xml'>156</a>
+					<li id='BuenoL'>Bueno, Lídia: 
+						<a href='hino/032/032.xml'>032</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='c'>C</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='CabreraJB'>Cabrera, Juan Bautista: 
+						<a href='hino/064/064.xml'>064</a>, 
+						<a href='hino/155/155.xml'>155</a>
+					<li id='CaldasAPS'>Caldas, Antônio Pereira de Sousa: 
+						<a href='hino/017/017.xml'>017</a>
+					<li id='CampbellJM'>Campbell, Jane Montgomery: 
+						<a href='hino/057/057.xml'>057</a>
+					<li id='CanticoDoSol'>Cântico do Sol: 
+						<a href='hino/010/010.xml'>010</a> *
+					<li id='CantoniH'>Cantoni, Humberto: 
+						<a href='hino/071/071.xml'>071</a>
+					<li id='CarterRK'>Carter, Russel Kelso: 
+						<a href='hino/177/177.xml'>177</a>
+					<li id='CasselET'>Cassel, Elijah Taylor: 
+						<a href='hino/288/288.xml'>288</a>
+					<li id='CesarMotaJ'>César Mota, Jorge: 
+						<a href='hino/229/229.xml'>229</a>
+					<li id='ChisholmTO'>Chisholm, Thomas Obediah: 
+						<a href='hino/032/032.xml'>032</a>
+					<li id='ClairvauxB'>Clairvaux, Bernardo de: 
+						<a href='hino/264/264.xml'>264</a>
+					<li id='ClarkMA'>Clark, Myron August: 
+						<a href='hino/128/128.xml'>128</a>
+					<li id='ClaudiusM'>Claudius, Matthias: 
+						<a href='hino/057/057.xml'>057</a>
+					<li id='ComissaoDoHinarioEvangelico'>Comissão do Hinário Evangélico: 
+						<a href='hino/243/243.xml'>243</a>
+					<li id='CopeM'>Cope, Mildred: 
+						<a href='hino/084/084.xml'>084</a>
+					<li id='CostaEJ'>Costa, E. J.: 
+						<a href='hino/229/229.xml'>229</a>
+					<li id='CostaJ'>Costa, J.: 
+						<a href='hino/029/029.xml'>029</a> *, 
+						<a href='hino/034/034.xml'>034</a> *, 
+						<a href='hino/234/234.xml'>234</a>
+					<li id='CostaJS'>Costa, Joaquim Silvério: 
+						<a href='hino/071/071.xml'>071</a>
+					<li id='CowperW'>Cowper, William: 
+						<a href='hino/212/212.xml'>212</a>
+					<li id='CrosbyFJ'>Crosby, Fanny Jane: 
+						<a href='hino/042/042.xml'>042</a>, 
+						<a href='hino/049/049.xml'>049</a>, 
+						<a href='hino/144/144.xml'>144</a>, 
+						<a href='hino/222/222.xml'>222</a>, 
+						<a href='hino/226/226.xml'>226</a>, 
+						<a href='hino/315/315.xml'>315</a>
+					<li id='CunhaA'>Cunha, Atenilde: 
+						<a href='hino/001/001.xml'>001</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='d'>D</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='DanaMSB'>Dana, Mary Stanley Bunce: 
+						<a href='hino/193/193.xml'>193</a>
+					<li id='DixWC'>Dix, William Chatterton: 
+						<a href='hino/234/234.xml'>234</a>
+					<li id='DoddridgeP'>Doddridge, Philip: 
+						<a href='hino/340/340.xml'>340</a>
+					<li id='DoxologiaLatina'>Doxologia latina: 
+						<a href='hino/005/005.xml'>005</a>
+					<li id='DraperWH'>Draper, William Henry: 
+						<a href='hino/010/010.xml'>010</a> *
+					<li id='DuarteBR'>Duarte, Benjamin Rufino: 
+						<a href='hino/114/114.xml'>114</a>
+					<li id='DykeH'>Dyke, Henry van: 
+						<a href='hino/028/028.xml'>028</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='e'>E</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='ElNathan'>El Nathan (Whittle, Daniel Webster): 
+						<a href='hino/115/115.xml'>115</a>, 
+						<a href='hino/172/172.xml'>172</a>
+					<li id='EmmerichN'>Emmerich, Nathanael: 
+						<a href='hino/026/026.xml'>026</a>
+					<li id='EntzmingerWE'>Entzminger, William Edwin: 
+						<a href='hino/108/108.xml'>108</a>, 
+						<a href='hino/254/254.xml'>254</a>, 
+						<a href='hino/318/318.xml'>318</a>, 
+						<a href='hino/320/320.xml'>320</a>, 
+						<a href='hino/379/379.xml'>379</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='f'>F</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='FaustiniJW'>Faustini, João Wilson: 
+						<a href='hino/018/018.xml'>018</a>, 
+						<a href='hino/151/151.xml'>151</a>
+					<li id='FawcettJ'>Fawcett, John: 
+						<a href='hino/183/183.xml'>183</a>
+					<li id='FerrazS'>Ferraz, Salomão: 
+						<a href='hino/362/362.xml'>362</a>
+					<li id='FerreiraGLS'>Ferreira, Guilherme Luís dos Santos: 
+						<a href='hino/088/088.xml'>088</a>
+					<li id='FilhoMSP'>Filho, Manoel da Silveira Porto: 
+						<a href='hino/010/010.xml'>010</a> *, 
+						<a href='hino/136/136.xml'>136</a>
+					<li id='FryCW'>Fry, Charles William: 
+						<a href='hino/113/113.xml'>113</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='g'>G</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='GabrielCH'>Gabriel, Charles Hutchinson: 
+						<a href='hino/286/286.xml'>286</a>
+					<li id='GerhardtP'>Gerhardt, Paul: 
+						<a href='hino/264/264.xml'>264</a>
+					<li id='GinsburgSL'>Ginsburg, Salomão Luiz: 
+						<a href='hino/033/033.xml'>033</a>, 
+						<a href='hino/049/049.xml'>049</a>, 
+						<a href='hino/115/115.xml'>115</a>, 
+						<a href='hino/131/131.xml'>131</a>, 
+						<a href='hino/172/172.xml'>172</a>, 
+						<a href='hino/198/198.xml'>198</a>
+					<li id='GoncalvesAC'>Gonçalves, Antonio de Campos: 
+						<a href='hino/016/016.xml'>016</a>, 
+						<a href='hino/068/068.xml'>068</a>
+					<li id='GorehEL'>Goreh, Ellen Lakshmi: 
+						<a href='hino/128/128.xml'>128</a>
+					<li id='GueirosJ'>Gueiros, Jerônimo: 
+						<a href='hino/007/007.xml'>007</a> *, 
+						<a href='hino/292/292.xml'>292</a>, 
+						<a href='hino/327/327.xml'>327</a>, 
+						<a href='hino/371/371.xml'>371</a>
+					<li id='GuimaraesS'>Guimarães, Sebastião: 
+						<a href='hino/332/332.xml'>332</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='h'>H</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='HafeJE'>Hafe, Jacob Eduardo von: 
+						<a href='hino/155/155.xml'>155</a>
+					<li id='HasseR'>Hasse, Rodolpho: 
+						<a href='hino/229/229.xml'>229</a>
+					<li id='HeberR'>Heber, Reginald: 
+						<a href='hino/011/011.xml'>011</a>
+					<li id='HewittEE'>Hewitt, Eliza Edmunds: 
+						<a href='hino/135/135.xml'>135</a>
+					<li id='HoustonJT'>Houston, James Theodore: 
+						<a href='hino/035/035.xml'>035</a> *, 
+						<a href='hino/047/047.xml'>047</a>, 
+						<a href='hino/230/230.xml'>230</a>
+					<li id='HoweJW'>Howe, Julia Ward: 
+						<a href='hino/147/147.xml'>147</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='j'>J</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='JonesJ'>Jones, Joseph: 
+						<a href='hino/042/042.xml'>042</a>
+					<li id='JudahD'>Judah, Daniel ben: 
+						<a href='hino/021/021.xml'>021</a> *
+					</li>
+				</ul>
+			</li>
+			<li><span id='k'>K</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='KalleyRR'>Kalley, Robert Reid: 
+						<a href='hino/212/212.xml'>212</a>
+					<li id='KalleySP'>Kalley, Sara Poulton: 
+						<a href='hino/225/225.xml'>225</a>, 
+						<a href='hino/003/003.xml'>003</a> *, 
+						<a href='hino/012/012.xml'>012</a>, 
+						<a href='hino/022/022.xml'>022</a> *, 
+						<a href='hino/048/048.xml'>048</a>, 
+						<a href='hino/127/127.xml'>127</a>, 
+						<a href='hino/139/139.xml'>139</a>, 
+						<a href='hino/152/152.xml'>152</a>, 
+						<a href='hino/340/340.xml'>340</a>, 
+						<a href='hino/367/367.xml'>367</a>, 
+						<a href='hino/374/374.xml'>374</a>
+					<li id='KaschelW'>Kaschel, Werner: 
+						<a href='hino/067/067.xml'>067</a>
+					<li id='KenT'>Ken, Thomas: 
+						<a href='hino/006/006.xml'>006</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='l'>L</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='LattaER'>Latta, Eden Reeder: 
+						<a href='hino/269/269.xml'>269</a>
+					<li id='LongstaffWD'>Longstaff, William Dunn: 
+						<a href='hino/131/131.xml'>131</a>
+					<li id='LowryR'>Lowry, Robert: 
+						<a href='hino/274/274.xml'>274</a>
+					<li id='LuteroM'>Lutero, Martinho: 
+						<a href='hino/152/152.xml'>152</a>, 
+						<a href='hino/155/155.xml'>155</a>, 
+						<a href='hino/229/229.xml'>229</a>
+					<li id='LyteHF'>Lyte, Henry Francis: 
+						<a href='hino/029/029.xml'>029</a> *
+					</li>
+				</ul>
+			</li>
+			<li><span id='m'>M</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='MackayWP'>Mackay, William Paton: 
+						<a href='hino/047/047.xml'>047</a>
+					<li id='McNairSE'>McNair, Stuart Edmund: 
+						<a href='hino/368/368.xml'>368</a>
+					<li id='McNaughtonJH'>McNaughton, John Hugh: 
+						<a href='hino/395/395.xml'>395</a>
+					<li id='MenezesMA'>Menezes, Manoel Antonio de: 
+						<a href='hino/315/315.xml'>315</a>, 
+						<a href='hino/037/037.xml'>037</a>
+					<li id='MiltonJ'>Milton, John: 
+						<a href='hino/034/034.xml'>034</a> *
+					<li id='MohrJ'>Mohr, Joseph: 
+						<a href='hino/243/243.xml'>243</a>
+					<li id='MoretonRH'>Moreton, Robert Hawkey: 
+						<a href='hino/021/021.xml'>021</a> *, 
+						<a href='hino/208/208.xml'>208</a>, 
+						<a href='hino/239/239.xml'>239</a>, 
+						<a href='hino/240/240.xml'>240</a>, 
+						<a href='hino/298/298.xml'>298</a>, 
+						<a href='hino/317/317.xml'>317</a>, 
+						<a href='hino/346/346.xml'>346</a>
+					<li id='MotaJC'>Mota, Jorge César: 
+						<a href='hino/010/010.xml'>010</a> *
+					<li id='MotaO'>Mota, Otoniel: 
+						<a href='hino/154/154.xml'>154</a>
+					<li id='MoteE'>Mote, Edward: 
+						<a href='hino/093/093.xml'>093</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='n'>N</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='NeanderJ'>Neander, Joachim: 
+						<a href='hino/016/016.xml'>016</a>
+					<li id='NelsonJH'>Nelson, Justus Henry: 
+						<a href='hino/052/052.xml'>052</a>, 
+						<a href='hino/113/113.xml'>113</a>, 
+						<a href='hino/171/171.xml'>171</a>, 
+						<a href='hino/216/216.xml'>216</a>
+					<li id='NevesAJS'>Neves, Antônio José dos Santos: 
+						<a href='hino/013/013.xml'>013</a>, 
+						<a href='hino/268/268.xml'>268</a>
+					<li id='NilesN'>Niles, Nathaniel: 
+						<a href='hino/146/146.xml'>146</a>
+					<li id='NindGB'>Nind, George Benjamin: 
+						<a href='hino/144/144.xml'>144</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='o'>O</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='OatmanJ'>Oatman, Johnson: 
+						<a href='hino/063/063.xml'>063</a>
+					<li id='OgdenWA'>Ogden, William Augustine: 
+						<a href='hino/198/198.xml'>198</a>
+					<li id='OgdonID'>Ogdon, Ina Duley: 
+						<a href='hino/320/320.xml'>320</a>
+					<li id='OliveiraJC'>Oliveira, João Chrysóstomo de: 
+						<a href='hino/062/062.xml'>062</a>
+					<li id='OliversT'>Olivers, Thomas: 
+						<a href='hino/021/021.xml'>021</a> *
+					<li id='OrrJE'>Orr, James Edwin: 
+						<a href='hino/067/067.xml'>067</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='p'>P</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='PerronetE'>Perronet, Edward: 
+						<a href='hino/052/052.xml'>052</a>
+					<li id='PitrowskyR'>Pitrowsky Ricardo: 
+						<a href='hino/274/274.xml'>274</a>
+					<li id='PollardAA'>Pollard, Adelaide Addison: 
+						<a href='hino/218/218.xml'>218</a>
+					<li id='PortoFilhoMS'>Porto Filho, Manoel da Silveira: 
+						<a href='hino/064/064.xml'>064</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='r'>R</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='RankinJE'>Rankin, Jeremiah Eames: 
+						<a href='hino/368/368.xml'>368</a>
+					<li id='RobertsDC'>Roberts, Daniel Crane: 
+						<a href='hino/018/018.xml'>018</a>
+					<li id='RochaJG'>Rocha, João Gomes da: 
+						<a href='hino/004/004.xml'>004</a> *, 
+						<a href='hino/005/005.xml'>005</a>, 
+						<a href='hino/011/011.xml'>011</a>, 
+						<a href='hino/015/015.xml'>015</a>, 
+						<a href='hino/116/116.xml'>116</a>, 
+						<a href='hino/148/148.xml'>148</a>, 
+						<a href='hino/161/161.xml'>161</a>, 
+						<a href='hino/193/193.xml'>193</a>, 
+						<a href='hino/373/373.xml'>373</a>, 
+						<a href='hino/399/399.xml'>399</a>
+					<li id='RootGF'>Root, George Frederick: 
+						<a href='hino/367/367.xml'>367</a>
+					<li id='RussoV'>Russo, Vicente: 
+						<a href='hino/190/190.xml'>190</a>, 
+						<a href='hino/247/247.xml'>247</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='s'>S</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='Salmo103'>Salmo 103: 
+						<a href='hino/029/029.xml'>029</a> *
+					<li id='Salmo136'>Salmo 136: 
+						<a href='hino/034/034.xml'>034</a> *
+					<li id='Salmo19'>Salmo 19: 
+						<a href='hino/022/022.xml'>022</a> *
+					<li id='Salmo23'>Salmo 23: 
+						<a href='hino/151/151.xml'>151</a>
+					<li id='SalumIN'>Salum, Isaac Nicolau: 
+						<a href='hino/028/028.xml'>028</a>, 
+						<a href='hino/156/156.xml'>156</a>, 
+						<a href='hino/264/264.xml'>264</a>, 
+						<a href='hino/325/325.xml'>325</a>
+					<li id='SantosMG'>Santos, Mattathias Gomes dos: 
+						<a href='hino/027/027.xml'>027</a>
+					<li id='SchlegelKAD'>Schlegel, Katharina Amalia Dorothea von: 
+						<a href='hino/156/156.xml'>156</a>
+					<li id='SeeR'>See, Ruth: 
+						<a href='hino/231/231.xml'>231</a>
+					<li id='SilvaAH'>Silva, Alfredo Henrique: 
+						<a href='hino/183/183.xml'>183</a>
+					<li id='SilvaFCB'>Silva, Francisco Caetano Borges da: 
+						<a href='hino/093/093.xml'>093</a>
+					<li id='SilvaH'>Silva, Hope: 
+						<a href='hino/032/032.xml'>032</a>
+					<li id='SilvaJAS'>Silva, José Augusto dos Santos e: 
+						<a href='hino/147/147.xml'>147</a>
+					<li id='SilveiraG'>Silveira, Guaraci: 
+						<a href='hino/006/006.xml'>006</a>, 
+						<a href='hino/237/237.xml'>237</a>
+					<li id='SmartER'>Smart, Eliza Rivers: 
+						<a href='hino/063/063.xml'>063</a>, 
+						<a href='hino/288/288.xml'>288</a>
+					<li id='SmithOJ'>Smith, Oswald Jeffray: 
+						<a href='hino/104/104.xml'>104</a>
+					<li id='SouzaMA'>Souza, Manuel Avelino de: 
+						<a href='hino/014/014.xml'>014</a>, 
+						<a href='hino/145/145.xml'>145</a>, 
+						<a href='hino/282/282.xml'>282</a>
+					<li id='SpaffordHG'>Spafford, Horatio Gates: 
+						<a href='hino/108/108.xml'>108</a>
+					<li id='StoneSJ'>Stone, Samuel John: 
+						<a href='hino/298/298.xml'>298</a>
+					<li id='SuttonJ'>Sutton, Joan: 
+						<a href='hino/032/032.xml'>032</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='t'>T</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='TalbotN'>Talbot, Nellie: 
+						<a href='hino/362/362.xml'>362</a>
+					<li id='TersteegenG'>Tersteegen, Gerhard: 
+						<a href='hino/004/004.xml'>004</a> *
+					<li id='TopladyAM'>Toplady, Augustus Montague: 
+						<a href='hino/136/136.xml'>136</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='w'>W</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='WalfordWW'>Walford, William W.: 
+						<a href='hino/127/127.xml'>127</a>
+					<li id='WatsonA'>Watson, Aleck: 
+						<a href='hino/286/286.xml'>286</a>
+					<li id='WesleyC'>Wesley, Charles: 
+						<a href='hino/216/216.xml'>216</a>, 
+						<a href='hino/240/240.xml'>240</a>
+					<li id='WhittleDW'>Whittle, Daniel Webster: 
+						<a href='hino/115/115.xml'>115</a>, 
+						<a href='hino/172/172.xml'>172</a>
+					<li id='WinkworthC'>Winkworth, Catherine: 
+						<a href='hino/229/229.xml'>229</a>
+					<li id='WittenbergColetanea'>Wittenberg (Coletânea): 
+						<a href='hino/152/152.xml'>152</a>
+					<li id='WrightHM'>Wright, Henry Maxwell: 
+						<a href='hino/038/038.xml'>038</a>, 
+						<a href='hino/057/057.xml'>057</a>, 
+						<a href='hino/135/135.xml'>135</a>, 
+						<a href='hino/146/146.xml'>146</a>, 
+						<a href='hino/222/222.xml'>222</a>, 
+						<a href='hino/226/226.xml'>226</a>, 
+						<a href='hino/269/269.xml'>269</a>, 
+						<a href='hino/297/297.xml'>297</a>, 
+						<a href='hino/299/299.xml'>299</a>, 
+						<a href='hino/395/395.xml'>395</a>
+					</li>
+				</ul>
+			</li>
+			<li><span id='z'>Z</span> <a href='#conteudo'>topo</a>
+				<ul>
+					<li id='ZelleyHJ'>Zelley, Henry J.: 
+						<a href='hino/114/114.xml'>114</a>
+					</li>
+				</ul>
+			</li>
+		</ul>

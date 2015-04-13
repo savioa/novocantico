@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>158</numero>
+  <n>158</n>
+  <titulo>Conforto e Luz</titulo>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <metrica id="6_5_6_5_D">6.5.6.5.D</metrica>
+  <titulo_original>Go bury thy sorrow</titulo_original>
+  <texto>
+    <estrofe>
+      <verso>Vai, alma tristonha,</verso>
+      <verso>Teu pranto depor!</verso>
+      <verso>Põe os teus cuidados</verso>
+      <verso>Nas mãos do Senhor!</verso>
+      <verso>Ao Mestre confia</verso>
+      <verso>Toda essa aflição,</verso>
+      <verso>Pois, sempre oferece</verso>
+      <verso>Plena compaixão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Teus sustos e medos</verso>
+      <verso>Vai, mostra ao Senhor!</verso>
+      <verso>Seu mando transforma</verso>
+      <verso>A noite em fulgor.</verso>
+      <verso>Ergue a tua fronte!</verso>
+      <verso>Logo há de raiar</verso>
+      <verso>O sol que dissipa</verso>
+      <verso>Nuvens de pesar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Há tantos que choram</verso>
+      <verso>Dor muito maior;</verso>
+      <verso>Há corações tristes</verso>
+      <verso>Por culpa e temor.</verso>
+      <verso>Vai! Leva a mensagem</verso>
+      <verso>De perdão e luz!</verso>
+      <verso>Vai! Deixa as tristezas</verso>
+      <verso>Aos pés de Jesus!</verso>
+    </estrofe>
+  </texto>
+  <primeiro_verso_original>Go bury thy sorrow, the world hath its share</primeiro_verso_original>
+  <origem_musica id="BlissPP" referencia="Bliss, Philip Paul">Philip Paul Bliss</origem_musica>
+  <origem_letra id="BachelorMA" referencia="Bachelor, Mary A.">Mary A. Bachelor</origem_letra>
+  <origem_letra ano="1875" id="KalleySP" referencia="Kalley, Sarah Poulton">Sarah Paulton Kalley</origem_letra>
+  <referencia_biblica id="23_035_010">Is 35.10</referencia_biblica>
+</hino>
