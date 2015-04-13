@@ -1,5 +1,0 @@
-			<li>22/04/2014 - <a href='hino/048/048.xml'>048 - Jesus, quão infinito é teu divino amor</a></li>
-			<li>15/08/2013 - <a href='hino/037/037.xml'>037 - Jesus, teu nome é santo</a></li>
-			<li>01/07/2013 - <a href='hino/183/183.xml'>183 - Benditos laços são</a></li>
-			<li>19/06/2013 - <a href='hino/320/320.xml'>320 - Não somente ao se fazer trabalho singular</a></li>
-			<li>06/04/2013 - CORREÇÃO (PARTITURA TENOR) - <a href='hino/193/193.xml'>193 - Vou à pátria - eu, peregrino</a></li>
