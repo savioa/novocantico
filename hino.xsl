@@ -124,7 +124,7 @@
 				<ul>
 					<xsl:for-each select='hino/origem_letra'>
 					<li>
-					<a href='../../index.php?tipo=origem_letra#{./@id}'><xsl:value-of select='.'/></a>
+					<a href='../../indiceOrigemLetra.html#{./@id}'><xsl:value-of select='.'/></a>
 					<xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if>
 					</li>
 					</xsl:for-each>
@@ -134,7 +134,7 @@
 				<ul>
 					<xsl:for-each select='hino/origem_musica'>
 					<li>
-					<a href='../../index.php?tipo=origem_musica#{./@id}'><xsl:value-of select='.'/></a>
+					<a href='../../indiceOrigemMusica.html#{./@id}'><xsl:value-of select='.'/></a>
 					<xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if>
 					</li>
 					</xsl:for-each>
@@ -143,28 +143,28 @@
 			<li>Referência Bíblica
 				<ul>
 					<xsl:for-each select='hino/referencia_biblica'>
-					<li><a href='../../index.php?tipo=referencia_biblica#{./@id}'><xsl:value-of select='.'/></a></li>
+					<li><a href='../../indiceReferenciaBiblica.html#{./@id}'><xsl:value-of select='.'/></a></li>
 					</xsl:for-each>
 				</ul>
 			</li>
 			<li>Título Original
 				<ul>
 					<xsl:for-each select='hino/titulo_original'>
-					<li><a href='../../index.php?tipo=titulo_original#{/hino/numero}'><xsl:value-of select='.'/></a></li>
+					<li><a href='../../indiceTituloOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></li>
 					</xsl:for-each>
 				</ul>
 			</li>
 			<li>1º Verso Original
 				<ul>
 					<xsl:for-each select='hino/primeiro_verso_original'>
-					<li><a href='../../index.php?tipo=primeiro_verso_original#{/hino/numero}'><xsl:value-of select='.'/></a></li>
+					<li><a href='../../indicePrimVersoOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></li>
 					</xsl:for-each>
 				</ul>
 			</li>
 			<li>Métrica
 				<ul>
 					<xsl:for-each select='hino/metrica'>
-					<li><a href='../../index.php?tipo=metrica#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></li>
+					<li><a href='../../indiceMetrica.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></li>
 					</xsl:for-each>
 				</ul>
 			</li>
