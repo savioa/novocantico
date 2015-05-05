@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>136</numero>
+  <n>136</n>
+  <titulo>Rocha eterna</titulo>
+  <texto>
+    <estrofe>
+      <verso>Rocha eterna, meu Jesus,</verso>
+      <verso>Quero em ti me refugiar!</verso>
+      <verso>O teu sangue lá na cruz,</verso>
+      <verso>Derramado em meu lugar,</verso>
+      <verso>Traz as bênçãos do perdão:</verso>
+      <verso>Gozo, paz e salvação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não por obras nem penar,</verso>
+      <verso>Plena paz terei aqui.</verso>
+      <verso>Só Tu podes consolar,</verso>
+      <verso>Há perdão somente em ti.</verso>
+      <verso>Rocha eterna, só na cruz</verso>
+      <verso>Eu confio, ó meu Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando o derradeiro olhar</verso>
+      <verso>A este mundo aqui volver,</verso>
+      <verso>E no Trono eu te encontrar,</verso>
+      <verso>Teu chamado a responder;</verso>
+      <verso>Rocha eterna, espero ali</verso>
+      <verso>Abrigar-me, salvo em ti! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Toplady</titulo_original>
+  <metrica id="7_7_7_7_7_7">7.7.7.7.7.7</metrica>
+  <origem_letra id="TopladyAM" referencia="Toplady, Augustus Montague" ano="1776">Augustus Montague Toplady</origem_letra>
+  <origem_letra id="FilhoMSP" referencia="Filho, Manoel da Silveira Porto" ano="1947">Manoel da Silveira Porto Filho</origem_letra>
+  <origem_musica id="HastingsT" referencia="Hastings, Thomas" ano="1830">Thomas Hastings</origem_musica>
+  <primeiro_verso_original>Rock of Ages, cleft for me</primeiro_verso_original>
+  <referencia_biblica id="46_010_004">1 Coríntios 10.4</referencia_biblica>
+</hino>

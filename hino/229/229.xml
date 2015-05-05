@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>229</numero>
+  <n>229</n>
+  <titulo>Boas-novas</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eu venho a vós, dos altos céus,</verso>
+      <verso>Com boas-novas do meu Rei,</verso>
+      <verso>Maravilhoso e grande Deus!</verso>
+      <verso>Ouvi-me: A história contarei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Um pequenino vos nasceu</verso>
+      <verso>Da virgem mãe, há tempo atrás.</verso>
+      <verso>Com ele Deus ao mundo deu</verso>
+      <verso>Amor e vida, gozo e paz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Comigo vem, meu bom Jesus,</verso>
+      <verso>Escolhe, como berço teu,</verso>
+      <verso>Meu coração, e em tua luz</verso>
+      <verso>Por certo alcançarei o céu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eterna glória ao nosso Deus,</verso>
+      <verso>Que veio em Cristo nos salvar.</verso>
+      <verso>Alegres anjos vêm dos céus</verso>
+      <verso>Um novo dia anunciar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="01">Advento</assunto>
+  <titulo_original>Vom Himmel Hoch</titulo_original>
+  <metrica id="8_8_8_8">8.8.8.8</metrica>
+  <origem_letra id="LuteroM" referencia="Lutero, Martinho" ano="1535">Martinho Lutero</origem_letra>
+  <origem_letra id="WinkworthC" referencia="Winkworth, Catherine" ano="1855">Catherine Winkworth</origem_letra>
+  <origem_letra id="CesarMotaJ" referencia="César Mota, Jorge" ano="1963">Jorge César Mota</origem_letra>
+  <origem_letra id="HasseR" referencia="Hasse, Rodolpho" ano="1956">Rodolpho Hasse</origem_letra>
+  <origem_letra id="CostaEJ" referencia="Costa, E. J." ano="1969">E. J. Costa</origem_letra>
+  <origem_musica id="GeistlicheLieder" referencia="“Geistliche Lieder”" ano="1539">“Geistliche Lieder”</origem_musica>
+  <primeiro_verso_original>Vom Himmel hoch, da komm ich her</primeiro_verso_original>
+  <referencia_biblica id="40_021_010_011">Mateus 21.10,11</referencia_biblica>
+  <referencia_biblica id="43_001_014">João 1.14</referencia_biblica>
+</hino>
+

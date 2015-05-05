@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>375</numero>
+  <n>375</n>
+  <titulo>O ano velho</titulo>
+  <texto>
+    <estrofe>
+      <verso>O ano velho já termina;</verso>
+      <verso>Damos a Jesus louvor,</verso>
+      <verso>Pois do mal nos tem guardado</verso>
+      <verso>Nesse ano, com amor.</verso>
+      <verso>Nesse ano, nesse ano com amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Filho eterno, a ti rogamos</verso>
+      <verso>Que, por tua compaixão,</verso>
+      <verso>Continues concedendo</verso>
+      <verso>Aos teus servos proteção.</verso>
+      <verso>Aos teus servos, aos teus servos proteção.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A Palavra preciosa</verso>
+      <verso>Faze em nós frutificar!</verso>
+      <verso>Das doutrinas do Evangelho</verso>
+      <verso>Não nos deixes afastar;</verso>
+      <verso>Não nos deixes, não nos deixes afastar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O teu povo aqui dirige</verso>
+      <verso>A cumprir o seu dever</verso>
+      <verso>E alegre, consagrado,</verso>
+      <verso>Ao teu mando obedecer,</verso>
+      <verso>Ao teu mando, ao teu mando obedecer.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Do pecado nos afasta,</verso>
+      <verso>Nossos passos vem guiar</verso>
+      <verso>E, esquecidas nossas culpas,</verso>
+      <verso>Um bom ano vem nos dar.</verso>
+      <verso>Um bom ano, um bom ano vem nos dar. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="03">Ano Novo</assunto>
+  <titulo_original>Terminus</titulo_original>
+  <metrica id="8_7_8_7_Irregular">8.7.8.7.Irregular</metrica>
+  <origem_letra id="AndradeMGL" referencia="Andrade, Maria da Glória Loureiro de" ano="1867">Maria da Glória Loureiro de Andrade</origem_letra>
+  <origem_musica id="IronsHS" referencia="Irons, Herbert Stephen">Herbert Stephen Irons</origem_musica>
+  <primeiro_verso_original>O ano velho já termina</primeiro_verso_original>
+  <referencia_biblica id="61_003_018">2 Pedro 3.18</referencia_biblica>
+</hino>
+

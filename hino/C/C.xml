@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>C</numero>
+  <titulo>Amém quádruplo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Amém, amém, amém, amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="09">Outros</secao>
+  <assunto id="01">Ofertório e améns</assunto>
+  <origem_musica id="StainerJ" referencia="Stainer, John">John Stainer</origem_musica>
+</hino>

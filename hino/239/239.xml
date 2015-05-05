@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>239</numero>
+  <n>239</n>
+  <titulo>Nasce Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Nasce Jesus! Fonte de luz!</verso>
+      <verso>Descem os anjos cantando.</verso>
+      <verso>Nasce Jesus! É nossa luz</verso>
+      <verso>Que as trevas vem dissipando!</verso>
+      <verso>Nasce Jesus! Nasce Jesus!</verso>
+      <verso>Eis a mensagem celeste!</verso>
+      <verso>Raia a luz da Salvação, triunfante vem!</verso>
+      <verso>Salve, ó Cristo! Firma teu justo império!</verso>
+      <verso>Gratos louvores homens e anjos dêem!</verso>
+      <coro>
+        <verso>Nasce Jesus! Nasce Jesus!</verso>
+        <verso>Glória a Deus nas alturas!</verso>
+        <verso>Paz na terra, graça e amor</verso>
+        <verso>A quantos Deus quer bem!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Deus nos amou! Deus nos mandou</verso>
+      <verso>Cristo, seu Filho amado!</verso>
+      <verso>Deus nos amou! Deus se encarnou!</verso>
+      <verso>Vede o menino deitado!</verso>
+      <verso>Deus nos amou! Deus nos amou!</verso>
+      <verso>Digam-no todos os povos!</verso>
+      <verso>Gozam paz e salvação todos os que crêem.</verso>
+      <verso>Reino bendito! Reino de amor divino!</verso>
+      <verso>Gratos louvores homens e anjos dêem!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <titulo_original>Natalício</titulo_original>
+  <metrica id="Irregular">Irregular</metrica>
+  <origem_letra id="MoretonRH" referencia="Moreton, Robert Hawkey" ano="1887">Robert Hawkey Moreton</origem_letra>
+  <origem_musica id="LowryR" referencia="Lowry, Robert">Robert Lowry</origem_musica>
+  <primeiro_verso_original>Nasce Jesus! Fonte de luz</primeiro_verso_original>
+  <referencia_biblica id="42_002_030_031">Lucas 2.30,31</referencia_biblica>
+</hino>
+

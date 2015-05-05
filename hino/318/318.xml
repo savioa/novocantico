@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>318</numero>
+  <n>318</n>
+  <titulo>Ceifeiros do Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ceifeiros da Seara santa,</verso>
+      <verso>Quão poucos, fracos sois!</verso>
+      <verso>Mas forte é Cristo, vosso Mestre,</verso>
+      <verso>Avante, avante pois!</verso>
+      <coro>
+        <verso>Os que esperam no Senhor renovar-se-ão!</verso>
+        <verso>Crescerão em vigor; subirão até às alturas!</verso>
+        <verso>Correrão e sem fadiga andarão sem se cansar!</verso>
+        <verso>Correrão e sem fadiga andarão sem se cansar!</verso>
+        <verso>Voarão e nas alturas, como águias serão!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Cansados, tristes, sem alento,</verso>
+      <verso>Deixai-vos de chorar!</verso>
+      <verso>Se Onipotente é vosso Mestre,</verso>
+      <verso>Por que desanimar?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus está convosco sempre,</verso>
+      <verso>Assim nos prometeu.</verso>
+      <verso>Coragem, pois, irmãos avante,</verso>
+      <verso>Eis que ele já venceu!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="03">Trabalho Cristão</assunto>
+  <titulo_original>Ho, reapers</titulo_original>
+  <metrica id="9_6_9_6_Coro">9.6.9.6.Coro</metrica>
+  <origem_letra id="EntzmingerWE" referencia="Entzminger, William Edwin" ano="1909">William Edwin Entzminger</origem_letra>
+  <origem_musica id="McGranahanJ" referencia="McGranahan, James">James McGranahan</origem_musica>
+  <origem_musica id="ZimmermannA" referencia="Zimmermann, Alfonso" ano="1961">Alfonso Zimmermann</origem_musica>
+  <primeiro_verso_original>Ho, reapers in the whitened harvest</primeiro_verso_original>
+  <referencia_biblica id="08_002_004">Rute 2.4</referencia_biblica>
+  <referencia_biblica id="19_126_005">Salmos 126.5</referencia_biblica>
+</hino>

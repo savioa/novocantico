@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>237</numero>
+  <titulo>Jesus nasceu!</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vinde, cantai! Jesus nasceu!</verso>
+      <verso>À terra a luz desceu!</verso>
+      <verso>A graça infinda ao mundo vem,</verso>
+      <verso>Na gruta de Belém,</verso>
+      <verso>Na gruta de Belém,</verso>
+      <verso>Jesus, o amado, o Sumo Bem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim proclamai, em derredor,</verso>
+      <verso>Que foi por grande amor</verso>
+      <verso>Que à terra veio o Sumo bem,</verso>
+      <verso>Na gruta de Belém,</verso>
+      <verso>Na gruta de Belém,</verso>
+      <verso>Jesus, humilde, ao mundo vem.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <titulo_original>Antioch</titulo_original>
+  <metrica id="8_6_8_6__6__8">8.6.8.6.[6].8</metrica>
+  <origem_letra id="SilveiraG" referencia="Silveira, Guaraci">Guaraci Silveira</origem_letra>
+  <origem_musica id="HaendelGF" referencia="Haendel, Georg Friedrich">Georg Friedrich Haendel</origem_musica>
+  <origem_musica id="OratorioMessias" referencia="Oratório Messias" ano="1742">Oratório Messias</origem_musica>
+  <primeiro_verso_original>Joy to the world</primeiro_verso_original>
+</hino>
+

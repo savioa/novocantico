@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>222</numero>
+  <n>222</n>
+  <titulo>Mais perto da cruz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Meu Senhor, sou teu, tua voz ouvi</verso>
+      <verso>A chamar-me com amor!</verso>
+      <verso>E contigo sempre desejo estar,</verso>
+      <verso>Ó bendito Salvador!</verso>
+      <coro>
+        <verso>Mais perto da tua cruz</verso>
+        <verso>Quero estar, ó Salvador!</verso>
+        <verso>Mais perto da tua cruz</verso>
+        <verso>Eu desejo estar, Senhor.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>A seguir-te sempre, eu me decidi,</verso>
+      <verso>Constrangido pelo amor!</verso>
+      <verso>Jubiloso, pois me declaro teu,</verso>
+      <verso>Sem reservas, meu Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que prazer sem par, que delícia é</verso>
+      <verso>Aos teus santos pés me achar!</verso>
+      <verso>E com viva fé e profundo amor,</verso>
+      <verso>Com meu Salvador falar. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="05">Consagração</secao>
+  <assunto id="02">Dedicação</assunto>
+  <titulo_original>I am thine</titulo_original>
+  <metrica id="10_7_10_7_Coro">10.7.10.7.Coro</metrica>
+  <origem_letra id="CrosbyFJ" referencia="Crosby, Fanny Jane" ano="1875">Fanny Jane Crosby</origem_letra>
+  <origem_letra id="WrightHM" referencia="Wright, Henry Maxwell" ano="1890">Henry Maxwell Wright</origem_letra>
+  <origem_musica id="DoaneWH" referencia="Doane, William Howard" ano="1875">William Howard Doane</origem_musica>
+  <primeiro_verso_original>I am thine, O Lord, I have heard thy voice</primeiro_verso_original>
+  <referencia_biblica id="42_010_039">Lucas 10.39</referencia_biblica>
+</hino>
+

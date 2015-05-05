@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>115</numero>
+  <n>115</n>
+  <titulo>Unido com Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Com Cristo unido na morte da cruz,</verso>
+      <verso>Eu gozo as bênçãos do reino da luz!</verso>
+      <verso>Cheio da graça que ali corre a flux,</verso>
+      <verso>Cada momento, com Cristo Jesus.</verso>
+      <coro>
+        <verso>Cada momento me guia o Senhor;</verso>
+        <verso>Cada momento dispensa favor;</verso>
+        <verso>Sua presença me outorga vigor;</verso>
+        <verso>Cada momento sou teu, ó Senhor!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Com Cristo unido na luta moral</verso>
+      <verso>Resisto ao erro, ao pecado fatal,</verso>
+      <verso>Bem alto erguendo a bandeira real.</verso>
+      <verso>Cada momento mais firme e leal!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com Cristo unido na ressurreição,</verso>
+      <verso>Eu já desfruto eternal redenção;</verso>
+      <verso>Nele jamais esperamos em vão;</verso>
+      <verso>Cada momento concede perdão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nas minhas lutas me pode amparar</verso>
+      <verso>E do maligno também me livrar!</verso>
+      <verso>Cada momento, por onde eu andar,</verso>
+      <verso>Cristo, meu Mestre, me pode guiar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+  <titulo_original>Moment by moment</titulo_original>
+  <metrica id="10_10_10_10_Coro">10.10.10.10.Coro</metrica>
+  <origem_letra id="WhittleDW" referencia="Whittle, Daniel Webster">Daniel Webster Whittle</origem_letra>
+  <origem_letra id="ElNathan" referencia="El Nathan (Whittle, Daniel Webster)">(El Nathan)</origem_letra>
+  <origem_letra id="GinsburgSL" referencia="Ginsburg, Salomão Luiz" ano="1909">Salomão Luiz Ginsburg</origem_letra>
+  <origem_musica id="MoodyMW" referencia="Moody, Mary Whittle">Mary Whittle Moody</origem_musica>
+  <primeiro_verso_original>Dying with Jesus, by death reckoned mine</primeiro_verso_original>
+  <referencia_biblica id="47_004_010_011">2 Coríntios 4.10,11</referencia_biblica>
+</hino>

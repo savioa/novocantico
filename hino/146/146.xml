@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>146</numero>
+  <titulo>Segurança do crente</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Quão preciosa e rica promessa</verso>
+      <verso>De Jesus Cristo, celeste Rei.</verso>
+      <verso>Ao que confia na sua graça</verso>
+      <verso>Diz ele: “Nunca te deixarei!”</verso>
+      <coro>
+        <verso>Oh! Não temas! Oh não temas!</verso>
+        <verso>Pois eu contigo sempre serei.</verso>
+        <verso>Oh! Não temas! Oh! Não temas!</verso>
+        <verso>Porque eu nunca te deixarei!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Para remir-te dei o meu sangue.</verso>
+      <verso>Vem sem demora, pois te chamei.</verso>
+      <verso>Meu, para sempre, tu és agora;</verso>
+      <verso>Nunca, sim, nunca te deixarei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>’Inda que indigno foste escolhido,</verso>
+      <verso>Jamais vaciles porque eu te amei.</verso>
+      <verso>Quem dos meus braços pode arrancar-te?</verso>
+      <verso>Seguro sempre te guardarei!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Precious promise</titulo_original>
+  <metrica id="10_9_10_9_Coro">10.9.10.9.Coro</metrica>
+  <origem_letra id="NilesN" referencia="Niles, Nathaniel" ano="1871">Nathaniel Niles</origem_letra>
+  <origem_letra id="WrightHM" referencia="Wright, Henry Maxwell" ano="1890">Henry Maxwell Wright</origem_letra>
+  <origem_musica id="BlissPP" referencia="Bliss, Philip Paul">Philip Paul Bliss</origem_musica>
+  <primeiro_verso_original>Precious promise God has given</primeiro_verso_original>
+  <referencia_biblica id="58_013_005_006">Hebreus 13.5,6</referencia_biblica>
+</hino>

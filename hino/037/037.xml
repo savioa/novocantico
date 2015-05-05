@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>037</numero>
+  <n>37</n>
+  <titulo>O Santo Nome</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus, teu nome é santo,</verso>
+      <verso>Amável teu querer.</verso>
+      <verso>Louvor supremo e puro amor</verso>
+      <verso>Queremos te render!</verso>
+      <verso>Poder e honra e glória a ti</verso>
+      <verso>Nós vimos tributar,</verso>
+      <verso>E com sincera devoção,</verso>
+      <verso>Teu culto celebrar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, teu nome é santo,</verso>
+      <verso>Merece o nosso amor!</verso>
+      <verso>És nosso Deus, que estás nos céus,</verso>
+      <verso>E nosso protetor.</verso>
+      <verso>Incomparável és, Senhor,</verso>
+      <verso>Em tua compaixão;</verso>
+      <verso>Quiseste, para o mal vencer,</verso>
+      <verso>Fazer-te nosso irmão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, teu nome é santo,</verso>
+      <verso>Venceste sobre a cruz!</verso>
+      <verso>O teu sofrer, o teu penar,</verso>
+      <verso>À vida nos conduz.</verso>
+      <verso>Glorificado estás nos céus,</verso>
+      <verso>Atento à adoração</verso>
+      <verso>Que vimos nós, fiéis, prestar</verso>
+      <verso>Com grato coração! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="08">Deus Senhor</assunto>
+  <titulo_original>Beneath the cross of Jesus</titulo_original>
+  <metrica id="7_6_8_6_8_6_8_6">7.6.8.6.8.6.8.6</metrica>
+  <origem_letra id="MenezesMA" referencia="Menezes, Manoel Antônio de" ano="1885">Manoel Antônio de Menezes</origem_letra>
+  <origem_musica id="SankeyID" referencia="Sankey, Ira David" >Ira David Sankey</origem_musica>
+  <primeiro_verso_original>Jesus, teu nome é santo</primeiro_verso_original>
+  <referencia_biblica id="19_072_017">Salmos 72.17</referencia_biblica>
+  <referencia_biblica id="45_015_019">Romanos 15.19</referencia_biblica>
+</hino>
+

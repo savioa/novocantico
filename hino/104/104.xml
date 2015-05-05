@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>104</numero>
+  <n>104</n>
+  <titulo>Linda melodia</titulo>
+  <texto>
+    <estrofe>
+      <verso>Mais do que milhares é Cristo, meu bom Mestre,</verso>
+      <verso>Ele é a luz do mundo, a estrela da manhã!</verso>
+      <verso>É o Rei da glória, e, em meu coração,</verso>
+      <verso>Contente vou cantando a divinal canção!</verso>
+      <coro>
+        <verso>Cantarei em meu coração, esta linda melodia,</verso>
+        <verso>Pois eu tenho em meu coração gozo, paz e alegria.</verso>
+        <verso>Cantarei em meu coração, cantarei, sim, noite e dia.</verso>
+        <verso>Aleluia! Aleluia! Feliz sempre cantarei.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo libertou-me dos males do pecado,</verso>
+      <verso>E agora alegre canto, pois para o céu irei.</verso>
+      <verso>Cristo resgatou-me, ele é o meu Salvador;</verso>
+      <verso>Dou toda glória a ele, meu Mestre e bom Senhor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="07">Testemunho</assunto>
+  <titulo_original>The Song of the Soul Set Free</titulo_original>
+  <metrica id="12_12_12_12_Coro">12.12.12.12.Coro</metrica>
+  <origem_letra id="SmithOJ" referencia="Smith, Oswald Jeffray">Oswald Jeffray Smith</origem_letra>
+  <origem_letra id="Anonimo" referencia="Anônimo">Anônimo</origem_letra>
+  <origem_musica id="AckleyAH" referencia="Ackley, Alfred Henry">Alfred Henry Ackley</origem_musica>
+  <primeiro_verso_original>Mais do que milhares é Cristo, meu bom Mestre</primeiro_verso_original>
+  <referencia_biblica id="51_001_027">Colossenses 1.27</referencia_biblica>
+</hino>
+

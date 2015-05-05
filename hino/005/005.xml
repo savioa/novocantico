@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino cifra=''>
+  <numero>005</numero>
+  <n>5</n>
+  <titulo>Trindade Adorada</titulo>
+  <texto>
+    <estrofe>
+      <cifra>G              D</cifra>
+      <verso>Glória seja ao Pai,</verso>
+      <cifra>D        A    D  G    D A D</cifra>
+      <verso>Ao Filho e ao Santo Espírito,</verso>
+      <cifra>D    G          D4 D</cifra>
+      <verso>Como era no princípio,</verso>
+      <cifra>D Am     D7   G</cifra>
+      <verso>É hoje e para sempre,</verso>
+      <cifra>G     Em C    G    D G</cifra>
+      <verso>Eternamente! Amém! Amém!</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="02">Deus Trino</assunto>
+  <titulo_original>Gloria Patri</titulo_original>
+  <metrica id='Irregular'>Irregular</metrica>
+  <origem_letra id="DoxologiaLatina" referencia="Doxologia latina" ano="sec. II">Doxologia latina</origem_letra>
+  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da">João Gomes da Rocha</origem_letra>
+  <origem_musica id="MeinekeC" referencia="Meineke, Charles">Charles Meineke</origem_musica>
+  <primeiro_verso_original>Glory be to the Father</primeiro_verso_original>
+  <referencia_biblica id="45_011_036">Romanos 11.36</referencia_biblica>
+</hino>

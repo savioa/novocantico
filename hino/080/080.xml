@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>080</numero>
+  <n>80</n>
+  <titulo>O amor de Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cantarei o imenso amor</verso>
+      <verso>Do Senhor - amor sem fim! -</verso>
+      <verso>De Jesus que aqui desceu</verso>
+      <verso>E morreu na cruz por mim.</verso>
+      <coro>
+        <verso>Falarei do grande amor</verso>
+        <verso>Com louvor e gratidão!</verso>
+        <verso>Servirei a meu Jesus,</verso>
+        <verso>Que na cruz me deu perdão.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Antes mesmo de eu orar</verso>
+      <verso>Ou chorar minha aflição,</verso>
+      <verso>Meu Jesus por mim chorou</verso>
+      <verso>E implorou, na cruz, perdão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ninguém pode calcular</verso>
+      <verso>Nem sondar tão grande amor,</verso>
+      <verso>Que me faz limpo e feliz,</verso>
+      <verso>Do Juiz sem ter pavor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não mereço tal favor,</verso>
+      <verso>Mas Jesus me soube amar;</verso>
+      <verso>Quero, pois, com devoção,</verso>
+      <verso>Meu amor lhe dedicar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="02">Perdão</assunto>
+  <titulo_original>Arfon</titulo_original>
+  <metrica id="7_7_7_7_D">7.7.7.7.D</metrica>
+  <origem_letra id="AlmeidaA" referencia="Almeida, Antonio">Antonio Almeida</origem_letra>
+  <origem_musica id="MelodiaGalesa" referencia="Melodia galesa">Melodia galesa</origem_musica>
+</hino>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>292</numero>
+  <titulo>A vinda do Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Como foi para o céu, Jesus Cristo há de vir</verso>
+      <verso>Quando o som da trombeta ecoar!</verso>
+      <verso>Quando a voz do arcanjo celeste se ouvir,</verso>
+      <verso>Eu irei com Jesus me encontrar.</verso>
+      <coro>
+        <verso>Oh! Que dia glorioso esse dia há de ser,</verso>
+        <verso voz="Soprano">Quando o som da trombeta ecoar!</verso>
+        <verso voz="Outros">Quando o som da trombeta ecoar! Ecoar!</verso>
+        <verso>Quando Cristo, nas nuvens, tiver de descer</verso>
+        <verso voz="Sopr. e Baixo">E, então, triunfante reinar!</verso>
+        <verso voz="Contr. e Tenor">E, então, triunfante reinar! Sim reinar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Nesse dia de glória, o meu corpo mortal</verso>
+      <verso>Semelhante ao de Cristo há de ser!</verso>
+      <verso>E já livre da morte, e já livre do mal,</verso>
+      <verso>A vitória de Cristo hei de ver.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eu aqui, pela cruz, para o mundo morri,</verso>
+      <verso>Muita dor ’inda aqui sofrerei;</verso>
+      <verso>Minha vida com Cristo em meu Deus escondi,</verso>
+      <verso>E com Cristo eu, enfim, reinarei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem Jesus, ó Senhor, vem depressa reinar!</verso>
+      <verso>Vem a paz e a justiça trazer!</verso>
+      <verso>Criação, povo teu, tudo almeja o raiar</verso>
+      <verso>Desse dia de glória e poder.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Este império do mal vem, Senhor, destruir!</verso>
+      <verso>Rei celeste, vem presto reinar.</verso>
+      <verso>Vem, ó sol da justiça, no mundo luzir.</verso>
+      <verso>Ó meu Rei, vem meu pranto estancar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <titulo_original>Stars in my crown</titulo_original>
+  <metrica id="12_9_12_9_Coro">12.9.12.9.Coro</metrica>
+  <origem_letra id="GueirosJ" referencia="Gueiros, Jerônimo">Jerônimo Gueiros</origem_letra>
+  <origem_musica id="SweneyJR" referencia="Sweney, John Robson" ano="1897">John Robson Sweney</origem_musica>
+  <primeiro_verso_original>Como foi para o céu, Jesus Cristo há de vir</primeiro_verso_original>
+  <referencia_biblica id="40_024_030">Mateus 24.30</referencia_biblica>
+</hino>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>084</numero>
+  <n>84</n>
+  <titulo>Santo Espírito</titulo>
+  <texto>
+    <estrofe>
+      <verso>Santo Espírito de amor,</verso>
+      <verso>Cobre-me com teu poder!</verso>
+      <verso>Purifica-me, Senhor,</verso>
+      <verso>Quero, ó Deus, mais santo ser!</verso>
+      <coro>
+        <verso>Santo Espírito de Deus,</verso>
+        <verso>Dá-me graça em teu poder!</verso>
+        <verso>De ti procede todo o bem,</verso>
+        <verso>Faze-me mais santo ser!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Tu atendes, ó Senhor,</verso>
+      <verso>Quem te implora em contrição.</verso>
+      <verso>Com tua graça e teu favor,</verso>
+      <verso>Guia-me na retidão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Todo o meu ser não considero meu;</verso>
+      <verso>Quero gastá-lo no serviço teu.</verso>
+      <verso>Minhas paixões tu podes dominar,</verso>
+      <verso>Pois tu, Senhor, vieste em mim morar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eu confio em ti, Senhor,</verso>
+      <verso>Meu viver vem transformar!</verso>
+      <verso>Quero, pois, com gratidão</verso>
+      <verso>Minha vida consagrar! Amém.</verso>
+    </estrofe>    
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="01">Espírito Instruidor</assunto>
+  <titulo_original>Holy Spirit, be my guide</titulo_original>
+  <metrica id='7_7_7_7_Coro'>7.7.7.7 Coro</metrica>
+  <origem_letra id="CopeM" referencia="Cope, Mildred" ano="1924">Mildred Cope</origem_letra>
+  <origem_letra id="BarrosMC" referencia="Barros, Manuela C.">Manuela C. Barros</origem_letra>
+  <origem_musica id="CopeM" referencia="Cope, Mildred" ano="1924">Mildred Cope</origem_musica>
+  <primeiro_verso_original>Holy Spirit, my heart yearns for Thee</primeiro_verso_original>
+  <referencia_biblica id="44_001_008">Atos 1.8</referencia_biblica>
+</hino>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>254</numero>
+  <titulo>Sossegai!</titulo>
+  <texto>
+    <estrofe>
+      <verso>Mestre, o mar se revolta</verso>
+      <verso>E as ondas nos dão pavor!</verso>
+      <verso>O céu se reveste de trevas,</verso>
+      <verso>Não temos um Salvador!</verso>
+      <verso>Não se te dá que morramos?</verso>
+      <verso>Podes assim dormir?</verso>
+      <verso>Se a cada momento nos vemos</verso>
+      <verso>Já prestes a submergir?</verso>
+      <coro>
+        <verso>“As ondas atendem ao meu mandar:</verso>
+        <verso voz="Mulheres">Sossegai!</verso>
+        <verso voz="Homens">Sossegai! Sossegai!</verso>
+        <verso>Seja o encapelado mar,</verso>
+        <verso>A ira dos, homens o gênio do mal;</verso>
+        <verso>Tais águas não podem a nau tragar,</verso>
+        <verso>Que leva o Senhor, Rei dos céus e mar!</verso>
+        <verso>Pois todos ouvem o meu mandar:</verso>
+        <verso>Sossegai! Sossegai!</verso>
+        <verso>Convosco estou para vos salvar;</verso>
+        <verso>Sossegai!”</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Mestre, tão grande tristeza</verso>
+      <verso>Me quer hoje consumir!</verso>
+      <verso>Na dor que perturba minha alma</verso>
+      <verso>Te imploro: “Vem me acudir!”</verso>
+      <verso>De ondas do mal que me encobrem,</verso>
+      <verso>Quem me virá valer?</verso>
+      <verso>Não tardes, não tardes, bom Mestre,</verso>
+      <verso>Estou quase a perecer!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mestre chegou a bonança;</verso>
+      <verso>Em paz vejo o céu e o mar!</verso>
+      <verso>O meu coração goza calma</verso>
+      <verso>Que não poderá findar.</verso>
+      <verso>Firme, ao teu lado, ó Mestre,</verso>
+      <verso>Dono da terra e céu,</verso>
+      <verso>Eu hei de chegar, bem seguro,</verso>
+      <verso>Ao porto, destino meu.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <titulo_original>Peace, be still!</titulo_original>
+  <metrica id="8_7_9_7_8_6_10_7_Coro">8.7.9.7.8.6.10.7.Coro</metrica>
+  <origem_letra id="BakerMA" referencia="Baker, Mary Ann" ano="1874">Mary Ann Baker</origem_letra>
+  <origem_letra id="EntzmingerWE" referencia="Entzminger, William Edwin" ano="1903">William Edwin Entzminger</origem_letra>
+  <origem_musica id="PalmerHR" referencia="Palmer, Horatio Richmond" ano="1874">Horatio Richmond Palmer</origem_musica>
+  <primeiro_verso_original>Master, the tempest is raging</primeiro_verso_original>
+  <referencia_biblica id="41_040_041">Marcos 40.41</referencia_biblica>
+</hino>
+

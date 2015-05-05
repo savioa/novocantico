@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>226</numero>
+  <titulo>A história de Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Conta-me a história de Cristo,</verso>
+      <verso>Grava-a no meu coração!</verso>
+      <verso>Conta-me a história inaudita</verso>
+      <verso>De graça, paz e perdão.</verso>
+      <verso>Conta como ele, encarnando,</verso>
+      <verso>Veio no mundo morar;</verso>
+      <verso>Aos pecadores indignos,</verso>
+      <verso>De Deus o amor revelar.</verso>
+      <verso>Aos pecadores indignos,</verso>
+      <verso>De Deus o amor revelar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Conta como ele, bondoso,</verso>
+      <verso>Nunca a ninguém rejeitou!</verso>
+      <verso>Como, de mãos estendidas,</verso>
+      <verso>Todos a si convidou!</verso>
+      <verso>Como não pode o bom Mestre</verso>
+      <verso>Seja a quem for, rejeitar,</verso>
+      <verso>Se, convencido e contrito,</verso>
+      <verso>O seu convite aceitar!</verso>
+      <verso>Se, convencido e contrito,</verso>
+      <verso>O seu convite aceitar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Conta-me quando, no monte,</verso>
+      <verso>Sobre a cidade chorou,</verso>
+      <verso>Pois, orgulhosa e rebelde,</verso>
+      <verso>O seu amor rejeitou.</verso>
+      <verso>Conta como ele ainda chora</verso>
+      <verso>Sobre os que seguem o mal</verso>
+      <verso>E, endurecidos, resistem</verso>
+      <verso>Ao seu amor divinal.</verso>
+      <verso>E, endurecidos, resistem</verso>
+      <verso>Ao seu amor divinal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Conta-me as duras afrontas</verso>
+      <verso>Que mansamente sofreu!</verso>
+      <verso>Como na cruz, levantado,</verso>
+      <verso>Ele por ímpios morreu!</verso>
+      <verso>Dá-me o viver na certeza</verso>
+      <verso>De que foi mesmo por mim,</verso>
+      <verso>Que seu amor inefável</verso>
+      <verso>Não tem mudança nem fim!</verso>
+      <verso>Que seu amor inefável</verso>
+      <verso>Não tem mudança nem fim!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua vida</secao>
+  <assunto id="01">Advento</assunto>
+  <titulo_original>Tell me the story</titulo_original>
+  <metrica id='8_7_8_7_D__8_7_'>8.7.8.7.D.[8.7]</metrica>
+  <origem_letra id="CrosbyFJ" referencia="Crosby, Fanny Jane">Fanny Jane Crosby</origem_letra>
+  <origem_letra id="WrightHM" referencia="Wright, Henry Maxwell" ano="1910">Henry Maxwell Wright</origem_letra>
+  <origem_musica id="SankeyID" referencia="Sankey, Ira David">Ira David Sankey</origem_musica>
+  <primeiro_verso_original>Tell me the story of Jesus</primeiro_verso_original>
+  <referencia_biblica id="54_001_015">1 Timóteo 1.15</referencia_biblica>
+</hino>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>234</numero>
+  <titulo>Quem é o pequeno a repousar</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quem é o pequeno a repousar</verso>
+      <verso>Nos braços de Maria,</verso>
+      <verso>A quem os anjos vêm cantar</verso>
+      <verso>Os hinos de alegria?</verso>
+      <coro>
+        <verso>É este Jesus o Rei</verso>
+        <verso>Que anuncia a paz a quem Deus quer bem.</verso>
+        <verso>Da virgem eleita é filho,</verso>
+        <verso>Jesus, que nasceu em Belém</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Por que tão pobre fora, então,</verso>
+      <verso>A sua estrebaria?</verso>
+      <verso>É que ao pobre pecador</verso>
+      <verso>O Verbo a paz traria!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Trazei a Ele o coração,</verso>
+      <verso>Prostrai-vos reverentes,</verso>
+      <verso>Aos pés do Rei, que a salvação</verso>
+      <verso>Nos trouxe eternamente!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <titulo_original>Greensleeves</titulo_original>
+  <metrica id="8_7_8_7_Coro">8.7.8.7.Coro</metrica>
+  <origem_letra id="DixWC" referencia="Dix, William Chatterton">William Chatterton Dix</origem_letra>
+  <origem_letra id="CostaJ" referencia="Costa, J." ano="1960">J. Costa</origem_letra>
+  <origem_musica id="MelodiaInglesa" referencia="Melodia inglesa">Melodia inglesa</origem_musica>
+  <primeiro_verso_original>What Child is this who, laid to rest</primeiro_verso_original>
+  <referencia_biblica id="23_009_006">Isaías 9.6</referencia_biblica>
+</hino>
+

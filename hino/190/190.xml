@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>190</numero>
+  <n>190</n>
+  <titulo>Maior que a dor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Se amarga for aqui a vida,</verso>
+      <verso>Irmãos, volvei o vosso olhar</verso>
+      <verso>A quem na cruz infame, erguida,</verso>
+      <verso>Por vós sofreu sem murmurar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A dor assola o mundo inteiro,</verso>
+      <verso>Quem pode alegre sempre andar?</verso>
+      <verso>Na vida tudo é passageiro:</verso>
+      <verso>O sofrimento, o bem-estar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Porém, o verdadeiro gozo,</verso>
+      <verso>No céu, Jesus irá vos dar,</verso>
+      <verso>Pois ele diz: “No lar formoso</verso>
+      <verso>Vou preparar-vos um lugar.”</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <titulo_original>Amargura</titulo_original>
+  <metrica id="9_8_9_8">9.8.9.8</metrica>
+  <origem_letra id="RussoV" referencia="Russo, Vicente" ano="1957">Vicente Russo</origem_letra>
+  <origem_musica id="RussoV" referencia="Russo, Vicente" ano="1957">Vicente Russo</origem_musica>
+  <origem_musica id="FaustiniJW" referencia="Faustini, João Wilson" ano="1970">João Wilson Faustini</origem_musica>
+  <primeiro_verso_original>Se amarga for aqui a vida</primeiro_verso_original>
+  <referencia_biblica id="45_008_018">Romanos 8.18</referencia_biblica>
+</hino>

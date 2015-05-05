@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>225</numero>
+  <titulo>Dedicação pessoal</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis-me, ó Salvador, aqui!</verso>
+      <verso>Corpo e alma oferto a ti!</verso>
+      <verso>Servo inútil, sem valor,</verso>
+      <verso>Mas pertenço a meu Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Fraco em obra e no pensar;</verso>
+      <verso>Mui propenso a tropeçar;</verso>
+      <verso>Salvo estou por teu amor</verso>
+      <verso>E me voto a ti, Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Subjugado em todo o ser,</verso>
+      <verso>Me submeto ao teu poder!</verso>
+      <verso>Grande é o preço do perdão,</verso>
+      <verso>Dá-me igual consagração!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eu, remido pecador,</verso>
+      <verso>Me dedico ao Redentor.</verso>
+      <verso>Teu é este coração,</verso>
+      <verso>Teu em plena sujeição! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="05">Consagração</secao>
+  <assunto id="02">Dedicação</assunto>
+  <titulo_original>Aletta</titulo_original>
+  <metrica id='7_7_7_7'>7.7.7.7</metrica>
+  <origem_letra id="KalleySP" referencia="Kalley, Sara Poulton" ano="1874">Sara Poulton Kalley</origem_letra>
+  <origem_musica id="BradburyWB" referencia="Bradbury, William Batchelder">William Batchelder Bradbury</origem_musica>
+  <origem_musica id="ZimmermannA" referencia="Zimmermann, Alfonso" ano="1961">Alfonso Zimmermann</origem_musica>
+  <primeiro_verso_original>Eis-me, ó Salvador, aqui</primeiro_verso_original>
+  <referencia_biblica id="47_005_015">2 Coríntios 5.15</referencia_biblica>
+</hino>

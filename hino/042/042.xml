@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>042</numero>
+  <n>42</n>
+  <titulo>O grande amor de Deus</titulo>
+  <texto>
+    <estrofe>
+      <verso>A Deus demos glória por seu grande amor,</verso>
+      <verso>O Filho bendito por nós todos deu</verso>
+      <verso>E graça concede ao mais vil pecador,</verso>
+      <verso>Abrindo-lhe a porta de entrada no céu.</verso>
+      <coro>
+        <verso>Exultai! Exultai! Vinde todos louvar</verso>
+        <verso>A Jesus, Salvador, a Jesus, Redentor!</verso>
+        <verso>A Deus demos glória, porquanto do céu</verso>
+        <verso>Seu Filho bendito por nós todos deu!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Graça real! Foi assim que Jesus,</verso>
+      <verso>Morrendo, seu sangue por nós derramou.</verso>
+      <verso>Herança nos céus, com os santos em luz,</verso>
+      <verso>Legou-nos aquele que o preço pagou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tal prova de amor nos persuade a confiar</verso>
+      <verso>Nos merecimentos do Filho de Deus!</verso>
+      <verso>E quem, a Jesus, pela fé se entregar,</verso>
+      <verso>Vai vê-lo na glória eterna dos céus.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="09">Deus Salvador</assunto>
+  <titulo_original>To God be the glory</titulo_original>
+  <metrica id="11_11_11_11_Coro">11.11.11.11.Coro</metrica>
+  <origem_letra id="CrosbyFJ" referencia="Crosby, Fanny Jane">Fanny Jane Crosby</origem_letra>
+  <origem_letra id="JonesJ" referencia="Jones, Joseph" ano="1887">Joseph Jones</origem_letra>
+  <origem_musica id="DoaneWH" referencia="Doane, William Howard">William Howard Doane</origem_musica>
+  <primeiro_verso_original>To God be the glory, great things He hath done</primeiro_verso_original>
+  <referencia_biblica id="19_126_003">Salmos 126.3</referencia_biblica>
+  <referencia_biblica id="45_010_009">Romanos 10.9</referencia_biblica>
+  <referencia_biblica id="49_002_004_005">Efésios 2.4,5</referencia_biblica>
+</hino>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>325</numero>
+  <titulo>Aspiração feminina</titulo>
+  <texto>
+    <estrofe>
+      <verso>A nós aqui reunidas,</verso>
+      <verso>Senhor, envia luz.</verso>
+      <verso>São tuas nossas vidas,</verso>
+      <verso>Ganhaste-as sobre a cruz.</verso>
+      <verso>É vão qualquer trabalho</verso>
+      <verso>Sem tua aprovação!</verso>
+      <verso>O nosso esforço é falho</verso>
+      <verso>Se não nos dás a mão.</verso>
+      <coro>
+        <verso>Nós crentes redimidas,</verso>
+        <verso>Depomos nosso lar</verso>
+        <verso>E as nossas próprias vidas</verso>
+        <verso>Perante o teu altar.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Se a nossa fé se abala</verso>
+      <verso>Em faces às tentações,</verso>
+      <verso>Levanta a voz e fala</verso>
+      <verso>Aos nossos corações.</verso>
+      <verso>A experiência viva</verso>
+      <verso>Do teu fiel amor</verso>
+      <verso>O nosso ardor ativa</verso>
+      <verso>E inspira em nós fervor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Esposas, mães piedosas,</verso>
+      <verso>Queremos ser, Senhor,</verso>
+      <verso>Fiéis e carinhosas,</verso>
+      <verso>Enchendo o lar de amor.</verso>
+      <verso>Que paz e harmonia</verso>
+      <verso>Dominem nosso lar</verso>
+      <verso>E em tua companhia</verso>
+      <verso>Possamos sempre andar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Escola de piedade</verso>
+      <verso>Que eleva a Igreja a Ti</verso>
+      <verso>Seja esta sociedade</verso>
+      <verso>Ao teu serviço aqui.</verso>
+      <verso>E o mundo, despertado,</verso>
+      <verso>Contemplará em nós</verso>
+      <verso>Rebanho santo e amado,</verso>
+      <verso>Atento à tua voz. Amém</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="04">Sociedade Auxiliadora Feminina</assunto>
+  <titulo_original>Hankey</titulo_original>
+  <metrica id="7_6_7_6_D_Coro">7.6.7.6.D.Coro</metrica>
+  <origem_letra id="SalumIN" referencia="Salum, Isaac Nicolau" ano="1940">Isaac Nicolau Salum</origem_letra>
+  <origem_musica id="FischerWG" referencia="Fischer, William Gustavus" ano="1869">William Gustavus Fischer</origem_musica>
+  <primeiro_verso_original>A nós aqui reunidas</primeiro_verso_original>
+  <referencia_biblica id="54_004_010">1 Timóteo</referencia_biblica>
+</hino>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>071</numero>
+  <n>71</n>
+  <titulo>Perdão</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sim, sofrimento te causei, ó Deus!</verso>
+      <verso>E ao meu exemplo o fraco tropeçou,</verso>
+      <verso>E eu não andei nos bons caminhos teus.</verso>
+      <verso>Perdão, Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, vão e fútil foi o meu falar</verso>
+      <verso>E amor a meu irmão não demonstrei;</verso>
+      <verso>Ao sofredor eu não quis ajudar.</verso>
+      <verso>Perdão, Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, negligente foi o meu viver,</verso>
+      <verso>Sem me dispor a pelejar por ti,</verso>
+      <verso>E firme em teu trabalho eu não quis ser.</verso>
+      <verso>Perdão, Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Escuta, ó Deus, a minha oração</verso>
+      <verso>E vem livrar-me do pecado vil.</verso>
+      <verso>Renova este pobre coração!</verso>
+      <verso>Amém, Senhor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <titulo_original>Camacuá</titulo_original>
+  <metrica id="10_10_10_4">10.10.10.4</metrica>
+  <origem_letra id="BattersbyCM" referencia="Battersby, C. M." ano="1913">C. M. Battersby</origem_letra>
+  <origem_letra id="CantoniH" referencia="Cantoni, Humberto" ano="1966">Humberto Cantoni</origem_letra>
+  <origem_letra id="CostaJS" referencia="Costa, Joaquim Silvério" ano="1987">Joaquim Silvério Costa</origem_letra>
+  <origem_musica id="SosaPD" referencia="Sosa, Pablo D." ano="1959">Pablo D. Sosa</origem_musica>
+  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
+  <primeiro_verso_original>If I have wounded any soul today</primeiro_verso_original>
+  <referencia_biblica id="42_018_003">Lucas 18.3</referencia_biblica>
+</hino>

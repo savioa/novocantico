@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>148</numero>
+  <n>148</n>
+  <titulo>Oração noturna</titulo>
+  <texto>
+    <estrofe>
+      <verso>Finda-se este dia que meu Pai me deu,</verso>
+      <verso>Sombras vespertinas cobrem já o céu.</verso>
+      <verso>Ó Jesus bendito, se comigo estás,</verso>
+      <verso>Eu não temo a noite, vou dormir em paz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com pecados hoje, eu te entristeci,</verso>
+      <verso>Mas perdão te peço por amor de ti.</verso>
+      <verso>Sou pequeno e frágil, livra-me do mal!</verso>
+      <verso>Que em ti eu tenha proteção final.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Guarda o marinheiro no violento mar,</verso>
+      <verso>E ao que sofre dores queiras confortar.</verso>
+      <verso>Ao tentado estende tua mão, Senhor!</verso>
+      <verso>Manda ao triste, aflito, o Consolador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pelos pais e amigos, pela santa Lei,</verso>
+      <verso>Pelo amor divino, graças te darei!</verso>
+      <verso>Ó Jesus, aceita minha petição,</verso>
+      <verso>E, seguro durmo sem perturbação Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Lyndhurst</titulo_original>
+  <metrica id="6_5_6_5_D">6.5.6.5.D</metrica>
+  <origem_letra id="BaringGouldS" referencia="Baring-Gould, Sabine" ano="1865">Sabine Baring-Gould</origem_letra>
+  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da" ano="1898">João Gomes da Rocha</origem_letra>
+  <origem_musica id="ChurchPraiseColecao" referencia="“Church Praise” (Coleção)" ano="1883">“Church Praise” (Coleção)</origem_musica>
+  <origem_musica id="GeorgeHL" referencia="George H. Loud">George H. Loud</origem_musica>
+  <primeiro_verso_original>Now the day is over</primeiro_verso_original>
+</hino>
+
