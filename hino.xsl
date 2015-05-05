@@ -21,11 +21,11 @@
 
 	<div id='menu'>
 		<ul>
-			<li><a href='indiceAssunto.html'>Índice</a></li>
-			<li><a href='artigos.html'>Artigos</a></li>
-			<li><a href='sobre.html'>Sobre</a></li>
-			<li><a href='contato.html'>Contato</a></li>
-			<li><a href='hnc_v001.epub'>E-book (ePub)</a></li>
+			<li><a href='../../indiceAssunto.html'>Índice</a></li>
+			<li><a href='../../artigos.html'>Artigos</a></li>
+			<li><a href='../../sobre.html'>Sobre</a></li>
+			<li><a href='../../contato.html'>Contato</a></li>
+			<li><a href='../../hnc_v001.epub'>E-book (ePub)</a></li>
 		</ul>
 
 		<form action='http://www.novocantico.com.br/busca.php' id='cse-search-box'>
