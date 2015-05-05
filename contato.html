@@ -36,8 +36,10 @@
   <div id='hino'>
     <form method='POST' action='http://formspree.io/administrador@novocantico.com.br'>
       <fieldset>
+        <input type="hidden" name="_subject" value="Contato - Novo Cântico" />
+        <input type="hidden" name="_next" value="http://savioa.github.io/novocantico/" />
         <label for='nome'>Nome</label>
-        <input id='nome' type='text' name='name' size='30' />
+        <input id='nome' type='text' name='nome' size='30' />
         <br />
         <label for='email'>E-mail</label>
         <input id='email' type='text' name='_replyto' size='30' />
