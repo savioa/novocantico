@@ -8,9 +8,9 @@
     <title>54 &mdash; A chegada do Messias - Novo Cântico</title>
 
     <!-- Bootstrap -->
-    <link href="css/ubootstrap.min.css" rel="stylesheet">
+    <link href="css/abootstrap.min.css" rel="stylesheet">
     <link href="nc.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -22,12 +22,62 @@
     <div class="container">
         <div class="bs-docs-grid">
             <div class="row show-grid">
+                <div class="col-md-12">
+                    <nav class="navbar navbar-inverse">
+                        <div class="container-fluid">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="#">Novo Cântico</a>
+                            </div>
+
+                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                                <ul class="nav navbar-nav">
+                                    <li class="active">
+                                        <a href="#">
+                                            Link
+                                            <span class="sr-only">(current)</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Link</a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                                            Índices
+                                            <span class="caret"></span>
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li>
+                                                <a href="#">Assunto</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Métrica</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <form class="navbar-form navbar-right" role="search">
+                                    <div class="form-group"> <i class="fa fa-search fa-inverse fa-lg"></i>
+                                        <input type="text" class="form-control typeahead" placeholder="Número/Título do Hino"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div class="row show-grid">
                 <div class="col-md-8">
                     <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h3 class="panel-title" id="panel-title">54 &mdash; A chegada do Messias</h3>
-                        </div>
+                        <div class="panel-heading">54 &mdash; A chegada do Messias</div>
                         <div class="panel-body">
+                            <!-- Button trigger modal -->
+                            <a class="btn btn-default hidden-xs hidden-sm" href="#" role="button" data-toggle="modal" data-target="#myModal">Mostrar partitura</a>
+                            <a class="btn btn-default hidden-lg hidden-md" href="055.pdf" role="button">Mostrar partitura</a>
                             <ul id="texto" class="list-unstyled">
                                 <li class="estrofe">
                                     <ul class="list-unstyled">
@@ -68,27 +118,56 @@
                                     </ul>
                                 </li>
                             </ul>
+                            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <object data="055.pdf" type="application/pdf" width="100%" height="100%"></object>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Música</div>
+                        <div class="panel-heading"> <i class="fa fa-info-circle fa-lg"></i>
+                            Informação Adicional
+                        </div>
                         <div class="panel-body">
                             <dl>
                                 <dt>Origem da Letra</dt>
-                                <dd>Horatius Bonar</dd>
-                                <dd>Sarah Poulton Kalley (1877)</dd>
+                                <dd>
+                                    <a href="">Horatius Bonar</a>
+                                </dd>
+                                <dd>
+                                    <a href="">Sarah Poulton Kalley</a>
+                                    (1877)
+                                </dd>
                                 <dt>Origem da Música</dt>
-                                <dd>Philip Paul Bliss</dd>
+                                <dd>
+                                    <a href="">Philip Paul Bliss</a>
+                                </dd>
                                 <dt>Referência Bíblica</dt>
-                                <dd>Isaías 25.9</dd>
+                                <dd>
+                                    <a href="">Isaías 25.9</a>
+                                </dd>
                                 <dt>Título Original</dt>
-                                <dd>The New Song</dd>
+                                <dd>
+                                    <a href="">The New Song</a>
+                                </dd>
                                 <dt>1º Verso Original</dt>
-                                <dd>Rejoice and be glad, the Redeemer hath come</dd>
+                                <dd>
+                                    <a href="">Rejoice and be glad, the Redeemer hath come</a>
+                                </dd>
                                 <dt>Métrica</dt>
-                                <dd>5.6.7.5.Coro</dd>
+                                <dd>
+                                    <a href="">5.6.7.5.Coro</a>
+                                </dd>
                             </dl>
                         </div>
                     </div>
@@ -100,5 +179,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/typeahead.bundle.js"></script>
+    <script src="js/nc.js"></script>
 </body>
 </html>
