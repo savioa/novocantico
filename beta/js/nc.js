@@ -11,7 +11,7 @@ var astates = new Bloodhound({
   'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont',
   'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
 });
- 
+
 $('.typeahead').typeahead({
   hint: true,
   highlight: true,
@@ -20,4 +20,8 @@ $('.typeahead').typeahead({
 {
   name: 'states',
   source: astates
+});
+
+$('.mostrarPartitura').click(function(e) {
+    $('#myModal img').attr('src', $(this).attr('data-img-url'));
 });
