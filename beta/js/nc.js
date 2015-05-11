@@ -1,4 +1,4 @@
-var astates = new Bloodhound({
+/*var astates = new Bloodhound({
   datumTokenizer: Bloodhound.tokenizers.whitespace,
   queryTokenizer: Bloodhound.tokenizers.whitespace,
   local: ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
@@ -20,8 +20,23 @@ $('.typeahead').typeahead({
 {
   name: 'states',
   source: astates
-});
+});*/
 
 $('.mostrarPartitura').click(function(e) {
     $('#myModal img').attr('src', $(this).attr('data-img-url'));
+});
+
+var audioElement = document.getElementById('audio-todos');
+
+$('#botao-tocar').click(function(e) {
+  if (!audioElement.paused && !audioElement.ended && 0 < audioElement.currentTime)
+  {
+    audioElement.pause();
+    $(this).html("<i class='fa fa-play'></i> Tocar");
+  }
+  else
+  {
+    audioElement.play();
+    $(this).html("<i class='fa fa-pause'></i> Parar");
+  }
 });

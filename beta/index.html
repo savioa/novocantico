@@ -83,8 +83,9 @@
                                     </li>
                                 </ul>
                                 <form class="navbar-form navbar-right" role="search">
-                                    <div class="form-group"> <i class="fa fa-search fa-inverse fa-lg"></i>
-                                        <input type="text" class="form-control typeahead" placeholder="Número/Título do Hino"></div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Número/Título do Hino"></div>
+                                    <button type="submit" class="btn btn-default">Pesquisar</button>
                                 </form>
                             </div>
                         </div>
@@ -192,10 +193,11 @@
                                     <label>
                                         <input type="radio" name="voz" id="baixo" value="baixo">Baixo</label>
                                 </div>
-                                <a class="btn btn-default" href="#">
-                                    <i class="fa fa-play"></i>
-                                    Tocar
-                                </a>
+                                <a id="botao-tocar" class="btn btn-default" href="#"><i class="fa fa-play"></i> Tocar</a>
+                                <audio id="audio-todos">
+                                    <p>Your browser does not support the audio element.</p>
+                                    <source src="./tailtoddle_lo.mp3" />
+                                </audio>
                             </form>
                         </div>
                     </div>
@@ -243,7 +245,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/typeahead.bundle.js"></script>
     <script src="js/nc.js"></script>
 </body>
 </html>
