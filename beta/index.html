@@ -56,13 +56,34 @@
                                                 <a href="#">Assunto</a>
                                             </li>
                                             <li>
+                                                <a href="#">Primeiro Verso</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Coro</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Origem da Música</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Origem da Letra</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Referência Bíblica</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Título Original</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">Prim. Verso Original</a>
+                                            </li>
+                                            <li>
                                                 <a href="#">Métrica</a>
                                             </li>
                                         </ul>
                                     </li>
                                 </ul>
                                 <form class="navbar-form navbar-right" role="search">
-                                    <div class="form-group"><i class="fa fa-search fa-inverse fa-lg"></i>
+                                    <div class="form-group"> <i class="fa fa-search fa-inverse fa-lg"></i>
                                         <input type="text" class="form-control typeahead" placeholder="Número/Título do Hino"></div>
                                 </form>
                             </div>
@@ -148,10 +169,40 @@
                 </div>
                 <div class="col-md-4">
                     <div class="panel panel-default">
-                        <div class="panel-heading"> <i class="fa fa-info-circle fa-lg"></i>
-                            Informação Adicional
+                        <div class="panel-heading">Áudio</div>
+                        <div class="panel-body"> <i style="color: #d5d5d5;" class="fa fa-volume-up fa-5x pull-right"></i>
+                            <form>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="voz" id="todos" value="todos" checked="">Todos</label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="voz" id="soprano" value="soprano">Soprano</label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="voz" id="contralto" value="contralto">Contralto</label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="voz" id="tenor" value="tenor">Tenor</label>
+                                </div>
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="voz" id="baixo" value="baixo">Baixo</label>
+                                </div>
+                                <a class="btn btn-default" href="#">
+                                    <i class="fa fa-play"></i>
+                                    Tocar
+                                </a>
+                            </form>
                         </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading">Informação Adicional</div>
                         <div class="panel-body">
+                            <i style="color: #d5d5d5;" class="fa fa-info-circle fa-5x pull-right"></i>
                             <dl>
                                 <dt>Origem da Letra</dt>
                                 <dd>
@@ -188,6 +239,13 @@
             </div>
         </div>
     </div>
+    <footer class="footer">
+        <div class="container">
+            <p class="text-center">
+                Entoai-lhe novo cântico, tangei com arte e com júbilo. Salmo 33.3
+            </p>
+        </div>
+    </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
