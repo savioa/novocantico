@@ -32,7 +32,7 @@ $('#btn-controle-audio button').click(function(e) {
 if (!audioElement.paused && !audioElement.ended && 0 < audioElement.currentTime)
   {
     audioElement.pause();
-  $(this).html("<i class='fa fa-play'></i> " + $(this).text());
+    $(this).html("<i class='fa fa-play'></i> " + $(this).text());
   }
   else
   {
