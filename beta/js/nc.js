@@ -26,17 +26,23 @@ $('.mostrarPartitura').click(function(e) {
     $('#myModal img').attr('src', $(this).attr('data-img-url'));
 });
 
-var audioElement = document.getElementById('audio-todos');
+$('#btn-controle-audio button').click(function(e) {
+  var audioElement = document.getElementById($(this).attr("data-id-audio"));
 
-$('#botao-tocar').click(function(e) {
-  if (!audioElement.paused && !audioElement.ended && 0 < audioElement.currentTime)
+if (!audioElement.paused && !audioElement.ended && 0 < audioElement.currentTime)
   {
     audioElement.pause();
-    $(this).html("<i class='fa fa-play'></i> Tocar");
+  $(this).html("<i class='fa fa-play'></i> " + $(this).text());
   }
   else
   {
     audioElement.play();
-    $(this).html("<i class='fa fa-pause'></i> Parar");
+    $(this).html("<i class='fa fa-pause'></i> " + $(this).text());
   }
 });
+
+/*
+$('#botao-tocar').click(function(e) {
+  
+});
+*/
