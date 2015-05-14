@@ -8,7 +8,7 @@
     <title>54 &mdash; A chegada do Messias - Novo Cântico</title>
 
     <!-- Bootstrap -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/paper/bootstrap.min.css" rel="stylesheet">
+    <link href="css/abootstrap.min.css" rel="stylesheet">
     <link href="nc.css" rel="stylesheet">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -37,15 +37,6 @@
 
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
                                 <ul class="nav navbar-nav">
-                                    <li class="active">
-                                        <a href="#">
-                                            Link
-                                            <span class="sr-only">(current)</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Link</a>
-                                    </li>
                                     <li class="dropdown">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
                                             Índices
@@ -193,58 +184,73 @@
                                     <label>
                                         <input type="radio" name="voz" id="baixo" value="baixo">Baixo</label>
                                 </div>
-                                <a id="botao-tocar" class="btn btn-default" href="#"><i class="fa fa-play"></i> Tocar</a>
-                                <audio id="audio-todos">
-                                    <p>Your browser does not support the audio element.</p>
-                                    <source src="./tailtoddle_lo.mp3" />
-                                </audio>
-                            </form>
+                                <a id="botao-tocar" class="btn btn-default" href="#"> <i class="fa fa-play"></i>
+                                    Tocar
+                                </a>
+
+                                <div class="btn-group pull-right hidden-xs hidden-sm">
+                                    <button type="button" class="mostrarPartitura btn btn-default" data-toggle="modal" data-target="#myModal" data-img-url="055.gif">Mostrar partitura</button>
+                                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                        <span class="caret"></span>
+                                        <span class="sr-only">Acionar dropdown</span>
+                                    </button>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li>
+                                            <a href="055.pdf">Salvar partitura</a>
+                                        </li>
+                                    </ul>
+
+                                    <audio id="audio-todos">
+                                        <p>Your browser does not support the audio element.</p>
+                                        <source src="./tailtoddle_lo.mp3" />
+                                    </audio>
+                                </form>
+                            </div>
                         </div>
-                    </div>
-                    <div class="panel panel-default">
-                        <div class="panel-heading">Informação Adicional</div>
-                        <div class="panel-body">
-                            <i style="color: #d5d5d5;" class="fa fa-info-circle fa-5x pull-right"></i>
-                            <dl>
-                                <dt>Origem da Letra</dt>
-                                <dd>
-                                    <a href="">Horatius Bonar</a>
-                                </dd>
-                                <dd>
-                                    <a href="">Sarah Poulton Kalley</a>
-                                    (1877)
-                                </dd>
-                                <dt>Origem da Música</dt>
-                                <dd>
-                                    <a href="">Philip Paul Bliss</a>
-                                </dd>
-                                <dt>Referência Bíblica</dt>
-                                <dd>
-                                    <a href="">Isaías 25.9</a>
-                                </dd>
-                                <dt>Título Original</dt>
-                                <dd>
-                                    <a href="">The New Song</a>
-                                </dd>
-                                <dt>1º Verso Original</dt>
-                                <dd>
-                                    <a href="">Rejoice and be glad, the Redeemer hath come</a>
-                                </dd>
-                                <dt>Métrica</dt>
-                                <dd>
-                                    <a href="">5.6.7.5.Coro</a>
-                                </dd>
-                            </dl>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Informação Adicional</div>
+                            <div class="panel-body">
+                                <i style="color: #d5d5d5;" class="fa fa-info-circle fa-5x pull-right"></i>
+                                <dl>
+                                    <dt>Origem da Letra</dt>
+                                    <dd>
+                                        <a href="">Horatius Bonar</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="">Sarah Poulton Kalley</a>
+                                        (1877)
+                                    </dd>
+                                    <dt>Origem da Música</dt>
+                                    <dd>
+                                        <a href="">Philip Paul Bliss</a>
+                                    </dd>
+                                    <dt>Referência Bíblica</dt>
+                                    <dd>
+                                        <a href="">Isaías 25.9</a>
+                                    </dd>
+                                    <dt>Título Original</dt>
+                                    <dd>
+                                        <a href="">The New Song</a>
+                                    </dd>
+                                    <dt>1º Verso Original</dt>
+                                    <dd>
+                                        <a href="">Rejoice and be glad, the Redeemer hath come</a>
+                                    </dd>
+                                    <dt>Métrica</dt>
+                                    <dd>
+                                        <a href="">5.6.7.5.Coro</a>
+                                    </dd>
+                                </dl>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/nc.js"></script>
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="js/jquery-2.1.4.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/nc.js"></script>
 </body>
-</html>
+    </html>
