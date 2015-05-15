@@ -1,17 +1,18 @@
-.estrofe, .coro
+.estrofe
 {
     margin-bottom: 1.42857143em;
-}
-
-.estrofe:last-child
-{
-    margin-bottom: 0;
 }
 
 .coro
 {
     font-style: italic;
+    margin: 1.42857143em 0;
     margin-left: 1.42857143em;
+}
+
+.estrofe:last-child
+{
+    margin-bottom: 0;
 }
 
 dt
