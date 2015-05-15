@@ -187,18 +187,34 @@
                                 <i style="color: #d5d5d5;" class="fa fa-info-circle fa-5x pull-right"></i>
                                 <dl>
                                     <dt>Origem da Letra</dt>
-                                    <dd><a href="">Horatius Bonar</a></dd>
-                                    <dd><a href="">Sarah Poulton Kalley</a> (1877)</dd>
+                                    <xsl:for-each select='hino/origem_letra'>
+                                    <dd><a href='../../indiceOrigemLetra.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
+                                    </xsl:for-each>
+
                                     <dt>Origem da Música</dt>
-                                    <dd><a href="">Philip Paul Bliss</a></dd>
+                                    <xsl:for-each select='hino/origem_musica'>
+                                    <dd><a href='../../indiceOrigemMusica.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
+                                    </xsl:for-each>
+
                                     <dt>Referência Bíblica</dt>
-                                    <dd><a href="">Isaías 25.9</a></dd>
+                                    <xsl:for-each select='hino/referencia_biblica'>
+                                    <dd><a href='../../indiceReferenciaBiblica.html#{./@id}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+
                                     <dt>Título Original</dt>
-                                    <dd><a href="">The New Song</a></dd>
+                                    <xsl:for-each select='hino/titulo_original'>
+                                    <dd><a href='../../indiceTituloOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+
                                     <dt>1º Verso Original</dt>
-                                    <dd><a href="">Rejoice and be glad, the Redeemer hath come</a></dd>
+                                    <xsl:for-each select='hino/primeiro_verso_original'>
+                                    <dd><a href='../../indicePrimVersoOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+
                                     <dt>Métrica</dt>
-                                    <dd><a href="">5.6.7.5.Coro</a></dd>
+                                    <xsl:for-each select='hino/metrica'>
+                                    <dd><a href='../../indiceMetrica.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
                                 </dl>
                             </div>
                         </div>

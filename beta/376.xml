@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hino.xsl"?>
+<hino>
+  <numero>376</numero>
+  <n>376</n>
+  <titulo>Intercessão pela Pátria</titulo>
+  <texto>
+    <estrofe>
+      <verso>Divino Salvador,</verso>
+      <verso>Contempla com favor</verso>
+      <verso>Nosso País!</verso>
+      <verso>Dá-nos interna paz,</verso>
+      <verso>Governo bom, capaz,</verso>
+      <verso>Dita que satisfaz,</verso>
+      <verso>Sorte feliz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Confiamos só em ti,</verso>
+      <verso>Vem dominar aqui,</verso>
+      <verso>Ó Rei dos reis!</verso>
+      <verso>Dirige o Pátrio lar,</verso>
+      <verso>Ensina a governar</verso>
+      <verso>Conforme o teu mandar,</verso>
+      <verso>Por justas leis.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao presidente, ó Deus,</verso>
+      <verso>Inspira desde os céus</verso>
+      <verso>O teu temor!</verso>
+      <verso>Que possa bem cumprir</verso>
+      <verso>O seu mandato e ouvir,</verso>
+      <verso>De todo povo aqui,</verso>
+      <verso>Real louvor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A nossa Pátria tem</verso>
+      <verso>Sustento e todo bem</verso>
+      <verso>De ti Senhor!</verso>
+      <verso>Aos pobres dá comer,</verso>
+      <verso>Aos ricos faze ver</verso>
+      <verso>Como convém viver</verso>
+      <verso>Em mútuo amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Do crime e rebelião</verso>
+      <verso>Concede a proteção</verso>
+      <verso>Que é divinal.</verso>
+      <verso>Guardar-nos vem, Senhor,</verso>
+      <verso>De guerras e terror!</verso>
+      <verso>Sê nosso defensor,</verso>
+      <verso>Desvia o mal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Poder supremo tens!</verso>
+      <verso>Depara os altos bens</verso>
+      <verso>Da salvação!</verso>
+      <verso>Brilhe a benigna luz</verso>
+      <verso>Que o teu favor produz!</verso>
+      <verso>Reine o Senhor Jesus</verso>
+      <verso>Sobre a nação! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="04">Pátria</assunto>
+  <titulo_original>National Anthem</titulo_original>
+  <metrica id="6_6_4_6_6_4">6.6.4.6.6.4</metrica>
+  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1888">Sarah Poulton Kalley</origem_letra>
+  <origem_musica id="“ThesaurusMusicus”" referencia="“Thesaurus musicus”" ano="1740">“Thesaurus musicus”</origem_musica>
+  <primeiro_verso_original>God bless our native land</primeiro_verso_original>
+  <referencia_biblica id="54_002_001_003">1 Timóteo 2.1,3</referencia_biblica>
+</hino>
