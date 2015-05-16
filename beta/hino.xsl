@@ -44,15 +44,15 @@
                                         <li class="dropdown">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="indice-assunto.html">Assunto</a></li>
-                                                <li><a href="indice-primeiro-verso.html">Primeiro Verso</a></li>
-                                                <li><a href="indice-coro.html">Coro</a></li>
-                                                <li><a href="indice-origem-letra.html">Origem da Letra</a></li>
-                                                <li><a href="indice-origem-musica.html">Origem da Música</a></li>
-                                                <li><a href="indice-referencia-biblica.html">Referência Bíblica</a></li>
-                                                <li><a href="indice-titulo-original.html">Título Original</a></li>
-                                                <li><a href="indice-primeiro-verso-original.html">Prim. Verso Original</a></li>
-                                                <li><a href="indice-metrica.html">Métrica</a></li>
+                                                <li><a href="../../indice-assunto.html">Assunto</a></li>
+                                                <li><a href="../../indice-primeiro-verso.html">Primeiro Verso</a></li>
+                                                <li><a href="../../indice-coro.html">Coro</a></li>
+                                                <li><a href="../../indice-origem-letra.html">Origem da Letra</a></li>
+                                                <li><a href="../../indice-origem-musica.html">Origem da Música</a></li>
+                                                <li><a href="../../indice-referencia-biblica.html">Referência Bíblica</a></li>
+                                                <li><a href="../../indice-titulo-original.html">Título Original</a></li>
+                                                <li><a href="../../indice-primeiro-verso-original.html">Prim. Verso Original</a></li>
+                                                <li><a href="../../indice-metrica.html">Métrica</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -76,7 +76,7 @@
 
                             <div class="panel-body">
                                 <div class="btn-group pull-right hidden-xs hidden-sm">
-                                    <button type="button" class="mostrarPartitura btn btn-default" data-toggle="modal" data-target="#modal-partitura" data-img-url="{hino/numero}.gif">Mostrar partitura</button>
+                                    <button type="button" class="mostrar-partitura btn btn-default" data-toggle="modal" data-target="#modal-partitura" data-img-url="{hino/numero}">Mostrar partitura</button>
                                     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
                                         <span class="caret"></span>
                                         <span class="sr-only">Acionar menu de partitura</span>
@@ -115,7 +115,6 @@
                                     <div class="modal-dialog modal-lg">
                                         <div class="modal-content">
                                             <div class="modal-body">
-                                                <img src="#" class="img-responsive" />
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>

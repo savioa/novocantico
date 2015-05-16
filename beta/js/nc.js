@@ -22,15 +22,49 @@ $('.typeahead').typeahead({
   source: astates
 });*/
 
-$('.mostrarPartitura').click(function(e) {
-    $('#modal-partitura img').attr('src', $(this).attr('data-img-url'));
+/*$.get( "../../arquivo.txt", function( data ) {
+  alert( data );
+});*/
+
+String.prototype.fileExists = function() {
+  filename = this.trim();
+
+  alert(filename);
+
+  var response = jQuery.ajax({
+    url: filename,
+    type: 'GET',
+    async: false
+  }).status;
+
+  alert(response);
+
+  return (response != "200") ? false : true;
+}
+
+function adicionarPagina(numeroHino, numeroPagina) {
+  var url = numeroHino + "-" + numeroPagina + ".gif";
+
+  if (url.fileExists()) {
+    var pagina = $('<img src="' + url + '" class="img-responsive" />');
+    pagina.appendTo("#modal-partitura .modal-body");
+
+    numeroPagina += 1;
+    if (numeroPagina < 4) {
+      adicionarPagina(numeroHino, numeroPagina);
+    }
+  } else {
+    return;
+  }
+}
+
+$('.mostrar-partitura').click(function(e) {
+  adicionarPagina($(this).attr('data-img-url'), 1);
 });
 
-function toggleBtnControleAudio()
-{
+function toggleBtnControleAudio() {
   var btn = $('#btn-controle-audio');
-  if(btn.children('i').attr('class') == 'fa fa-play')
-  {
+  if(btn.children('i').attr('class') == 'fa fa-play') {
     btn.children('i').attr('class', 'fa fa-pause');
     btn.contents().last().replaceWith(" Interromper");
   } else {
