@@ -11,8 +11,8 @@
 
         <title><xsl:value-of select='hino/numero'/> — <xsl:value-of select='hino/titulo'/> — Novo Cântico</title>
 
-        <link href="css/abootstrap.min.css" rel="stylesheet" />
-        <link href="css/nc.css" rel="stylesheet" />
+        <link href="../../css/abootstrap.min.css" rel="stylesheet" />
+        <link href="../../css/nc.css" rel="stylesheet" />
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,15 +44,15 @@
                                         <li class="dropdown">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="#">Assunto</a></li>
-                                                <li><a href="#">Primeiro Verso</a></li>
-                                                <li><a href="#">Coro</a></li>
-                                                <li><a href="#">Origem da Música</a></li>
-                                                <li><a href="#">Origem da Letra</a></li>
-                                                <li><a href="#">Referência Bíblica</a></li>
-                                                <li><a href="#">Título Original</a></li>
-                                                <li><a href="#">Prim. Verso Original</a></li>
-                                                <li><a href="#">Métrica</a></li>
+                                                <li><a href="indice-assunto.html">Assunto</a></li>
+                                                <li><a href="indice-primeiro-verso.html">Primeiro Verso</a></li>
+                                                <li><a href="indice-coro.html">Coro</a></li>
+                                                <li><a href="indice-origem-letra.html">Origem da Letra</a></li>
+                                                <li><a href="indice-origem-musica.html">Origem da Música</a></li>
+                                                <li><a href="indice-referencia-biblica.html">Referência Bíblica</a></li>
+                                                <li><a href="indice-titulo-original.html">Título Original</a></li>
+                                                <li><a href="indice-primeiro-verso-original.html">Prim. Verso Original</a></li>
+                                                <li><a href="indice-metrica.html">Métrica</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -145,7 +145,7 @@
                                         <a id="btn-controle-audio" class="btn btn-default"><i class="fa fa-play"></i> Reproduzir</a>
                                         <a class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
                                             <span class="caret"></span>
-                                            <span class="sr-only">Acionar menu</span>
+                                            <span class="sr-only">Acionar menu de áudio</span>
                                         </a>
                                         <ul class="dropdown-menu" role="menu">
                                         <li><a href="audio-todos.mp3">Salvar</a></li>
@@ -188,32 +188,32 @@
                                 <dl>
                                     <dt>Origem da Letra</dt>
                                     <xsl:for-each select='hino/origem_letra'>
-                                    <dd><a href='../../indiceOrigemLetra.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
+                                    <dd><a href='../../indice-origem-letra.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
                                     </xsl:for-each>
 
                                     <dt>Origem da Música</dt>
                                     <xsl:for-each select='hino/origem_musica'>
-                                    <dd><a href='../../indiceOrigemMusica.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
+                                    <dd><a href='../../indice-origem-musica.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
                                     </xsl:for-each>
 
                                     <dt>Referência Bíblica</dt>
                                     <xsl:for-each select='hino/referencia_biblica'>
-                                    <dd><a href='../../indiceReferenciaBiblica.html#{./@id}'><xsl:value-of select='.'/></a></dd>
+                                    <dd><a href='../../indice-referencia-biblica.html#{./@id}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
 
                                     <dt>Título Original</dt>
                                     <xsl:for-each select='hino/titulo_original'>
-                                    <dd><a href='../../indiceTituloOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
+                                    <dd><a href='../../indice-titulo-original.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
 
                                     <dt>1º Verso Original</dt>
                                     <xsl:for-each select='hino/primeiro_verso_original'>
-                                    <dd><a href='../../indicePrimVersoOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
+                                    <dd><a href='../../indice-primeiro-verso-original.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
 
                                     <dt>Métrica</dt>
                                     <xsl:for-each select='hino/metrica'>
-                                    <dd><a href='../../indiceMetrica.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></dd>
+                                    <dd><a href='../../indice-metrica.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
                                 </dl>
                             </div>
@@ -223,9 +223,9 @@
                 </div>
             </div>
         </div>
-        <script src="js/jquery-2.1.4.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/nc.js"></script>
+        <script src="../../js/jquery-2.1.4.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+        <script src="../../js/nc.js"></script>
     </body>
 </html>
     </xsl:template>
