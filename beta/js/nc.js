@@ -29,15 +29,11 @@ $('.typeahead').typeahead({
 String.prototype.fileExists = function() {
   filename = this.trim();
 
-  alert(filename);
-
   var response = jQuery.ajax({
     url: filename,
     type: 'GET',
     async: false
   }).status;
-
-  alert(response);
 
   return (response != "200") ? false : true;
 }
