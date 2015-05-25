@@ -75,20 +75,7 @@
                             <div class="panel-heading"><xsl:value-of select='hino/numero'/> — <xsl:value-of select='hino/titulo'/></div>
 
                             <div class="panel-body">
-                                <div class="btn-group pull-right hidden-xs hidden-sm">
-                                    <button type="button" class="mostrar-partitura btn btn-default" data-toggle="modal" data-target="#modal-partitura" data-img-url="{hino/numero}">Mostrar partitura</button>
-                                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                                        <span class="caret"></span>
-                                        <span class="sr-only">Acionar menu de partitura</span>
-                                    </button>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li>
-                                            <a href="{hino/numero}.pdf">Salvar partitura</a>
-                                        </li>
-                                    </ul>
-                                </div>
-
-                                <a class="btn btn-default hidden-lg hidden-md pull-right" href="{hino/numero}.pdf" role="button">Mostrar partitura</a>
+                                <a class="btn btn-default pull-right" href="{hino/numero}.pdf" role="button">Mostrar partitura</a>
 
                                 <ul id='texto' class="list-unstyled">
                                     <xsl:for-each select='hino/texto/estrofe'>
@@ -110,18 +97,6 @@
                                         </li>
                                     </xsl:for-each>
                                 </ul>
-
-                                <div class="modal fade" id="modal-partitura" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                            </div>
-                                            <div class="modal-footer">
-                                                <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

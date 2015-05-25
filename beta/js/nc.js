@@ -54,10 +54,6 @@ function adicionarPagina(numeroHino, numeroPagina) {
   }
 }
 
-$('.mostrar-partitura').click(function(e) {
-  adicionarPagina($(this).attr('data-img-url'), 1);
-});
-
 function toggleBtnControleAudio() {
   var btn = $('#btn-controle-audio');
   if(btn.children('i').attr('class') == 'fa fa-play') {
