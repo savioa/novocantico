@@ -13,6 +13,8 @@
 
         <link href="../../css/abootstrap.min.css" rel="stylesheet" />
         <link href="../../css/nc.css" rel="stylesheet" />
+        <link href="../../tipuesearch/tipuesearch.css" rel="stylesheet" />
+
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -23,6 +25,9 @@
     </head>
 
     <body>
+<form action="../../busca.html">
+<input type="text" name="q" id="tipue_search_input" autocomplete="off" required="required" />
+</form>
         <div class="container">
             <div class="bs-docs-grid">
                 <div class="row show-grid">
@@ -200,6 +205,14 @@
         <script src="../../js/jquery-2.1.4.js"></script>
         <script src="../../js/bootstrap.min.js"></script>
         <script src="../../js/nc.js"></script>
+
+
+
+<script src="../../tipuesearch/tipuesearch_content.js"></script>
+<link href="../../tipuesearch/tipuesearch.css" rel="stylesheet" />
+<script src="../../tipuesearch/tipuesearch_set.js"></script>
+<script src="../../tipuesearch/tipuesearch.min.js"></script>
+
     </body>
 </html>
     </xsl:template>
