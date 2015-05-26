@@ -26,34 +26,6 @@ $('.typeahead').typeahead({
   alert( data );
 });*/
 
-String.prototype.fileExists = function() {
-  filename = this.trim();
-
-  var response = jQuery.ajax({
-    url: filename,
-    type: 'GET',
-    async: false
-  }).status;
-
-  return (response != "200") ? false : true;
-}
-
-function adicionarPagina(numeroHino, numeroPagina) {
-  var url = numeroHino + "-" + numeroPagina + ".gif";
-
-  if (url.fileExists()) {
-    var pagina = $('<img src="' + url + '" class="img-responsive" />');
-    pagina.appendTo("#modal-partitura .modal-body");
-
-    numeroPagina += 1;
-    if (numeroPagina < 4) {
-      adicionarPagina(numeroHino, numeroPagina);
-    }
-  } else {
-    return;
-  }
-}
-
 function toggleBtnControleAudio() {
   var btn = $('#btn-controle-audio');
   if(btn.children('i').attr('class') == 'fa fa-play') {

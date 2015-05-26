@@ -25,9 +25,6 @@
     </head>
 
     <body>
-<form action="../../busca.html">
-<input type="text" name="q" id="tipue_search_input" autocomplete="off" required="required" />
-</form>
         <div class="container">
             <div class="bs-docs-grid">
                 <div class="row show-grid">
@@ -62,11 +59,11 @@
                                         </li>
                                     </ul>
 
-                                    <form class="navbar-form navbar-right" role="search">
+                                    <form action="../../busca.html" class="navbar-form navbar-right" role="search">
                                         <div class="form-group">
-                                            <input type="text" class="form-control" placeholder="Número/Título do Hino" />
+                                            <input type="text" name="q" autocomplete="off" required="required" class="form-control" placeholder="Pesquisar por..." />
                                         </div>
-                                        <button type="submit" class="btn btn-default">Pesquisar</button>
+                                        <button type="submit" class="btn btn-default"><i class="fa fa-lg fa-search"></i></button>
                                     </form>
                                 </div>
                             </div>
@@ -111,7 +108,7 @@
                             <div class="panel-heading">Áudio</div>
 
                             <div class="panel-body">
-                                <i style="color: #d5d5d5;" class="fa fa-volume-up fa-5x pull-right"></i>
+                                <i style="color: #ddd;" class="fa fa-volume-up fa-5x pull-right"></i>
 
                                 <form id="controle-audio">
                                     <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-todos" value="audio-todos" checked="checked" /> Todos</label></div>
@@ -163,8 +160,11 @@
                             <div class="panel-heading">Informação Adicional</div>
 
                             <div class="panel-body">
-                                <i style="color: #d5d5d5;" class="fa fa-info-circle fa-5x pull-right"></i>
+                                <i style="color: #ddd;" class="fa fa-info-circle fa-5x pull-right"></i>
                                 <dl>
+                                    <dt>Assunto</dt>
+                                    <dd><a href='../../indice-assunto.html#{/hino/secao/@id}'><xsl:value-of select='hino/secao'/></a> &#8250; <a href='../../indice-assunto.html#{/hino/secao/@id}{/hino/assunto/@id}'><xsl:value-of select='hino/assunto'/></a></dd>
+
                                     <dt>Origem da Letra</dt>
                                     <xsl:for-each select='hino/origem_letra'>
                                     <dd><a href='../../indice-origem-letra.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
