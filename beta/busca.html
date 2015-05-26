@@ -22,20 +22,61 @@
 </head>
 <body>
 <form action="busca.html">
-<input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+    <input type="text" class="search-field" />
 </form>
-<div id="tipue_search_content"></div>
+
+<div class="search-results"></div>
+
         <script src="js/jquery-2.1.4.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/nc.js"></script>
-<script src="tipuesearch/tipuesearch_set.js"></script>
-<script src="tipuesearch/tipuesearch.min.js"></script>
+        <script src="js/lunr.min.js"></script>
 
 <script>
-$(document).ready(function() {
-     $('#tipue_search_input').tipuesearch({
-          'mode': 'live'
-     });
+jQuery(function($) {
+    var index = lunr(function(){
+        // boost increases the importance of words found in this field
+        this.field('title', {boost: 10});
+        this.field('abstract', {boost: 2});
+        this.field('content');
+        // the id
+        this.ref('href');
+    });
+
+    // index.add({
+    //     href: "376",
+    //     title: "376 The winter is coming",
+    //     abstract: "Game of Thrones",
+    //     // hacky way to strip html, you should do better than that ;)
+    //     content: "game of throne the winter is coming song"
+    // });
+
+    // index.add({
+    //     href: "54",
+    //     title: "54 Guerra dos Tronos",
+    //     abstract: "inverno chegando winter",
+    //     // hacky way to strip html, you should do better than that ;)
+    //     content: "guerra dos trones inverno chegando"
+    // });
+
+    // jQuery('.search-results').html("<pre>" + JSON.stringify(index.toJSON()) + "</pre>")
+
+    var indice = $.getJSON("indice.json");
+
+    indice.then(function(indice){
+        // create index
+        index = lunr.Index.load(indice)
+    });
+
+    $('.search-field').keyup(function() {
+        var query = $(this).val();
+        if(query === ''){
+            jQuery('.search-results').empty();
+        }
+        else {
+            var results = index.search(query);
+            alert(JSON.stringify(results));
+        }
+    }); 
 });
 </script>
 
