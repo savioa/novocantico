@@ -28,7 +28,7 @@
 			<li><a href='../../hnc_v001.epub'>E-book (ePub)</a></li>
 		</ul>
 
-		<form action='http://www.novocantico.com.br/busca.php' id='cse-search-box'>
+		<form action='http://www.novocantico.com.br/busca.html' id='cse-search-box'>
 			<fieldset>
 				<input type='text' name='q' id='busca' />
 				<input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
