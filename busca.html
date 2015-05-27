@@ -7,6 +7,29 @@
 </head>
 
 <body>
+<div id='cabecalho'>
+    <h1><a href='/'>Novo Cântico</a></h1>
+    <h2><a href='/'>Hinário Presbiteriano</a></h2>
+
+    <div id='menu'>
+    <ul>
+      <li><a href='indiceAssunto.html'>Índice</a></li>
+      <li><a href='artigos.html'>Artigos</a></li>
+      <li><a href='sobre.html'>Sobre</a></li>
+      <li><a href='contato.html'>Contato</a></li>
+      <li><a href='hnc_v001.epub'>E-book (ePub)</a></li>
+    </ul>
+
+        <form action='http://www.novocantico.com.br/busca.html' id='cse-search-box'>
+            <fieldset>
+                <input type='text' name='q' id='busca' />
+                <input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
+                <input type='hidden' name='cof' value='FORID:9' />
+                <input type='hidden' name='ie' value='UTF-8' /> <button type='submit' name='sa'>Buscar</button>
+            </fieldset>
+        </form>
+    </div>
+</div>
 
 <div id='conteudo'>
 	<h1><span id='numero'>Busca:</span><span id='titulo'></span></h1>
@@ -22,6 +45,7 @@
 </script>
 <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
 	</div>
+    <p id='rodape'>Entoai-lhe novo cântico, tangei com arte e com júbilo. Salmo 33.3</p>
 </div>
 <style>
 iframe, #cse-search-results {
