@@ -48,6 +48,7 @@
                                                 <li><a href="../../indice-assunto.html">Número/Assunto</a></li>
                                                 <li><a href="../../indice-primeiro-verso.html">Primeiro Verso</a></li>
                                                 <li><a href="../../indice-coro.html">Coro</a></li>
+                                                <li class="divider"></li>
                                                 <li><a href="../../indice-origem-letra.html">Origem da Letra</a></li>
                                                 <li><a href="../../indice-origem-musica.html">Origem da Música</a></li>
                                                 <li><a href="../../indice-referencia-biblica.html">Referência Bíblica</a></li>
