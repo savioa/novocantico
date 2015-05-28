@@ -30,3 +30,9 @@ i[class~="fa-volume-up"]
 {
     color: #ddd;
 }
+
+.social a
+{
+    margin-left: 1.42857143em;
+    color: #212121;
+}

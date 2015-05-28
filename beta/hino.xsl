@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <title><xsl:value-of select='hino/numero'/> — <xsl:value-of select='hino/titulo'/> — Novo Cântico</title>
+        <title><xsl:value-of select='hino/numero'/> · <xsl:value-of select='hino/titulo'/> · Novo Cântico</title>
 
         <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/paper/bootstrap.min.css" rel="stylesheet" />
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
@@ -57,6 +57,8 @@
                                                 <li><a href="../../indice-metrica.html">Métrica</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="ajuda.html">Ajuda</a></li>
+                                        <li><a href="contato.html">Contato</a></li>
                                     </ul>
 
                                     <form action="../../busca.html" class="navbar-form navbar-right" role="search">
@@ -77,7 +79,7 @@
                 <div class="row show-grid">
                     <div class="col-md-8">
                         <div class="panel panel-default">
-                            <div class="panel-heading"><xsl:value-of select='hino/numero'/> — <xsl:value-of select='hino/titulo'/></div>
+                            <div class="panel-heading"><xsl:value-of select='hino/numero'/> · <xsl:value-of select='hino/titulo'/> <span class="pull-right social"><a title="Compartilhe no Twitter" href="https://twitter.com/intent/tweet?text={hino/numero} · {hino/titulo}&amp;url=http://www.novocantico.com.br/beta/hino/{hino/numero}/{hino/numero}.xml&amp;via=novo_cantico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a> <a title="Compartilhe no Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.novocantico.com.br/beta/hino/{hino/numero}/{hino/numero}.xml" target="_blank"><i class="fa fa-facebook-official fa-lg"></i></a></span></div>
 
                             <div class="panel-body">
                                 <xsl:choose>
@@ -213,7 +215,13 @@
                             </div>
                         </div>
                     </div>
+                </div>
 
+                <div class="row show-grid">
+                    <div class="col-md-12">
+                        <p class="text-center">Entoai-lhe novo cântico, tangei com arte e com júbilo. Salmo 33.3</p>
+                        <p class="text-center"><a href="https://twitter.com/novo_cantico" class="twitter-follow-button" data-show-count="false" data-lang="pt">Seguir @novo_cantico</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+                    </div>
                 </div>
             </div>
         </div>
