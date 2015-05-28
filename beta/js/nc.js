@@ -24,9 +24,9 @@ $("#controle-audio input[type='radio']").click(function(e) {
 });
 
 $('#btn-controle-audio').click(function(e) {
-  var audioElement = document.getElementById($("#controle-audio input[type='radio']:checked").val());
-
   toggleBtnControleAudio();
+
+  var audioElement = document.getElementById($("#controle-audio input[type='radio']:checked").val());
 
   if (!audioElement.paused && !audioElement.ended && 0 < audioElement.currentTime) {
     audioElement.pause();

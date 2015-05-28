@@ -45,7 +45,7 @@
                                         <li class="dropdown">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="../../indice-assunto.html">Assunto</a></li>
+                                                <li><a href="../../indice-assunto.html">Número/Assunto</a></li>
                                                 <li><a href="../../indice-primeiro-verso.html">Primeiro Verso</a></li>
                                                 <li><a href="../../indice-coro.html">Coro</a></li>
                                                 <li><a href="../../indice-origem-letra.html">Origem da Letra</a></li>
@@ -60,7 +60,10 @@
 
                                     <form action="../../busca.html" class="navbar-form navbar-right" role="search">
                                         <div class="form-group">
-                                            <input type="text" name="q" autocomplete="off" required="required" class="form-control" placeholder="Pesquisar por..." />
+                                            <input type="text" name="q" autocomplete="off" class="form-control" placeholder="Pesquisar por..." />
+                                            <input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
+                                            <input type='hidden' name='cof' value='FORID:9' />
+                                            <input type='hidden' name='ie' value='UTF-8' />
                                         </div>
                                         <button type="submit" class="btn btn-default"><i class="fa fa-lg fa-search"></i></button>
                                     </form>
@@ -76,7 +79,13 @@
                             <div class="panel-heading"><xsl:value-of select='hino/numero'/> — <xsl:value-of select='hino/titulo'/></div>
 
                             <div class="panel-body">
+                                <xsl:choose>
+                                <xsl:when test='hino/@situacao'>
+                                </xsl:when>
+                                <xsl:otherwise>
                                 <a class="btn btn-default pull-right" href="{hino/numero}.pdf" role="button">Mostrar partitura</a>
+                                </xsl:otherwise>
+                                </xsl:choose>
 
                                 <ul id='texto' class="list-unstyled">
                                     <xsl:for-each select='hino/texto/estrofe'>
@@ -108,13 +117,17 @@
 
                             <div class="panel-body">
                                 <i class="fa fa-volume-up fa-5x pull-right"></i>
-
+                                <xsl:choose>
+                                <xsl:when test='hino/@situacao'>
+                                <p>Não disponível</p>
+                                </xsl:when>
+                                <xsl:otherwise>
                                 <form id="controle-audio">
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-todos" value="audio-todos" checked="checked" /> Todos</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-soprano" value="audio-soprano" /> Soprano</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-contralto" value="audio-contralto" /> Contralto</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-tenor" value="audio-tenor" /> Tenor</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-baixo" value="audio-baixo" /> Baixo</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}" value="audio-todos" checked="checked" /> Todos</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}s" value="audio-soprano" /> Soprano</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}c" value="audio-contralto" /> Contralto</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}t" value="audio-tenor" /> Tenor</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}b" value="audio-baixo" /> Baixo</label></div>
 
                                     <div class="btn-group">
                                         <a id="btn-controle-audio" class="btn btn-default"><i class="fa fa-play"></i> Reproduzir</a>
@@ -123,35 +136,37 @@
                                             <span class="sr-only">Acionar menu de áudio</span>
                                         </a>
                                         <ul class="dropdown-menu" role="menu">
-                                        <li><a href="audio-todos.mp3">Salvar</a></li>
+                                            <li><a href="{hino/numero}.mp3">Salvar</a></li>
                                         </ul>
                                     </div>
                                 </form>
 
                                 <audio id="audio-todos">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./tailtoddle_lo.mp3" />
+                                    <source src="./{hino/numero}.mp3" />
                                 </audio>
 
                                 <audio id="audio-soprano">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./pipershut_lo.mp3" />
+                                    <source src="./{hino/numero}s.mp3" />
                                 </audio>
 
                                 <audio id="audio-contralto">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./tailtoddle_lo.mp3" />
+                                    <source src="./{hino/numero}c.mp3" />
                                 </audio>
 
                                 <audio id="audio-tenor">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./pipershut_lo.mp3" />
+                                    <source src="./{hino/numero}t.mp3" />
                                 </audio>
 
                                 <audio id="audio-baixo">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./tailtoddle_lo.mp3" />
+                                    <source src="./{hino/numero}b.mp3" />
                                 </audio>
+                                </xsl:otherwise>
+                                </xsl:choose>
                             </div>
                         </div>
 
