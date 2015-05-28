@@ -36,3 +36,15 @@ i[class~="fa-volume-up"]
     margin-left: 1.42857143em;
     color: #212121;
 }
+
+.gsc-control-cse,
+.gsc-control-cse-pt_PT,
+.gsc-control-wrapper-cse
+.gsc-results,
+.gsc-webResult {
+    font-family: Verdana, "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif!important;
+}
+
+.gsc-search-box {
+    display: none;
+}

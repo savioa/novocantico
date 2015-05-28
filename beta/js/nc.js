@@ -9,6 +9,26 @@ function toggleBtnControleAudio() {
   }
 }
 
+function obterParametroUrl(nomeParametro)
+{
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++)
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == nomeParametro)
+        {
+            return sParameterName[1];
+        }
+    }
+}
+
+var valorParametroPesquisa = obterParametroUrl("q");
+if(valorParametroPesquisa != undefined)
+{
+  $('input[name="q"]').val(valorParametroPesquisa);
+}
+
 $("#controle-audio input[type='radio']").click(function(e) {
   var audios = document.getElementsByTagName('audio'), i;
   for (i = 0; i < audios.length; ++i) {

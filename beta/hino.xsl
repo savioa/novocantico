@@ -61,7 +61,7 @@
                                         <li><a href="contato.html">Contato</a></li>
                                     </ul>
 
-                                    <form action="../../busca.html" class="navbar-form navbar-right" role="search">
+                                    <form action="../../pesquisa.html" class="navbar-form navbar-right" role="search">
                                         <div class="form-group">
                                             <input type="text" name="q" autocomplete="off" class="form-control" placeholder="Pesquisar por..." />
                                             <input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
