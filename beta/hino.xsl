@@ -3,7 +3,7 @@
     <xsl:output method='html' encoding='utf-8' indent='yes' />
     <xsl:template match='/'>
     <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
-<html lang="en">
+<html lang="pt-br">
     <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,11 +11,10 @@
 
         <title><xsl:value-of select='hino/numero'/> — <xsl:value-of select='hino/titulo'/> — Novo Cântico</title>
 
-        <link href="../../css/abootstrap.min.css" rel="stylesheet" />
-        <link href="../../css/nc.css" rel="stylesheet" />
-        <link href="../../tipuesearch/tipuesearch.css" rel="stylesheet" />
-
+        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/paper/bootstrap.min.css" rel="stylesheet" />
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
+        <link href="../../css/nc.css" rel="stylesheet" />
+
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
@@ -108,7 +107,7 @@
                             <div class="panel-heading">Áudio</div>
 
                             <div class="panel-body">
-                                <i style="color: #ddd;" class="fa fa-volume-up fa-5x pull-right"></i>
+                                <i class="fa fa-volume-up fa-5x pull-right"></i>
 
                                 <form id="controle-audio">
                                     <div class="radio"><label><input type="radio" name="audio" data-id-audio="audio-todos" value="audio-todos" checked="checked" /> Todos</label></div>
@@ -160,7 +159,7 @@
                             <div class="panel-heading">Informação Adicional</div>
 
                             <div class="panel-body">
-                                <i style="color: #ddd;" class="fa fa-info-circle fa-5x pull-right"></i>
+                                <i class="fa fa-info-circle fa-5x pull-right"></i>
                                 <dl>
                                     <dt>Assunto</dt>
                                     <dd><a href='../../indice-assunto.html#{/hino/secao/@id}'><xsl:value-of select='hino/secao'/></a> &#8250; <a href='../../indice-assunto.html#{/hino/secao/@id}{/hino/assunto/@id}'><xsl:value-of select='hino/assunto'/></a></dd>
@@ -202,17 +201,9 @@
                 </div>
             </div>
         </div>
-        <script src="../../js/jquery-2.1.4.js"></script>
-        <script src="../../js/bootstrap.min.js"></script>
+        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
         <script src="../../js/nc.js"></script>
-
-
-
-<script src="../../tipuesearch/tipuesearch_content.js"></script>
-<link href="../../tipuesearch/tipuesearch.css" rel="stylesheet" />
-<script src="../../tipuesearch/tipuesearch_set.js"></script>
-<script src="../../tipuesearch/tipuesearch.min.js"></script>
-
     </body>
 </html>
     </xsl:template>
