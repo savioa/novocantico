@@ -5,11 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <title>Pesquisa · Novo Cântico</title>
+        <title>Índice por titulo-indice · Novo Cântico</title>
 
         <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/paper/bootstrap.min.css" rel="stylesheet" />
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
-        <link href="css/nc.css" rel="stylesheet" />
+        <link href="../../css/nc.css" rel="stylesheet" />
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -19,7 +19,7 @@
         <![endif]-->
     </head>
 
-    <body>
+    <body data-spy="scroll" data-target="#navegacao">
         <div class="container">
             <div class="bs-docs-grid">
                 <div class="row show-grid">
@@ -33,7 +33,7 @@
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
-                                    <a class="navbar-brand" href="index.html">Novo Cântico</a>
+                                    <a class="navbar-brand" href="../../index.html">Novo Cântico</a>
                                 </div>
 
                                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
@@ -41,16 +41,16 @@
                                         <li class="dropdown">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
                                             <ul class="dropdown-menu" role="menu">
-                                                <li><a href="indice-assunto.html">Número/Assunto</a></li>
-                                                <li><a href="indice-primeiro-verso.html">Primeiro Verso</a></li>
-                                                <li><a href="indice-coro.html">Coro</a></li>
+                                                <li><a href="../assunto">Número/Assunto</a></li>
+                                                <li><a href="../primeiro-verso">Primeiro Verso</a></li>
+                                                <li><a href="../coro">Coro</a></li>
                                                 <li class="divider"></li>
-                                                <li><a href="indice-origem-letra.html">Origem da Letra</a></li>
-                                                <li><a href="indice-origem-musica.html">Origem da Música</a></li>
-                                                <li><a href="indice-referencia-biblica.html">Referência Bíblica</a></li>
-                                                <li><a href="indice-titulo-original.html">Título Original</a></li>
-                                                <li><a href="indice-primeiro-verso-original.html">Prim. Verso Original</a></li>
-                                                <li><a href="indice-metrica.html">Métrica</a></li>
+                                                <li><a href="../origem-letra">Origem da Letra</a></li>
+                                                <li><a href="../origem-musica">Origem da Música</a></li>
+                                                <li><a href="../referencia-biblica">Referência Bíblica</a></li>
+                                                <li><a href="../titulo-original">Título Original</a></li>
+                                                <li><a href="../primeiro-verso-original">Prim. Verso Original</a></li>
+                                                <li><a href="../metrica">Métrica</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="ajuda.html">Ajuda</a></li>
@@ -75,29 +75,19 @@
                 <div class="row show-grid">
                     <div class="col-md-8">
                         <div class="panel panel-default">
-                            <div id="cse-search-results">
-                                <script>
-                                  (function() {
-                                    var cx = '007541164279382477135:v55cgb2k3be';
-                                    var gcse = document.createElement('script');
-                                    gcse.type = 'text/javascript';
-                                    gcse.async = true;
-                                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                                        '//cse.google.com/cse.js?cx=' + cx;
-                                    var s = document.getElementsByTagName('script')[0];
-                                    s.parentNode.insertBefore(gcse, s);
-                                  })();
-                                </script>
-                                <gcse:search></gcse:search>
+                            <div class="panel-heading">Índice por titulo-indice</div>
+
+                            <div class="panel-body">
+                                <ul class="list-unstyled indice">
+conteudo-indice
+                                </ul>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-md-4">
-                        <div class="panel panel-default">
-                        </div>
-
-                        <div class="panel panel-default">
+                        <div id="navegacao" class="panel panel-default" data-spy="affix" data-offset="85">
+navegacao-indice
                         </div>
                     </div>
                 </div>
@@ -112,6 +102,6 @@
         </div>
         <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-        <script src="js/nc.js"></script>
+        <script src="../../js/nc.js"></script>
     </body>
 </html>

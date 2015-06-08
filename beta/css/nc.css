@@ -31,7 +31,8 @@ i[class~="fa-volume-up"]
     color: #ddd;
 }
 
-.social a
+.social a,
+i[class~="fa-level-up"]
 {
     margin-left: 1.42857143em;
     color: #212121;
@@ -47,4 +48,18 @@ i[class~="fa-volume-up"]
 
 .gsc-search-box {
     display: none;
+}
+
+ul.indice li span {
+    font-weight: bold;
+    font-size: 200%;
+}
+
+ul.indice ul {
+    margin-left: 1.42857143em;
+    margin-bottom: 1.42857143em;
+}
+
+body {
+  position: relative;
 }
