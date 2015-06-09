@@ -26,6 +26,7 @@ function obterParametroUrl(nomeParametro)
 var valorParametroPesquisa = obterParametroUrl("q");
 if(valorParametroPesquisa != undefined)
 {
+  $('input[name="q"]').focus();
   $('input[name="q"]').val(valorParametroPesquisa);
 }
 
