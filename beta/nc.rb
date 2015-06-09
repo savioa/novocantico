@@ -38,7 +38,7 @@ hash_primeiro_verso_original = Hash.new
 hash_metrica = Hash.new
 hash_referencia_biblica = Hash.new
 
-raiz = '/Users/elleralmeida/Documents/novocantico/hino/'
+raiz = '../hino/'
 Dir.foreach raiz do |hino|
   unless hino.start_with? '.'
     xml = Document.new File.new(raiz + hino + '/' + hino + '.xml')
@@ -56,13 +56,15 @@ Dir.foreach raiz do |hino|
   end
 end
 
+navegacao_movel_primeiro_verso = ' ' * 32 + '<ul id=\'navegacao-movel\' class="nav nav-pills hidden-lg hidden-md">' + "\n"
 navegacao_primeiro_verso = ' ' * 28 + '<ul class="nav nav-pills">' + "\n"
 conteudo_primeiro_verso = ''
 
 hash_primeiro_verso.sort.each do |chave, valor|
   navegacao_primeiro_verso << ' ' * 32 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave.downcase, chave] + "\n"
+  navegacao_movel_primeiro_verso << ' ' * 36 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave.downcase, chave] + "\n"
 
-  conteudo_primeiro_verso << ' ' * 36 + '<li><span id=\'%s\'>%s</span>' % [chave.downcase, chave] + "\n"
+  conteudo_primeiro_verso << ' ' * 36 + '<li><span id=\'%s\'>%s</span>  <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave.downcase, chave] + "\n"
   conteudo_primeiro_verso <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
   valor.sort!{ |a, b| a[1].normalizar <=> b[1].normalizar}.each do |e|
     conteudo_primeiro_verso << ' ' * 44 + '<li><a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0], e[0], e[1].gsub(/[,;:.!?]$/, ''), e[0]] + "\n"
@@ -72,6 +74,7 @@ hash_primeiro_verso.sort.each do |chave, valor|
 end
 
 navegacao_primeiro_verso << ' ' * 28 + '</ul>'
+navegacao_movel_primeiro_verso << ' ' * 32 + '</ul>' + "\n"
 
 conteudo = File.open('indice.modelo.html', 'r:UTF-8', &:read)
-File.write'indice/primeiro-verso/index.html', conteudo.gsub('navegacao-indice', navegacao_primeiro_verso).gsub('conteudo-indice', conteudo_primeiro_verso).gsub('titulo-indice', 'Primeiro Verso')
+File.write'indice/primeiro-verso/index.html', conteudo.gsub('navegacao-indice', navegacao_primeiro_verso).gsub('conteudo-indice', conteudo_primeiro_verso).gsub('titulo-indice', 'Primeiro Verso').gsub('navegacao-movel-indice', navegacao_movel_primeiro_verso)
