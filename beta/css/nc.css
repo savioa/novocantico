@@ -33,11 +33,12 @@ i[class~="fa-volume-up"]
 
 
 i[class~="fa-level-up"] {
-    color: #212121;
+    color: #333;
     margin-left: 0.71em;
 }
 
 .social a {
+    color: #222;
     margin-left: 1.42857143em;
 }
 
