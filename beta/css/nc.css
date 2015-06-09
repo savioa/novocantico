@@ -31,12 +31,16 @@ i[class~="fa-volume-up"]
     color: #ddd;
 }
 
-.social a,
-i[class~="fa-level-up"]
-{
-    margin-left: 1.42857143em;
+
+i[class~="fa-level-up"] {
     color: #212121;
+    margin-left: 0.71em;
 }
+
+.social a {
+    margin-left: 1.42857143em;
+}
+
 
 .gsc-control-cse,
 .gsc-control-cse-pt_PT,
@@ -52,7 +56,7 @@ i[class~="fa-level-up"]
 
 ul.indice li span {
     font-weight: bold;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 ul.indice ul {
@@ -61,5 +65,5 @@ ul.indice ul {
 }
 
 body {
-  position: relative;
+    position: relative;
 }

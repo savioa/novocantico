@@ -60,3 +60,8 @@ $(function() {
     var $affixElement = $('div[data-spy="affix"]');
     $affixElement.width($affixElement.parent().width());
 });
+
+$( window ).resize(function() {
+    var $affixElement = $('div[data-spy="affix"]');
+    $affixElement.width($affixElement.parent().width());
+});
