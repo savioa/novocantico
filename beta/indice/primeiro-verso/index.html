@@ -7,7 +7,7 @@
 
         <title>Índice por Primeiro Verso · Novo Cântico</title>
 
-        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/paper/bootstrap.min.css" rel="stylesheet" />
+        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/cosmo/bootstrap.min.css" rel="stylesheet" />
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
         <link href="../../css/nc.css" rel="stylesheet" />
 
@@ -20,64 +20,83 @@
     </head>
 
     <body data-spy="scroll" data-target="#navegacao">
-        <div class="container">
-            <div class="bs-docs-grid">
-                <div class="row show-grid">
-                    <div class="col-md-12">
-                        <nav class="navbar navbar-inverse">
-                            <div class="container-fluid">
-                                <div class="navbar-header">
-                                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
-                                        <span class="sr-only">Acionar menu de navegação</span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                    </button>
-                                    <a class="navbar-brand" href="../../index.html">Novo Cântico</a>
-                                </div>
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+                            <span class="sr-only">Acionar menu de navegação</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="../../index.html">Novo Cântico</a>
+                    </div>
 
-                                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
-                                    <ul class="nav navbar-nav">
-                                        <li class="dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
-                                            <ul class="dropdown-menu" role="menu">
-                                                <li><a href="../assunto">Número/Assunto</a></li>
-                                                <li><a href="../primeiro-verso">Primeiro Verso</a></li>
-                                                <li><a href="../coro">Coro</a></li>
-                                                <li class="divider"></li>
-                                                <li><a href="../origem-letra">Origem da Letra</a></li>
-                                                <li><a href="../origem-musica">Origem da Música</a></li>
-                                                <li><a href="../referencia-biblica">Referência Bíblica</a></li>
-                                                <li><a href="../titulo-original">Título Original</a></li>
-                                                <li><a href="../primeiro-verso-original">Prim. Verso Original</a></li>
-                                                <li><a href="../metrica">Métrica</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="ajuda.html">Ajuda</a></li>
-                                        <li><a href="contato.html">Contato</a></li>
-                                    </ul>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="../assunto">Número/Assunto</a></li>
+                                    <li><a href="../primeiro-verso">Primeiro Verso</a></li>
+                                    <li><a href="../coro">Coro</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="../origem-letra">Origem da Letra</a></li>
+                                    <li><a href="../origem-musica">Origem da Música</a></li>
+                                    <li><a href="../referencia-biblica">Referência Bíblica</a></li>
+                                    <li><a href="../titulo-original">Título Original</a></li>
+                                    <li><a href="../primeiro-verso-original">Prim. Verso Original</a></li>
+                                    <li><a href="../metrica">Métrica</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="ajuda.html">Ajuda</a></li>
+                            <li><a href="contato.html">Contato</a></li>
+                        </ul>
 
-                                    <form action="pesquisa.html" class="navbar-form navbar-right" role="search">
-                                        <div class="form-group">
-                                            <input type="text" name="q" autocomplete="off" class="form-control" placeholder="Pesquisar por..." />
-                                            <input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
-                                            <input type='hidden' name='cof' value='FORID:9' />
-                                            <input type='hidden' name='ie' value='UTF-8' />
-                                        </div>
-                                        <button type="submit" class="btn btn-default"><i class="fa fa-lg fa-search"></i></button>
-                                    </form>
-                                </div>
+                        <form action="pesquisa.html" class="navbar-form navbar-right" role="search">
+                            <div class="form-group">
+                                <input type="text" name="q" autocomplete="off" class="form-control" placeholder="Pesquisar por..." />
+                                <input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
+                                <input type='hidden' name='cof' value='FORID:9' />
+                                <input type='hidden' name='ie' value='UTF-8' />
                             </div>
-                        </nav>
+                            <button type="submit" class="btn btn-default"><i class="fa fa-lg fa-search"></i></button>
+                        </form>
                     </div>
                 </div>
-
+            </div>
+        </nav>
+        <div class="container">
+            <div class="bs-docs-grid">
                 <div class="row show-grid">
                     <div class="col-md-8">
                         <div class="panel panel-default">
                             <div class="panel-heading">Índice por Primeiro Verso</div>
 
                             <div class="panel-body">
+                                <ul id='navegacao-movel' class="nav nav-pills hidden-lg hidden-md">
+                                    <li role="presentation"><a href="#a">A</a></li>
+                                    <li role="presentation"><a href="#b">B</a></li>
+                                    <li role="presentation"><a href="#c">C</a></li>
+                                    <li role="presentation"><a href="#d">D</a></li>
+                                    <li role="presentation"><a href="#e">E</a></li>
+                                    <li role="presentation"><a href="#f">F</a></li>
+                                    <li role="presentation"><a href="#g">G</a></li>
+                                    <li role="presentation"><a href="#h">H</a></li>
+                                    <li role="presentation"><a href="#j">J</a></li>
+                                    <li role="presentation"><a href="#l">L</a></li>
+                                    <li role="presentation"><a href="#m">M</a></li>
+                                    <li role="presentation"><a href="#n">N</a></li>
+                                    <li role="presentation"><a href="#o">O</a></li>
+                                    <li role="presentation"><a href="#p">P</a></li>
+                                    <li role="presentation"><a href="#q">Q</a></li>
+                                    <li role="presentation"><a href="#r">R</a></li>
+                                    <li role="presentation"><a href="#s">S</a></li>
+                                    <li role="presentation"><a href="#t">T</a></li>
+                                    <li role="presentation"><a href="#u">U</a></li>
+                                    <li role="presentation"><a href="#v">V</a></li>
+                                </ul>
                                 <ul class="list-unstyled indice">
                                     <li><span id='a'>A</span>
                                         <ul class='list-unstyled'>
@@ -118,7 +137,7 @@
                                             <li><a href='../../hino/292/292.xml'>Como foi para o céu, Jesus Cristo há de vir</a>: 292</li>
                                             <li><a href='../../hino/226/226.xml'>Conta-me a história de Cristo</a>: 226</li>
                                         </ul>
-                                    </li>                                    <li><span id='d'>D</span>
+                                    </li>                                    <li><span id='d'>D</span> <a class='hidden-lg hidden-md' title="Ir para o topo" href="#navegacao-movel"><i class="fa fa-level-up"></i></a>
                                         <ul class='list-unstyled'>
                                             <li><a href='../../hino/371/371.xml'>Da Bíblia a luz celeste</a>: 371</li>
                                             <li><a href='../../hino/298/298.xml'>Da Igreja o fundamento</a>: 298</li>
@@ -278,7 +297,7 @@
                     </div>
 
                     <div class="col-md-4">
-                        <div id="navegacao" class="panel panel-default" data-spy="affix" data-offset="85">
+                        <div id="navegacao" class="panel panel-default hidden-xs hidden-sm" data-spy="affix" data-offset="80">
                             <ul class="nav nav-pills">
                                 <li role="presentation"><a href="#a">A</a></li>
                                 <li role="presentation"><a href="#b">B</a></li>
