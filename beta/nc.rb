@@ -44,15 +44,16 @@ Dir.foreach raiz do |hino|
     xml = Document.new File.new(raiz + hino + '/' + hino + '.xml')
     numero = XPath.first(xml, 'hino/numero').text
     titulo = XPath.first(xml, 'hino/titulo').text
+    titulo_original = XPath.first(xml, 'hino/titulo_original').nil? ? titulo : XPath.first(xml, 'hino/titulo_original').text
 
     # montar_hash_origem 'hino/origem_letra', xml, hash_origem_letra, numero, titulo
     # montar_hash_origem 'hino/origem_musica', xml, hash_origem_musica, numero, titulo
-    montar_hash_simples 'hino/texto/estrofe/verso', xml, hash_primeiro_verso, numero
+    # montar_hash_simples 'hino/texto/estrofe/verso', xml, hash_primeiro_verso, numero
     # montar_hash_simples 'hino/texto/estrofe/coro/verso', xml, hash_coro, numero
     # montar_hash_simples 'hino/titulo_original', xml, hash_titulo_original, numero
     # montar_hash_simples 'hino/primeiro_verso_original', xml, hash_primeiro_verso_original, numero
-    montar_hash_origem 'hino/metrica', xml, hash_metrica, numero, titulo
-    # XPath.each(xml, 'hino/referencia_biblica') { |e| hash_referencia_biblica.adicionar e.attributes['id'][0, 2], [e.text, numero, titulo] }
+    # montar_hash_origem 'hino/metrica', xml, hash_metrica, numero, titulo_original.nil? ? titulo : titulo_original
+    XPath.each(xml, 'hino/referencia_biblica') { |e| hash_referencia_biblica.adicionar e.attributes['id'][0, 2], [e.text, numero, titulo, e.attributes['id']] }
   end
 end
 
@@ -118,20 +119,41 @@ def gerar_saida_simples(hash, id, titulo)
   File.write 'indice/%s/index.html' % id, modelo.gsub('navegacao-indice', navegacao).gsub('conteudo-indice', conteudo).gsub('titulo-indice', titulo).gsub('navegacao-movel-indice', navegacao_movel)
 end
 
+# conteudo = ''
+# hash_metrica.sort.each do |chave, valor|
+#   conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span>' % [chave[0], chave[0].gsub('_', '.')] + "\n"
+#   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
+
+#   valor.each do |e|
+#     conteudo << ' ' * 44 + '<li><a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0], e[0], e[1].gsub(/[,;:.!?]$/, ''), e[0]] + "\n"
+#   end
+
+#   conteudo << ' ' * 40 + '</ul>' + "\n"
+#   conteudo << ' ' * 36 + '</li>' + "\n"
+# end
+
+# modelo = File.open('indice.modelo.html', 'r:UTF-8', &:read)
+# File.write 'indice/metrica/index.html', modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', 'Métrica').gsub('navegacao-indice', '').gsub('navegacao-movel-indice', '')
+
 conteudo = ''
-hash_metrica.sort.each do |chave, valor|
-  conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave[0], chave[0].gsub('_', '.')] + "\n"
+hash_referencia_biblica.sort.each do |chave, valor|
+  conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span>' % [chave, chave] + "\n"
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
+
+  valor.sort!{ |a, b| a[3] <=> b[3]}.each do |e|
+    conteudo << ' ' * 44 + '<li>%s <a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0], e[1], e[1], e[2].gsub(/[,;:.!?]$/, ''), e[1]] + "\n"
+  end
+
   conteudo << ' ' * 40 + '</ul>' + "\n"
   conteudo << ' ' * 36 + '</li>' + "\n"
 end
 
 modelo = File.open('indice.modelo.html', 'r:UTF-8', &:read)
-File.write 'indice/metrica/index.html', modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', 'Métrica').gsub('navegacao-indice', '').gsub('navegacao-movel-indice', '')
+File.write 'indice/referencia-biblica/index.html', modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', 'Referência Bíblica').gsub('navegacao-indice', '').gsub('navegacao-movel-indice', '')
 
 # gerar_saida_origem hash_origem_letra, 'origem-letra', 'Origem da Letra'
 # gerar_saida_origem hash_origem_musica, 'origem-musica', 'Origem da Música'
-gerar_saida_simples hash_primeiro_verso, 'primeiro-verso', 'Primeiro Verso'
+# gerar_saida_simples hash_primeiro_verso, 'primeiro-verso', 'Primeiro Verso'
 # gerar_saida_simples hash_coro, 'coro', 'Coro'
 # gerar_saida_simples hash_titulo_original, 'titulo-original', 'Título Original'
 # gerar_saida_simples hash_primeiro_verso_original, 'primeiro-verso-original', 'Primeiro Verso Original'
