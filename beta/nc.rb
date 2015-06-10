@@ -144,9 +144,17 @@ modelo = File.open('indice.modelo.html', 'r:UTF-8', &:read)
 File.write 'indice/metrica/index.html', modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', 'Métrica').gsub('navegacao-indice', '').gsub('navegacao-movel-indice', '')
 
 # Referência bíblica
+livros = { '01' => ['Gênesis', 'Gn'], '02' => ['Êxodo', 'Êx'], '03' => ['Levítico', 'Lv'], '04' => ['Números', 'Nm'], '05' => ['Deuteronômio', 'Dt'], '06' => ['José', 'Js'], '07' => ['Juíes', 'Jz'], '08' => ['Rute', 'Rt'], '09' => ['1 Samuel', '1Sm'], '10' => ['2 Samuel', '2Sm'], '11' => ['1 Reis', '1Rs'], '12' => ['2 Reis', '2Rs'], '13' => ['1 Crônicas', '1Cr'], '14' => ['2 Crônicas', '2Cr'], '15' => ['Esdras', 'Ed'], '16' => ['Neemias', 'Ne'], '17' => ['Ester', 'Et'], '18' => ['Jó', 'Jó'], '19' => ['Salmos', 'Sl'], '20' => ['Provérbios', 'Pv'], '21' => ['Eclesiastes', 'Ec'], '22' => ['Cantares', 'Ct'], '23' => ['Isaías', 'Is'], '24' => ['Jeremias', 'Jr'], '25' => ['Lamentações', 'Lm'], '26' => ['Ezequiel', 'Ez'], '27' => ['Daniel', 'Dn'], '28' => ['Oséias', 'Os'], '29' => ['Joel', 'Jl'], '30' => ['Amós', 'Am'], '31' => ['Obadias', 'Ob'], '32' => ['Jonas', 'Jn'], '33' => ['Miqéias', 'Mq'], '34' => ['Naum', 'Na'], '35' => ['Habacuque', 'Hc'], '36' => ['Sofonias', 'Sf'], '37' => ['Ageu', 'Ag'], '38' => ['Zacarias', 'Zc'], '39' => ['Malaquias', 'Ml'], '40' => ['Mateus', 'Mt'], '41' => ['Marcos', 'Mc'], '42' => ['Lucas', 'Lc'], '43' => ['João', 'Jo'], '44' => ['Atos', 'At'], '45' => ['Romanos', 'Rm'], '46' => ['1 Coríntios', '1Co'], '47' => ['2 Coríntios', '2Co'], '48' => ['Gálatas', 'Gl'], '49' => ['Efésios', 'Ef'], '50' => ['Filipenses', 'Fl'], '51' => ['Colossenses', 'Cl'], '52' => ['1 Tessalonicenses', '1Ts'], '53' => ['2 Tessalonicenses', '2Ts'], '54' => ['1 Timóteo', '1Tm'], '55' => ['2 Timóteo', '2Tm'], '56' => ['Tito', 'Tt'], '57' => ['Filemon', 'Fl'], '58' => ['Hebreus', 'Hb'], '59' => ['Tiago', 'Tg'], '60' => ['1 Pedro', '1Pe'], '61' => ['2 Pedro', '2Pe'], '62' => ['1 João', '1Jo'], '63' => ['2 João', '2Jo'], '64' => ['3 João', '3Jo'], '65' => ['Judas', 'Jd'], '66' => ['Apocalipse', 'Ap'] }
+
+navegacao_movel = ' ' * 32 + '<ul id=\'navegacao-movel\' class="nav nav-pills hidden-lg hidden-md">' + "\n"
+navegacao = ' ' * 28 + '<ul class="nav nav-pills">' + "\n"
 conteudo = ''
+
 hash_referencia_biblica.sort.each do |chave, valor|
-  conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span>' % [chave, chave] + "\n"
+  navegacao << ' ' * 32 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave, livros[chave][1]] + "\n"
+  navegacao_movel << ' ' * 36 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave, livros[chave][1]] + "\n"
+
+  conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave, livros[chave][0]] + "\n"
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
 
   valor.sort!{ |a, b| a[3] <=> b[3]}.each do |e|
@@ -157,5 +165,8 @@ hash_referencia_biblica.sort.each do |chave, valor|
   conteudo << ' ' * 36 + '</li>' + "\n"
 end
 
+navegacao << ' ' * 28 + '</ul>'
+navegacao_movel << ' ' * 32 + '</ul>' + "\n"
+
 modelo = File.open('indice.modelo.html', 'r:UTF-8', &:read)
-File.write 'indice/referencia-biblica/index.html', modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', 'Referência Bíblica').gsub('navegacao-indice', '').gsub('navegacao-movel-indice', '')
+File.write 'indice/referencia-biblica/index.html', modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', 'Referência Bíblica').gsub('navegacao-indice', navegacao).gsub('navegacao-movel-indice', navegacao_movel)
