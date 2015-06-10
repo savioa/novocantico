@@ -158,7 +158,7 @@ hash_referencia_biblica.sort.each do |chave, valor|
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
 
   valor.sort!{ |a, b| a[3] <=> b[3]}.each do |e|
-    conteudo << ' ' * 44 + '<li>%s <a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0], e[1], e[1], e[2].gsub(/[,;:.!?]$/, ''), e[1]] + "\n"
+    conteudo << ' ' * 44 + '<li>%s <a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0].gsub(livros[chave][0] + ' ' , ''), e[1], e[1], e[2].gsub(/[,;:.!?]$/, ''), e[1]] + "\n"
   end
 
   conteudo << ' ' * 40 + '</ul>' + "\n"
