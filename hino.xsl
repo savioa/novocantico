@@ -110,11 +110,11 @@
 			<li><a href='{hino/numero}.pdf'>Partitura</a><ul></ul></li>
 			<li>Áudio
 				<ul>
-					<li><a href='{hino/numero}.mid'>4 vozes</a></li>
-					<li><a href='{hino/numero}s.mid'>Soprano</a></li>
-					<li><a href='{hino/numero}c.mid'>Contralto</a></li>
-					<li><a href='{hino/numero}t.mid'>Tenor</a></li>
-					<li><a href='{hino/numero}b.mid'>Baixo</a></li>
+					<li><a href='{hino/numero}.mp3'>4 vozes</a></li>
+					<li><a href='{hino/numero}s.mp3'>Soprano</a></li>
+					<li><a href='{hino/numero}c.mp3'>Contralto</a></li>
+					<li><a href='{hino/numero}t.mp3'>Tenor</a></li>
+					<li><a href='{hino/numero}b.mp3'>Baixo</a></li>
 				</ul>
 			</li>
 			</xsl:otherwise>
