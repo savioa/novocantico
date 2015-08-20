@@ -1,5 +1,5 @@
 # encoding: utf-8
-
+Encoding.default_external = 'UTF-8'
 require 'rexml/document'
 include REXML
 
@@ -44,7 +44,11 @@ Dir.foreach raiz do |hino|
     xml = Document.new File.new(raiz + hino + '/' + hino + '.xml')
     numero = XPath.first(xml, 'hino/numero').text
     titulo = XPath.first(xml, 'hino/titulo').text
+    secao = XPath.first(xml, 'hino/secao').text
+    assunto = XPath.first(xml, 'hino/assunto').text
     titulo_original = XPath.first(xml, 'hino/titulo_original').nil? ? titulo : XPath.first(xml, 'hino/titulo_original').text
+
+    # puts numero + "|" + titulo + "|" + secao + "|" + assunto + "\n"
 
     montar_hash_origem 'hino/origem_letra', xml, hash_origem_letra, numero, titulo
     montar_hash_origem 'hino/origem_musica', xml, hash_origem_musica, numero, titulo
@@ -171,3 +175,66 @@ navegacao << ' ' * 28 + '</ul>'
 navegacao_movel << ' ' * 32 + '</ul>' + "\n"
 
 gerar_arquivo_indice 'referencia-biblica', conteudo, 'Referência Bíblica', navegacao, navegacao_movel
+
+# Assunto
+secaoAtual = 'nenhuma'
+assuntoAtual = 'nenhum'
+conteudo = ''
+
+File.open("listagemComAssunto", "r") do |f|
+  f.each_line do |linha|
+    item = linha.split '|'
+    numero = item[0].strip
+    titulo = item[1].strip
+    secao = item[2].strip
+    assunto = item[3].strip
+
+    quebra_secao = false
+
+    if secao != secaoAtual
+      if secaoAtual != 'nenhuma'
+        # Fecha assunto
+        conteudo << ' ' * 48 + '</ul>' + "\n"
+        conteudo << ' ' * 44 + '</li>' + "\n"
+
+        # Fecha seção
+        conteudo << ' ' * 40 + '</ul>' + "\n"
+        conteudo << ' ' * 36 + '</li>' + "\n"
+
+        quebra_secao = true
+      end
+
+      secaoAtual = secao
+
+      conteudo << ' ' * 36 + '<li>%s' % secao + "\n"
+      conteudo << ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
+    end
+
+    if assunto != assuntoAtual
+      if quebra_secao
+        quebra_secao = false
+      else
+        if assuntoAtual != 'nenhum'
+          conteudo << ' ' * 48 + '</ul>' + "\n"
+          conteudo << ' ' * 44 + '</li>' + "\n"
+        end
+      end
+
+      assuntoAtual = assunto
+
+      conteudo << ' ' * 44 + '<li>%s' % assunto + "\n"
+      conteudo << ' ' * 48 + '<ul class=\'list-unstyled\'>' + "\n"
+    end
+
+    if File.exist?('../hino/%s' % numero)
+      conteudo << ' ' * 52 + '<li><a href=\'../../hino/%s/%s.xml\'>%s · %s</a></li>' % [numero, numero, numero, titulo] + "\n"
+    else
+      conteudo << ' ' * 52 + '<li>%s · %s</li>' % [numero, titulo] + "\n"
+    end
+  end
+end
+
+conteudo << ' ' * 40 + '</ul>' + "\n"
+conteudo << ' ' * 38 + '</li>' + "\n"
+
+gerar_arquivo_indice 'assunto', conteudo, 'Assunto', '', ''
