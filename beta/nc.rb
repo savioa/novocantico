@@ -83,7 +83,7 @@ def gerar_saida_origem(hash, id, titulo)
       navegacao << ' ' * 32 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave[0][0, 1].downcase, chave[0][0, 1]] + "\n"
       navegacao_movel << ' ' * 36 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave[0][0, 1].downcase, chave[0][0, 1]] + "\n"
 
-      conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave[0][0, 1].downcase, chave[0][0, 1]] + "\n"
+      conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s</h2> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave[0][0, 1].downcase, chave[0][0, 1]] + "\n"
       conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
@@ -111,10 +111,10 @@ def gerar_saida_simples(hash, id, titulo)
     navegacao << ' ' * 32 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave.downcase, chave] + "\n"
     navegacao_movel << ' ' * 36 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave.downcase, chave] + "\n"
 
-    conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave.downcase, chave] + "\n"
+    conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s</h2> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave.downcase, chave] + "\n"
     conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
     valor.sort!{ |a, b| a[1].normalizar <=> b[1].normalizar}.each do |e|
-      conteudo << ' ' * 44 + '<li><a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0], e[0], e[1].gsub(/[,;:.!?]$/, ''), e[0]] + "\n"
+      conteudo << ' ' * 44 + '<li id=\'%s\'><a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0], e[0], e[0], e[1].gsub(/[,;:.!?]$/, ''), e[0]] + "\n"
     end
     conteudo << ' ' * 40 + '</ul>' + "\n"
     conteudo << ' ' * 36 + '</li>' + "\n"
@@ -136,7 +136,7 @@ gerar_saida_simples hash_primeiro_verso_original, 'primeiro-verso-original', 'Pr
 # Métrica
 conteudo = ''
 hash_metrica.sort.each do |chave, valor|
-  conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span>' % [chave[0], chave[0].gsub('_', '.')] + "\n"
+  conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s</h2>' % [chave[0], chave[0].gsub('_', '.')] + "\n"
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
 
   valor.each do |e|
@@ -160,7 +160,7 @@ hash_referencia_biblica.sort.each do |chave, valor|
   navegacao << ' ' * 32 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave, livros[chave][1]] + "\n"
   navegacao_movel << ' ' * 36 + '<li role="presentation"><a href="#%s">%s</a></li>' % [chave, livros[chave][1]] + "\n"
 
-  conteudo << ' ' * 36 + '<li><span id=\'%s\'>%s</span> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave, livros[chave][0]] + "\n"
+  conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s</h2> <a class=\'hidden-lg hidden-md\' title=\'Ir para o topo\' href=\'#navegacao-movel\'><i class=\'fa fa-level-up\'></i></a>' % [chave, livros[chave][0]] + "\n"
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
 
   valor.sort!{ |a, b| a[3] <=> b[3]}.each do |e|
@@ -210,7 +210,7 @@ File.open("listagemComAssunto", "r") do |f|
 
       secaoAtual = nomeSecao
 
-      conteudo << ' ' * 36 + '<li id=\'%s\'>%s' % [indiceSecao, nomeSecao] + "\n"
+      conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s' % [indiceSecao, nomeSecao] + "</h2>\n"
       conteudo << ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
@@ -226,7 +226,7 @@ File.open("listagemComAssunto", "r") do |f|
 
       assuntoAtual = nomeAssunto
 
-      conteudo << ' ' * 44 + '<li id=\'%s%s\'>%s' % [indiceSecao, indiceAssunto, nomeAssunto] + "\n"
+      conteudo << ' ' * 44 + '<li id=\'%s%s\'><h3>%s' % [indiceSecao, indiceAssunto, nomeAssunto] + "</h3>\n"
       conteudo << ' ' * 48 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 

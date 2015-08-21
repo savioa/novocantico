@@ -54,8 +54,8 @@
                                     <li><a href="../../indice/metrica">Métrica</a></li>
                                 </ul>
                             </li>
-                            <li><a href="ajuda.html">Ajuda</a></li>
-                            <li><a href="contato.html">Contato</a></li>
+                            <li><a href="../../ajuda.html">Ajuda</a></li>
+                            <li><a href="../../contato.html">Contato</a></li>
                         </ul>
 
                         <form action="../../pesquisa.html" class="navbar-form navbar-right" role="search">

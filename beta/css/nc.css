@@ -70,3 +70,7 @@ ul.indice ul {
 body {
     position: relative;
 }
+
+dfn i {
+    font-weight: normal;
+}
