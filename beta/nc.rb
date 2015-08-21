@@ -186,12 +186,16 @@ File.open("listagemComAssunto", "r") do |f|
     item = linha.split '|'
     numero = item[0].strip
     titulo = item[1].strip
-    secao = item[2].strip
-    assunto = item[3].strip
+    secao = item[2].strip.split '#'
+    nomeSecao = secao[0]
+    indiceSecao = secao[1]
+    assunto = item[3].strip.split '#'
+    nomeAssunto = assunto[0]
+    indiceAssunto = assunto[1]
 
     quebra_secao = false
 
-    if secao != secaoAtual
+    if nomeSecao != secaoAtual
       if secaoAtual != 'nenhuma'
         # Fecha assunto
         conteudo << ' ' * 48 + '</ul>' + "\n"
@@ -204,13 +208,13 @@ File.open("listagemComAssunto", "r") do |f|
         quebra_secao = true
       end
 
-      secaoAtual = secao
+      secaoAtual = nomeSecao
 
-      conteudo << ' ' * 36 + '<li>%s' % secao + "\n"
+      conteudo << ' ' * 36 + '<li>%s' % nomeSecao + "\n"
       conteudo << ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
-    if assunto != assuntoAtual
+    if nomeAssunto != assuntoAtual
       if quebra_secao
         quebra_secao = false
       else
@@ -220,9 +224,9 @@ File.open("listagemComAssunto", "r") do |f|
         end
       end
 
-      assuntoAtual = assunto
+      assuntoAtual = nomeAssunto
 
-      conteudo << ' ' * 44 + '<li>%s' % assunto + "\n"
+      conteudo << ' ' * 44 + '<li>%s' % nomeAssunto + "\n"
       conteudo << ' ' * 48 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
