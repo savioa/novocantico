@@ -210,7 +210,7 @@ File.open("listagemComAssunto", "r") do |f|
 
       secaoAtual = nomeSecao
 
-      conteudo << ' ' * 36 + '<li>%s' % nomeSecao + "\n"
+      conteudo << ' ' * 36 + '<li id=\'%s\'>%s' % [indiceSecao, nomeSecao] + "\n"
       conteudo << ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
@@ -226,7 +226,7 @@ File.open("listagemComAssunto", "r") do |f|
 
       assuntoAtual = nomeAssunto
 
-      conteudo << ' ' * 44 + '<li>%s' % nomeAssunto + "\n"
+      conteudo << ' ' * 44 + '<li id=\'%s%s\'>%s' % [indiceSecao, indiceAssunto, nomeAssunto] + "\n"
       conteudo << ' ' * 48 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
