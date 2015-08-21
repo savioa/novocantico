@@ -1,132 +1,408 @@
 001|Doxologia|Louvor e Adoração|Intróitos
 002|Reverência|Louvor e Adoração|Intróitos
-003|A Igreja em adoração|Louvor e Adoração|Deus Trino
+003|A Igreja em Adoração|Louvor e Adoração|Deus Trino
 004|Culto à Trindade|Louvor e Adoração|Deus Trino
 005|Trindade Adorada|Louvor e Adoração|Deus Trino
 006|Doxologia|Louvor e Adoração|Deus Trino
 007|Glória à Trindade|Louvor e Adoração|Deus Trino
-010|A criação e seu Criador|Louvor e Adoração|Deus Trino
-011|Trindade santíssima|Louvor e Adoração|Deus Santo
+008|Adoração à Trindade|Louvor e Adoração|Deus Trino
+009|Aleluia ao Deus Trino|Louvor e Adoração|Deus Trino
+010|A Criação e seu Criador|Louvor e Adoração|Deus Trino
+011|Trindade Santíssima|Louvor e Adoração|Deus Santo
 012|Glória a Deus|Louvor e Adoração|Deus Santo
 013|Contemplação|Louvor e Adoração|Deus Santo
 014|Louvor|Louvor e Adoração|Deus Santo
 015|Doxologia|Louvor e Adoração|Deus Soberano
 016|Louvor a Deus|Louvor e Adoração|Deus Soberano
-017|Deus seja louvado|Louvor e Adoração|Deus Soberano
-018|Deus dos antigos|Louvor e Adoração|Deus Soberano
+017|Deus Seja Louvado|Louvor e Adoração|Deus Soberano
+018|Deus dos Antigos|Louvor e Adoração|Deus Soberano
+019|Rei Sublime|Louvor e Adoração|Deus Soberano
+020|Glorificação à Trindade|Louvor e Adoração|Deus Soberano
 021|Deus de Abraão|Louvor e Adoração|Deus Soberano
-022|Os céus proclamam|Louvor e Adoração|Deus Criador
-026|Ao Deus grandioso|Louvor e Adoração|Deus Criador
-027|Um hino ao Senhor|Louvor e Adoração|Deus Criador
+022|Os Céus Proclamam|Louvor e Adoração|Deus Criador
+023|Adoração ao Criador|Louvor e Adoração|Deus Criador
+024|Convite ao louvor|Louvor e Adoração|Deus Criador
+025|O Criador de Tudo|Louvor e Adoração|Deus Criador
+026|Ao Deus Grandioso|Louvor e Adoração|Deus Criador
+027|Um Hino ao Senhor|Louvor e Adoração|Deus Criador
 028|Coroação|Louvor e Adoração|Deus Criador
 029|Louvor|Louvor e Adoração|Deus Criador
 030|Providência de Deus (na criação)|Louvor e Adoração|Deus Providente
 031|Providência de Deus (na redenção)|Louvor e Adoração|Deus Providente
 032|O Deus Fiel|Louvor e Adoração|Deus Fiel
-033|Maravilhas divinas|Louvor e Adoração|Deus Fiel
+033|Maravilhas Divinas|Louvor e Adoração|Deus Fiel
 034|Convite ao louvor|Louvor e Adoração|Deus Fiel
-035|Adoração e súplica|Louvor e Adoração|Deus Senhor
+035|Adoração e Súplica|Louvor e Adoração|Deus Senhor
+036|Exaltação|Louvor e Adoração|Deus Senhor
 037|O Santo Nome|Louvor e Adoração|Deus Senhor
-038|Louvores sem fim|Louvor e Adoração|Deus Salvador
-042|O grande amor de Deus|Louvor e Adoração|Deus Salvador
-047|Louvor e glória|Louvor e Adoração|Deus Salvador
-048|Amor e gratidão|Louvor e Adoração|Deus Salvador
-049|Sempre vencendo|Louvor e Adoração|Deus Vencedor
-052|Glória e coroação|Louvor e Adoração|Deus Vencedor
-054|A chegada do Messias|Louvor e Adoração|Deus Vencedor
+038|Louvores sem Fim|Louvor e Adoração|Deus Salvador
+039|Exaltação e Louvor|Louvor e Adoração|Deus Salvador
+040|Cântico ao Salvador|Louvor e Adoração|Deus Salvador
+041|Louvor pela Graça Divina|Louvor e Adoração|Deus Salvador
+042|O Grande Amor de Deus|Louvor e Adoração|Deus Salvador
+043|O Deus de Amor|Louvor e Adoração|Deus Salvador
+044|Louvores ao Senhor|Louvor e Adoração|Deus Salvador
+045|Grande Redenção|Louvor e Adoração|Deus Salvador
+046|Altos Louvores|Louvor e Adoração|Deus Salvador
+047|Louvor e Glória|Louvor e Adoração|Deus Salvador
+048|Amor e Gratidão|Louvor e Adoração|Deus Salvador
+049|Sempre Vencendo|Louvor e Adoração|Deus Vencedor
+050|Sangue Precioso|Louvor e Adoração|Deus Vencedor
+051|Cristo Adorado|Louvor e Adoração|Deus Vencedor
+052|Glória e Celebração|Louvor e Adoração|Deus Vencedor
+053|Honra, Poder, Majestade|Louvor e Adoração|Deus Vencedor
+054|A Chegada do Messias|Louvor e Adoração|Deus Vencedor
 055|Alegria e Gratidão|Louvor e Adoração|Gratidão
-057|Fonte de todo o bem|Louvor e Adoração|Gratidão
-062|Hino de gratidão|Louvor e Adoração|Gratidão
-063|As muitas bênçãos|Louvor e Adoração|Gratidão
-064|Grata memória|Louvor e Adoração|Gratidão
-066|Coração quebrantado|Confissão|Contrição e Arrependimento
-067|Coração quebrantado|Confissão|Contrição e Arrependimento
+056|Ações de Graças e Súplica|Louvor e Adoração|Gratidão
+057|Fonte de Todo Bem|Louvor e Adoração|Gratidão
+058|Ofertas|Louvor e Adoração|Gratidão
+059|Gratidão|Louvor e Adoração|Gratidão
+060|Ofertório|Louvor e Adoração|Gratidão
+061|Ações de Graças|Louvor e Adoração|Gratidão
+062|Hino de Gratidão|Louvor e Adoração|Gratidão
+063|As muitas Bênçãos|Louvor e Adoração|Gratidão
+064|Grata Memória|Louvor e Adoração|Gratidão
+065|Louvor|Louvor e Adoração|Gratidão
+066|Contrição|Confissão|Contrição e Arrependimento
+067|Coração Quebrantado|Confissão|Contrição e Arrependimento
 068|Necessidade|Confissão|Contrição e Arrependimento
+069|Súplica|Confissão|Contrição e Arrependimento
+070|Descanso em Jesus|Confissão|Contrição e Arrependimento
 071|Perdão|Confissão|Contrição e Arrependimento
-080|O amor de Jesus|Confissão|Perdão
+072|Purificação|Confissão|Contrição e Arrependimento
+073|Compaixão|Confissão|Contrição e Arrependimento
+074|Sinceridade|Confissão|Contrição e Arrependimento
+075|Arrependimento e Súplica|Confissão|Contrição e Arrependimento
+076|Clamor por Compaixão|Confissão|Contrição e Arrependimento
+077|Divino Perdão|Confissão|Perdão
+078|Perfeita Expiação|Confissão|Perdão
+079|Glória ao Salvador|Confissão|Perdão
+080|O Amor de Jesus|Confissão|Perdão
+081|Súplica ao Espírito Santo|Edificação|Espírito Instruidor
+082|Divino Preceptor|Edificação|Espírito Instruidor
+083|Divino Instruidor|Edificação|Espírito Instruidor
 084|Santo Espírito|Edificação|Espírito Instruidor
-088|Amor perene|Edificação|Amor de Deus
-093|Firmeza na fé|Edificação|Fé
-104|Linda melodia|Edificação|Testemunho
-108|Aflição e paz|Edificação|Companhia do Senhor
-113|Achei um bom amigo|Edificação|Companhia do Senhor
+085|Espírito Consolador|Edificação|Espírito Consolador
+086|Espírito do Eterno Deus|Edificação|Espírito Vivificador
+087|Alegria Perene|Edificação|Amor de Deus
+088|Amor Perene|Edificação|Amor de Deus
+089|Amor Sacrificial|Edificação|Amor de Deus
+090|Amor Insondável|Edificação|Amor de Deus
+091|A Fé dos Antigos|Edificação|Fé
+092|A Fé Contemplada|Edificação|Fé
+093|Firmeza na Fé|Edificação|Fé
+094|A Porta da Salvação|Edificação|Fé
+095|Somente Cristo|Edificação|Fé
+096|Redenção Suprema|Edificação|Fé
+097|Súplica do Redimido|Edificação|Fé
+098|Não Há Condenação|Edificação|Fé
+099|Louvor ao Redentor|Edificação|Testemunho
+100|Louvores a Cristo|Edificação|Testemunho
+101|A Voz da Salvação|Edificação|Testemunho
+102|O Céu com Cristo|Edificação|Testemunho
+103|Salvação em Cristo|Edificação|Testemunho
+104|Linda Melodia|Edificação|Testemunho
+105|A Certeza do Crente|Edificação|Testemunho
+106|Fonte Carmesim|Edificação|Testemunho
+107|Ao Pé da Cruz|Edificação|Companhia do Senhor
+108|Aflição e Paz|Edificação|Companhia do Senhor
+109|O Bom Pastor|Edificação|Companhia do Senhor
+110|A Vida com Jesus|Edificação|Companhia do Senhor
+110A|Crer e Observar|Edificação|Companhia do Senhor
+111|Comunhão Divina|Edificação|Companhia do Senhor
+112|Rica Promessa|Edificação|Companhia do Senhor
+113|Achei um Bom Amigo|Edificação|Companhia do Senhor
 114|Brilho Celeste|Edificação|Companhia do Senhor
 115|Unido com Cristo|Edificação|Companhia do Senhor
 116|União com Deus|Edificação|Aspiração
-127|Hora bendita|Edificação|Oração
-128|Comunhão preciosa|Edificação|Oração
-131|Vida santificada|Edificação|Santificação
+117|Pastor Divino|Edificação|Aspiração
+118|Esperando em Deus|Edificação|Aspiração
+119|Súplica pelo Culto|Edificação|Aspiração
+120|Dependência|Edificação|Aspiração
+121|Perfeição|Edificação|Aspiração
+122|Necessitado|Edificação|Aspiração
+123|Grande Amor|Edificação|Aspiração
+124|Benigna Luz|Edificação|Aspiração
+125|Sempre Veraz|Edificação|Aspiração
+126|Dependência|Edificação|Aspiração
+127|Hora Bendita|Edificação|Oração
+128|Comunhão Preciosa|Edificação|Oração
+129|Vigilância e Oração|Edificação|Oração
+130|Oração ao Senhor|Edificação|Oração
+131|Vida Santificada|Edificação|Santificação
+132|Vivificação|Edificação|Santificação
+133|Aspiração à Santidade|Edificação|Santificação
+134|Riquezas do Céu|Edificação|Santificação
 135|Mais de Cristo|Edificação|Santificação
-136|Rocha eterna|Edificação|Proteção
-139|O socorro do crente|Edificação|Proteção
-144|Segurança e alegria|Edificação|Proteção
-145|Refúgio verdadeiro|Edificação|Proteção
-146|Segurança do crente|Edificação|Proteção
-147|Vencendo vem Jesus|Edificação|Proteção
-148|Oração noturna|Edificação|Proteção
-151|O bom Pastor|Edificação|Proteção
-152|Onisciência divina|Edificação|Proteção
-154|Segurança e paz|Edificação|Proteção
-155|Castelo forte|Edificação|Proteção
+136|Rocha Eterna|Edificação|Proteção
+137|Abrigo no Temporal|Edificação|Proteção
+138|Refúgio|Edificação|Proteção
+139|O Socorro do Crente|Edificação|Proteção
+140|Jornada do Crente|Edificação|Proteção
+141|Guia Divino|Edificação|Proteção
+142|O Fiel Pastor|Edificação|Proteção
+143|Salmo 23|Edificação|Proteção
+144|Segurança e Alegria|Edificação|Proteção
+145|Refúgio Verdadeiro|Edificação|Proteção
+146|Segurança do Crente|Edificação|Proteção
+147|Vencendo Vem Jesus|Edificação|Proteção
+148|Oração Noturna|Edificação|Proteção
+149|Verdadeira Redenção|Edificação|Proteção
+150|Salvação Perfeita|Edificação|Proteção
+151|O Bom Pastor|Edificação|Proteção
+152|Onisciência Divina|Edificação|Proteção
+153|Amparo Divino|Edificação|Proteção
+154|Segurança e Paz|Edificação|Proteção
+155|Castelo Forte|Edificação|Proteção
 156|Confiança em Deus|Edificação|Confiança
-161|O melhor amigo|Edificação|Confiança
-171|Deus proverá|Edificação|Confiança
-172|Chuvas de bênçãos|Edificação|Confiança
+157|Segurança em Cristo|Edificação|Confiança
+158|Conforto e Luz|Edificação|Confiança
+159|Bondoso Amigo|Edificação|Confiança
+160|Cristo é Tudo|Edificação|Confiança
+161|O Melhor Amigo|Edificação|Confiança
+162|A Voz de Deus|Edificação|Confiança
+163|Direção Divina|Edificação|Confiança
+164|Nome Precioso|Edificação|Confiança
+165|Cuidado Divino|Edificação|Confiança
+166|Luz da Vida|Edificação|Confiança
+167|Cristo, Esperança Nossa|Edificação|Confiança
+168|Jesus Amado|Edificação|Confiança
+169|Grata Confiança|Edificação|Confiança
+170|Redentor Onipotente|Edificação|Confiança
+171|Deus Proverá|Edificação|Confiança
+172|Chuvas de Bênçãos|Edificação|Confiança
+173|Oração Vespertina|Edificação|Confiança
+174|Poderoso Salvador|Edificação|Confiança
+175|O Servo do Senhor|Edificação|Fidelidade
+176|Fidelidade do Cristão|Edificação|Fidelidade
 177|Firme nas Promessas|Edificação|Fidelidade
-183|Benditos laços|Edificação|Fraternidade
-190|Maior que a dor|Edificação|Esperança
+178|A Excelência do Amor|Edificação|Fraternidade
+179|Saudação|Edificação|Fraternidade
+180|Amor Fraternal|Edificação|Fraternidade
+181|Irmãos em Jesus|Edificação|Fraternidade
+182|União Fraterna|Edificação|Fraternidade
+183|Benditos Laços|Edificação|Fraternidade
+184|Face a Face|Edificação|Esperança
+185|Glória Vindoura|Edificação|Esperança
+186|O Lar do Céu|Edificação|Esperança
+187|Cidade Celestial|Edificação|Esperança
+188|Clara Luz|Edificação|Esperança
+189|Jerusalém Celeste|Edificação|Esperança
+190|Maior que a Dor|Edificação|Esperança
+191|Rio da Vida|Edificação|Esperança
+192|No Céu com Jesus|Edificação|Lar Celestial
 193|Aspiração do Céu|Edificação|Lar Celestial
+194|Morada Feliz|Edificação|Lar Celestial
+195|Dormindo no Senhor|Edificação|Lar Celestial
+196|Gozo, Esplendores, Venturas|Edificação|Lar Celestial
+197|O Salvador Espera|Apelo|Convite
 198|Salvação Graciosa|Apelo|Convite
+199|Cristo Salva|Apelo|Convite
+200|Palavra Abençoada|Apelo|Convite
+201|Manso E Suave|Apelo|Convite
+202|Palavras Preciosas|Apelo|Convite
+203|Convite Para A Salvação|Apelo|Convite
+204|Cristo À Porta|Apelo|Convite
+205|O Amor Que Chama|Apelo|Convite
+206|Convite de Jesus|Apelo|Convite
+207|Convite Ao Pecador|Apelo|Convite
 208|Aproximação|Apelo|Convite
+209|Encorajamento|Apelo|Convite
+210|O Filho Perdido|Apelo|Convite
+211|Quase Induzido|Apelo|Convite
 212|Apelo|Apelo|Decisão
+213|A Última Hora|Apelo|Decisão
+214|Convite E Aceitação|Apelo|Decisão
+215|Apelo|Apelo|Decisão
 216|Perdão|Apelo|Decisão
-218|Vontade soberana|Consagração|Submissão
-222|Mais perto da cruz|Consagração|Dedicação
-225|Dedicação pessoal|Consagração|Dedicação
-226|A história de Cristo|Cristo - Sua Vida|Advento
+217|Desprendimento|Consagração|Submissão
+218|Vontade Soberana|Consagração|Submissão
+219|Dedicação|Consagração|Dedicação
+220|Plena Dedicação|Consagração|Dedicação
+221|Um Vaso de Benção|Consagração|Dedicação
+222|Mais Perto da Cruz|Consagração|Dedicação
+223|Oração do Arrependido|Consagração|Dedicação
+224|Consagração|Consagração|Dedicação
+225|Dedicação Pessoal|Consagração|Dedicação
+226|A História de Cristo|Cristo - Sua Vida|Advento
+227|A Velha História|Cristo - Sua Vida|Advento
+228|De Deus|Cristo - Sua Vida|Advento
 229|Boas-novas|Cristo - Sua Vida|Advento
 230|Adoração|Cristo - Sua Vida|Natal
 231|O Primeiro Natal|Cristo - Sua Vida|Natal
-234|Quem é o pequeno a repousar|Cristo - Sua Vida|Natal
-237|Jesus nasceu!|Cristo - Sua Vida|Natal
+232|Pequena Vila de Belém|Cristo - Sua Vida|Natal
+233|Os Pastores No Campo|Cristo - Sua Vida|Natal
+234|Quem É O Pequeno A Repousar|Cristo - Sua Vida|Natal
+235|O Anjo da Paz|Cristo - Sua Vida|Natal
+236|Em Linda Noite|Cristo - Sua Vida|Natal
+237|Jesus Nasceu!|Cristo - Sua Vida|Natal
+237A|Linda Estrela|Cristo - Sua Vida|Natal
+238|Novas de Amor|Cristo - Sua Vida|Natal
 239|Nasce Jesus|Cristo - Sua Vida|Natal
-240|Louvor angelical|Cristo - Sua Vida|Natal
-243|Noite de paz|Cristo - Sua Vida|Natal
-247|Estrela cintilante|Cristo - Sua Vida|Natal
+240|Louvor Angelical|Cristo - Sua Vida|Natal
+241|O Nascimento de Jesus|Cristo - Sua Vida|Natal
+242|Os Anjos E O Natal|Cristo - Sua Vida|Natal
+243|Noite de Paz|Cristo - Sua Vida|Natal
+244|Mensagem Aos Pastores|Cristo - Sua Vida|Natal
+245|Homens Sábios E de Bem|Cristo - Sua Vida|Natal
+246|Jesus|Cristo - Sua Vida|Natal
+247|Estrela Cintilante|Cristo - Sua Vida|Natal
+248|No Humilde Presépio|Cristo - Sua Vida|Natal
+249|Na Manjedoura|Cristo - Sua Vida|Natal
+250|A Voz de Jesus|Cristo - Sua Vida|Ministério
+251|O Pão da Vida|Cristo - Sua Vida|Ministério
+252|Pão Celestial|Cristo - Sua Vida|Ministério
+253|Cristo|Cristo - Sua Vida|Ministério
 254|Sossegai!|Cristo - Sua Vida|Ministério
-264|Fronte ensangüentada!|Cristo - Sua Vida|Paixão e Morte
-266|Rude cruz|Cristo - Sua Vida|Paixão e Morte
+255|A Ovelha Perdida|Cristo - Sua Vida|Ministério
+256|Glória Singular|Cristo - Sua Vida|Ministério
+257|Hosana Ao Grande Rei|Cristo - Sua Vida|Entrada Triunfal
+258|Majestade|Cristo - Sua Vida|Entrada Triunfal
+259|Hosana E Glória|Cristo - Sua Vida|Entrada Triunfal
+260|Amor Que Vence|Cristo - Sua Vida|Paixão e Morte
+261|O Gólgota|Cristo - Sua Vida|Paixão e Morte
+262|Contemplação da Cruz|Cristo - Sua Vida|Paixão e Morte
+263|Junto À Cruz de Cristo|Cristo - Sua Vida|Paixão e Morte
+264|Fronte Ensangüentada!|Cristo - Sua Vida|Paixão e Morte
+265|Cristo Redentor|Cristo - Sua Vida|Paixão e Morte
+266|Rude Cruz|Cristo - Sua Vida|Paixão e Morte
+267|Precioso Sangue|Cristo - Sua Vida|Paixão e Morte
 268|Redenção|Cristo - Sua Vida|Paixão e Morte
-269|Pureza no sangue de Cristo|Cristo - Sua Vida|Paixão e Morte
-274|Morto e ressurreto|Cristo - Sua Vida|Ressurreição
-282|A grande comissão|Cristo - Sua Vida|A Grande Comissão
-286|Colheita bendita|Cristo - Sua Vida|A Grande Comissão
-288|A mensagem real|Cristo - Sua Vida|A Grande Comissão
-292|A vinda do Senhor|Cristo - Sua Vida|Segunda Vinda
-297|A chamada final|Cristo - Sua Vida|Segunda Vinda
-298|A Pedra fundamental|Igreja - Seu Ministério|Igreja Militante
+269|Pureza No Sangue de Cristo|Cristo - Sua Vida|Paixão e Morte
+270|Desafio|Cristo - Sua Vida|Paixão e Morte
+271|Ressurreição|Cristo - Sua Vida|Ressurreição
+272|Aleluia Ao Cristo Redivivo|Cristo - Sua Vida|Ressurreição
+273|Memórias da Ressurreição|Cristo - Sua Vida|Ressurreição
+274|Morto E Ressurreto|Cristo - Sua Vida|Ressurreição
+275|Cristo Venceu|Cristo - Sua Vida|Ressurreição
+276|Amorável Convite|Cristo - Sua Vida|Ressurreição
+277|Cristo Vive! Ressurgiu!|Cristo - Sua Vida|Ressurreição
+278|A Vitória de Jesus|Cristo - Sua Vida|Ressurreição
+279|O Dia Triunfal Raiou|Cristo - Sua Vida|Ressurreição
+280|Ascensão|Cristo - Sua Vida|Ascensão
+281|Jesus Triunfante|Cristo - Sua Vida|Ascensão
+281A|Fronte Ensangüentada|Cristo - Sua Vida|Ascensão
+282|A Grande Comissão|Cristo - Sua Vida|A Grande Comissão
+283|Desafio|Cristo - Sua Vida|A Grande Comissão
+284|Obediência|Cristo - Sua Vida|A Grande Comissão
+285|A Salvação do Brasil|Cristo - Sua Vida|A Grande Comissão
+286|Colheita Bendita|Cristo - Sua Vida|A Grande Comissão
+288|A Mensagem Real|Cristo - Sua Vida|A Grande Comissão
+289|Quem Irá?|Cristo - Sua Vida|A Grande Comissão
+290|Jesus Já Vem|Cristo - Sua Vida|Segunda Vinda
+291|Triunfante|Cristo - Sua Vida|Segunda Vinda
+292|A Vinda do Senhor|Cristo - Sua Vida|Segunda Vinda
+293|O Dia Glorioso|Cristo - Sua Vida|Segunda Vinda
+294|O Senhor Voltará|Cristo - Sua Vida|Segunda Vinda
+295|A Volta de Jesus|Cristo - Sua Vida|Segunda Vinda
+296|Cristo Não Tarda|Cristo - Sua Vida|Segunda Vinda
+297|A Chamada Final|Cristo - Sua Vida|Segunda Vinda
+298|A Pedra Fundamental|Igreja - Seu Ministério|Igreja Militante
 299|Renovação|Igreja - Seu Ministério|Igreja Militante
-315|Serviço do crente|Igreja - Seu Ministério|Trabalho Cristão
+300|Igreja Militante|Igreja - Seu Ministério|Igreja Militante
+301|O Único Salvador|Igreja - Seu Ministério|Igreja Militante
+302|Povoam As Cidades|Igreja - Seu Ministério|Evangelização
+303|Pendão Real|Igreja - Seu Ministério|Evangelização
+304|A Voz do Evangelho|Igreja - Seu Ministério|Evangelização
+305|Quem Quiser|Igreja - Seu Ministério|Evangelização
+306|Fidelidade Na Luta|Igreja - Seu Ministério|Evangelização
+307|A Santa Peleja|Igreja - Seu Ministério|Evangelização
+308|Escuridão E Luz|Igreja - Seu Ministério|Evangelização
+309|Proclamação|Igreja - Seu Ministério|Evangelização
+310|Quem Salva É Só Jesus|Igreja - Seu Ministério|Evangelização
+311|Avante|Igreja - Seu Ministério|Trabalho Cristão
+312|Há Trabalho Certo|Igreja - Seu Ministério|Trabalho Cristão
+313|Prontidão|Igreja - Seu Ministério|Trabalho Cristão
+314|Diligência|Igreja - Seu Ministério|Trabalho Cristão
+315|Serviço do Crente|Igreja - Seu Ministério|Trabalho Cristão
+316|Os Intentos de Deus|Igreja - Seu Ministério|Trabalho Cristão
 317|Chamada|Igreja - Seu Ministério|Trabalho Cristão
 318|Ceifeiros do Senhor|Igreja - Seu Ministério|Trabalho Cristão
-320|Brilha no viver|Igreja - Seu Ministério|Trabalho Cristão
-325|Aspiração feminina|Igreja - Seu Ministério|Sociedade Auxiliadora Feminina
-326|Homens presbiterianos|Igreja - Seu Ministério|União Presbiteriana de Homens
-327|Obreiros cristãos|Igreja - Seu Ministério|Discipulado e Serviço
-332|Batismo infantil|Igreja - Seu Ministério|Batismo
-340|Santa comunhão|Igreja - Seu Ministério|Ceia do Senhor
+319|Obreiros Em Marcha|Igreja - Seu Ministério|Trabalho Cristão
+320|Brilha No Viver|Igreja - Seu Ministério|Trabalho Cristão
+321|Mãos Ao Trabalho|Igreja - Seu Ministério|Trabalho Cristão
+322|Heroínas da Fé|Igreja - Seu Ministério|Sociedade Auxiliadora Feminina
+323|Santa Peleja|Igreja - Seu Ministério|Sociedade Auxiliadora Feminina
+324|Unidas E Firmes|Igreja - Seu Ministério|Sociedade Auxiliadora Feminina
+325|Aspiração Feminina|Igreja - Seu Ministério|Sociedade Auxiliadora Feminina
+325A|Jesus Cristo É O Senhor|Igreja - Seu Ministério|Sociedade Auxiliadora Feminina
+326|Homens Presbiterianos|Igreja - Seu Ministério|União Presbiteriana de Homens
+327|Obreiros Cristãos|Igreja - Seu Ministério|Discipulado e Serviço
+328|Deus do Universo|Igreja - Seu Ministério|Discipulado e Serviço
+329|Instalação de Pastor|Igreja - Seu Ministério|Posse de Pastor
+330|A Bênção do Batismo|Igreja - Seu Ministério|Bastismo
+331|Oração|Igreja - Seu Ministério|Bastismo
+332|Batismo Infantil|Igreja - Seu Ministério|Bastismo
+333|O Batismo|Igreja - Seu Ministério|Bastismo
+334|A Conversão|Igreja - Seu Ministério|Convertidos
+335|Júbilo No Céu|Igreja - Seu Ministério|Convertidos
+336|Transformação|Igreja - Seu Ministério|Convertidos
+337|Profissão de Fé|Igreja - Seu Ministério|Profissão de Fé
+338|Dia da Profissão de Fé|Igreja - Seu Ministério|Profissão de Fé
+339|Dia Feliz|Igreja - Seu Ministério|Profissão de Fé
+340|Santa Comunhão|Igreja - Seu Ministério|Ceia do Senhor
+341|Vera Páscoa|Igreja - Seu Ministério|Ceia do Senhor
+342|Comunhão|Igreja - Seu Ministério|Ceia do Senhor
+343|Em Memória|Igreja - Seu Ministério|Ceia do Senhor
+344|A Ceia do Senhor|Igreja - Seu Ministério|Ceia do Senhor
+345|O Pão do Mundo|Igreja - Seu Ministério|Ceia do Senhor
 346|Ceia do Senhor|Igreja - Seu Ministério|Ceia do Senhor
-362|Brilhando por Jesus|Igreja - Seu Ministério|Crianças
-367|Convite aos meninos|Igreja - Seu Ministério|Crianças
-368|Despedida|Assuntos Diversos|Despedida
+347|O Justo Pelos Injustos|Igreja - Seu Ministério|Dia do Senhor
+348|É Este O Dia|Igreja - Seu Ministério|Dia do Senhor
+349|Dia do Senhor|Igreja - Seu Ministério|Dia do Senhor
+350|A Palavra da Vida|Igreja - Seu Ministério|Escola Dominical
+351|Belas Palavras de Vida|Igreja - Seu Ministério|Escola Dominical
+352|Leitura Bendita|Igreja - Seu Ministério|Escola Dominical
+353|Ao Fim Dos Estudos|Igreja - Seu Ministério|Escola Dominical
+354|A Escola Dominical|Igreja - Seu Ministério|Escola Dominical
+354A|Escola Dominical|Igreja - Seu Ministério|Escola Dominical
+355|Oração Infantil|Igreja - Seu Ministério|Crianças
+356|Jesus Menino|Igreja - Seu Ministério|Crianças
+357|Louvor Infantil|Igreja - Seu Ministério|Crianças
+358|Jesus E As Crianças|Igreja - Seu Ministério|Crianças
+359|Jesus Me Quer Bem|Igreja - Seu Ministério|Crianças
+360|Pequena Luz|Igreja - Seu Ministério|Crianças
+361|Brilhando Com Jesus|Igreja - Seu Ministério|Crianças
+362|Brilhando Por Jesus|Igreja - Seu Ministério|Crianças
+363|Venham As Crianças|Igreja - Seu Ministério|Crianças
+364|Graças A Deus|Igreja - Seu Ministério|Crianças
+365|Convite Às Crianças|Igreja - Seu Ministério|Crianças
+366|Jóias Preciosas|Igreja - Seu Ministério|Crianças
+367|Convite Aos Meninos|Igreja - Seu Ministério|Crianças
+368|Despedida|Igreja - Seu Ministério|Despedida
+369|A Bíblia Para Todos|Assuntos Diversos|Bíblia
+370|Proclamação|Assuntos Diversos|Bíblia
 371|A Bíblia|Assuntos Diversos|Bíblia
-373|Ano novo|Assuntos Diversos|Ano Novo
-374|Saudando o ano novo|Assuntos Diversos|Ano Novo
-375|O ano velho|Assuntos Diversos|Ano Novo
-376|Intercessão pela Pátria|Assuntos Diversos|Pátria
-379|Petição pela Pátria|Assuntos Diversos|Pátria
-395|Amor no lar|Assuntos Diversos|Lar Cristão
-399|Término do culto|Assuntos Diversos|Final de Culto
+372|O Crente E A Bíblia|Assuntos Diversos|Bíblia
+373|Ano Novo|Assuntos Diversos|Ano Novo
+374|Saudando O Ano Novo|Assuntos Diversos|Ano Novo
+375|O Ano Velho|Assuntos Diversos|Ano Novo
+376|Intercessão Pela Pátria|Assuntos Diversos|Pátria
+377|A Nação Para Cristo|Assuntos Diversos|Pátria
+378|Oração Pela Pátria|Assuntos Diversos|Pátria
+379|Petição Pela Pátria|Assuntos Diversos|Pátria
+380|Jesus Proteja A Pátria|Assuntos Diversos|Pátria
+381|Intercessão Pela Cidade|Assuntos Diversos|Cidade
+382|Mocidade Presbiteriana|Assuntos Diversos|Mocidade
+383|Um Novo Mundo|Assuntos Diversos|Mocidade
+384|Vamos Com Jesus|Assuntos Diversos|Mocidade
+385|O Estudante E A Bíblia|Assuntos Diversos|Mocidade
+386|Testemunho|Assuntos Diversos|Mocidade
+387|Combate|Assuntos Diversos|Mocidade
+388|Mocidade|Assuntos Diversos|Mocidade
+389|Avante|Assuntos Diversos|Mocidade
+390|Fiéis Soldados|Assuntos Diversos|Mocidade
+391|Mocidade Fiel|Assuntos Diversos|Mocidade
+392|Vida Vitoriosa|Assuntos Diversos|Mocidade
+393|União Vital|Assuntos Diversos|Casamento
+394|Perfeito Amor|Assuntos Diversos|Casamento
+395|Amor No Lar|Assuntos Diversos|Lar Cristão
+396|Graças Pelo Aniversário|Assuntos Diversos|Aniversário
+397|Por Minha Boa Mãe|Assuntos Diversos|Mãe
+398|Outra Vez Cantamos|Assuntos Diversos|Final de Culto
+399|Término do Culto|Assuntos Diversos|Final de Culto
+400|Oração Por Proteção|Assuntos Diversos|Final de Culto
 A|Ofertório|Outros|Ofertório e Améns
-B|Amém tríplice|Outros|Ofertório e améns
-C|Amém quádruplo|Outros|Ofertório e améns
+B|Amém Tríplice|Outros|Ofertório e Améns
+C|Amém Quádruplo|Outros|Ofertório e Améns
+D|Amém Sétuplo|Outros|Ofertório e Améns
