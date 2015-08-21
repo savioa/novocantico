@@ -181,7 +181,7 @@ secaoAtual = 'nenhuma'
 assuntoAtual = 'nenhum'
 conteudo = ''
 
-File.open("listagem", "r") do |f|
+File.open("listagemComAssunto", "r") do |f|
   f.each_line do |linha|
     item = linha.split '|'
     numero = item[0].strip
