@@ -1,184 +1,232 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform'>
-<xsl:output method='html' encoding='utf-8' indent='yes' doctype-public='-//W3C//DTD XHTML 1.1//EN' doctype-system='http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd'/>
-<xsl:template match='/'>
-<html xmlns='http://www.w3.org/1999/xhtml' lang='en' xml:lang='en'>
-<head>
-	<title><xsl:value-of select='hino/numero'/> - <xsl:value-of select='hino/titulo'/> - Novo Cântico</title>
-	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-	<link rel='stylesheet' type='text/css' href='../../css/reset_em.css' />
-	<link rel='stylesheet' type='text/css' href='../../css/base.css' />
-	<script type='text/javascript' src='../../js/jquery-1.3.2.min.js'></script>
-	<script type='text/javascript' src='../../js/cifra-2009-08-28.js'></script>
+    <xsl:output method='html' encoding='utf-8' indent='yes' />
+    <xsl:template match='/'>
+    <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-</head>
+        <title><xsl:value-of select='hino/numero'/> · <xsl:value-of select='hino/titulo'/> · Novo Cântico</title>
 
-<body>
+        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/cosmo/bootstrap.min.css" rel="stylesheet" />
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" />
+        <link href="../../css/nc.css" rel="stylesheet" />
 
-<div id='cabecalho'>
-	<h1><a href='/'>Novo Cântico</a></h1>
-	<h2><a href='/'>Hinário Presbiteriano</a></h2>
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
 
-	<div id='menu'>
-		<ul>
-			<li><a href='../../indiceAssunto.html'>Índice</a></li>
-			<li><a href='../../artigos.html'>Artigos</a></li>
-			<li><a href='../../sobre.html'>Sobre</a></li>
-			<li><a href='../../contato.html'>Contato</a></li>
-			<li><a href='../../hnc_v001.epub'>E-book (ePub)</a></li>
-		</ul>
+    <body>
+        <nav class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+                            <span class="sr-only">Acionar menu de navegação</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="../../index.html">Novo Cântico</a>
+                    </div>
 
-		<form action='http://www.novocantico.com.br/busca.html' id='cse-search-box'>
-			<fieldset>
-				<input type='text' name='q' id='busca' />
-				<input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
-				<input type='hidden' name='cof' value='FORID:9' />
-				<input type='hidden' name='ie' value='UTF-8' /> <button type='submit' name='sa'>Buscar</button>
-			</fieldset>
-		</form>
-	</div>
-</div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Índices <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="../../indice/assunto">Número/Assunto</a></li>
+                                    <li><a href="../../indice/primeiro-verso">Primeiro Verso</a></li>
+                                    <li><a href="../../indice/coro">Coro</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="../../indice/origem-letra">Origem da Letra</a></li>
+                                    <li><a href="../../indice/origem-musica">Origem da Música</a></li>
+                                    <li><a href="../../indice/referencia-biblica">Referência Bíblica</a></li>
+                                    <li><a href="../../indice/titulo-original">Título Original</a></li>
+                                    <li><a href="../../indice/primeiro-verso-original">Prim. Verso Original</a></li>
+                                    <li><a href="../../indice/metrica">Métrica</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="../../ajuda.html">Ajuda</a></li>
+                            <li><a href="../../contato.html">Contato</a></li>
+                        </ul>
 
-<div id='conteudo'>
-	<h1><span id='numero'><xsl:value-of select='hino/numero'/>.</span><span id='titulo'><xsl:value-of select='hino/titulo'/></span></h1>
+                        <form action="../../pesquisa.html" class="navbar-form navbar-right" role="search">
+                            <div class="form-group">
+                                <input type="text" name="q" autocomplete="off" class="form-control" placeholder="Pesquisar por..." />
+                                <input type='hidden' name='cx' value='007541164279382477135:v55cgb2k3be' />
+                                <input type='hidden' name='cof' value='FORID:9' />
+                                <input type='hidden' name='ie' value='UTF-8' />
+                            </div>
+                            <button type="submit" class="btn btn-default"><i class="fa fa-lg fa-search"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </nav>
 
-	<div id='hino'>
-		<p><a href='../../indiceAssunto.html#{/hino/secao/@id}'><xsl:value-of select='hino/secao'/></a> &#8250; <a href='../../indiceAssunto.html#{/hino/secao/@id}{/hino/assunto/@id}'><xsl:value-of select='hino/assunto'/></a></p>
+        <div class="container">
+            <div class="bs-docs-grid">
+                <div class="row show-grid">
+                    <div class="col-md-8">
+                        <div class="panel panel-default">
+                            <div class="panel-heading"><xsl:value-of select='hino/numero'/> · <xsl:value-of select='hino/titulo'/> <span class="pull-right social"><a title="Compartilhe no Twitter" href="https://twitter.com/intent/tweet?text={hino/numero} · {hino/titulo}&amp;url=http://www.novocantico.com.br/hino/{hino/numero}/{hino/numero}.xml&amp;via=novo_cantico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a> <a title="Compartilhe no Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.novocantico.com.br/hino/{hino/numero}/{hino/numero}.xml" target="_blank"><i class="fa fa-facebook-official fa-lg"></i></a></span></div>
 
-		<ul id='texto'>
-		<xsl:for-each select='hino/texto/estrofe'>
-			<li><ul>
-				<xsl:for-each select='verso'>
-					<xsl:if test='hino/@cifra'>
-						<item last="{/values/value[position()-1]}" current="{.}" />
-					</xsl:if>
-					<li><xsl:if test='@voz'><span class='voz'>[<xsl:value-of select='./@voz'/>]</span>&#160;</xsl:if><xsl:value-of select='.'/></li>
-				</xsl:for-each>
-				</ul>
+                            <div class="panel-body">
+                                <xsl:choose>
+                                <xsl:when test='hino/@situacao'>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                <a class="btn btn-primary pull-right" href="{hino/numero}.pdf" role="button">Mostrar partitura</a>
+                                </xsl:otherwise>
+                                </xsl:choose>
 
-				<xsl:for-each select='coro'>
-				<ul class='coro'>
-					<xsl:if test='@voz'><li><span class='voz'>[<xsl:value-of select='./@voz'/>]</span></li></xsl:if>
-					<xsl:for-each select='verso'>
-						<li><xsl:if test='@voz'><span class='voz'>[<xsl:value-of select='./@voz'/>]</span>&#160;</xsl:if><xsl:value-of select='.'/></li>
-					</xsl:for-each>
-				</ul>
+                                <ul id='texto' class="list-unstyled">
+                                    <xsl:for-each select='hino/texto/estrofe'>
+                                        <li class="estrofe">
+                                            <ul class="list-unstyled">
+                                            <xsl:for-each select='verso'>
+                                                <li><xsl:if test='@voz'><span class='voz'>[<xsl:value-of select='./@voz'/>]</span>&#160;</xsl:if><xsl:value-of select='.'/></li>
+                                            </xsl:for-each>
+                                            </ul>
 
-				</xsl:for-each>
-			</li>
-		</xsl:for-each>
-		</ul>
+                                            <xsl:for-each select='coro'>
+                                            <ul class='coro list-unstyled'>
+                                                <xsl:if test='@voz'><li><span class='voz'>[<xsl:value-of select='./@voz'/>]</span></li></xsl:if>
+                                                <xsl:for-each select='verso'>
+                                                    <li><xsl:if test='@voz'><span class='voz'>[<xsl:value-of select='./@voz'/>]</span>&#160;</xsl:if><xsl:value-of select='.'/></li>
+                                                </xsl:for-each>
+                                            </ul>
+                                            </xsl:for-each>
+                                        </li>
+                                    </xsl:for-each>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
 
-		<xsl:if test='hino/@cifra'>
-		<ul id='cifra'>
-		<xsl:for-each select='hino/texto/estrofe'>
-			<xsl:for-each select='verso | cifra'>
-				<li><pre><xsl:value-of select='.'/></pre></li>
-			</xsl:for-each>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Áudio</div>
 
-			<xsl:for-each select='coro'>
-				<li>
-					<ul class='cifra_coro'>
-					<xsl:for-each select='verso | cifra'>
-						<li><pre><xsl:value-of select='.'/></pre></li>
-					</xsl:for-each>
-					</ul>
-				</li>
-			</xsl:for-each>
-		</xsl:for-each>
-		</ul>
-		</xsl:if>
-	</div>
+                            <div class="panel-body">
+                                <i class="fa fa-volume-up fa-5x pull-right"></i>
+                                <xsl:choose>
+                                <xsl:when test='hino/@situacao'>
+                                <p>Não disponível</p>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                <form id="controle-audio">
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}" value="audio-todos" checked="checked" /> Todos</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}s" value="audio-soprano" /> Soprano</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}c" value="audio-contralto" /> Contralto</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}t" value="audio-tenor" /> Tenor</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}b" value="audio-baixo" /> Baixo</label></div>
 
-	<div id='info'>
-		<ul>
-			<xsl:if test='hino/@cifra'>
-			<li id='mostrar' class='link_cifra'><a>Mostrar cifra</a><ul></ul></li>
-			<li id='ocultar' class='link_cifra'><a>Ocultar cifra</a><ul></ul></li>
-			</xsl:if>
+                                    <div class="btn-group">
+                                        <a id="btn-controle-audio" class="btn btn-primary"><i class="fa fa-play"></i> Reproduzir</a>
+                                        <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                            <span class="caret"></span>
+                                            <span class="sr-only">Acionar menu de áudio</span>
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="{hino/numero}.mp3">Salvar</a></li>
+                                        </ul>
+                                    </div>
+                                </form>
 
-			<xsl:choose>
-			<xsl:when test='hino/@situacao'>
-			<li>Partitura
-				<ul><li>(Em breve)</li></ul>
-			</li>
-			<li>Áudio
-				<ul><li>(Em breve)</li></ul>
-			</li>
-			</xsl:when>
-			<xsl:otherwise>
-			<li><a href='{hino/numero}.pdf'>Partitura</a><ul></ul></li>
-			<li>Áudio
-				<ul>
-					<li><a href='{hino/numero}.mp3'>4 vozes</a></li>
-					<li><a href='{hino/numero}s.mp3'>Soprano</a></li>
-					<li><a href='{hino/numero}c.mp3'>Contralto</a></li>
-					<li><a href='{hino/numero}t.mp3'>Tenor</a></li>
-					<li><a href='{hino/numero}b.mp3'>Baixo</a></li>
-				</ul>
-			</li>
-			</xsl:otherwise>
-			</xsl:choose>
+                                <audio id="audio-todos">
+                                    <p>Seu navegador não permite a reprodução desse áudio.</p>
+                                    <source src="./{hino/numero}.mp3" />
+                                </audio>
 
-			<li>Origem da Letra
-				<ul>
-					<xsl:for-each select='hino/origem_letra'>
-					<li>
-					<a href='../../indiceOrigemLetra.html#{./@id}'><xsl:value-of select='.'/></a>
-					<xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if>
-					</li>
-					</xsl:for-each>
-				</ul>
-			</li>
-			<li>Origem da Música
-				<ul>
-					<xsl:for-each select='hino/origem_musica'>
-					<li>
-					<a href='../../indiceOrigemMusica.html#{./@id}'><xsl:value-of select='.'/></a>
-					<xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if>
-					</li>
-					</xsl:for-each>
-				</ul>
-			</li>
-			<li>Referência Bíblica
-				<ul>
-					<xsl:for-each select='hino/referencia_biblica'>
-					<li><a href='../../indiceReferenciaBiblica.html#{./@id}'><xsl:value-of select='.'/></a></li>
-					</xsl:for-each>
-				</ul>
-			</li>
-			<li>Título Original
-				<ul>
-					<xsl:for-each select='hino/titulo_original'>
-					<li><a href='../../indiceTituloOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></li>
-					</xsl:for-each>
-				</ul>
-			</li>
-			<li>1º Verso Original
-				<ul>
-					<xsl:for-each select='hino/primeiro_verso_original'>
-					<li><a href='../../indicePrimVersoOriginal.html#{/hino/numero}'><xsl:value-of select='.'/></a></li>
-					</xsl:for-each>
-				</ul>
-			</li>
-			<li>Métrica
-				<ul>
-					<xsl:for-each select='hino/metrica'>
-					<li><a href='../../indiceMetrica.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></li>
-					</xsl:for-each>
-				</ul>
-			</li>
-		</ul>
-	</div>
-	<p id='rodape'>Entoai-lhe novo cântico, tangei com arte e com júbilo. Salmo 33.3</p>
-</div>
-<script type="text/javascript" src=" http://www.google-analytics.com/urchin.js "></script>
+                                <audio id="audio-soprano">
+                                    <p>Seu navegador não permite a reprodução desse áudio.</p>
+                                    <source src="./{hino/numero}s.mp3" />
+                                </audio>
 
-<script type="text/javascript">
-_uacct = "UA-9463013-1"
-urchinTracker();
-</script>
-</body>
+                                <audio id="audio-contralto">
+                                    <p>Seu navegador não permite a reprodução desse áudio.</p>
+                                    <source src="./{hino/numero}c.mp3" />
+                                </audio>
+
+                                <audio id="audio-tenor">
+                                    <p>Seu navegador não permite a reprodução desse áudio.</p>
+                                    <source src="./{hino/numero}t.mp3" />
+                                </audio>
+
+                                <audio id="audio-baixo">
+                                    <p>Seu navegador não permite a reprodução desse áudio.</p>
+                                    <source src="./{hino/numero}b.mp3" />
+                                </audio>
+                                </xsl:otherwise>
+                                </xsl:choose>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Informação Adicional</div>
+
+                            <div class="panel-body">
+                                <i class="fa fa-info-circle fa-5x pull-right"></i>
+                                <dl>
+                                    <dt>Assunto</dt>
+                                    <dd><a href='../../indice/assunto/index.html#{/hino/secao/@id}'><xsl:value-of select='hino/secao'/></a> &#8250; <a href='../../indice/assunto/index.html#{/hino/secao/@id}{/hino/assunto/@id}'><xsl:value-of select='hino/assunto'/></a></dd>
+
+                                    <dt>Origem da Letra</dt>
+                                    <xsl:for-each select='hino/origem_letra'>
+                                    <dd><a href='../../indice/origem-letra/index.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
+                                    </xsl:for-each>
+
+                                    <dt>Origem da Música</dt>
+                                    <xsl:for-each select='hino/origem_musica'>
+                                    <dd><a href='../../indice/origem-musica/index.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
+                                    </xsl:for-each>
+
+                                    <dt>Referência Bíblica</dt>
+                                    <xsl:for-each select='hino/referencia_biblica'>
+                                    <dd><a href='../../indice/referencia-biblica/index.html#{./@id}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+
+                                    <dt>Título Original</dt>
+                                    <xsl:for-each select='hino/titulo_original'>
+                                    <dd><a href='../../indice/titulo-original/index.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+
+                                    <dt>1º Verso Original</dt>
+                                    <xsl:for-each select='hino/primeiro_verso_original'>
+                                    <dd><a href='../../indice/primeiro-verso-original/index.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+
+                                    <dt>Métrica</dt>
+                                    <xsl:for-each select='hino/metrica'>
+                                    <dd><a href='../../indice/metrica/index.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></dd>
+                                    </xsl:for-each>
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row show-grid">
+                    <div class="col-md-12">
+                        <p class="text-center">Entoai-lhe novo cântico, tangei com arte e com júbilo. Salmo 33.3</p>
+                        <p class="text-center"><a href="https://twitter.com/novo_cantico" class="twitter-follow-button" data-show-count="false" data-lang="pt">Seguir @novo_cantico</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        <script src="../../js/nc.js"></script>
+    </body>
 </html>
-</xsl:template>
+    </xsl:template>
 </xsl:stylesheet>
