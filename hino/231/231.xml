@@ -46,7 +46,7 @@
   <origem_letra id="Anonimo" referencia="Anônimo">Anônimo</origem_letra>
   <origem_letra id="SeeR" referencia="See, Ruth" ano="1941">Ruth See</origem_letra>
   <origem_musica id="MelodiaInglesa" referencia="Melodia inglesa">Melodia inglesa</origem_musica>
-  <origem_musica id="Stainer, J" referencia="Stainer, John">John Stainer</origem_musica>
+  <origem_musica id="StainerJ" referencia="Stainer, John">John Stainer</origem_musica>
   <primeiro_verso_original>The first Noel the angel did say</primeiro_verso_original>
   <referencia_biblica id="40_002_002">Mateus 2.2</referencia_biblica>
 </hino>

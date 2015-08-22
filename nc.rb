@@ -38,7 +38,7 @@ hash_primeiro_verso_original = Hash.new
 hash_metrica = Hash.new
 hash_referencia_biblica = Hash.new
 
-raiz = '../hino/'
+raiz = './hino/'
 Dir.foreach raiz do |hino|
   unless hino.start_with? '.'
     xml = Document.new File.new(raiz + hino + '/' + hino + '.xml')
@@ -164,7 +164,7 @@ hash_referencia_biblica.sort.each do |chave, valor|
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
 
   valor.sort!{ |a, b| a[3] <=> b[3]}.each do |e|
-    conteudo << ' ' * 44 + '<li>%s <a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[0].gsub(livros[chave][0] + ' ' , ''), e[1], e[1], e[2].gsub(/[,;:.!?]$/, ''), e[1]] + "\n"
+    conteudo << ' ' * 44 + '<li id=\'%s\'>%s <a href=\'../../hino/%s/%s.xml\'>%s</a>: %s</li>' % [e[3], e[0].gsub(livros[chave][0] + ' ' , ''), e[1], e[1], e[2].gsub(/[,;:.!?]$/, ''), e[1]] + "\n"
   end
 
   conteudo << ' ' * 40 + '</ul>' + "\n"
@@ -230,7 +230,7 @@ File.open("listagemComAssunto", "r") do |f|
       conteudo << ' ' * 48 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
-    if File.exist?('../hino/%s' % numero)
+    if File.exist?('./hino/%s' % numero)
       conteudo << ' ' * 52 + '<li><a href=\'../../hino/%s/%s.xml\'>%s · %s</a></li>' % [numero, numero, numero, titulo] + "\n"
     else
       conteudo << ' ' * 52 + '<li>%s · %s</li>' % [numero, titulo] + "\n"
