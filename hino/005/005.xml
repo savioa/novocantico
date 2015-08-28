@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino cifra=''>
+<hino>
   <numero>005</numero>
   <n>5</n>
   <titulo>Trindade Adorada</titulo>
   <texto>
     <estrofe>
-      <cifra>G              D</cifra>
       <verso>Glória seja ao Pai,</verso>
-      <cifra>D        A    D  G    D A D</cifra>
       <verso>Ao Filho e ao Santo Espírito,</verso>
-      <cifra>D    G          D4 D</cifra>
       <verso>Como era no princípio,</verso>
-      <cifra>D Am     D7   G</cifra>
       <verso>É hoje e para sempre,</verso>
-      <cifra>G     Em C    G    D G</cifra>
       <verso>Eternamente! Amém! Amém!</verso>
     </estrofe>
   </texto>
