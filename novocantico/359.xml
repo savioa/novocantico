@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>359</numero>
+    <n>359</n>
+    <titulo>JESUS ME QUER BEM. C 2/2</titulo>
+    <texto>
+      <estrofe>
+        <verso>Sei que Cristo me quer bem,</verso>
+        <verso>Pois na Bíblia assim o diz.</verso>
+        <verso>Frágil sou, mas força tem;</verso>
+        <verso>Quer levar-me ao bom País.</verso>
+        <coro>
+          <verso>Sei que me quer bem,</verso>
+          <verso>Quer ver-me feliz,</verso>
+          <verso>Sei que me quer bem</verso>
+          <verso>A Bíblia assim o diz.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Tudo fez Jesus por mim,</verso>
+        <verso>Só por ele vou viver.</verso>
+        <verso>E porque me quer assim,</verso>
+        <verso>Hei de amá-lo até morrer!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

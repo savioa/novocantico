@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>053</numero>
+    <n>53</n>
+    <titulo>Honra, poder, majestade</titulo>
+    <texto>
+      <estrofe>
+        <verso>Honra, poder, majestade, riqueza,</verso>
+        <verso>Sabedoria, domínio e grandeza,</verso>
+        <verso>Ao vencedor da batalha é cantado,</verso>
+        <verso>Ao ser no trono do céu, coroado.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Soa nos céus o triunfo, a vitória;</verso>
+        <verso>Vibra na terra do seu Nome a glória;</verso>
+        <verso>Montes, oceanos, florestas e flores,</verso>
+        <verso>Do seu domínio ecoam louvores.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sobe em canto constante alegria;</verso>
+        <verso>Bênçãos do alto nos vêm cada dia;</verso>
+        <verso>Honra, poder, majestade entoamos</verso>
+        <verso>Em nossos hinos que a Deus elevamos.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Dai ao Cordeiro o louvor que é devido;</verso>
+        <verso>No trono reina de glória vestido.</verso>
+        <verso>Foi imolado - aparente fraqueza!</verso>
+        <verso>Mas triunfante, já vive em grandeza.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

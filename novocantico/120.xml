@@ -1,0 +1,37 @@
+<hino situacao='incompleto'>
+    <numero>120</numero>
+    <n>120</n>
+    <titulo>Dependência</titulo>
+    <texto>
+      <estrofe>
+        <verso>Careço de Jesus, de ti, meu Salvador!</verso>
+        <verso>Somente a tua voz tem para mim valor.</verso>
+        <coro>
+          <verso>De ti, Senhor careço!</verso>
+          <verso>Do teu amparo sempre!</verso>
+          <verso>Oh, dá-me tua bênção!</verso>
+          <verso>Aspiro a ti.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Careço de Jesus! Unido a ti Senhor,</verso>
+        <verso>Pecado e tentação não mais terão vigor</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Careço de Jesus, nas trevas e nas luz!</verso>
+        <verso>Sem ti a vida é vã, sou pobre sem Jesus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Careço de Jesus! Viver desejo aqui,</verso>
+        <verso>Ligado mais e mais, ó Salvador a ti! Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

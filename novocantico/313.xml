@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>313</numero>
+    <n>313</n>
+    <titulo>Prontidão</titulo>
+    <texto>
+      <estrofe>
+        <verso>Quem de Cristo ao lado agora quer andar?</verso>
+        <verso>Quem a sua vida quer lhe dedicar?</verso>
+        <verso>Tudo abandonando, a Jesus seguir,</verso>
+        <verso>Encarando as lutas que lhe possam vir?</verso>
+        <coro>
+          <verso>Quem de Cristo ao lado sempre quer andar?</verso>
+          <verso>Quem quer ajudá-lo outros a chamar?</verso>
+          <verso>Pela tua graça, pelo teu amor,</verso>
+          <verso>Eis-nos ao teu lado, somos teu, Senhor!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Não ambicionado honras ou poder,</verso>
+        <verso>Eis-nos todos firmes para combater.</verso>
+        <verso>Quem o amor de Cristo vem a contemplar,</verso>
+        <verso>Há de, resoluto, ao seu lado estar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Não com ouro ou prata foi, Senhor Jesus,</verso>
+        <verso>Que nos redimiste, mas por tua cruz.</verso>
+        <verso>Sim, com o teu sangue, sangue remidor,</verso>
+        <verso>Tu nos resgataste de uma vez, Senhor!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A peleja sempre dura nos será;</verso>
+        <verso>Inimigo forte nos combaterá;</verso>
+        <verso>Mas Onipotente é o Rei dos reis!</verso>
+        <verso>A vitória é certa para os seus fiéis!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

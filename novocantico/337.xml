@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>337</numero>
+    <n>337</n>
+    <titulo>Profissão de fé</titulo>
+    <texto>
+      <estrofe>
+        <verso>O Céu festeja a conversão</verso>
+        <verso>De mais um pecador!</verso>
+        <verso>Exulta a Igreja de prazer;</verso>
+        <verso>É dos de esplendor!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sustenta ó Deus o pecador</verso>
+        <verso>Que o mundo quis deixar!</verso>
+        <verso>Acolhe o nosso novo irmão</verso>
+        <verso>Que a fé vem professar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Confirma em teu poder, Senhor,</verso>
+        <verso>A santa profissão,</verso>
+        <verso>E a cerimônia a relembrar</verso>
+        <verso>O sangue da aspersão</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Consolador divino, vem</verso>
+        <verso>As almas converter!</verso>
+        <verso>Vem muitas almas batizar,</verso>
+        <verso>Exerce o teu poder! Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

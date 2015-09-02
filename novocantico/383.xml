@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>383</numero>
+    <n>383</n>
+    <titulo>Um novo mundo. D 4/4</titulo>
+    <texto>
+      <estrofe>
+        <verso>Jovens fortes chama-nos Jesus,</verso>
+        <verso>Para um mundo novo construir.</verso>
+        <verso>Trevas, que hoje tentam destruir,</verso>
+        <verso>Hão de ser clara luz,</verso>
+        <verso>Alvo resplendor!</verso>
+        <coro>
+          <verso>Levantemos sobre a terra</verso>
+          <verso>Nossos braços libertados,</verso>
+          <verso>Ao serviço convocados</verso>
+          <verso>Por Jesus;</verso>
+          <verso>Pelos que são oprimidos,</verso>
+          <verso>Pelos que são perseguidos!</verso>
+          <verso>Eia! Que nós venceremos</verso>
+          <verso>No poder da cruz!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Ao combate, enquanto não soou</verso>
+        <verso>O momento em que há de raiar</verso>
+        <verso>Novo mundo, com Jesus, Senhor,</verso>
+        <verso>Onde a paz e o amor</verso>
+        <verso>Sempre hão de reinar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

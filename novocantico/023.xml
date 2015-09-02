@@ -1,0 +1,34 @@
+<hino situacao='incompleto'>
+    <numero>023</numero>
+    <n>23</n>
+    <titulo>Adoração ao Criador</titulo>
+    <texto>
+      <estrofe>
+        <verso>Oh! Vinde adorar ao Deus criador,</verso>
+        <verso>Da terra e dos céus eterno Senhor,</verso>
+        <verso>Ao Deus que, habitando no meio da luz,</verso>
+        <verso>A nós se revela por Cristo Jesus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Seu grande poder deveis contemplar</verso>
+        <verso>No céu estrelado, no amplo mar.</verso>
+        <verso>A gota de orvalho, a mínima flor,</verso>
+        <verso>Proclamam, constantes, ser Deus seu Autor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Oh! Vinde adorar ao Deus Salvador,</verso>
+        <verso>Que em Cristo Jesus nos mostra favor.</verso>
+        <verso>Ao Deus que, benigno, com graça e perdão,</verso>
+        <verso>Pecados cobrindo nos dá redenção.</verso>
+      </estrofe>
+    </texto>
+    <secao id='01'>Louvor e Adoração</secao>
+    <assunto id='05'>Deus Criador</assunto>
+    <titulo_original>St. Joseph</titulo_original>
+    <metrica id='10_10_11_11'>10.10.11.11</metrica>
+    <origem_letra ano='1898' id='WrightHM' referencia='Wright, Henry Maxwell'>Henry Maxwell Wright</origem_letra>
+    <origem_musica ano='' id='ParryJ' referencia='Parry, Joseph'>Joseph Parry</origem_musica>
+    <primeiro_verso_original>Oh! Vinde adorar ao Deus criador</primeiro_verso_original>
+    <referencia_biblica id='19_086_009'>Salmos 86.9</referencia_biblica>
+    <referencia_biblica id='19_095_006'>Salmos 95.6</referencia_biblica>
+  </hino>

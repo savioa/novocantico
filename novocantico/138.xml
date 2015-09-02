@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>138</numero>
+    <n>138</n>
+    <titulo>Refúgio</titulo>
+    <texto>
+      <estrofe>
+        <verso>Ó Bondoso Salvador!</verso>
+        <verso>Sê Tu meu amparador!</verso>
+        <verso>Negras ondas de aflição,</verso>
+        <verso>Fortes ventos perto estão.</verso>
+        <verso>Deste espanto e do terror,</verso>
+        <verso>Vem salvar-me, ó bom Senhor!</verso>
+        <verso>E no porto faze entrar</verso>
+        <verso>Minha barca sem quebrar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Consternado nesta dor,</verso>
+        <verso>Sem refúgio, sem vigor,</verso>
+        <verso>Meu medroso coração</verso>
+        <verso>Vem rogar-te proteção.</verso>
+        <verso>Mostra o teu imenso amor,</verso>
+        <verso>Ó benigno Salvador!</verso>
+        <verso>Poderosa e clara luz,</verso>
+        <verso>Não me deixes, ó Jesus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Compassivo Redentor,</verso>
+        <verso>Vale a um triste pecador!</verso>
+        <verso>Vida e gozo Tu me dás,</verso>
+        <verso>Graça infinda, eterna paz.</verso>
+        <verso>Enche o débil coração,</verso>
+        <verso>Com os dons da salvação,</verso>
+        <verso>E seguro, sem temor,</verso>
+        <verso>Gozarei do teu favor. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,50 @@
+<hino situacao='incompleto'>
+    <numero>122</numero>
+    <n>122</n>
+    <titulo>Necessitado</titulo>
+    <texto>
+      <estrofe>
+        <verso>À minha voz, ó Deus, atende,</verso>
+        <verso>Pois noite e dia clamo a ti!</verso>
+        <verso>Tão débil sou, tão pobre aqui,</verso>
+        <verso>A meus queixumes e gemidos</verso>
+        <verso>Vem dar ouvidos!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Da vida e luz Tu és a fonte!</verso>
+        <verso>Em mim opera o teu poder!</verso>
+        <verso>Minha oração vem receber,</verso>
+        <verso>Pois de meu leito o sol vigio</verso>
+        <verso>E em ti confio.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Não és um Deus que te comprazes</verso>
+        <verso>Nas transgressões do pecador</verso>
+        <verso>Bondoso e justo és Tu Senhor!</verso>
+        <verso>E teu favor jamais consentes</verso>
+        <verso>Aos maldizentes.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Meus pés, à luz de teus caminhos,</verso>
+        <verso>Humilde e fiel dirigirei.</verso>
+        <verso>Tu és meu Deus, Tu és meu Rei!</verso>
+        <verso>À tua vista andar eu quero,</verso>
+        <verso>Puro e sincero</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Em ti exultarão os justos,</verso>
+        <verso>Rejubilando em tua paz.</verso>
+        <verso>De todo o mal os guardarás</verso>
+        <verso>Pois tua Lei, ó Deus, conhecem</verso>
+        <verso>E te obedecem. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

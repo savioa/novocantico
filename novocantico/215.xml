@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>215</numero>
+    <n>215</n>
+    <titulo>Apelo</titulo>
+    <texto>
+      <estrofe>
+        <verso>Jesus, estás à porta</verso>
+        <verso>Do aflito coração!</verso>
+        <verso>E queres fazer nele</verso>
+        <verso>Perene habitação.</verso>
+        <verso>Cristãos jamais seremos,</verso>
+        <verso>Nem filhos do Senhor,</verso>
+        <verso>Se não fizer morada</verso>
+        <verso>Em nós o Salvador.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Jesus, estás batendo</verso>
+        <verso>Com traspassada mão!</verso>
+        <verso>Espinhos tens na fronte,</verso>
+        <verso>Nos olhos compaixão!</verso>
+        <verso>Com amor incompreensível</verso>
+        <verso>Esperas sem cansar!</verso>
+        <verso>Por causa do pecado</verso>
+        <verso>Não podes Tu entrar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Jesus, nos amas tanto,</verso>
+        <verso>Bondoso é teu olhar!</verso>
+        <verso>Sofreste no Calvário</verso>
+        <verso>A fim de nos salvar!</verso>
+        <verso>Senhor, com fé abrimos</verso>
+        <verso>O nosso coração!</verso>
+        <verso>Oh, entra e faze nele</verso>
+        <verso>Eterna habitação! Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

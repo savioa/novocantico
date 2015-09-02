@@ -1,0 +1,51 @@
+<hino situacao='incompleto'>
+    <numero>308</numero>
+    <n>308</n>
+    <titulo>Escuridão e luz</titulo>
+    <texto>
+      <estrofe>
+        <verso>Nas tormentas dessa vida,</verso>
+        <verso>Perto está a perdição.</verso>
+        <verso>Aos incautos navegantes,</verso>
+        <verso>Quem trará a salvação?</verso>
+        <coro>
+          <verso>Resplandeçam nossas luzes</verso>
+          <verso>Através do escuro mar,</verso>
+          <verso>Pois nas trevas do pecado</verso>
+          <verso>Almas podem naufragar!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Brilha sempre, em graça imensa,</verso>
+        <verso>Rico amor do eterno Deus.</verso>
+        <verso>Cumpre a nós mostrar o rumo</verso>
+        <verso>Do caminho para os céus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Nuvens de paixão mundana</verso>
+        <verso>Não nos deixam ver o sol.</verso>
+        <verso>Oh, mostremos o perigo</verso>
+        <verso>Com as luzes do farol.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Aos errantes, insensatos,</verso>
+        <verso>Guia ao porto divinal!</verso>
+        <verso>Em Jesus há vero abrigo</verso>
+        <verso>Do furor do temporal.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Noite eterna se aproxima,</verso>
+        <verso>Tenebrosa em seu horror!</verso>
+        <verso>Clama, avisa aos infelizes;</verso>
+        <verso>Insta-os para o Salvador!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>098</numero>
+    <n>98</n>
+    <titulo>Não há condenação</titulo>
+    <texto>
+      <estrofe>
+        <verso>“Não há condenação!”</verso>
+        <verso>Assim diz o Senhor.</verso>
+        <verso>Pois temos ante o tribunal</verso>
+        <verso>Perfeito defensor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>“Não há condenação!”</verso>
+        <verso>O justo e santo Deus</verso>
+        <verso>Aceita a Cristo, o Mediador,</verso>
+        <verso>Que entrou por nós nos céus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>“Não há condenação!”</verso>
+        <verso>Repousa, ó alma, aqui!</verso>
+        <verso>É Cristo, quem na cruz morreu,</verso>
+        <verso>Teu advogado ali.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>“Não há condenação!”</verso>
+        <verso>O Cristo triunfou!</verso>
+        <verso>Pagando alto preço, ali</verso>
+        <verso>Na cruz nos libertou!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

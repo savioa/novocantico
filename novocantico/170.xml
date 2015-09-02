@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>170</numero>
+    <n>170</n>
+    <titulo>Redentor onipotente</titulo>
+    <texto>
+      <estrofe>
+        <verso>Redentor Onipotente</verso>
+        <verso>Poderoso Salvador,</verso>
+        <verso>Advogado Onisciente</verso>
+        <verso>É Jesus, meu bom Senhor.</verso>
+        <verso>Um abrigo sempre perto</verso>
+        <verso>Para todo pecador!</verso>
+        <verso>Um amigo inseparável</verso>
+        <verso>É Jesus, meu Salvador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Á água viva, Pão da vida,</verso>
+        <verso>Doce sombra no calor</verso>
+        <verso>Que ao descanso nos convida</verso>
+        <verso>É Jesus, meu Salvador!</verso>
+        <verso>Sol que extingue densas trevas,</verso>
+        <verso>Refulgindo em plena luz,</verso>
+        <verso>Negra noite desfazendo,</verso>
+        <verso>É meu bom Senhor, Jesus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Fundamento inabalável!</verso>
+        <verso>Em que posso confiar!</verso>
+        <verso>Infalível, imutável,</verso>
+        <verso>Rocha firme e secular!</verso>
+        <verso>Porta aberta, sempre aberta,</verso>
+        <verso>Conduzindo à salvação,</verso>
+        <verso>Rica fonte donde emana</verso>
+        <verso>Gozo, paz, consolação!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

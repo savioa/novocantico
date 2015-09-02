@@ -1,0 +1,43 @@
+<hino situacao='incompleto'>
+    <numero>041</numero>
+    <n>41</n>
+    <titulo>Louvor pela graça divina</titulo>
+    <texto>
+      <estrofe>
+        <verso>Louvai, louvai Cristo, o bom Mestre divino!</verso>
+        <verso>Por nós na cruz ele sofreu, morreu;</verso>
+        <verso>Perdão, perdão hoje aos contritos outorga,</verso>
+        <verso>Pois precioso sangue na cruz verteu.</verso>
+        <verso>Sim, louvai-o! Ei-lo tão exaltado,</verso>
+        <verso>Mediador que nunca nos faltará.</verso>
+        <coro>
+          <verso>Louvai, louvai e proclamai a grandeza</verso>
+          <verso>Do perdão, da graça que a todos dá.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Louvai, louvai Cristo, o bom Mestre divino!</verso>
+        <verso>Conselhos bons dá ele ao pecador;</verso>
+        <verso>Anunciai as bênçãos maravilhosas</verso>
+        <verso>Concedidas por nosso Salvador.</verso>
+        <verso>Ide todos, servos de Jesus Cristo,</verso>
+        <verso>E ele nunca vos abandonará.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Louvai,,louvai Cristo, o bom Mestre divino!</verso>
+        <verso>Cantai, cantai, seu grande amor cantai;</verso>
+        <verso>Fiéis, cantai de coração, bem unidos,</verso>
+        <verso>Seu poder e glória louvai, louvai!</verso>
+        <verso>Qual pastor que cuida do seu rebanho,</verso>
+        <verso>Cristo, assim, os crentes protegerá.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

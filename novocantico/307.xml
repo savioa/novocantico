@@ -1,0 +1,61 @@
+<hino situacao='incompleto'>
+    <numero>307</numero>
+    <n>307</n>
+    <titulo>A santa peleja</titulo>
+    <texto>
+      <estrofe>
+        <verso>Erga-se o estandarte,</verso>
+        <verso>Tremulando à luz!</verso>
+        <verso>Seu brasão: coroa</verso>
+        <verso>Circundando a cruz!</verso>
+        <verso>Na cruzada invicta,</verso>
+        <verso>Quem quer hoje entrar,</verso>
+        <verso>E o evangelho santo</verso>
+        <verso>Ir anunciar?</verso>
+        <coro>
+          <verso>Erga-se o estandarte,</verso>
+          <verso>Tremulando à luz!</verso>
+          <verso>Seu brasão coroa</verso>
+          <verso>Circundando a cruz.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Luta contra as trevas,</verso>
+        <verso>Luta contra o mal!</verso>
+        <verso>Eis-nos à peleja</verso>
+        <verso>Santa, divinal!</verso>
+        <verso>Dar combate ao erro,</verso>
+        <verso>À superstição,</verso>
+        <verso>E salvar os homens</verso>
+        <verso>Da degradação.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Vinde ao bom combate</verso>
+        <verso>Sem esmorecer!</verso>
+        <verso>De valor eterno</verso>
+        <verso>Glória haveis de ter.</verso>
+        <verso>A quem quer segui-lo,</verso>
+        <verso>Eis que diz Jesus:</verso>
+        <verso>“Negue-se a si mesmo,</verso>
+        <verso>Tome a sua cruz.”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Salvador confio</verso>
+        <verso>Em teu grande amor!</verso>
+        <verso>Entro na batalha</verso>
+        <verso>Com vibrante ardor.</verso>
+        <verso>Dá que em teu serviço</verso>
+        <verso>Saiba a cruz tomar</verso>
+        <verso>E teu santo nome</verso>
+        <verso>Hoje e sempre honrar</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

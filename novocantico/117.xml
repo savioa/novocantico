@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>117</numero>
+    <n>117</n>
+    <titulo>Pastor divino</titulo>
+    <texto>
+      <estrofe>
+        <verso>Eis-nos, ó Pastor divino,</verso>
+        <verso>Todos juntos num lugar,</verso>
+        <verso>Como ovelhas congregados,</verso>
+        <verso>Teu auxílio a suplicar.</verso>
+        <verso>És presente, és presente</verso>
+        <verso>O rebanho a apascentar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Guia os tristes fatigados</verso>
+        <verso>Ao teu bom redil Senhor.</verso>
+        <verso>Leva os tenros cordeirinhos</verso>
+        <verso>Nos teus braços, Bom Pastor.</verso>
+        <verso>Às pastagens, às pastagens</verso>
+        <verso>De celeste e doce amor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ó Jesus bondoso, escuta</verso>
+        <verso>Nossa humilde petição!</verso>
+        <verso>Vem encher o teu rebanho</verso>
+        <verso>De sincera gratidão!</verso>
+        <verso>Cantaremos, cantaremos</verso>
+        <verso>Tua imensa compaixão. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

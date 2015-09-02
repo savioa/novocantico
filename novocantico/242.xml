@@ -1,0 +1,47 @@
+<hino situacao='incompleto'>
+    <numero>242</numero>
+    <n>242</n>
+    <titulo>Os anjos e o natal</titulo>
+    <texto>
+      <estrofe>
+        <verso>Anjos das mansões da glória,</verso>
+        <verso>Sobre a terra já voai.</verso>
+        <verso>Conhecei do mundo a história,</verso>
+        <verso>O Natal hoje anunciai:</verso>
+        <verso>Adoremos, adoremos,</verso>
+        <verso>Cristo é o nosso grande Rei!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O rebanho aqui dormita,</verso>
+        <verso>Vós, pastores, acordai.</verso>
+        <verso>Entre o homens Deus habita,</verso>
+        <verso>Sua estrela contemplai!</verso>
+        <verso>Adoremos, adoremos,</verso>
+        <verso>Cristo é o nosso grande Rei!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>As visões deixai de lado,</verso>
+        <verso>Vinde, ó magos, e achareis</verso>
+        <verso>Das nações o desejado,</verso>
+        <verso>Sua estrela conheceis!</verso>
+        <verso>Adoremos, adoremos,</verso>
+        <verso>Cristo é o nosso grande Rei!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Vós, seus santos que, prostrados,</verso>
+        <verso>Esperáveis sem cansar,</verso>
+        <verso>Recebei o Cristo Amado,</verso>
+        <verso>Que conosco vem morar.</verso>
+        <verso>Adoremos, adoremos,</verso>
+        <verso>Cristo é o nosso grande Rei.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

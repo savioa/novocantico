@@ -1,0 +1,55 @@
+<hino situacao='incompleto'>
+    <numero>233</numero>
+    <n>233</n>
+    <titulo>Os pastores no campo</titulo>
+    <texto>
+      <estrofe>
+        <verso>No campo, o rebanho guardando,</verso>
+        <verso>Os pastores, deitados no chão,</verso>
+        <verso>Mal se vê pela luz das estrelas,</verso>
+        <verso>Que ao redor as ovelhas estão.</verso>
+        <verso>De repente, um clarão tudo envolve,</verso>
+        <verso>Quando lá das alturas dos céus</verso>
+        <verso>Desce um anjo, fulgente de glória,</verso>
+        <verso>Cantando em louvor a Deus!</verso>
+        <verso>No primeiro Natal, eis que um anjo</verso>
+        <verso>Gloriosa mensagem nos traz:</verso>
+        <coro>
+          <verso>“Glória a Deus nas altu-ras,</verso>
+          <verso>Na terra acordo e paz!”</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>“Boas-novas alegres vos trago;</verso>
+        <verso>Em Belém Jesus Cristo nasceu!”</verso>
+        <verso>Logo após, lindo coro de anjos</verso>
+        <verso>Aparece cantando no céu.</verso>
+        <verso>Oh, jamais tão bendita mensagem</verso>
+        <verso>Aos ouvidos de todos soou,</verso>
+        <verso>Nem tão doce e divina harmonia</verso>
+        <verso>O próprio céu enlevou.</verso>
+        <verso>Oh, bem-vindo o Evangelho a este mundo</verso>
+        <verso>Que em pecado e miséria ainda jaz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>À cidade vão logo os pastores,</verso>
+        <verso>Para verem de perto Jesus!</verso>
+        <verso>No presépio, o Menino contemplam,</verso>
+        <verso>Que, do mundo, é a lídima Luz.</verso>
+        <verso>As estrelas parecem unir-se</verso>
+        <verso>Ao celeste conjunto a cantar:</verso>
+        <verso>“Em Belém, de Davi a cidade,</verso>
+        <verso>Nasceu quem vos vem salvar!”</verso>
+        <verso>Como cantam! E cremos que nunca</verso>
+        <verso>Desse canto ouviremos assaz!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

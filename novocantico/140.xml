@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>140</numero>
+    <n>140</n>
+    <titulo>Jornada do crente</titulo>
+    <texto>
+      <estrofe>
+        <verso>Guia, ó Deus, a minha sorte</verso>
+        <verso>Nesta peregrinação.</verso>
+        <verso>Frágil sou mas Tu és forte,</verso>
+        <verso>Não me largue a tua mão</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quando em meio de inimigos</verso>
+        <verso>Ando cheio de temor,</verso>
+        <verso>Ou por entre mil perigos,</verso>
+        <verso>Vem guiar-me, ó Salvador.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Com o teu maná divino</verso>
+        <verso>Vem nutrir meu coração!</verso>
+        <verso>Guie a nuvem meu destino</verso>
+        <verso>Nesta imensa solidão.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Fende a rocha milagrosa,</verso>
+        <verso>Dá-me puro manancial.</verso>
+        <verso>A coluna luminosa</verso>
+        <verso>Seja sempre o meu fanal.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ao Jordão, enfim, chegado,</verso>
+        <verso>Dá-me tua mão, Senhor,</verso>
+        <verso>E seguro, no outro lado,</verso>
+        <verso>Cantarei o teu louvor. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

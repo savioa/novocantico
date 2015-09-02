@@ -1,0 +1,27 @@
+<hino situacao='incompleto'>
+    <numero>086</numero>
+    <n>86</n>
+    <titulo>Espírito do Eterno Deus</titulo>
+    <texto>
+      <estrofe>
+        <verso>Espírito do Eterno Deus,</verso>
+        <verso>Opera em nós.</verso>
+        <verso>Espírito do Eterno Deus,</verso>
+        <verso>Opera em nós.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quebranta-nos, consola-nos,</verso>
+        <verso>Transforma-nos, transborda-nos!</verso>
+        <verso>Espírito do Eterno Deus,</verso>
+        <verso>Opera em nós. Amém</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

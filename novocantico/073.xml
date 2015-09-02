@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>073</numero>
+    <n>73</n>
+    <titulo>Compaixão</titulo>
+    <texto>
+      <estrofe>
+        <verso>A ti, Senhor, Atrevo-me a chegar;</verso>
+        <verso>Bem sei que sou indigno de favor.</verso>
+        <verso>Contrito venho para te implorar:</verso>
+        <verso>Tem compaixão de mim, sou pecador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sim, pecador, a suplicar perdão,</verso>
+        <verso>Embora não mereça o teu favor;</verso>
+        <verso>Mas dá-me, peço a purificação!</verso>
+        <verso>Tem compaixão de mim, sou pecador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Fugindo eu quis, em vão, me libertar</verso>
+        <verso>Do meu pecado vil e opressor!</verso>
+        <verso>E agora, exausto, aqui eis-me a clamar:</verso>
+        <verso>Tem compaixão de mim, sou pecador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Tão infinito, ó Deus, é teu poder!</verso>
+        <verso>Tão grande, ó Pai, o teu excelso amor!</verso>
+        <verso>Aos rogos meus não deixes de atender:</verso>
+        <verso>Tem compaixão de mim, sou pecador! Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

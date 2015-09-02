@@ -1,0 +1,53 @@
+<hino situacao='incompleto'>
+    <numero>162</numero>
+    <n>162</n>
+    <titulo>A voz de Deus</titulo>
+    <texto>
+      <estrofe>
+        <verso>Quando a tempestade ruge</verso>
+        <verso>Com o seu feroz bramir,</verso>
+        <verso>Quando as nuvens se acumulam,</verso>
+        <verso>Raios mil a despedir,</verso>
+        <verso>Do trovão o som tremendo</verso>
+        <verso>Faz-se ouvir e com pavor!</verso>
+        <verso>Mas por sobre a tempestade</verso>
+        <verso>Soa tua voz, Senhor.</verso>
+        <coro>
+          <verso>Eis que ouvimos tua voz,</verso>
+          <verso>A animar os que andam sós</verso>
+          <verso>E em ti sempre confiados,</verso>
+          <verso>Vão por ti sempre a lutar,</verso>
+          <verso>Nesta vida tormentosa,</verso>
+          <verso>Qual fragor do vasto mar.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Quando o mar vem,mansamente,</verso>
+        <verso>Sobre a areia se espraiar,</verso>
+        <verso>Quando a brisa sussurrante</verso>
+        <verso>Calmamente perpassar,</verso>
+        <verso>Soa a mística harmonia,</verso>
+        <verso>Ouve-se um feliz rumor;</verso>
+        <verso>Desse coro, docemente,</verso>
+        <verso>Vem a tua voz, Senhor!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quando o coração aflito</verso>
+        <verso>Quer à dor, ao mal fugir,</verso>
+        <verso>E se agita luta e ruge,</verso>
+        <verso>Sem descanso e paz sentir,</verso>
+        <verso>Qual um som que se repete</verso>
+        <verso>Nas quebradas a rolar,</verso>
+        <verso>Ao aflito e contristado</verso>
+        <verso>Tua voz vem consolar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

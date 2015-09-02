@@ -1,0 +1,42 @@
+<hino situacao='incompleto'>
+    <numero>278</numero>
+    <n>278</n>
+    <titulo>A vitória de Jesus</titulo>
+    <texto>
+      <estrofe>
+        <coro>
+          <verso>Aleluia! Aleluia! Aleluia!</verso>
+        </coro>
+        <verso>Findou-se a luta de Jesus!</verso>
+        <verso>O Salvador venceu na cruz!</verso>
+        <verso>Já neste mundo raia a luz!</verso>
+        <verso>Aleluia!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Das mãos do grande usurpador</verso>
+        <verso>Livrou-nos com profundo amor.</verso>
+        <verso>Cantai ao forte Salvador</verso>
+        <verso>Aleluia!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Vencida a morte e seu horror</verso>
+        <verso>Subiu à glória o Redentor</verso>
+        <verso>Rompei em cantos de louvor!</verso>
+        <verso>Aleluia!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Com majestade sem igual</verso>
+        <verso>Firmou o império divinal</verso>
+        <verso>Erguei o salmo triunfal</verso>
+        <verso>Aleluia!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>322</numero>
+    <n>322</n>
+    <titulo>Heroínas da fé</titulo>
+    <texto>
+      <estrofe>
+        <verso>Avante, companheiras,</verso>
+        <verso>Na causa de Jesus!</verso>
+        <verso>Ativas no trabalho,</verso>
+        <verso>Servi enquanto há luz!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Mostrai, na atividade,</verso>
+        <verso>A vossa gratidão</verso>
+        <verso>A Cristo, o grande Amigo</verso>
+        <verso>O Autor da Redenção.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O exemplo de Maria</verso>
+        <verso>Que, aos pés do Salvador,</verso>
+        <verso>Tomou a melhor parte,</verso>
+        <verso>Segui com fé e amor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Os dons do vosso afeto</verso>
+        <verso>A Cristo consagrai!</verso>
+        <verso>À Igreja, que é seu corpo,</verso>
+        <verso>Dedicação mostrai!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Erguei-vos heroínas,</verso>
+        <verso>E vinde trabalhar!</verso>
+        <verso>Mostrai vossas virtudes</verso>
+        <verso>Na Pátria, Igreja e Lar!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

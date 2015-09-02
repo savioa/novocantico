@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>153</numero>
+    <n>153</n>
+    <titulo>Amparo divino</titulo>
+    <texto>
+      <estrofe>
+        <verso>Com tua mão segura bem a minha,</verso>
+        <verso>Pois eu tão frágil sou, ó Salvador,</verso>
+        <verso>Que não me atrevo a dar jamais um passo</verso>
+        <verso>Sem teu amparo, Cristo, meu Senhor!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Com tua mão segura bem a minha,</verso>
+        <verso>E meu caminho, alegre, seguirei!</verso>
+        <verso>Mesmo onde as sombras caem mais escuras,</verso>
+        <verso>Teu rosto vendo, nada temerei.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>E no momento de transpor o rio</verso>
+        <verso>Que Tu, por mim, vieste atravessar,</verso>
+        <verso>Com tua mão segura bem a minha,</verso>
+        <verso>E sobre a morte eu hei de triunfar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quando voltares lá dos céus descendo,</verso>
+        <verso>Segura bem a minha mão, Senhor!</verso>
+        <verso>E, meu Jesus, conduze-me contigo</verso>
+        <verso>Para onde eu goze teu eterno amor. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

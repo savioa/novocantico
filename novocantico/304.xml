@@ -1,0 +1,51 @@
+<hino situacao='incompleto'>
+    <numero>304</numero>
+    <n>304</n>
+    <titulo>A voz do evangelho</titulo>
+    <texto>
+      <estrofe>
+        <verso>A voz do Evangelho</verso>
+        <verso>Já se fez ouvir aqui,</verso>
+        <verso>Publicando em som alegre,</verso>
+        <verso>O que Deus já fez por ti.</verso>
+        <verso>Pois tanto ao mundo amou,</verso>
+        <verso>E ao perdido pecador,</verso>
+        <verso>Que do céu mandou seu Filho</verso>
+        <verso>Para ser seu Redentor.</verso>
+        <coro>
+          <verso>Santa paz e perdão,</verso>
+          <verso>É a nova lá dos céus!</verso>
+          <verso>Santa paz e perdão,</verso>
+          <verso>Bendito o nosso Deus!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>A voz do Evangelho</verso>
+        <verso>Segurança, vida e paz,</verso>
+        <verso>É o amor de Jesus Cristo</verso>
+        <verso>Que o perdão de Deus nos traz..</verso>
+        <verso>As novas se nos dão</verso>
+        <verso>De haver um Salvador,</verso>
+        <verso>Poderoso e mui bondoso</verso>
+        <verso>Que perdoa o pecador.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A voz do Evangelho</verso>
+        <verso>Vem a todos avisar</verso>
+        <verso>Do perigo, grande e grave,</verso>
+        <verso>Para quem se descuidar.</verso>
+        <verso>Salvai-vos desde já,</verso>
+        <verso>Não vos detenhais no mal,</verso>
+        <verso>Cobiçando os seus prazeres,</verso>
+        <verso>Pois vos pode ser fatal.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

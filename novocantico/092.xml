@@ -1,0 +1,40 @@
+<hino situacao='incompleto'>
+    <numero>092</numero>
+    <n>92</n>
+    <titulo>A fé contemplada</titulo>
+    <texto>
+      <estrofe>
+        <verso>Deus promete grandes coisas conceder</verso>
+        <verso>A qualquer que peça, crendo que há de obter,</verso>
+        <verso>Esperando, sem na fé enfraquecer.</verso>
+        <verso>O Senhor a fé contemplará!</verso>
+        <coro>
+          <verso>Tua fé Jesus contemplará</verso>
+          <verso>Sim, o que Jesus promete, dá.</verso>
+          <verso>Ele vê o coração</verso>
+          <verso>E responde à petição;</verso>
+          <verso>Tua fé Jesus contemplará!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Quantas maravilhas Deus realizou</verso>
+        <verso>Por alguém que firme nele confiou,</verso>
+        <verso>E que da promessa em nada duvidou.</verso>
+        <verso>O Senhor a fé contemplará!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sim creiamos nos que Deus nos prometeu,</verso>
+        <verso>Pois jamais desonrará o nome seu;</verso>
+        <verso>Ele cumprirá promessas que nos deu.</verso>
+        <verso>O Senhor a fé contemplará!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

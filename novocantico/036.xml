@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>036</numero>
+    <n>36</n>
+    <titulo>Exaltação</titulo>
+    <texto>
+      <estrofe>
+        <verso>De toda a terra e das nações,</verso>
+        <verso>Louvor a Cristo entoai!</verso>
+        <verso>Em alta voz, dos corações</verso>
+        <verso>O Nome de Jesus cantai.</verso>
+        <coro>
+          <verso>O dom supremo, divinal,</verso>
+          <verso>Justiça eterna e santo amor,</verso>
+          <verso>De litoral em litoral,</verso>
+          <verso>Serão cantados ao Senhor</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Em toda língua bendizei</verso>
+        <verso>A Deus, Autor da Criação!</verso>
+        <verso>Em toda terra engrandecei</verso>
+        <verso>Jesus que trouxe a Redenção!</verso>
+      </estrofe>
+    </texto>
+    <secao id='01'>Louvor e Adoração</secao>
+    <assunto id='08'>Deus Senhor</assunto>
+    <titulo_original>Creation</titulo_original>
+    <metrica id='8_8_8_8_D'>8.8.8.8.D</metrica>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original>De toda a terra e das nações</primeiro_verso_original>
+    <referencia_biblica id='47_009_015'>47  2 Coríntios 9.15</referencia_biblica>
+  </hino>

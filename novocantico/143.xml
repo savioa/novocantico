@@ -1,0 +1,63 @@
+<hino situacao='incompleto'>
+    <numero>143</numero>
+    <n>143</n>
+    <titulo>Salmo 23</titulo>
+    <texto>
+      <estrofe>
+        <verso>Deus é meu Pastor mui terno,</verso>
+        <verso>Nada, pois, me faltará.</verso>
+        <verso>Com seu santo amor eterno</verso>
+        <verso>Sempre me sustentará.</verso>
+        <verso>Às pastagens verdejantes</verso>
+        <verso>Ele vem me conduzir,</verso>
+        <coro>
+          <verso>E nas relvas abundantes</verso>
+          <verso>Vou descanso então fruir.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Vem, com suas mãos divinas,</verso>
+        <verso>Mansamente me guiar</verso>
+        <verso>Rumo às águas cristalinas</verso>
+        <verso>Que me vão dessedentar.</verso>
+        <verso>Por veredas da justiça,</verso>
+        <verso>Prazeroso, me conduz,</verso>
+        <coro>
+          <verso>E depois da dura liça</verso>
+          <verso>Vou gozar a eterna luz.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Se da morte o vale escuro</verso>
+        <verso>Traz-me aperto ao coração,</verso>
+        <verso>Caminhando vou, seguro,</verso>
+        <verso>Apoiado em seu bordão!</verso>
+        <verso>Na presença de inimigos</verso>
+        <verso>Eu terei, da Salvação,</verso>
+        <coro>
+          <verso>Um banquete com amigos,</verso>
+          <verso>Com Jesus meu vero Irmão.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Óleo santo, derramado,</verso>
+        <verso>A cabeça vem me ungir.</verso>
+        <verso>Vai meu cálice transbordando</verso>
+        <verso>Por grandioso bem fruir.</verso>
+        <verso>Certamente que a bondade</verso>
+        <verso>Sempre a me seguir terei,</verso>
+        <coro>
+          <verso>E no lar da eternidade</verso>
+          <verso>Mui feliz habitarei.</verso>
+        </coro>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

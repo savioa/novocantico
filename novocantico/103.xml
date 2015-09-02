@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>103</numero>
+    <n>103</n>
+    <titulo>Salvação em Cristo</titulo>
+    <texto>
+      <estrofe>
+        <verso>Jesus, agora eu bem sei</verso>
+        <verso>Quão grande é teu amor!</verso>
+        <verso>Pois salvação me deste aqui,</verso>
+        <verso>Aceita o meu louvor.</verso>
+        <coro>
+          <verso>Ó Cristo, és meu Salvador,</verso>
+          <verso>Por eu tenho paz!</verso>
+          <verso>Jesus, a ti louvor darei</verso>
+          <verso>Por tudo o que me dás.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Jamais descanso conheci,</verso>
+        <verso>Por ser um pecador;</verso>
+        <verso>Mas tu olhaste para mim</verso>
+        <verso>Com teu divino amor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Louvor, louvor darei a ti,</verso>
+        <verso>Ó Cristo, meu Senhor!</verso>
+        <verso>Profeta, Sacerdote, Rei,</verso>
+        <verso>Do mundo o Salvador.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

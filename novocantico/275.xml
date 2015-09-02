@@ -1,0 +1,43 @@
+<hino situacao='incompleto'>
+    <numero>275</numero>
+    <n>275</n>
+    <titulo>Cristo venceu</titulo>
+    <texto>
+      <estrofe>
+        <verso>Cristo venceu!</verso>
+        <verso>Liberta está minha alma!</verso>
+        <verso>Gozo a divina calma de sua paz,</verso>
+        <verso>Bem longe dos grilhões da eterna morte,</verso>
+        <verso>Bem junto à fonte que me satisfaz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Cristo venceu!</verso>
+        <verso>Meu coração se abre</verso>
+        <verso>Ao resplendor da soberana luz.</verso>
+        <verso>De clarida-de inunda minha vida,</verso>
+        <verso>De formosura veste minha cruz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Cristo venceu!</verso>
+        <verso>A noite se fez dia:</verso>
+        <verso>Nova esperança nele eu encontrei!</verso>
+        <verso>Das armas da justiça revestido,</verso>
+        <verso>Pelejo agora na divina grei.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Cristo venceu!</verso>
+        <verso>Temores não mais sinto.</verso>
+        <verso>Vencida a morte, abriu-se o denso véu!</verso>
+        <verso>Cristo venceu! O Filho poderoso</verso>
+        <verso>Reina! E com ele viverei no céu!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

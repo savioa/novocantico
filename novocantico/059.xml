@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>059</numero>
+    <n>59</n>
+    <titulo>Gratidão</titulo>
+    <texto>
+      <estrofe>
+        <verso>Ao Deus eterno, Criador,</verso>
+        <verso>Mil graças tributemos,</verso>
+        <verso>Por tantos anos de labor</verso>
+        <verso>No pátrio lar que temos.</verso>
+        <coro>
+          <verso>Ao Deus eterno, Criador,</verso>
+          <verso>Ao Deus da Redenção,</verso>
+          <verso>Por tantos anos de labor,</verso>
+          <verso>A nossa gratidão!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Provaste,ó Deus, o teu amor</verso>
+        <verso>A nós, os brasileiros,</verso>
+        <verso>Na voz tão plena de fervor</verso>
+        <verso>Dos grandes pioneiros.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Por toda parte ó Redentor,</verso>
+        <verso>Agora é anunciado</verso>
+        <verso>Teu nome ao pobre pecador</verso>
+        <verso>Que jaz no vil pecado.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Que grandes coisas, ó Senhor,</verso>
+        <verso>A todos nós legaste!</verso>
+        <verso>São provas desse grande amor</verso>
+        <verso>Com que Tu nos amaste. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

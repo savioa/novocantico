@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>296</numero>
+    <n>296</n>
+    <titulo>Cristo não tarda</titulo>
+    <texto>
+      <estrofe>
+        <verso>Cristo em breve do céu virá,</verso>
+        <verso>Pois prometeu e não tardará.</verso>
+        <verso>Oh, que alegria, que glória será,</verso>
+        <verso>Quando Jesus regressar!</verso>
+        <coro>
+          <verso>Cristo não tarda, não tarda em vir,</verso>
+          <verso>Cristo não tarda em vir.</verso>
+          <verso>Oh, que alegria e glória será,</verso>
+          <verso>Quando Jesus regressar!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Em breve os mortos ressurgirão,</verso>
+        <verso>Todos os crentes se encontrarão.</verso>
+        <verso>Juntos, alegres, ao céu subirão,</verso>
+        <verso>Quando Jesus regressar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Na terra, em breve teremos paz,</verso>
+        <verso>Quando for preso o maligno mordaz!</verso>
+        <verso>Toda aflição ficará para trás,</verso>
+        <verso>Quando Jesus regressar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Cristo não tarda, não tarda em vir.</verso>
+        <verso>Quem pronto está para aquele porvir?</verso>
+        <verso>Oh, que alegria teremos em ir,</verso>
+        <verso>Quando Jesus regressar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

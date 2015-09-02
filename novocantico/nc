@@ -1,0 +1,11 @@
+# encoding: utf-8
+Encoding.default_external = 'UTF-8'
+require 'rexml/document'
+include REXML
+
+xml = Document.new File.new('hnc.xml')
+
+XPath.each(xml, 'hinos/hino') { |e|
+	nome = XPath.first(e, 'numero').text + ".xml"
+	File.write nome, e
+}

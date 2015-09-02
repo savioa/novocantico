@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>040</numero>
+    <n>40</n>
+    <titulo>Cântico ao salvador</titulo>
+    <texto>
+      <estrofe>
+        <verso>Cantai a Cristo, o Salvador,</verso>
+        <verso>Que tanto nos amou,</verso>
+        <verso>E, para nossa Redenção,</verso>
+        <verso>Seu sangue derramou!</verso>
+        <coro>
+          <verso>Salvação! Salvação!</verso>
+          <verso>Alcançou-nos o Filho de Deus;</verso>
+          <verso>Salvação! Salvação!</verso>
+          <verso>Aleluia ao Filho de Deus!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Cantai o amor celestial,</verso>
+        <verso>Amor do grande Deus,</verso>
+        <verso>Divina flama a consumir</verso>
+        <verso>Os vis pecados meus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>De Cristo, o excelso, infindo amor,</verso>
+        <verso>Oh, vinde publicai!</verso>
+        <verso>E dele a grande salvação</verso>
+        <verso>A todos proclamai!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

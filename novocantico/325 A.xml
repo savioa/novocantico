@@ -1,0 +1,40 @@
+<hino situacao='incompleto'>
+    <numero>325 A</numero>
+    <n>325-A</n>
+    <n>325A</n>
+    <titulo>Jesus Cristo é o Senhor</titulo>
+    <texto>
+      <estrofe>
+        <verso>Todas unidas com santo ardor,</verso>
+        <verso>Almas remidas cheias de amor.</verso>
+        <verso>Nossa mensagem é de valor,</verso>
+        <verso>Pois Jesus Cristo é o Senhor!</verso>
+        <coro>
+          <verso>Sim, Jesus Cristo é o Senhor!</verso>
+          <verso>Das nossas vidas ele é o Senhor!</verso>
+          <verso>Dos nossas lares ele é o Senhor!</verso>
+          <verso>E o nosso tempo é do Senhor!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Vamos bem alto o seu Nome erguer,</verso>
+        <verso>Nossos recursos oferecer,</verso>
+        <verso>Para que o mundo venha saber</verso>
+        <verso>Que ele é o Senhor de todo ser!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Nosso trabalho é para o Senhor,</verso>
+        <verso>Nossos talentos são do Senhor.</verso>
+        <verso>Vamos, unidas, pois, proclamar</verso>
+        <verso>Que ele é o Senhor do céu e mar!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

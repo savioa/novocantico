@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>387</numero>
+    <n>387</n>
+    <titulo>COMBATE. G 4/4</titulo>
+    <texto>
+      <estrofe>
+        <verso>Moços, declarai guerra contra o mal,</verso>
+        <verso>Exaltai a cruz do Salvador!</verso>
+        <verso>Firmes empunhai armas não carnais,</verso>
+        <verso>Sempre confiai em seu amor!</verso>
+        <coro>
+          <verso>Todos juntos ao redor da cruz,</verso>
+          <verso>Prontos, firmes estejamos nós!</verso>
+          <verso>Sim, avante, alegres, corajosos,</verso>
+          <verso>Sempre ouvindo de Jesus a voz.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Moços, avançai! Fortes vos tornais,</verso>
+        <verso>Se o valor da causa conheceis.</verso>
+        <verso>Tremulante em luz, erguei o pendão,</verso>
+        <verso>Garantia de que vencereis!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Nosso Deus e Pai, ouve com favor!</verso>
+        <verso>Vem nos ajudar a combater!</verso>
+        <verso>E vencida, enfim, a luta final,</verso>
+        <verso>A coroa vem nos conceder.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

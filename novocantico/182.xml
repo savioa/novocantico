@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>182</numero>
+    <n>182</n>
+    <titulo>União fraterna</titulo>
+    <texto>
+      <estrofe>
+        <verso>Que grande bênção é</verso>
+        <verso>Estarem com amor,</verso>
+        <verso>Irmãos, ligados pela fé,</verso>
+        <verso>Louvando ao Salvador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O mundo observará</verso>
+        <verso>Tão santa e doce paz;</verso>
+        <verso>E admirado ficará</verso>
+        <verso>Com a bênção que ela traz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Mandaste aos teus, Jesus,</verso>
+        <verso>Da divinal mansão,</verso>
+        <verso>O Santo Espírito que produz</verso>
+        <verso>Tão plena comunhão. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

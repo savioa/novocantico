@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>164</numero>
+    <n>164</n>
+    <titulo>Nome precioso</titulo>
+    <texto>
+      <estrofe>
+        <verso>Santo nome, incomparável,</verso>
+        <verso>Tem Jesus, o amado teu!</verso>
+        <verso>Rei dos reis, Senhor eterno,</verso>
+        <verso>Deus na terra, Deus nos céus.</verso>
+        <coro>
+          <verso>Nome bom, doce à fé,</verso>
+          <verso>A esperança do porvir.</verso>
+          <verso>Nome bom, doce à fé</verso>
+          <verso>A esperança do porvir.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Leva tu contigo o Nome</verso>
+        <verso>De Jesus, o Salvador!</verso>
+        <verso>Este Nome dá conforto</verso>
+        <verso>Hoje, sempre e onde for.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Este Nome leva sempre</verso>
+        <verso>Para bem te defender!</verso>
+        <verso>Ele é arma ao teu alcance,</verso>
+        <verso>Quando o mal te aparecer.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

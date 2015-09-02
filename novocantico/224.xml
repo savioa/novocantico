@@ -1,0 +1,51 @@
+<hino situacao='incompleto'>
+    <numero>224</numero>
+    <n>224</n>
+    <titulo>Consagração</titulo>
+    <texto>
+      <estrofe>
+        <verso>A ti seja consagrada</verso>
+        <verso>Minha vida, ó meu Senhor!</verso>
+        <verso>Meus momentos e meus dias</verso>
+        <verso>Sejam só em teu louvor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sempre minhas mãos se movam</verso>
+        <verso>Com presteza e com amor!</verso>
+        <verso>E meus pés velozes corram</verso>
+        <verso>Ao serviço do Senhor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Minha voz, Jesus aceita,</verso>
+        <verso>Para o teu louvor cantar!</verso>
+        <verso>Faze que meus lábios possam</verso>
+        <verso>A mensagem proclamar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Os meus bens quero ofertar-te,</verso>
+        <verso>Nada quero te esconder;</verso>
+        <verso>Minha inteligência guia</verso>
+        <verso>Sob a luz do teu saber.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A vontade minha toma</verso>
+        <verso>Sujeitando-a a ti, Senhor</verso>
+        <verso>Do meu coração fazendo</verso>
+        <verso>O teu trono, ó Salvador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Meu anelo, meu desejo,</verso>
+        <verso>Sejam só teu nome honrar!</verso>
+        <verso>Que meu ser completo eu possa,</verso>
+        <verso>Ó Jesus, te consagrar! Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

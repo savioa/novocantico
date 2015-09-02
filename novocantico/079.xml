@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>079</numero>
+    <n>79</n>
+    <titulo>Glória ao salvador</titulo>
+    <texto>
+      <estrofe>
+        <verso>Chegado à cruz do bom Salvador,</verso>
+        <verso>Prostrado aos pés do meu Redentor,</verso>
+        <verso>Ele atendeu logo ao meu clamor;</verso>
+        <verso>Glória ao Salvador</verso>
+        <coro>
+          <verso>Glória ao Salvador!</verso>
+          <verso>Glória ao Salvador!</verso>
+          <verso>Eu sei que Cristo já me salvou;</verso>
+          <verso>Glória ao Salvador!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Que maravilha Jesus me amou!</verso>
+        <verso>Tudo de graça me perdoou!</verso>
+        <verso>Dos meus grilhões ele me livrou!</verso>
+        <verso>Glória ao Salvador!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

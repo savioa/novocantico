@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>321</numero>
+    <n>321</n>
+    <titulo>Mãos ao trabalho</titulo>
+    <texto>
+      <estrofe>
+        <verso>Mãos ao trabalho, jovens!</verso>
+        <verso>Vai já passando o alvor.</verso>
+        <verso>Eia, enquanto tendes</verso>
+        <verso>Vossa vida em flor!</verso>
+        <verso>Vamos enquanto é dia,</verso>
+        <verso>Com força trabalhar!</verso>
+        <verso>Eia, que em vindo a noite</verso>
+        <verso>Não há mais lidar</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Mãos ao trabalho, homens!</verso>
+        <verso>Firmes, enquanto há luz</verso>
+        <verso>Eia, que é tempo agora</verso>
+        <verso>De servir Jesus!</verso>
+        <verso>Ide o vigor da vida</verso>
+        <verso>Todos ao bem votar!</verso>
+        <verso>Eia, que em vindo a noite</verso>
+        <verso>Não há mais lidar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Mãos ao trabalho todos!</verso>
+        <verso>Breve nos chega o fim</verso>
+        <verso>Quando soar um dia</verso>
+        <verso>Da morte o clarim!</verso>
+        <verso>Vamos, irmãos, à obra!</verso>
+        <verso>Por Cristo trabalhar!</verso>
+        <verso>Eia, que em vindo a noite</verso>
+        <verso>Vamos descansar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

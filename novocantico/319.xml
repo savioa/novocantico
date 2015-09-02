@@ -1,0 +1,53 @@
+<hino situacao='incompleto'>
+    <numero>319</numero>
+    <n>319</n>
+    <titulo>Obreiros em marcha</titulo>
+    <texto>
+      <estrofe>
+        <verso>Eis marchamos para aquele bom país,</verso>
+        <verso>Onde o crente, sim, é Cristo que o diz,</verso>
+        <verso>Com o Salvador, vivendo ali feliz,</verso>
+        <verso>Vai com ele descansar.</verso>
+        <verso>Trabalhemos, pois, com zelo e com vigor,</verso>
+        <verso>Constrangidos pelo seu imenso amor;</verso>
+        <verso>Bem servindo em tudo ao grande Salvador,</verso>
+        <verso>Eis que a vida vai findar!</verso>
+        <coro>
+          <verso>Acordai! Acordai! Despertai! Despertai!</verso>
+          <verso>E cantai! Sim,cantai: O Senhor não tardará!</verso>
+          <verso>Eis marchamos para aquele bom país,</verso>
+          <verso>Onde o crente, sim, é Cristo que o diz,</verso>
+          <verso>Com o Salvador, vivendo ali feliz,</verso>
+          <verso>Vai com ele descansar.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Eis conosco está o insigne Capitão,</verso>
+        <verso>Que nos assegura eterna salvação!</verso>
+        <verso>Eis da santa fé o invicto pavilhão!</verso>
+        <verso>Vamos, vamos trabalhar!</verso>
+        <verso>Eia, avante! Nada temos que temer!</verso>
+        <verso>Por Jesus havemos sempre de vencer.</verso>
+        <verso>Trabalhemos, pois até ao anoitecer</verso>
+        <verso>E o trabalho aqui findar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Revestidos da paciência de Jesus,</verso>
+        <verso>Redimidos para andar aqui na luz,</verso>
+        <verso>Exaltemos juntos hoje a sua cruz,</verso>
+        <verso>Vamos, vamos trabalhar.</verso>
+        <verso>Os perdidos vamos com amor buscar!</verso>
+        <verso>Aos descrentes vamos logo declarar</verso>
+        <verso>Que Jesus quer, hoje, a todos resgatar!</verso>
+        <verso>Oh, sim, vamos trabalhar!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

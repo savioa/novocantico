@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>070</numero>
+    <n>70</n>
+    <titulo>Descanso em Jesus</titulo>
+    <texto>
+      <estrofe>
+        <verso>Todo meu tão vil pecado</verso>
+        <verso>Lanço, ó Cristo, sobre ti,</verso>
+        <verso>Pois, Cordeiro imaculado,</verso>
+        <verso>Tu me dás perdão aqui.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Minha mancha tão impura</verso>
+        <verso>Tu bem podes retirar;</verso>
+        <verso>E deixar em ti segura</verso>
+        <verso>A minha alma descansar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Pobre sou, angustiado,</verso>
+        <verso>Mas revivo em tua cruz;</verso>
+        <verso>E meu coração cansado</verso>
+        <verso>Ponho só em ti Jesus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Minhas mágoas carregaste</verso>
+        <verso>No madeiro em meu lugar;</verso>
+        <verso>Vida eterna me compraste,</verso>
+        <verso>Salvação me vieste dar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>E na glória eterna, ao lado</verso>
+        <verso>Dos fiéis em multidão,</verso>
+        <verso>Meus louvores, Cristo amado,</verso>
+        <verso>Mais perfeito te serão. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

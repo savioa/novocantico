@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>252</numero>
+    <n>252</n>
+    <titulo>Pão celestial</titulo>
+    <texto>
+      <estrofe>
+        <verso>Pão da vida, pão dos céus,</verso>
+        <verso>Pão celeste é meu Jesus!</verso>
+        <verso>Pão que dá ao coração</verso>
+        <verso>Alegria, paz e luz.</verso>
+        <verso>Sangue que Jesus verteu</verso>
+        <verso>É divino e eficaz!</verso>
+        <verso>Este sangue, ao coração,</verso>
+        <verso>Força, amor e vida traz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Vem, Jesus, me abençoar!</verso>
+        <verso>Enche-me de ti Senhor!</verso>
+        <verso>Pois almejo te servir</verso>
+        <verso>E te honrar, meu Salvador.</verso>
+        <verso>Pois almejo te servir</verso>
+        <verso>E te honrar, meu Salvador. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

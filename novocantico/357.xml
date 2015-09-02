@@ -1,0 +1,38 @@
+<hino situacao='incompleto'>
+    <numero>357</numero>
+    <n>357</n>
+    <titulo>Louvor infantil. D 2/2</titulo>
+    <texto>
+      <estrofe>
+        <verso>Filhos de Jerusalém</verso>
+        <verso>Davam a Jesus louvor!</verso>
+        <verso>Cantaremos nós, também,</verso>
+        <verso>Seu excelso e doce amor!</verso>
+        <coro>
+          <verso>Ouve! Ouve! Ouve! Os meninos dão louvor!</verso>
+          <verso>Ouve! Ouve! Ouve! Os meninos dão louvor!</verso>
+          <verso>Aleluia! Aleluia! Aleluia ao Salvador!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Graças ao divino Rei</verso>
+        <verso>Que, no mundo, quis viver!</verso>
+        <verso>Graças pela santa Lei</verso>
+        <verso>Que declara o seu querer!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Grande é o nosso Salvador,</verso>
+        <verso>Toda a dívida pagou!</verso>
+        <verso>Pela morte o bom Pastor</verso>
+        <verso>Seu rebanho resgatou.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

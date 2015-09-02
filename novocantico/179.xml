@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>179</numero>
+    <n>179</n>
+    <titulo>Saudação</titulo>
+    <texto>
+      <estrofe>
+        <verso>Saudamo-vos, irmãos em Cristo,</verso>
+        <verso>Lembrando o que temos visto:</verso>
+        <verso>Nesses anos, pelas lutas, tentações.</verso>
+        <verso>Atendidas foram nossas petições.</verso>
+        <verso>Toda a glória seja ao nome do Senhor!</verso>
+        <verso>Vinde todos entoar o seu louvor!</verso>
+        <coro>
+          <verso>Bem alto agora vamos nós cantar,</verso>
+          <verso>Que a terra e os céus virão nos ajudar.</verso>
+          <verso>Até aqui Deus mesmo nos guiou,</verso>
+          <verso>E com a sua mão nos ajudou.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Um dia tão glorioso temos,</verso>
+        <verso>E ao nosso Pai agradecemos,</verso>
+        <verso>Pois é ele quem nos dá real prazer;</verso>
+        <verso>E é fiel em nos guardar e proteger!</verso>
+        <verso>Vinde vós, irmãos, conosco a Deus cantar,</verso>
+        <verso>Desta bênção vinde, pois, participar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Alegres todos jubilemos,</verso>
+        <verso>Ao grande Salvador cantemos!</verso>
+        <verso>Ele como filhos seus nos escolheu</verso>
+        <verso>Ricas bênçãos ele já nos concedeu.</verso>
+        <verso>Seja “avante” o nosso lema triunfal,</verso>
+        <verso>Pois seguimos para o lar celestial.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

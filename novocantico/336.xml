@@ -1,0 +1,41 @@
+<hino situacao='incompleto'>
+    <numero>336</numero>
+    <n>336</n>
+    <titulo>Transformação</titulo>
+    <texto>
+      <estrofe>
+        <verso>Eu, perdido pecador,</verso>
+        <verso>Longe do meu Jesus</verso>
+        <verso>Me encontrava, sem vigor,</verso>
+        <verso>A perecer sem luz.</verso>
+        <verso>Meu estado Cristo viu,</verso>
+        <verso>Dando-me sua mão,</verso>
+        <verso>E salvar-me conseguiu</verso>
+        <verso>Da perdição.</verso>
+        <coro>
+          <verso>Cristo me amou e me livrou!</verso>
+          <verso>O seu imenso amor me transformou!</verso>
+          <verso>Foi seu poder, o seu querer!</verso>
+          <verso>Sim, Cristo, Salvador, me transformou!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Minha vida, todo o ser,</verso>
+        <verso>Quero lhe consagrar!</verso>
+        <verso>Ao seu lado vou viver,</verso>
+        <verso>O seu amor cantar.</verso>
+        <verso>A mensagem transmitir</verso>
+        <verso>Aos que perdidos são!</verso>
+        <verso>Venham todos já fruir</verso>
+        <verso>A salvação.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

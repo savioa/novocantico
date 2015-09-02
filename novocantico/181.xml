@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>181</numero>
+    <n>181</n>
+    <titulo>Irmãos em Jesus</titulo>
+    <texto>
+      <estrofe>
+        <verso>Bem-vindos, irmãos em Jesus,</verso>
+        <verso>A nós, bem unidos na paz</verso>
+        <verso>Que Cristo nos dá pela cruz,</verso>
+        <verso>Com graça divina, eficaz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Saudamos com santo prazer</verso>
+        <verso>Aos crentes em nosso Senhor,</verso>
+        <verso>Pois juntos queremos viver,</verso>
+        <verso>Honrando o fiel Benfeitor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>De quanta ternura e amor</verso>
+        <verso>Podemos aqui partilhar!</verso>
+        <verso>E em Cristo, no riso ou na dor,</verso>
+        <verso>Real comunhão desfrutar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Unidos vivemos aqui;</verso>
+        <verso>Unidos seremos nos céus.</verso>
+        <verso>Alegres, cantando ali</verso>
+        <verso>A grande clemência de Deus.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,49 @@
+<hino situacao='incompleto'>
+    <numero>354</numero>
+    <n>354</n>
+    <titulo>A escola dominical</titulo>
+    <texto>
+      <estrofe>
+        <verso>Dominical é a grande e antiga Escola</verso>
+        <verso>Em que se estuda o Livro do Senhor;</verso>
+        <verso>A vida aqui se exalta e se acrisola</verso>
+        <verso>E alcança em Cristo seu real valor,</verso>
+        <verso>E alcança em Cristo seu real valor.</verso>
+        <coro>
+          <verso>À Escola, pois, Dominical, irmãos,</verso>
+          <verso>Receber celeste luz!</verso>
+          <verso>O santo livro, aberto em nossas mãos,</verso>
+          <verso>Aprendamos de Jesus.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>De grandes vultos e eras memoráveis</verso>
+        <verso>Lições sublimes vimos aprender!</verso>
+        <verso>Lições inscritas nalma, inapagáveis,</verso>
+        <verso>Que moldam nossas vidas com poder,</verso>
+        <verso>Que moldam nossas vidas com poder.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O Mestre insigne está presente - Cristo -,</verso>
+        <verso>Que luz e vida à vida plena traz.</verso>
+        <verso>O seu ensino igual jamais foi visto!</verso>
+        <verso>Tesouros mostra, de alegria e paz,</verso>
+        <verso>Tesouros mostra, de alegria e paz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Universal, bendita Escola é esta,</verso>
+        <verso>Que os seus alunos conta por milhões;</verso>
+        <verso>Na qual o estudo é verdadeira festa,</verso>
+        <verso>Que empolga crianças, jovens e anciãos,</verso>
+        <verso>Que empolga crianças, jovens e anciãos,</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

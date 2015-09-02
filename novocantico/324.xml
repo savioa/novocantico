@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>324</numero>
+    <n>324</n>
+    <titulo>Unidas e firmes</titulo>
+    <texto>
+      <estrofe>
+        <verso>Sempre unidas companheiras,</verso>
+        <verso>Declaremos por Jesus,</verso>
+        <verso>Guerra santa contra as trevas,</verso>
+        <verso>Pelejando junto à cruz!</verso>
+        <coro>
+          <verso>Vamos todas, vamos todas,</verso>
+          <verso>Sempre unidas no Senhor!</verso>
+          <verso>Como esposas, mães ou filhas,</verso>
+          <verso>Trabalhemos com fervor!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Somos fracas, bem sabemos,</verso>
+        <verso>Mas havemos de vencer;</verso>
+        <verso>Se tivermos confiança</verso>
+        <verso>Se cumprirmos o dever.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sempre firmes na esperança,</verso>
+        <verso>Confiando no Senhor,</verso>
+        <verso>Imploremos sua graça</verso>
+        <verso>E busquemos seu amor!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

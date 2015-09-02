@@ -1,0 +1,43 @@
+<hino situacao='incompleto'>
+    <numero>095</numero>
+    <n>95</n>
+    <titulo>Somente Cristo</titulo>
+    <texto>
+      <estrofe>
+        <verso>Somente Cristo é Salvador,</verso>
+        <verso>Assim reconhecemos;</verso>
+        <verso>Morreu por nós, em santo amor,</verso>
+        <verso>E vida nele temos.</verso>
+        <coro>
+          <verso>Jesus, Jesus é o Salvador,</verso>
+          <verso>E não há outro Mediador!</verso>
+          <verso>Foi ele quem na cruz morreu,</verso>
+          <verso>E vivo está nos altos céus.</verso>
+        </coro>
+        <verso>Os homens santos e fiéis,</verso>
+        <verso>Nós sempre respeitamos;</verso>
+        <verso>Mas a Jesus, o Rei dos reis,</verso>
+        <verso>Humilde adoramos.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A Deus fazemos oração</verso>
+        <verso>Só ele quer e pode</verso>
+        <verso>Valer-nos na tribulação;</verso>
+        <verso>Aos seus Deus sempre acolhe.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>No santo sangue de Jesus</verso>
+        <verso>Confia todo crente;</verso>
+        <verso>O que ele fez na dura cruz</verso>
+        <verso>É sempre suficiente.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,51 @@
+<hino situacao='incompleto'>
+    <numero>389</numero>
+    <n>389</n>
+    <titulo>AVANTE, MOCIDADE!. G 4/4</titulo>
+    <texto>
+      <estrofe>
+        <verso>Eia, avante, mocidade,</verso>
+        <verso>Vamos por Jesus lutar!</verso>
+        <verso>A peleja é gloriosa,</verso>
+        <verso>Deus nos há de auxiliar.</verso>
+        <verso>Eia, avante, companheiros,</verso>
+        <verso>De olhos postos em Jesus!</verso>
+        <verso>Caminhemos destemidos,</verso>
+        <verso>Espalhando sempre a luz.</verso>
+        <coro>
+          <verso>Por Jesus, com zelo santo,</verso>
+          <verso>Vinde, ó jovens, combater!</verso>
+          <verso>A mensagem do Evangelho</verso>
+          <verso>Proclamai até morrer!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Eia, avante, mocidade!</verso>
+        <verso>Nunca, nunca recuar!</verso>
+        <verso>No caminho reto e santo,</verso>
+        <verso>Eia, jovens, avançar!</verso>
+        <verso>Eia, avante, companheiros!</verso>
+        <verso>Soem tais como um clarim</verso>
+        <verso>As palavras do convite:</verso>
+        <verso>“Vinde todos, vinde a mim!”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Eia, avante, mocidade,</verso>
+        <verso>Confiando no Senhor!</verso>
+        <verso>Onde há fé ninguém vacila,</verso>
+        <verso>Pois há vida, luz, vigor!</verso>
+        <verso>Eia, avante, companheiros,</verso>
+        <verso>Vamos firmes batalhar.</verso>
+        <verso>Sempre alegres na esperança,</verso>
+        <verso>Sempre unidos trabalhar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>
