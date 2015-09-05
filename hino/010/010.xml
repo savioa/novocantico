@@ -8,28 +8,28 @@
     <estrofe>
       <verso>Vós criaturas de Deus Pai,</verso>
       <verso>Todos erguei a voz, cantai!</verso>
-      <verso>Oh, louvai-o! Aleluia!</verso>
-      <verso>Tu sol dourado a refulgir,</verso>
-      <verso>Tu , lua em prata a reluzir,</verso>
-      <verso>Oh, louvai-o! Oh, louvai-o!</verso>
+      <verso>Oh! Louvai-o! Aleluia!</verso>
+      <verso>Tu, sol dourado a refulgir,</verso>
+      <verso>Tu, lua em prata a reluzir,</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Aleluia! Aleluia! Aleluia!</verso>
     </estrofe>
     <estrofe>
-      <verso>Oh, boa terra que nos dás</verso>
+      <verso>Oh! Boa terra que nos dás</verso>
       <verso>Infindas bênçãos, canta já!</verso>
-      <verso>Oh, louvai-o! Aleluia!</verso>
+      <verso>Oh! Louvai-o! Aleluia!</verso>
       <verso>Frutos e flores, juntos dai</verso>
       <verso>A glória a Deus, Senhor e Pai.</verso>
-      <verso>Oh, louvai-o! Oh, louvai-o!</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Aleluia! Aleluia! Aleluia!</verso>
     </estrofe>
     <estrofe>
       <verso>Vós, homens sábios e de bem,</verso>
       <verso>A todos proclamai também!</verso>
-      <verso>Oh, louvai-o! Aleluia!</verso>
-      <verso>Louvor ao Filho, glória ao Pai,</verso>
+      <verso>Oh! Louvai-o! Aleluia!</verso>
+      <verso>Louvor ao Filho, glória ao Pai</verso>
       <verso>E ao Santo Espírito louvai!</verso>
-      <verso>Oh, louvai-o! Oh, louvai-o!</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Aleluia! Aleluia! Aleluia!</verso>
     </estrofe>
   </texto>
@@ -41,7 +41,7 @@
   <origem_letra id="CanticoDoSol" referencia="Cântico do Sol">Cântico do Sol</origem_letra>
   <origem_letra id="AssisF" referencia="Assis, Francisco de" ano="1225">Francisco de Assis</origem_letra>
   <origem_letra id="MotaJC" referencia="Mota, Jorge César" ano="1962">Jorge César Mota</origem_letra>
-  <origem_letra id="FilhoMSP" referencia="Filho, Manoel da Silveira Porto" ano="1962">Manoel da Silveira Porto Filho</origem_letra>
+  <origem_letra id="PortoFilhoMS" referencia="Porto Filho, Manoel da Silveira" ano="1962">Manoel da Silveira Porto Filho</origem_letra>
   <origem_musica id="GeistlicheKirchengesang" referencia="“Geistliche Kirchengesäng”" ano="1623">“Geistliche Kirchengesäng” (Coleção)</origem_musica>
   <origem_musica id="CurryL" referencia="Curry, Lawrence" ano="1939">Lawrence Curry</origem_musica>
   <primeiro_verso_original>All creatures of our God and King</primeiro_verso_original>
