@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao='incompleto'>
+  <numero>025</numero>
+  <n>25</n>
+  <titulo>O Criador de Tudo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Deus, do infinito o Criador,</verso>
+      <verso>Que deste aos astros seu fulgor,</verso>
+      <verso>Tuas obras te proclamam!</verso>
+      <verso>Ao explorarmos a amplidão,</verso>
+      <verso>Obra sem-par da tua mão,</verso>
+      <verso>Extasiados te louvamos!</verso>
+      <verso>Aleluia! Aleluia! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ergue-se o homem para o céu,</verso>
+      <verso>Deixa o planeta em que nasceu;</verso>
+      <verso>Oh! Conquista sem limites!</verso>
+      <verso>Como havemos de entender</verso>
+      <verso>Que Deus quisesse aqui viver?</verso>
+      <verso>Deus eterno, entre os homens!</verso>
+      <verso>Aleluia! Aleluia! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hoje há problemas entre nós</verso>
+      <verso>Por não ouvirmos tua voz.</verso>
+      <verso>Pai, perdoa as nossas faltas!</verso>
+      <verso>Que nossa vida em Jesus</verso>
+      <verso>Busque guarida, paz e luz,</verso>
+      <verso>E teu nome celebremos:</verso>
+      <verso>Aleluia! Aleluia! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>No grande plano divinal,</verso>
+      <verso>Dessa harmonia universal,</verso>
+      <verso>Deus com grande amor salvou-nos!</verso>
+      <verso>Ele nos deixa conhecer</verso>
+      <verso>Toda extensão de seu poder</verso>
+      <verso>Revelado no universo!</verso>
+      <verso>Aleluia! Aleluia! Aleluia!</verso>
+    </estrofe>
+  </texto>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='05'>Deus Criador</assunto>
+  <titulo_original>Lass uns erfreuen</titulo_original>
+  <metrica id='8_8_8_8_Aleluias'>8.8.8.8.Aleluias</metrica>
+  <origem_letra ano='1962' id='EdwardsRL' referencia='Edwards, Robert Lansing'>Robert Lansing Edwards</origem_letra>
+  <origem_letra ano='1967' id='FaustiniJW' referencia='Faustini, João Wilson'>João Wilson Faustini</origem_letra>
+  <origem_musica ano='1623' id='GeistlicheKirchengesang' referencia='“Geistliche Kirchengesäng”'>“Geistliche Kirchengesäng” (Coleção)</origem_musica>
+  <primeiro_verso_original>Deus, do infinito o Criador</primeiro_verso_original>
+  <referencia_biblica id='19_008'>Salmos 8</referencia_biblica>
+</hino>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao='incompleto'>
+  <numero>024</numero>
+  <n>24</n>
+  <titulo>Convite ao Louvor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vinde, irmãos, louvar a Deus,</verso>
+      <verso>Criador da terra e céus.</verso>
+      <coro>
+        <verso>Exaltemos o Senhor!</verso>
+        <verso>Infinito é seu amor!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Glória e honra ao grande Rei;</verso>
+      <verso>Alta e santa é sua lei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Age com poder real,</verso>
+      <verso>Com grandeza divinal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dia e noite a sua mão</verso>
+      <verso>Desenvolve o tenro grão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com os dons do seu poder</verso>
+      <verso>Nossas vidas faz crescer.</verso>
+    </estrofe>
+  </texto>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='05'>Deus Criador</assunto>
+  <titulo_original>Posen</titulo_original>
+  <metrica id='7_7_Coro'>7.7.Coro</metrica>
+  <origem_letra ano='1888' id='KalleySP' referencia='Kalley, Sarah Poulton'>Sarah Poulton Kalley</origem_letra>
+  <origem_musica ano='1691' id='StrattnerGC' referencia='Strattner, Georg Christoph'>Georg Christoph Strattner</origem_musica>
+  <origem_musica ano='1930' id='BlumW' referencia='Blum, W'>W. Blum</origem_musica>
+  <primeiro_verso_original>Vinde, irmãos, louvar a Deus</primeiro_verso_original>
+  <referencia_biblica id='19_135_001'>Salmos 135.1</referencia_biblica>
+  <referencia_biblica id='19_136_026'>Salmos 136.26</referencia_biblica>
+</hino>
