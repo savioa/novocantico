@@ -38,10 +38,10 @@ hash_primeiro_verso_original = Hash.new
 hash_metrica = Hash.new
 hash_referencia_biblica = Hash.new
 
-raiz = './hino/'
-Dir.foreach raiz do |hino|
-  unless hino.start_with? '.'
-    xml = Document.new File.new(raiz + hino + '/' + hino + '.xml')
+Dir.chdir 'hino'
+Dir.glob("**") do |hino|
+  if File.directory? hino
+    xml = Document.new File.new(hino + '/' + hino + '.xml')
     numero = XPath.first(xml, 'hino/numero').text
     titulo = XPath.first(xml, 'hino/titulo').text
     secao = XPath.first(xml, 'hino/secao').text
@@ -62,8 +62,8 @@ Dir.foreach raiz do |hino|
 end
 
 def gerar_arquivo_indice(id, conteudo, titulo, navegacao, navegacao_movel)
-  modelo = File.open('indice.modelo.html', 'r:UTF-8', &:read)
-  File.write 'indice/%s/index.html' % id, modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', titulo).gsub('navegacao-indice', navegacao).gsub('navegacao-movel-indice', navegacao_movel)
+  modelo = File.open('../indice.modelo.html', 'r:UTF-8', &:read)
+  File.write '../indice/%s/index.html' % id, modelo.gsub('conteudo-indice', conteudo).gsub('titulo-indice', titulo).gsub('navegacao-indice', navegacao).gsub('navegacao-movel-indice', navegacao_movel)
 end
 
 def gerar_saida_origem(hash, id, titulo)
@@ -181,7 +181,7 @@ secaoAtual = 'nenhuma'
 assuntoAtual = 'nenhum'
 conteudo = ''
 
-File.open("listagemComAssunto", "r") do |f|
+File.open("../listagemComAssunto", "r") do |f|
   f.each_line do |linha|
     item = linha.split '|'
     numero = item[0].strip
@@ -230,7 +230,7 @@ File.open("listagemComAssunto", "r") do |f|
       conteudo << ' ' * 48 + '<ul class=\'list-unstyled\'>' + "\n"
     end
 
-    if File.exist?('./hino/%s' % numero)
+    if File.exist?('%s' % numero)
       conteudo << ' ' * 52 + '<li><a href=\'../../hino/%s/%s.xml\'>%s · %s</a></li>' % [numero, numero, numero, titulo] + "\n"
     else
       conteudo << ' ' * 52 + '<li>%s · %s</li>' % [numero, titulo] + "\n"
