@@ -1,45 +1,55 @@
 <hino situacao='incompleto'>
-    <numero>046</numero>
-    <n>46</n>
-    <titulo>Altos louvores</titulo>
-    <texto>
-      <estrofe>
-        <verso>Altos louvores a quem triunfou!</verso>
-        <verso>Jesus, padecendo, seu povo salvou.</verso>
-        <verso>Morto na cruz pelos crimes do mundo,</verso>
-        <verso>Dotou aos iníquos de vida e perdão.</verso>
-        <verso>Quão grande esta graça! Favor tão profundo!</verso>
-        <verso>Amor indizível! Real compaixão!</verso>
-        <verso>Altos louvores a quem triunfou!</verso>
-        <verso>Jesus, padecendo, seu povo salvou. (bis)</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Glória rendemos ao bom Salvador,</verso>
-        <verso>Excelso em justiça, supremo em amor!</verso>
-        <verso>Cristo quebrou as cadeias do forte,</verso>
-        <verso>Seu cetro arrancando com régio poder.</verso>
-        <verso>Agora, onde estão teus terrores, ó morte?</verso>
-        <verso>Sepulcro! Teus presos irão reviver!</verso>
-        <verso>Glória rendamos ao bom Salvador,</verso>
-        <verso>Excelso em justiça, supremo em amor! (bis)</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Graças te damos, divino Senhor,</verso>
-        <verso>Amparo constante, fiel protetor!</verso>
-        <verso>Nunca nos deixas, Pastor incansável!</verso>
-        <verso>Teu braço não falha, nem perde o poder.</verso>
-        <verso>Conosco presente em bondade imutável,</verso>
-        <verso>Teu povo diriges com alto saber,</verso>
-        <verso>Graças te damos, divino Senhor,</verso>
-        <verso>Amparo constante, fiel protetor. (bis)</verso>
-      </estrofe>
-    </texto>
-    <secao id=''/>
-    <assunto id=''/>
-    <titulo_original/>
-    <metrica id=''/>
-    <origem_letra ano='' id='' referencia=''/>
-    <origem_musica ano='' id='' referencia=''/>
-    <primeiro_verso_original/>
-    <referencia_biblica id=''/>
-  </hino>
+  <numero>046</numero>
+  <n>46</n>
+  <titulo>Altos Louvores</titulo>
+  <texto>
+    <estrofe>
+      <verso>Altos louvores a quem triunfou!</verso>
+      <verso>Jesus, padecendo, seu povo salvou.</verso>
+      <verso>Morto na cruz pelos crimes do mundo,</verso>
+      <verso>Dotou aos iníquos de vida e perdão.</verso>
+      <verso>Quão grande esta graça! Favor tão profundo!</verso>
+      <verso>Amor indizível! Real compaixão!</verso>
+      <verso>Altos louvores a quem triunfou!</verso>
+      <verso>Jesus, padecendo, seu povo salvou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Glória rendemos ao bom Salvador,</verso>
+      <verso>Excelso em justiça, supremo em amor!</verso>
+      <verso>Cristo quebrou as cadeias do forte,</verso>
+      <verso>Seu cetro arrancando com régio poder.</verso>
+      <verso>Agora, onde estão teus terrores, ó morte?</verso>
+      <verso>Sepulcro! Teus presos irão reviver!</verso>
+      <verso>Glória rendamos ao bom Salvador,</verso>
+      <verso>Excelso em justiça, supremo em amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Graças te damos, divino Senhor,</verso>
+      <verso>Amparo constante, fiel protetor!</verso>
+      <verso>Nunca nos deixas, Pastor incansável!</verso>
+      <verso>Teu braço não falha nem perde o poder.</verso>
+      <verso>Conosco presente em bondade imutável,</verso>
+      <verso>Teu povo diriges com alto saber,</verso>
+      <verso>Graças te damos, divino Senhor,</verso>
+      <verso>Amparo constante, fiel protetor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, ó Jesus, majestoso reinar;</verso>
+      <verso>Teu povo te espera, não queiras tardar!</verso>
+      <verso>Vem em poder, apressando esse dia,</verso>
+      <verso>Pois tua vontade será feita aqui.</verso>
+      <verso>Oh! Volta na glória trazendo alegria!</verso>
+      <verso>A Igreja suspira, ansiosa por ti!</verso>
+      <verso>Vem, ó Jesus, majestoso reinar;</verso>
+      <verso>Teu povo te espera, não queiras tardar!</verso>
+    </estrofe>
+  </texto>
+  <secao id=''/>
+  <assunto id=''/>
+  <titulo_original/>
+  <metrica id=''/>
+  <origem_letra ano='' id='' referencia=''/>
+  <origem_musica ano='' id='' referencia=''/>
+  <primeiro_verso_original/>
+  <referencia_biblica id=''/>
+</hino>

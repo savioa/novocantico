@@ -1,21 +1,21 @@
 <hino situacao='incompleto'>
-    <numero>044</numero>
-    <n>44</n>
-    <titulo>Louvores ao Senhor</titulo>
-    <texto>
-      <estrofe>
-        <verso>Louvemos ao Senhor, ao Pai da eternidade,</verso>
-        <verso>Que mostra tanto amor à pobre humanidade!</verso>
-        <verso>Seu Filho aqui sofreu por nossa redenção</verso>
-        <verso>E com o Pai nos deu bendita comunhão!</verso>
-      </estrofe>
-    </texto>
-    <secao id=''/>
-    <assunto id=''/>
-    <titulo_original/>
-    <metrica id=''/>
-    <origem_letra ano='' id='' referencia=''/>
-    <origem_musica ano='' id='' referencia=''/>
-    <primeiro_verso_original/>
-    <referencia_biblica id=''/>
-  </hino>
+  <numero>044</numero>
+  <n>44</n>
+  <titulo>Louvores ao Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Louvemos ao Senhor, ao Pai da eternidade,</verso>
+      <verso>Que mostra tanto amor à pobre humanidade!</verso>
+      <verso>Seu Filho aqui sofreu por nossa redenção</verso>
+      <verso>E com o Pai nos deu bendita comunhão!</verso>
+    </estrofe>
+  </texto>
+  <secao id=''/>
+  <assunto id=''/>
+  <titulo_original/>
+  <metrica id=''/>
+  <origem_letra ano='' id='' referencia=''/>
+  <origem_musica ano='' id='' referencia=''/>
+  <primeiro_verso_original/>
+  <referencia_biblica id=''/>
+</hino>

@@ -1,51 +1,51 @@
 <hino situacao='incompleto'>
-    <numero>043</numero>
-    <n>43</n>
-    <titulo>O Deus de amor</titulo>
-    <texto>
-      <estrofe>
-        <verso>Desperta já meu coração,</verso>
-        <verso>E louva ao Salvador;</verso>
+  <numero>043</numero>
+  <n>43</n>
+  <titulo>O Deus de Amor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Desperta já, meu coração</verso>
+      <verso>E louva ao Salvador,</verso>
+      <verso>Cantando em hinos triunfais</verso>
+      <verso>Que Deus é o Deus de amor.</verso>
+      <verso>Imenso amor! Amor sem-par!</verso>
+      <verso>Preenche os vastos céus,</verso>
+      <verso>Alcança a terra e a todos nós,</verso>
+      <verso>Insigne amor de Deus!</verso>
+      <coro>
+        <verso>Desperta já, meu coração,</verso>
+        <verso>E louva ao grande Salvador;</verso>
         <verso>Cantando em hinos triunfais</verso>
         <verso>Que Deus é o Deus de amor.</verso>
-        <verso>Imenso amor! Amor sem par!</verso>
-        <verso>Preenche os vastos céus</verso>
-        <verso>Alcança a terra e a todos nós</verso>
-        <verso>Insigne amor de Deus!</verso>
-        <coro>
-          <verso>Desperta já, meu coração,</verso>
-          <verso>E louva ao grande Salvador;</verso>
-          <verso>Cantando em hinos triunfais</verso>
-          <verso>Que Deus é o Deus de amor.</verso>
-        </coro>
-      </estrofe>
-      <estrofe>
-        <verso>Amor que um dia se encarnou</verso>
-        <verso>A fim de me salvar,</verso>
-        <verso>E que subindo à dura cruz</verso>
-        <verso>Morreu em meu lugar!</verso>
-        <verso>Amor que exclama: “Vinde a mim!”</verso>
-        <verso>Que busca o pecador.</verso>
-        <verso>Amor eterno, sem igual,</verso>
-        <verso>De Cristo, Salvador.</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Remido a preço tão real</verso>
-        <verso>O sangue do Senhor,</verso>
-        <verso>Com que pagar eu poderei</verso>
-        <verso>Tal graça, tal amor?</verso>
-        <verso>Quando ele a mim, um pecador,</verso>
-        <verso>Se digna de aceitar,</verso>
-        <verso>E me levar com seus fiéis</verso>
-        <verso>Ao santo e eterno lar?</verso>
-      </estrofe>
-    </texto>
-    <secao id=''/>
-    <assunto id=''/>
-    <titulo_original/>
-    <metrica id=''/>
-    <origem_letra ano='' id='' referencia=''/>
-    <origem_musica ano='' id='' referencia=''/>
-    <primeiro_verso_original/>
-    <referencia_biblica id=''/>
-  </hino>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Amor que um dia se encarnou</verso>
+      <verso>A fim de me salvar,</verso>
+      <verso>E que, subindo à dura cruz,</verso>
+      <verso>Morreu em meu lugar!</verso>
+      <verso>Amor que exclama: “Vinde a mim!”</verso>
+      <verso>Que busca o pecador.</verso>
+      <verso>Amor eterno, sem igual,</verso>
+      <verso>De Cristo, Salvador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Remido a preço tão real</verso>
+      <verso>O sangue do Senhor,</verso>
+      <verso>Com que pagar eu poderei</verso>
+      <verso>Tal graça, tal amor?</verso>
+      <verso>Quando ele a mim, um pecador,</verso>
+      <verso>Se digna de aceitar</verso>
+      <verso>E me levar com seus fiéis</verso>
+      <verso>Ao santo e eterno lar?</verso>
+    </estrofe>
+  </texto>
+  <secao id=''/>
+  <assunto id=''/>
+  <titulo_original/>
+  <metrica id=''/>
+  <origem_letra ano='' id='' referencia=''/>
+  <origem_musica ano='' id='' referencia=''/>
+  <primeiro_verso_original/>
+  <referencia_biblica id=''/>
+</hino>
