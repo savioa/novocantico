@@ -28,12 +28,13 @@
       <verso>A todos proclamai!</verso>
     </estrofe>
   </texto>
-  <secao id=''/>
-  <assunto id=''/>
-  <titulo_original/>
-  <metrica id=''/>
-  <origem_letra ano='' id='' referencia=''/>
-  <origem_musica ano='' id='' referencia=''/>
-  <primeiro_verso_original/>
-  <referencia_biblica id=''/>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='09'>Deus Salvador</assunto>
+  <titulo_original>Oh, sing of Jesus</titulo_original>
+  <metrica id='8_6_8_6_Coro'>8.6.8.6.Coro</metrica>
+  <origem_letra id='OKaneTC' referencia="O'Kane, Tullius Clinton">Tullius Clinton O'Kane</origem_letra>
+  <origem_letra ano='1887' id='JonesJ' referencia='Jones, Joseph'>Joseph Jones</origem_letra>
+  <origem_musica id='OKaneTC' referencia="O'Kane, Tullius Clinton">Tullius Clinton O'Kane</origem_musica>
+  <primeiro_verso_original>Oh, sing of Jesus, Lamb of God</primeiro_verso_original>
+  <referencia_biblica id='62_003_016'>1 João 3.16</referencia_biblica>
 </hino>
