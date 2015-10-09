@@ -236,9 +236,12 @@ File.open("../listagemComAssunto", "r") do |f|
       conteudo << ' ' * 52 + '<li>%s · %s</li>' % [numero, titulo] + "\n"
     end
   end
+
+  conteudo << ' ' * 48 + '</ul>' + "\n"
+  conteudo << ' ' * 44 + '</li>' + "\n"
 end
 
 conteudo << ' ' * 40 + '</ul>' + "\n"
-conteudo << ' ' * 38 + '</li>' + "\n"
+conteudo << ' ' * 36 + '</li>' + "\n"
 
 gerar_arquivo_indice 'assunto', conteudo, 'Assunto', '', ''

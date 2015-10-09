@@ -180,35 +180,47 @@
                                     <dt>Assunto</dt>
                                     <dd><a href='../../indice/assunto/index.html#{/hino/secao/@id}'><xsl:value-of select='hino/secao'/></a> &#8250; <a href='../../indice/assunto/index.html#{/hino/secao/@id}{/hino/assunto/@id}'><xsl:value-of select='hino/assunto'/></a></dd>
 
+                                    <xsl:if test='hino/origem_letra'>
                                     <dt>Origem da Letra</dt>
                                     <xsl:for-each select='hino/origem_letra'>
                                     <dd><a href='../../indice/origem-letra/index.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
                                     </xsl:for-each>
+                                    </xsl:if>
 
+                                    <xsl:if test='hino/origem_musica'>
                                     <dt>Origem da Música</dt>
                                     <xsl:for-each select='hino/origem_musica'>
                                     <dd><a href='../../indice/origem-musica/index.html#{./@id}'><xsl:value-of select='.'/></a><xsl:if test='./@ano'> (<xsl:value-of select='./@ano'/>)</xsl:if></dd>
                                     </xsl:for-each>
+                                    </xsl:if>
 
+                                    <xsl:if test='hino/referencia_biblica'>
                                     <dt>Referência Bíblica</dt>
                                     <xsl:for-each select='hino/referencia_biblica'>
                                     <dd><a href='../../indice/referencia-biblica/index.html#{./@id}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
+                                    </xsl:if>
 
+                                    <xsl:if test='hino/titulo_original'>
                                     <dt>Título Original</dt>
                                     <xsl:for-each select='hino/titulo_original'>
                                     <dd><a href='../../indice/titulo-original/index.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
+                                    </xsl:if>
 
+                                    <xsl:if test='hino/primeiro_verso_original'>
                                     <dt>1º Verso Original</dt>
                                     <xsl:for-each select='hino/primeiro_verso_original'>
                                     <dd><a href='../../indice/primeiro-verso-original/index.html#{/hino/numero}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
+                                    </xsl:if>
 
+                                    <xsl:if test='hino/metrica'>
                                     <dt>Métrica</dt>
                                     <xsl:for-each select='hino/metrica'>
                                     <dd><a href='../../indice/metrica/index.html#{/hino/metrica/@id}'><xsl:value-of select='.'/></a></dd>
                                     </xsl:for-each>
+                                    </xsl:if>
                                 </dl>
                             </div>
                         </div>
