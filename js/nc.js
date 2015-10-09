@@ -54,6 +54,10 @@ $('#btn-controle-audio').click(function(e) {
     audioElement.currentTime = 0;
   } else {
     audioElement.play();
+
+    audioElement.onended = function() {
+      toggleBtnControleAudio();
+    };
   }
 });
 
