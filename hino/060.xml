@@ -1,39 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino situacao='incompleto'>
-    <numero>060</numero>
-    <n>60</n>
-    <titulo>Ofertório</titulo>
-    <texto>
-      <estrofe>
-        <verso>Em tudo as tuas mãos, Senhor,</verso>
-        <verso>Nos têm enriquecido,</verso>
-        <verso>E às provisões do teu amor,</verso>
-        <verso>Bondosas, conduzido.</verso>
-      </estrofe>
-      <estrofe>
-        <verso>De ti procede a salvação</verso>
-        <verso>E as bênçãos incontáveis</verso>
-        <verso>Que, dia a dia, ó Pai, nos dão</verso>
-        <verso>As tuas mãos amáveis.</verso>
-      </estrofe>
-      <estrofe>
-        <verso>De ti vivemos nós, Senhor,</verso>
-        <verso>E em ti nos alegramos;</verso>
-        <verso>Na comunhão do puro amor</verso>
-        <verso>Que em Cristo desfrutamos.</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Com mui sincero coração</verso>
-        <verso>Oferta aqui trazemos;</verso>
-        <verso>Recebe como gratidão</verso>
-        <verso>De quanto a ti devemos. Amém.</verso>
-      </estrofe>
-    </texto>
-    <secao id=''/>
-    <assunto id=''/>
-    <titulo_original/>
-    <metrica id=''/>
-    <origem_letra ano='' id='' referencia=''/>
-    <origem_musica ano='' id='' referencia=''/>
-    <primeiro_verso_original/>
-    <referencia_biblica id=''/>
-  </hino>
+  <numero>060</numero>
+  <n>60</n>
+  <titulo>Ofertório</titulo>
+  <texto>
+    <estrofe>
+      <verso>Em tudo as tuas mãos, Senhor,</verso>
+      <verso>Nos têm enriquecido,</verso>
+      <verso>E às provisões do teu amor,</verso>
+      <verso>Bondosas, conduzido.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De ti procede a salvação</verso>
+      <verso>E as bênçãos incontáveis</verso>
+      <verso>Que, dia a dia, ó Pai, nos dão</verso>
+      <verso>As tuas mãos amáveis.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De ti vivemos nós, Senhor,</verso>
+      <verso>E em ti nos alegramos;</verso>
+      <verso>Na comunhão do puro amor</verso>
+      <verso>Que em Cristo desfrutamos.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com mui sincero coração</verso>
+      <verso>Oferta aqui trazemos;</verso>
+      <verso>Recebe como gratidão</verso>
+      <verso>De quanto a ti devemos. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id=''></secao>
+  <assunto id=''></assunto>
+  <titulo_original></titulo_original>
+  <metrica id=''></metrica>
+  <origem_letra ano='' id='' referencia=''></origem_letra>
+  <origem_musica ano='' id='' referencia=''></origem_musica>
+  <primeiro_verso_original></primeiro_verso_original>
+  <referencia_biblica id=''></referencia_biblica>
+</hino>

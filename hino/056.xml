@@ -1,27 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino situacao='incompleto'>
     <numero>056</numero>
     <n>56</n>
     <titulo>Ações de graça e súplica</titulo>
     <texto>
-      <estrofe>
-        <verso>Graças te rendemos, Deus de luz e amor,</verso>
-        <verso>Pelo dom de Cristo, nosso Salvador;</verso>
-        <verso>Pelo que nos deste com bondosa mão,</verso>
-        <verso>Pelos dons da vida: Veste, abrigo e pão.</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Pelos bons amigos que, Senhor, te apraz</verso>
-        <verso>Congregar conosco, nesta doce paz.</verso>
-        <verso>Dá-nos sempre a graça de contigo estar,</verso>
-        <verso>Dá-nos sempre o gozo de teu Nome honrar!</verso>
-      </estrofe>
+        <estrofe>
+            <verso>Graças te rendemos, Deus de luz e amor,</verso>
+            <verso>Pelo dom de Cristo, nosso Salvador;</verso>
+            <verso>Pelo que nos deste com bondosa mão,</verso>
+            <verso>Pelos dons da vida: Veste, abrigo e pão.</verso>
+        </estrofe>
+        <estrofe>
+            <verso>Pelos bons amigos que, Senhor, te apraz</verso>
+            <verso>Congregar conosco, nesta doce paz.</verso>
+            <verso>Dá-nos sempre a graça de contigo estar,</verso>
+            <verso>Dá-nos sempre o gozo de teu Nome honrar!</verso>
+        </estrofe>
     </texto>
-    <secao id=''/>
-    <assunto id=''/>
-    <titulo_original/>
-    <metrica id=''/>
-    <origem_letra ano='' id='' referencia=''/>
-    <origem_musica ano='' id='' referencia=''/>
-    <primeiro_verso_original/>
-    <referencia_biblica id=''/>
-  </hino>
+    <secao id=''></secao>
+    <assunto id=''></assunto>
+    <titulo_original></titulo_original>
+    <metrica id=''></metrica>
+    <origem_letra ano='' id='' referencia=''></origem_letra>
+    <origem_musica ano='' id='' referencia=''></origem_musica>
+    <primeiro_verso_original></primeiro_verso_original>
+    <referencia_biblica id=''></referencia_biblica>
+</hino>

@@ -1,45 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino situacao='incompleto'>
-    <numero>058</numero>
-    <n>58</n>
-    <titulo>Ofertas</titulo>
-    <texto>
-      <estrofe>
-        <verso>A minha vida, com meus bens,</verso>
-        <verso>Provém de ti, Senhor!</verso>
-        <verso>Saúde, veste, abrigo e pão</verso>
-        <verso>São dons do teu amor!</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Oh! Não permitas, Pai de amor</verso>
-        <verso>Que aquilo que me dás</verso>
-        <verso>Eu ouse, incauto, desviar</verso>
-        <verso>Em causas vãs ou más!</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Não deixes que meu coração</verso>
-        <verso>Se engolfe no prazer,</verso>
-        <verso>E no fruir de muitos dons</verso>
-        <verso>Eu venha te esquecer!</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Mordomo teu, eu quero dar</verso>
-        <verso>À Igreja, em proporção,</verso>
-        <verso>A quantas bênçãos recebi</verso>
-        <verso>De tuas próprias mãos!</verso>
-      </estrofe>
-      <estrofe>
-        <verso>Aceita a minha oferta, ó Deus,</verso>
-        <verso>E bênçãos dá-me a flux.</verso>
-        <verso>Sim, dá-me sempre o que ofertar</verso>
-        <verso>À causa de Jesus! Amém.</verso>
-      </estrofe>
-    </texto>
-    <secao id=''/>
-    <assunto id=''/>
-    <titulo_original/>
-    <metrica id=''/>
-    <origem_letra ano='' id='' referencia=''/>
-    <origem_musica ano='' id='' referencia=''/>
-    <primeiro_verso_original/>
-    <referencia_biblica id=''/>
-  </hino>
+  <numero>058</numero>
+  <n>58</n>
+  <titulo>Ofertas</titulo>
+  <texto>
+    <estrofe>
+      <verso>A minha vida, com meus bens,</verso>
+      <verso>Provém de ti, Senhor!</verso>
+      <verso>Saúde, veste, abrigo e pão</verso>
+      <verso>São dons do teu amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Não permitas, Pai de amor</verso>
+      <verso>Que aquilo que me dás</verso>
+      <verso>Eu ouse, incauto, desviar</verso>
+      <verso>Em causas vãs ou más!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não deixes que meu coração</verso>
+      <verso>Se engolfe no prazer,</verso>
+      <verso>E no fruir de muitos dons</verso>
+      <verso>Eu venha te esquecer!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mordomo teu, eu quero dar</verso>
+      <verso>À Igreja, em proporção,</verso>
+      <verso>A quantas bênçãos recebi</verso>
+      <verso>De tuas próprias mãos!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aceita a minha oferta, ó Deus,</verso>
+      <verso>E bênçãos dá-me a flux.</verso>
+      <verso>Sim, dá-me sempre o que ofertar</verso>
+      <verso>À causa de Jesus! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id=''></secao>
+  <assunto id=''></assunto>
+  <titulo_original></titulo_original>
+  <metrica id=''></metrica>
+  <origem_letra ano='' id='' referencia=''></origem_letra>
+  <origem_musica ano='' id='' referencia=''></origem_musica>
+  <primeiro_verso_original></primeiro_verso_original>
+  <referencia_biblica id=''></referencia_biblica>
+</hino>
