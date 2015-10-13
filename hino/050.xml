@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino situacao='incompleto'>
   <numero>050</numero>
   <n>50</n>
@@ -26,12 +28,12 @@
       <verso>E na celeste glória os seus receberá.</verso>
     </estrofe>
   </texto>
-  <secao id=''/>
-  <assunto id=''/>
-  <titulo_original/>
-  <metrica id=''/>
-  <origem_letra ano='' id='' referencia=''/>
-  <origem_musica ano='' id='' referencia=''/>
-  <primeiro_verso_original/>
-  <referencia_biblica id=''/>
+  <secao id=''></secao>
+  <assunto id=''></assunto>
+  <titulo_original></titulo_original>
+  <metrica id=''></metrica>
+  <origem_letra ano='' id='' referencia=''></origem_letra>
+  <origem_musica ano='' id='' referencia=''></origem_musica>
+  <primeiro_verso_original></primeiro_verso_original>
+  <referencia_biblica id=''></referencia_biblica>
 </hino>
