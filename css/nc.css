@@ -40,6 +40,7 @@ i[class~="fa-level-up"] {
 .social a {
     color: #222;
     margin-left: 1.42857143em;
+    font-size: .75em;
 }
 
 
@@ -73,4 +74,9 @@ body {
 
 dfn i {
     font-weight: normal;
+}
+
+.panel-title {
+    font-size: 2em;
+    line-height: 1.5em;
 }

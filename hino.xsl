@@ -77,7 +77,7 @@
                 <div class="row show-grid">
                     <div class="col-md-8">
                         <div class="panel panel-default">
-                            <div class="panel-heading"><xsl:value-of select='hino/numero'/> · <xsl:value-of select='hino/titulo'/> <span class="pull-right social"><a title="Compartilhe no Twitter" href="https://twitter.com/intent/tweet?text={hino/numero} · {hino/titulo}&amp;url=http://www.novocantico.com.br/hino/{hino/numero}/{hino/numero}.xml&amp;via=novo_cantico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a> <a title="Compartilhe no Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.novocantico.com.br/hino/{hino/numero}/{hino/numero}.xml" target="_blank"><i class="fa fa-facebook-official fa-lg"></i></a></span></div>
+                            <div class="panel-heading"><h1 class="panel-title"><xsl:value-of select='hino/numero'/> · <xsl:value-of select='hino/titulo'/> <span class="pull-right social"><a title="Compartilhe no Twitter" href="https://twitter.com/intent/tweet?text={hino/numero} · {hino/titulo}&amp;url=http://www.novocantico.com.br/hino/{hino/numero}/{hino/numero}.xml&amp;via=novo_cantico" target="_blank"><i class="fa fa-twitter fa-lg"></i></a> <a title="Compartilhe no Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.novocantico.com.br/hino/{hino/numero}/{hino/numero}.xml" target="_blank"><i class="fa fa-facebook-official fa-lg"></i></a></span></h1></div>
 
                             <div class="panel-body">
                                 <xsl:choose>
