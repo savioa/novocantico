@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>325</numero>
-  <titulo>Aspiração feminina</titulo>
+  <titulo>Aspiração Feminina</titulo>
   <texto>
     <estrofe>
       <verso>A nós aqui reunidas,</verso>
@@ -57,7 +57,6 @@
   <metrica id="7_6_7_6_D_Coro">7.6.7.6.D.Coro</metrica>
   <origem_letra id="SalumIN" referencia="Salum, Isaac Nicolau" ano="1940">Isaac Nicolau Salum</origem_letra>
   <origem_musica id="FischerWG" referencia="Fischer, William Gustavus" ano="1869">William Gustavus Fischer</origem_musica>
-  <primeiro_verso_original>A nós aqui reunidas</primeiro_verso_original>
   <referencia_biblica id="54_004_010">1 Timóteo 4.10</referencia_biblica>
 </hino>
 
