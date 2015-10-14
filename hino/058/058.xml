@@ -7,7 +7,7 @@
   <texto>
     <estrofe>
       <verso>A minha vida, com meus bens,</verso>
-      <verso>Provém de ti, Senhor!</verso>
+      <verso>Provém de ti, Senhor.</verso>
       <verso>Saúde, veste, abrigo e pão</verso>
       <verso>São dons do teu amor!</verso>
     </estrofe>
@@ -25,7 +25,7 @@
     </estrofe>
     <estrofe>
       <verso>Mordomo teu, eu quero dar</verso>
-      <verso>À Igreja, em proporção,</verso>
+      <verso>À Igreja, em proporção</verso>
       <verso>A quantas bênçãos recebi</verso>
       <verso>De tuas próprias mãos!</verso>
     </estrofe>
@@ -36,12 +36,11 @@
       <verso>À causa de Jesus! Amém.</verso>
     </estrofe>
   </texto>
-  <secao id=''></secao>
-  <assunto id=''></assunto>
-  <titulo_original></titulo_original>
-  <metrica id=''></metrica>
-  <origem_letra ano='' id='' referencia=''></origem_letra>
-  <origem_musica ano='' id='' referencia=''></origem_musica>
-  <primeiro_verso_original></primeiro_verso_original>
-  <referencia_biblica id=''></referencia_biblica>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='11'>Gratidão</assunto>
+  <titulo_original>Ofertas</titulo_original>
+  <metrica id='8_6_8_6'>8.6.8.6</metrica>
+  <origem_letra id='GueirosJ' referencia='Gueiros, Jerônimo'>Jerônimo Gueiros</origem_letra>
+  <origem_musica id='WilsonH' referencia='Hugh, Wilson'> Wilson Hugh</origem_musica>
+  <referencia_biblica id='19_065_011_012'>Salmos 65.11,12</referencia_biblica>
 </hino>

@@ -3,13 +3,13 @@
 <hino situacao='incompleto'>
   <numero>053</numero>
   <n>53</n>
-  <titulo>Honra, poder, majestade</titulo>
+  <titulo>Honra, Poder, Majestade</titulo>
   <texto>
     <estrofe>
       <verso>Honra, poder, majestade, riqueza,</verso>
-      <verso>Sabedoria, domínio e grandeza,</verso>
+      <verso>Sabedoria, domínio e grandeza</verso>
       <verso>Ao vencedor da batalha é cantado,</verso>
-      <verso>Ao ser no trono do céu, coroado.</verso>
+      <verso>Ao ser, no trono do céu coroado.</verso>
     </estrofe>
     <estrofe>
       <verso>Soa nos céus o triunfo, a vitória;</verso>
@@ -26,8 +26,8 @@
     <estrofe>
       <verso>Dai ao Cordeiro o louvor que é devido;</verso>
       <verso>No trono reina de glória vestido.</verso>
-      <verso>Foi imolado - aparente fraqueza!</verso>
-      <verso>Mas triunfante, já vive em grandeza.</verso>
+      <verso>Foi imolado — aparente fraqueza!</verso>
+      <verso>Mas, triunfante, já vive em grandeza.</verso>
     </estrofe>
   </texto>
   <secao id=''></secao>
