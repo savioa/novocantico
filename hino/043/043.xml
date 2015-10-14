@@ -42,12 +42,13 @@
       <verso>Ao santo e eterno lar?</verso>
     </estrofe>
   </texto>
-  <secao id=''></secao>
-  <assunto id=''></assunto>
-  <titulo_original></titulo_original>
-  <metrica id=''></metrica>
-  <origem_letra ano='' id='' referencia=''></origem_letra>
-  <origem_musica ano='' id='' referencia=''></origem_musica>
-  <primeiro_verso_original></primeiro_verso_original>
-  <referencia_biblica id=''></referencia_biblica>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='09'>Deus Salvador</assunto>
+  <titulo_original>Awake, awake</titulo_original>
+  <metrica id='8_6_8_6_D'>8.6.8.6.D</metrica>
+  <origem_letra id='CrosbyFJ' referencia='Crosby, Fanny Jane'>Fanny Jane Crosby</origem_letra>
+  <origem_letra id='WrightHM' referencia='Wright, Henry Maxwell'>Henry Maxwell Wright</origem_letra>
+  <origem_musica id='SweneyJR' referencia='Sweney, John Robson'>John Robson Sweney</origem_musica>
+  <primeiro_verso_original>Awake, awake, o heart of mine</primeiro_verso_original>
+    <referencia_biblica id="42_019_037">Lucas 19.37</referencia_biblica>
 </hino>

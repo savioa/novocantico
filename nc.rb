@@ -21,7 +21,7 @@ class Hash
 end
 
 def montar_hash_origem(xpath, xml, hash, numero, titulo)
-  XPath.each(xml, xpath) { |e| hash.adicionar [e.attributes['id'], e.attributes['referencia']], [numero, titulo] }
+  XPath.each(xml, xpath) { |e| hash.adicionar [e.attributes['id'], e.attributes['referencia'], e.text], [numero, titulo] }
 end
 
 def montar_hash_simples(xpath, xml, hash, numero)
@@ -136,7 +136,7 @@ gerar_saida_simples hash_primeiro_verso_original, 'primeiro-verso-original', 'Pr
 # Métrica
 conteudo = ''
 hash_metrica.sort.each do |chave, valor|
-  conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s</h2>' % [chave[0], chave[0].gsub('_', '.')] + "\n"
+  conteudo << ' ' * 36 + '<li id=\'%s\'><h2>%s</h2>' % [chave[0], chave[2]] + "\n"
   conteudo <<  ' ' * 40 + '<ul class=\'list-unstyled\'>' + "\n"
 
   valor.each do |e|
