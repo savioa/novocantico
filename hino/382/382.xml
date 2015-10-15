@@ -46,7 +46,6 @@
   <metrica id="Irregular">Irregular</metrica>
   <origem_letra id="BastosMD" referencia="Bastos, Moacyr Dias" ano="1968">Moacyr Dias Bastos</origem_letra>
   <origem_musica id="BastosMD" referencia="Bastos, Moacyr Dias" ano="1968">Moacyr Dias Bastos</origem_musica>
-  <origem_musica id="Manuel, Ralph E" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
-  <primeiro_verso_original></primeiro_verso_original>
+  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
   <referencia_biblica id="41_016_015">Marcos 16.15</referencia_biblica>
 </hino>

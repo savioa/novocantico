@@ -34,8 +34,8 @@
   <assunto id="11">Final de Culto</assunto>
   <titulo_original>Ellers</titulo_original>
   <metrica id="10_10_10_10">10.10.10.10</metrica>
-  <origem_letra id="" referencia="" ano="1866">John Ellerton</origem_letra>
-  <origem_letra id="" referencia="Costa, J." ano="1969">J. Costa</origem_letra>
+  <origem_letra id="EllertonJ" referencia="" ano="1866">John Ellerton</origem_letra>
+  <origem_letra id="CostaJ" referencia="Costa, J." ano="1969">J. Costa</origem_letra>
   <origem_musica id="HopkinsEJ" referencia="Hopkins, Edward John" ano="1869">Edward John Hopkins</origem_musica>
   <primeiro_verso_original>Savior, again to Thy dear name we raise</primeiro_verso_original>
   <referencia_biblica id="50_004_009">50  Filipenses 4.9</referencia_biblica>
