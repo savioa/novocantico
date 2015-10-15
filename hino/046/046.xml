@@ -46,12 +46,11 @@
       <verso>Teu povo te espera, não queiras tardar!</verso>
     </estrofe>
   </texto>
-  <secao id=''></secao>
-  <assunto id=''></assunto>
-  <titulo_original></titulo_original>
-  <metrica id=''></metrica>
-  <origem_letra ano='' id='' referencia=''></origem_letra>
-  <origem_musica ano='' id='' referencia=''></origem_musica>
-  <primeiro_verso_original></primeiro_verso_original>
-  <referencia_biblica id=''></referencia_biblica>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='09'>Deus Salvador</assunto>
+  <titulo_original>Altos Louvores</titulo_original>
+  <metrica id='10_11_11_11_12_11_10_11__5_5'>10.11.11.11.12.11.10.11.[5.5]</metrica>
+  <origem_letra ano='1873' id='KalleySP' referencia='Kalley, Sarah Poulton'>Sarah Poulton Kalley</origem_letra>
+  <origem_musica id='AvisonC' referencia='Avison, Charles'>Charles Avison</origem_musica>
+  <referencia_biblica id='66_019_007'>Apocalipse 19.7</referencia_biblica>
 </hino>
