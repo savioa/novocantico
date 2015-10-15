@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>383</numero>
+  <n>383</n>
+  <titulo>Um Novo Mundo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jovens fortes chama-nos Jesus,</verso>
+      <verso>Para um mundo novo construir.</verso>
+      <verso>Trevas, que hoje tentam destruir,</verso>
+      <verso>Hão de ser clara luz,</verso>
+      <verso>Alvo resplendor!</verso>
+      <coro>
+        <verso>Levantemos sobre a terra</verso>
+        <verso>Nossos braços libertados,</verso>
+        <verso>Ao serviço convocados</verso>
+        <verso>Por Jesus;</verso>
+        <verso>Pelos que são oprimidos,</verso>
+        <verso>Pelos que são perseguidos!</verso>
+        <verso>Eia! Que nós venceremos</verso>
+        <verso>No poder da cruz!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Ao combate, enquanto não soou</verso>
+      <verso>O momento em que há de raiar</verso>
+      <verso>Novo mundo, com Jesus, Senhor,</verso>
+      <verso>Onde a paz e o amor</verso>
+      <verso>Sempre hão de reinar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="06">Mocidade</assunto>
+  <titulo_original>Victory</titulo_original>
+  <metrica id="Irregular">Irregular</metrica>
+  <origem_letra id="CombaMCC" referencia="Comba, Margarita Comotto Cores de" ano="1940">Margarita Comotto Cores de Comba</origem_letra>
+  <origem_letra id="OliveiraSPSilva" referencia="Oliveira, Stella Pessoa da Silva" ano="1945">Stella Pessoa da Silva Oliveira</origem_letra>
+  <origem_musica id="HallJL" referencia="Hall, J. Lincoln" ano="1902">J. Lincoln Hall</origem_musica>
+  <primeiro_verso_original>Hombres fuertes os llama Jesus</primeiro_verso_original>
+  <referencia_biblica id="41_016_015">Marcos 16.15</referencia_biblica>
+</hino>

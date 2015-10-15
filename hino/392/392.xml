@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>392</numero>
+  <n>392</n>
+  <titulo>Vida Vitoriosa</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cristo amado, sei que na força do mal</verso>
+      <verso>Tu, meu Mestre, sempre serás protetor.</verso>
+      <verso>Tu me guardas, dando-me paz divinal!</verso>
+      <verso>Eu contigo sempre serei vencedor!</verso>
+      <coro>
+        <verso>Cristo, Mestre,</verso>
+        <verso>Sei que contigo sou vencedor!</verso>
+        <verso>Dá-me graça,</verso>
+        <verso>Dá-me do teu poder, Redentor!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Que alegria tenho no meu Salvador;</verso>
+      <verso>Tenho graça, vida de amor paternal!</verso>
+      <verso>Tudo posso, tudo por ti, meu Senhor;</verso>
+      <verso>Deste mundo sou vencedor, afinal!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não duvido, Cristo, meu Mestre, de ti;</verso>
+      <verso>Creio em tua rica promessa, Jesus!</verso>
+      <verso>Tu não deixas, nem abandonas aqui</verso>
+      <verso>Os que buscam ver tua face de luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Que bênção ter a certeza do bem,</verso>
+      <verso>Ter na vida paz e perdão do Senhor!</verso>
+      <verso>Mui alegre vou para a Pátria de além,</verso>
+      <verso>Onde reina Cristo Jesus, Rei de amor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="06">Mocidade</assunto>
+  <titulo_original>Amado</titulo_original>
+  <metrica id="">11.11.11.11.Coro</metrica>
+  <origem_letra id="SouzaMA" referencia="Souza, Manuel Avelino de">Manuel Avelino de Souza</origem_letra>
+  <origem_musica id="ScholfieldJP" referencia="Scholfield, Jack P.">Jack P. Scholfield</origem_musica>
+  <primeiro_verso_original></primeiro_verso_original>
+  <referencia_biblica id="55_002_004">2 Timóteo 2.4</referencia_biblica>
+</hino>
