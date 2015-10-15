@@ -46,12 +46,13 @@
       <verso>Em Cristo, nos constituiu!”</verso>
     </estrofe>
   </texto>
-  <secao id=''></secao>
-  <assunto id=''></assunto>
-  <titulo_original></titulo_original>
-  <metrica id=''></metrica>
-  <origem_letra ano='' id='' referencia=''></origem_letra>
-  <origem_musica ano='' id='' referencia=''></origem_musica>
-  <primeiro_verso_original></primeiro_verso_original>
-  <referencia_biblica id=''></referencia_biblica>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='09'>Deus Salvador</assunto>
+  <titulo_original>Jubilee</titulo_original>
+  <metrica id='9_8_9_8_D'>9.8.9.8.D</metrica>
+  <origem_letra ano='1848' id='FoxHW' referencia='Fox, Henry Watson'>Henry Watson Fox</origem_letra>
+  <origem_letra ano='1913' id='WrightHM' referencia='Wright, Henry Maxwell'>Henry Maxwell Wright</origem_letra>
+  <origem_musica ano='1894' id='MaunderJH' referencia='Maunder, John Henry'>John Henry Maunder</origem_musica>
+  <primeiro_verso_original>I hear ten thousand voices singing</primeiro_verso_original>
+  <referencia_biblica id='66_005_011_013'>Apocalipse 5.11-13</referencia_biblica>
 </hino>
