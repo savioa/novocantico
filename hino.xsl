@@ -124,11 +124,11 @@
                                 </xsl:when>
                                 <xsl:otherwise>
                                 <form id="controle-audio">
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}" value="audio-todos" checked="checked" /> Todos</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}s" value="audio-soprano" /> Soprano</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}c" value="audio-contralto" /> Contralto</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}t" value="audio-tenor" /> Tenor</label></div>
-                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="{hino/numero}b" value="audio-baixo" /> Baixo</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}" value="audio-todos" checked="checked" /> Todos</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}s" value="audio-soprano" /> Soprano</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}c" value="audio-contralto" /> Contralto</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}t" value="audio-tenor" /> Tenor</label></div>
+                                    <div class="radio"><label><input type="radio" name="audio" data-id-audio="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}b" value="audio-baixo" /> Baixo</label></div>
 
                                     <div class="btn-group">
                                         <a id="btn-controle-audio" class="btn btn-primary"><i class="fa fa-play"></i> Reproduzir</a>
@@ -137,34 +137,34 @@
                                             <span class="sr-only">Acionar menu de áudio</span>
                                         </a>
                                         <ul class="dropdown-menu" role="menu">
-                                            <li><a href="{hino/numero}.mp3">Salvar</a></li>
+                                            <li><a href="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}.mp3">Salvar</a></li>
                                         </ul>
                                     </div>
                                 </form>
 
                                 <audio id="audio-todos">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./{hino/numero}.mp3" />
+                                    <source src="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}.mp3" />
                                 </audio>
 
                                 <audio id="audio-soprano">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./{hino/numero}s.mp3" />
+                                    <source src="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}s.mp3" />
                                 </audio>
 
                                 <audio id="audio-contralto">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./{hino/numero}c.mp3" />
+                                    <source src="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}c.mp3" />
                                 </audio>
 
                                 <audio id="audio-tenor">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./{hino/numero}t.mp3" />
+                                    <source src="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}t.mp3" />
                                 </audio>
 
                                 <audio id="audio-baixo">
                                     <p>Seu navegador não permite a reprodução desse áudio.</p>
-                                    <source src="./{hino/numero}b.mp3" />
+                                    <source src="https://archive.org/download/impessoal_elleralmeida_{hino/numero}/{hino/numero}b.mp3" />
                                 </audio>
                                 </xsl:otherwise>
                                 </xsl:choose>
