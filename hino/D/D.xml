@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>D</numero>
+  <titulo>Amém sétuplo</titulo>
+  <texto>
+    <estrofe>
+      <verso voz="Soprano">Amém, amém, amém, amém, amém, amém, amém.</verso>
+      <verso voz="Outros">Amém, amém, amém, amém, amém, amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="09">Outros</secao>
+  <assunto id="01">Ofertório e améns</assunto>
+  <origem_musica id="StainerJ" referencia="Stainer, John" ano="1873">John Stainer</origem_musica>
+</hino>
