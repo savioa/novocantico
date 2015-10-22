@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>006</numero>
+  <n>6</n>
+  <titulo>Doxologia</titulo>
+  <texto>
+    <estrofe>
+      <verso>A Deus, supremo Benfeitor,</verso>
+      <verso>Anjos e homens dêem louvor;</verso>
+      <verso>A Deus o Filho, a Deus o Pai,</verso>
+      <verso>E a Deus Espírito, glória dai. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="02">Deus Trino</assunto>
+  <titulo_original>Old Hundreth</titulo_original>
+  <metrica id="8_8_8_9">8.8.8.9</metrica>
+  <origem_letra id="KenT" referencia="Ken, Thomas" ano="1692">Thomas Ken</origem_letra>
+  <origem_letra id="SilveiraG" referencia="Silveira, Guaraci">Guaraci Silveira</origem_letra>
+  <origem_musica id="BorgeoisL" referencia="Borgeois, Loys">Loys Borgeois</origem_musica>
+  <origem_musica id="SalterioGenebra" referencia="&#x201C;Saltério de Genebra&#x201D;" ano="1551">&#x201C;Saltério de Genebra&#x201D;</origem_musica>
+  <origem_musica id="GoudimelC" referencia="Goudimel, Claude" ano="1565">Claude Goudimel</origem_musica>
+  <primeiro_verso_original>Praise God, from Whom all blessings flow</primeiro_verso_original>
+  <referencia_biblica id="13_029_013">1 Crônicas 29.13</referencia_biblica>
+  <referencia_biblica id="66_007_012">Apocalipse 7.12</referencia_biblica>
+</hino>
+

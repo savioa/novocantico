@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao='incompleto'>
+  <numero>040</numero>
+  <n>40</n>
+  <titulo>Cântico ao Salvador</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cantai a Cristo, o Salvador,</verso>
+      <verso>Que tanto nos amou</verso>
+      <verso>E, para nossa Redenção,</verso>
+      <verso>Seu sangue derramou!</verso>
+      <coro>
+        <verso>Salvação! Salvação!</verso>
+        <verso>Alcançou-nos o Filho de Deus;</verso>
+        <verso>Salvação! Salvação!</verso>
+        <verso>Aleluia ao Filho de Deus!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Cantai o amor celestial,</verso>
+      <verso>Amor do grande Deus,</verso>
+      <verso>Divina flama a consumir</verso>
+      <verso>Os vis pecados meus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De Cristo, o excelso, infindo amor,</verso>
+      <verso>Oh! Vinde, publicai!</verso>
+      <verso>E dele a grande salvação</verso>
+      <verso>A todos proclamai!</verso>
+    </estrofe>
+  </texto>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='09'>Deus Salvador</assunto>
+  <titulo_original>Oh, sing of Jesus</titulo_original>
+  <metrica id='8_6_8_6_Coro'>8.6.8.6.Coro</metrica>
+  <origem_letra id='OKaneTC' referencia="O'Kane, Tullius Clinton">Tullius Clinton O'Kane</origem_letra>
+  <origem_letra ano='1887' id='JonesJ' referencia='Jones, Joseph'>Joseph Jones</origem_letra>
+  <origem_musica id='OKaneTC' referencia="O'Kane, Tullius Clinton">Tullius Clinton O'Kane</origem_musica>
+  <primeiro_verso_original>Oh, sing of Jesus, Lamb of God</primeiro_verso_original>
+  <referencia_biblica id='62_003_016'>1 João 3.16</referencia_biblica>
+</hino>

@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>334</numero>
+    <n>334</n>
+    <titulo>A conversão</titulo>
+    <texto>
+      <estrofe>
+        <verso>Em cegueira eu andei e perdido vaguei</verso>
+        <verso>Longe, longe do meu Salvador!</verso>
+        <verso>Mas da glória desceu, o seu sangue verteu</verso>
+        <verso>E salvou este pobre pecador.</verso>
+        <coro>
+          <verso>Foi na cruz, foi na cruz que um dia eu vi</verso>
+          <verso>Meu pecado castigado em Jesus!</verso>
+          <verso>Foi ali pela fé, que meus olhos abri</verso>
+          <verso>E agora me alegro em sua luz!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Já ouvia falar dessa graça sem par,</verso>
+        <verso>Que do céu trouxe Cristo Jesus!</verso>
+        <verso>Mas eu surdo me fiz, converter-me não quis</verso>
+        <verso>Ao Senhor que por mim morreu na cruz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Mas um dia senti meu pecado, e vi</verso>
+        <verso>Sobre mim o castigo da Lei!</verso>
+        <verso>Apressado fugi, em Jesus me escondi,</verso>
+        <verso>E abrigo seguro nele achei.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Que ditoso, então, foi o meu coração,</verso>
+        <verso>Conhecer o excelso amor,</verso>
+        <verso>Que levou meu Jesus a sofrer lá na cruz,</verso>
+        <verso>E salvar este pobre pecador.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

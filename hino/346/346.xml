@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>346</numero>
+  <n>346</n>
+  <titulo>Ceia do Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Não nas mãos, mas em minha alma,</verso>
+      <verso>Tomo o corpo de Jesus,</verso>
+      <verso>E, em figura, bebo o sangue</verso>
+      <verso>Derramado sobre a cruz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Do Senhor, o excelso Mestre,</verso>
+      <verso>Comemoro o grande amor,</verso>
+      <verso>Proclamando a sua morte</verso>
+      <verso>Pelo pobre pecador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem Jesus, Senhor bondoso,</verso>
+      <verso>Meu espírito instruir,</verso>
+      <verso>Para que, nos dois emblemas,</verso>
+      <verso>Eu te possa discernir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E permite que hoje eu tenha,</verso>
+      <verso>No fruir da salvação,</verso>
+      <verso>Com os crentes e contigo</verso>
+      <verso>Verdadeira comunhão. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="11">Ceia do Senhor</assunto>
+  <titulo_original>Dois emblemas</titulo_original>
+  <metrica id="8_7_8_7">8.7.8.7</metrica>
+  <origem_letra id="MoretonRH" referencia="Moreton, Robert Hawkey" ano="1897">Robert Hawkey Moreton</origem_letra>
+  <origem_musica id="MelodiaAlema" referencia="Melodia alemã">Melodia alemã</origem_musica>
+  <primeiro_verso_original>Não nas mãos, mas em minha alma</primeiro_verso_original>
+  <referencia_biblica id="46_011_026">1 Coríntios 11.26</referencia_biblica>
+</hino>

@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>236</numero>
+    <n>236</n>
+    <titulo>Em linda noite</titulo>
+    <texto>
+      <estrofe>
+        <verso>Em linda noite o mundo, a nós</verso>
+        <verso>Em coro angelical,</verso>
+        <verso>Com harpas de ouro, o céu quis dar</verso>
+        <verso>Um canto divinal.</verso>
+        <verso>E a toda a terra, então, se fez</verso>
+        <verso>Promessas imortais</verso>
+        <verso>De glória a Deus, aos homens paz,</verso>
+        <verso>Com bênçãos eternais.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Pairando sobre a terra estão</verso>
+        <verso>Os anjos a cantar,</verso>
+        <verso>E sobre o mundo pecador</verso>
+        <verso>Derramam luz sem par.</verso>
+        <verso>Acima dos tormentos mil,</verso>
+        <verso>Angústias do viver,</verso>
+        <verso>Proclamam vida perenal,</verso>
+        <verso>Pois bênçãos vêm trazer.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>E vão-se os dias sem cessar,</verso>
+        <verso>Segundo a voz de Deus,</verso>
+        <verso>Mas sobre a terra as gerações</verso>
+        <verso>Caminham rumos seus!</verso>
+        <verso>E quando, enfim, reinar a paz</verso>
+        <verso>De Cristo, o Salvador,</verso>
+        <verso>Os salvos todos cantarão</verso>
+        <verso>Em coro o seu louvor!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

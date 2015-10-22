@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>184</numero>
+    <n>184</n>
+    <titulo>Face a face</titulo>
+    <texto>
+      <estrofe>
+        <verso>Em breve a vida vou findar,</verso>
+        <verso>Não mais aqui eu cantarei!</verso>
+        <verso>Nos céus, então, irei morar,</verso>
+        <verso>Lá na presença do meu Rei.</verso>
+        <coro>
+          <verso>E face a face vê-lo-ei,</verso>
+          <verso>Liberto e salvo cantarei!</verso>
+          <verso>E face a face vê-lo-ei,</verso>
+          <verso>Liberto e salvo cantarei.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>E seja o dia quando for</verso>
+        <verso>Que Deus me chame para lá,</verso>
+        <verso>Bem certo estou que o Salvador</verso>
+        <verso>Contente me receberá.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A doce voz me soará</verso>
+        <verso>De Cristo, amável Redentor!</verso>
+        <verso>“Fiel, bom servo, bem está,</verso>
+        <verso>Entra no gozo do Senhor.”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Por meu Jesus eu vou viver</verso>
+        <verso>E minha luz farei brilhar.</verso>
+        <verso>De dia em dia hei de fazer</verso>
+        <verso>O que ao meu Salvador honrar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

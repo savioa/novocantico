@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>310</numero>
+    <n>310</n>
+    <titulo>Quem salva é só Jesus</titulo>
+    <texto>
+      <estrofe>
+        <verso>De Deus, ó eterna Igreja</verso>
+        <verso>Que espalha santa luz,</verso>
+        <verso>Proclama aos pecadores:</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>Proclama aos pecadores:</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Aos presos, algemados,</verso>
+        <verso>No mundo que seduz,</verso>
+        <verso>Revela a esperança:</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>Revela a esperança:</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Atrai os que, perdidos,</verso>
+        <verso>Mui longe estão da cruz.</verso>
+        <verso>Vai, dize aos desgarrados:</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+        <verso>Vai, dize aos desgarrados:</verso>
+        <verso>“Quem salva é só Jesus!”</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

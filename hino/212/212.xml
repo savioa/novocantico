@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>212</numero>
+  <n>212</n>
+  <titulo>Apelo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Alma, escuta o bom Senhor,</verso>
+      <verso>A Jesus, o Salvador.</verso>
+      <verso>Ele diz com terno amor:</verso>
+      <verso>“Tu me amas, pecador?”</verso>
+      <verso>Das prisões te soltarei,</verso>
+      <verso>As feridas curarei!</verso>
+      <verso>Vim do céu por teu amor;</verso>
+      <verso>“Tu me amas, pecador?”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Minha glória tu verás,</verso>
+      <verso>Minha graça gozarás!</verso>
+      <verso>Vida eterna te darei,</verso>
+      <verso>Não te desampararei!”</verso>
+      <verso>Ajudar-me vem, Senhor,</verso>
+      <verso>A entregar-te o meu amor!</verso>
+      <verso>Faze, ó bom Jesus, que assim</verso>
+      <verso>Sejas tu quem viva em mim. Amém</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="02">Decisão</assunto>
+  <titulo_original>Spanish Chant</titulo_original>
+  <metrica id="7_7_7_7_D">7.7.7.7.D</metrica>
+  <origem_letra id="CowperW" referencia="Cowper, William" ano="1768">William Cowper</origem_letra>
+  <origem_letra id="KalleyRR" referencia="Kalley, Robert Reid" ano="1842">Robert Reid Kalley</origem_letra>
+  <origem_musica id="CalkinJB" referencia="Calkin, John Baptiste" ano="1876">John Baptiste Calkin</origem_musica>
+  <primeiro_verso_original>Hark, my soul, it is the Lord</primeiro_verso_original>
+  <referencia_biblica id="62_004_019">1 João 4.19</referencia_biblica>
+</hino>
+

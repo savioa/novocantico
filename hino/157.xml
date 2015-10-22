@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>157</numero>
+    <n>157</n>
+    <titulo>Segurança em Cristo</titulo>
+    <texto>
+      <estrofe>
+        <verso>Por meus delitos expirou</verso>
+        <verso>Jesus, a vida e luz!</verso>
+        <verso>Do meu pecado me livrou</verso>
+        <verso>Na ensangüentada cruz.</verso>
+        <coro>
+          <verso>Faze-me forte em confessar</verso>
+          <verso>A ti, Jesus, Senhor!</verso>
+          <verso>Faze-me pronto a confiar</verso>
+          <verso>No teu eterno amor.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Jamais terei tão fraca voz</verso>
+        <verso>Que trema ao confessar</verso>
+        <verso>A quem, por morte tão atroz,</verso>
+        <verso>Minha alma quis salvar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Sim, eu desejo aqui cantar</verso>
+        <verso>Tão grande Salvador,</verso>
+        <verso>E quando lá no céu chegar</verso>
+        <verso>Louvá-lo-ei melhor. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

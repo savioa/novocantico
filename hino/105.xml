@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>105</numero>
+    <n>105</n>
+    <titulo>A certeza do crente</titulo>
+    <texto>
+      <estrofe>
+        <verso>Não sei porque de Deus o amor</verso>
+        <verso>A mim se revelou,</verso>
+        <verso>Porque Jesus, meu Salvador,</verso>
+        <verso>Na cruz me resgatou.</verso>
+        <coro>
+          <verso>Mas eu sei em quem tenho crido</verso>
+          <verso>E estou bem certo que é poderoso!</verso>
+          <verso>Guardará, pois, o meu tesouro</verso>
+          <verso>Até o dia final.</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Não sei o modo como agiu</verso>
+        <verso>O Espírito eternal</verso>
+        <verso>Que, um dia, a Cristo me atraiu</verso>
+        <verso>Em convicção real.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Não sei o que de mal ou bem</verso>
+        <verso>É destinado a mim;</verso>
+        <verso>Se maus ou áureos dias vêm,</verso>
+        <verso>Até da vida o fim.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Não sei se ainda longe está,</verso>
+        <verso>Ou muito perto vem</verso>
+        <verso>A hora em que Jesus virá</verso>
+        <verso>Na glória que ele tem.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

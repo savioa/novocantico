@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>247</numero>
+  <n>247</n>
+  <titulo>Estrela cintilante</titulo>
+  <texto>
+    <estrofe>
+      <verso>Uma estrela cintilante,</verso>
+      <verso>De ofuscante e rara luz,</verso>
+      <verso>Conduziu os sábios magos</verso>
+      <verso>Junto ao berço de Jesus</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ofertaram-lhe presentes</verso>
+      <verso>Preciosos, sem igual:</verso>
+      <verso>Ouro puro, incenso e mirra,</verso>
+      <verso>Dons de glória terreal!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nós, também, agradecemos</verso>
+      <verso>Ao Senhor o seu amor.</verso>
+      <verso>Por nos dar seu Filho amado,</verso>
+      <verso>Cristo o nosso Redentor</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <titulo_original>Cintilante</titulo_original>
+  <metrica id="8_7_8_7">8.7.8.7</metrica>
+  <origem_letra id="RussoV" referencia="Russo, Vicente" ano="1971">Vicente Russo</origem_letra>
+  <origem_musica id="Anonimo" referencia="Anônimo">Anônimo</origem_musica>
+  <origem_musica id="CruzL" referencia="Cruz, Luiza" ano="1971">Luiza Cruz</origem_musica>
+  <primeiro_verso_original>Uma estrela cintilante</primeiro_verso_original>
+  <referencia_biblica id="40_002_002">Mateus 2.2</referencia_biblica>
+</hino>

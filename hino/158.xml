@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>158</numero>
+    <n>158</n>
+    <titulo>Conforto e luz</titulo>
+    <texto>
+      <estrofe>
+        <verso>Vai, alma tristonha, teu pranto depor!</verso>
+        <verso>Põe os teus cuidados nas mãos do Senhor!</verso>
+        <verso>Ao Mestre confia toda essa aflição,</verso>
+        <verso>Pois sempre oferece plena compaixão.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Teus sustos e medos vai, mostra ao Senhor!</verso>
+        <verso>Seu mando transforma a noite em fulgor.</verso>
+        <verso>Ergue a tua fronte! Logo há de raiar.</verso>
+        <verso>O sol que dissipa nuvens de pesar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Há tantos que choram dor muito maior;</verso>
+        <verso>Há corações tristes por culpa e temor.</verso>
+        <verso>Vai! Leva a mensagem de perdão e luz!</verso>
+        <verso>Vai! Deixa as tristezas aos pés de Jesus!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

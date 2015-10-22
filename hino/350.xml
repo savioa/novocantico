@@ -1,0 +1,47 @@
+<hino situacao='incompleto'>
+    <numero>350</numero>
+    <n>350</n>
+    <titulo>A palavra da vida</titulo>
+    <texto>
+      <estrofe>
+        <verso>Fonte da Celeste Vida,</verso>
+        <verso>Manifesta o teu poder.</verso>
+        <verso>Vivifica os sem alento,</verso>
+        <verso>Faze os mortos renascer!</verso>
+        <verso>Vida eterna, vida eterna</verso>
+        <verso>Nos vieste conceder.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ao abrirmos o teu Livro,</verso>
+        <verso>Dele emane a luz dos céus!</verso>
+        <verso>Esclarece todo engano</verso>
+        <verso>E dos erros livra os teus,</verso>
+        <verso>Ilumina, ilumina</verso>
+        <verso>Nossas almas grande Deus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Na leitura desta bíblia,</verso>
+        <verso>Dá-nos gozo, ó Senhor!</verso>
+        <verso>Tendo, pelo teu ensino,</verso>
+        <verso>Comunhão em santo amor.</verso>
+        <verso>Exultamos, exultamos</verso>
+        <verso>Entoando o teu louvor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Pelo estudo da Palavra</verso>
+        <verso>Aprendemos de Jesus.</verso>
+        <verso>Oh, concede os belos frutos</verso>
+        <verso>Que esta instrução produz!</verso>
+        <verso>E gozamos, e gozamos</verso>
+        <verso>Alegria, vida e luz.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

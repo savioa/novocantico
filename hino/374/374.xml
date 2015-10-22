@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>374</numero>
+  <n>374</n>
+  <titulo>Saudando o ano novo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ano velho já findado,</verso>
+      <verso>Foste o dom do Criador!</verso>
+      <verso>Novo ano, que começas,</verso>
+      <verso>Vens do mesmo Benfeitor.</verso>
+      <verso>Testemunham, testemunham</verso>
+      <verso>Desse Deus o grande amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Novo ano, a tua vinda</verso>
+      <verso>Celebramos com festim.</verso>
+      <verso>Mas teus dias fugitivos</verso>
+      <verso>Prestes voam para o fim.</verso>
+      <verso>Ignoramos, ignoramos,</verso>
+      <verso>Se veremos outro assim.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tua graça, ó Deus, cantamos</verso>
+      <verso>Com acorde e suave som!</verso>
+      <verso>E com grande regozijo</verso>
+      <verso>Bendizendo o excelso dom</verso>
+      <verso>Ao saudarmos ao saudarmos</verso>
+      <verso>Ano novo, ano bom.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="03">Ano Novo</assunto>
+  <titulo_original>Praise my soul</titulo_original>
+  <metrica id="8_7_8_7_4__4__7">8.7.8.7.4.[4].7</metrica>
+  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1879">Sarah Poulton Kalley</origem_letra>
+  <origem_musica id="GossJ" referencia="Goss, John" ano="1869">John Goss</origem_musica>
+  <primeiro_verso_original>Ano velho já findado</primeiro_verso_original>
+  <referencia_biblica id="19_065_011">Salmos 65.11</referencia_biblica>
+  <referencia_biblica id="23_063_004">Isaías 63.4</referencia_biblica>
+</hino>
+

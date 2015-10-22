@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>034</numero>
+  <n>034</n>
+  <titulo>Convite ao louvor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Demos com alegre som</verso>
+      <verso>Glória a Deus, porque ele é bom.</verso>
+      <coro>
+        <verso>Sua graça Deus nos dá</verso>
+        <verso>E jamais nos deixará</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Com poder ele ordenou</verso>
+      <verso>E no mundo a luz raiou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com olhar de compaixão</verso>
+      <verso>Viu a nossa perdição.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O seu povo abençoou,</verso>
+      <verso>No deserto ele o guiou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Demos com alegre som</verso>
+      <verso>Glória a Deus, porque ele é bom.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="07">Deus Fiel</assunto>
+  <titulo_original>Monkland</titulo_original>
+  <metrica id="7_7_7_7">7.7.7.7</metrica>
+  <origem_letra id="Salmo136" referencia="Salmo 136">Salmo 136</origem_letra>
+  <origem_letra id="MiltonJ" referencia="Milton, John">John Milton</origem_letra>
+  <origem_letra id="CostaJ" referencia="Costa, J." ano="1960">J. Costa</origem_letra>
+  <origem_musica id="WilkesJB" referencia="Wilkes, John Bernard" ano="1861">John Bernard Wilkes</origem_musica>
+  <origem_musica id="MelodiaAlema" referencia="Melodia alemã">Melodia alemã</origem_musica>
+  <primeiro_verso_original>Let us, with a gladsome mind</primeiro_verso_original>
+  <referencia_biblica id="19_136_001">Salmos 136.1</referencia_biblica>
+</hino>

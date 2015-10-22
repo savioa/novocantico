@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>125</numero>
+    <n>125</n>
+    <titulo>Sempre veraz</titulo>
+    <texto>
+      <estrofe>
+        <verso>Sempre veraz serei, pois me acreditem;</verso>
+        <verso>Forte serei, pois muito há que sofrer;</verso>
+        <verso>Puro serei, no exemplo do meu Mestre,</verso>
+        <verso>Nas provações ousado espero ser! (bis)</verso>
+      </estrofe>
+      <estrofe>
+        <verso>De todos quero sempre ser amigo,</verso>
+        <verso>Ser generoso e o bem não alegar;</verso>
+        <verso>Sendo imperfeito, eu hei de ser humilde,</verso>
+        <verso>Sempre hei de crer, confiar, servir e amar. (bis)</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Para que eu seja sempre assim, ó Cristo,</verso>
+        <verso>Vem dominar, mudar meu coração.</verso>
+        <verso>Pois eu bem sei dos laços em que caio,</verso>
+        <verso>Se não contar com tua proteção! Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

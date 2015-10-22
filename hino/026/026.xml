@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>026</numero>
+  <n>26</n>
+  <titulo>Ao Deus grandioso</titulo>
+  <texto>
+    <estrofe>
+      <verso>Senhor meu Deus, quando eu maravilhado,</verso>
+      <verso>Os grandes feitos vejo da tua mão,</verso>
+      <verso>Estrelas, mundos e trovões rolando,</verso>
+      <verso>A proclamar teu nome na amplidão;</verso>
+      <coro>
+        <verso>Canta minh'alma, então, a ti, Senhor:</verso>
+        <verso>Grandioso és tu, grandioso és tu!</verso>
+        <verso>Canta minh'alma, então, a ti Senhor:</verso>
+        <verso>Grandioso és tu, grandioso és tu!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quando atravesso bosques e florestas</verso>
+      <verso>Ouvindo, à brisa, pássaros cantar,</verso>
+      <verso>Ou vejo, além, montanhas altaneiras</verso>
+      <verso>O teu poder e glória proclamar;</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando percebo que na cruz maldita,</verso>
+      <verso>Por teu amor, Jesus morreu por mim,</verso>
+      <verso>E me livrou do jugo do pecado,</verso>
+      <verso>Ali vertendo sangue carmesim;</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando, afinal, em resplendor e glória,</verso>
+      <verso>Jesus abrir as portas da mansão,</verso>
+      <verso>Eu hei de estar de joelhos entre os santos,</verso>
+      <verso>Na mais humilde e vera adoração;</verso>
+      <coro>
+        <verso>E então cantar eternamente ali:</verso>
+        <verso>Grandioso és tu, grandioso és tu!</verso>
+        <verso>E então cantar eternamente ali:</verso>
+        <verso>Grandioso és tu, grandioso és tu!</verso>
+      </coro>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="05">Deus Criador</assunto>
+  <titulo_original>How great thou art</titulo_original>
+  <metrica id="11_10_11_10_Coro">11.10.11.10.Coro</metrica>
+  <origem_letra id="BobergC" referencia="Boberg, Carl" ano="1886">Carl Boberg</origem_letra>
+  <origem_letra id="EmmerichN" referencia="Emmerich, Nathanael" ano="1959">Nathanael Emmerich</origem_letra>
+  <origem_musica id="MelodiaSueca" referencia="Melodia sueca" >Melodia sueca</origem_musica>
+  <origem_musica id="BlankerburgerLieder" referencia="“Blankerburger Lieder”">“Blankerburger Lieder”</origem_musica>
+  <primeiro_verso_original>O Lord, my God, when I in awesome wonder</primeiro_verso_original>
+  <referencia_biblica id="52_004_016_017">1 Tessalonicenses 4.16,17</referencia_biblica>
+  <referencia_biblica id="16_009_005_006">Neemias 9.5,6</referencia_biblica>
+</hino>
+

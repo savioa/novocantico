@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>283</numero>
+    <n>283</n>
+    <titulo>Desafio</titulo>
+    <texto>
+      <estrofe>
+        <verso>Avançai ! Avançai! Derramai essa luz</verso>
+        <verso>Sobre os povos da terra que não têm Jesus!</verso>
+        <verso>Ide já, diz o Mestre. Quem é que irá,</verso>
+        <verso>Obediente ao preceito que a todos nos dá?</verso>
+        <verso>Confiai no Senhor! Não tenhais mais temor!</verso>
+        <verso>Avançai, com Jesus, avançai!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Avançai! Avançai com a Bíblia na mão!</verso>
+        <verso>Proclamai às nações pela cruz Redenção!</verso>
+        <verso>Enfrentai os perigos com fé sempre em Deus,</verso>
+        <verso>Mesmo havendo pesares, rumamos aos céus.</verso>
+        <verso>Duras lutas tereis, com Jesus vencereis!</verso>
+        <verso>Avançai, sem temor, avançai!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Avançai! Avançai e pregai aos milhões</verso>
+        <verso>Que perecem nas trevas das desilusões!</verso>
+        <verso>Foi por eles também que o Senhor padeceu,</verso>
+        <verso>E na terra, entre os homens, insultos sofreu.</verso>
+        <verso>Proclamai redenção! Em Jesus há perdão!</verso>
+        <verso>Avançai, com amor, avançai!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

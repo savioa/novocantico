@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>198</numero>
+  <titulo>Salvação Graciosa</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis mensagem do Senhor, Aleluia!</verso>
+      <verso>Palavras do bom Deus de amor!</verso>
+      <verso>Cristo salva o pecador, Aleluia!</verso>
+      <verso>Salva até por meio de um olhar!</verso>
+      <coro>
+        <verso>Oh! Olhai, com fé, olhai!</verso>
+        <verso>Sim, olhai só a Jesus!</verso>
+        <verso>Ele salva o pecador, Aleluia!</verso>
+        <verso>Sim, salva a quem confiante olhar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Vossa dívida pagou, Aleluia!</verso>
+      <verso>Jesus a satisfez na cruz.</verso>
+      <verso>Sua vida ele entregou, Aleluia!</verso>
+      <verso>Para vos apresentar a Deus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Esta oferta Cristo faz, Aleluia!</verso>
+      <verso>Eterna vida lá nos céus.</verso>
+      <verso>Redenção aqui vos traz, Aleluia!</verso>
+      <verso>Convertei-vos já ao Salvador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aceitai a salvação, Aleluia!</verso>
+      <verso>Segui os passos do Senhor!</verso>
+      <verso>Anunciai o seu perdão, Aleluia!</verso>
+      <verso>Proclamai a grande Redenção!</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <titulo_original>Look and live</titulo_original>
+  <metrica id='11_8_11_9_Coro'>11.8.11.9.Coro</metrica>
+  <origem_letra id="OgdenWA" referencia="Ogden, William Augustine">William Augustine Ogden</origem_letra>
+  <origem_letra id="GinsburgSL" referencia="Ginsburg, Salomão Luiz" ano="1891">Salomão Luiz Ginsburg</origem_letra>
+  <origem_musica id="OgdenWA" referencia="Ogden, William Augustine">William Augustine Ogden</origem_musica>
+  <primeiro_verso_original>I've a message from the Lord, Halleluja</primeiro_verso_original>
+  <referencia_biblica id="23_042_022_017">Isaías 42.22,17</referencia_biblica>
+</hino>

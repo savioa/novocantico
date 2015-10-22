@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>281</numero>
+    <n>281</n>
+    <titulo>Jesus triunfante</titulo>
+    <texto>
+      <estrofe>
+        <verso>Aleluia! Triunfante,</verso>
+        <verso>Para os céus Jesus subiu.</verso>
+        <verso>As prisões quebrou da morte,</verso>
+        <verso>Pecadores redimiu.</verso>
+        <verso>Com poder em majestade,</verso>
+        <verso>Vive e reina lá no céu;</verso>
+        <verso>Mas um dia triunfante,</verso>
+        <verso>Voltará ao povo seu!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Aleluia! O Cristo amado</verso>
+        <verso>Sobre a morte triunfou!</verso>
+        <verso>E por nós, quebrando os laços,</verso>
+        <verso>A vitória conquistou!</verso>
+        <verso>Seu triunfo é nossa glória,</verso>
+        <verso>Seu sofrer é nossa paz.</verso>
+        <verso>Salvação o Cristo amado</verso>
+        <verso>Com poder e graça traz.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Aleluia! Ressurreto,</verso>
+        <verso>Fiador por nós se fez!</verso>
+        <verso>Conseguiu por sua morte,</verso>
+        <verso>Redimir-nos de uma vez.</verso>
+        <verso>Ei-lo agora, junto ao trono,</verso>
+        <verso>Pelos seus a interceder.</verso>
+        <verso>Aleluia! Ressurreto,</verso>
+        <verso>Cristo reina com poder!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

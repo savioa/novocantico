@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Novo Cântico</title>
+  <link>http://www.novocantico.com.br</link>
+  <description>Hinário Presbiteriana</description>
+  <item>
+    <title>376 - Intercessão pela Pátria</title>
+    <link>http://novocantico.com.br/beta/hino/376/376.xml</link>
+    <description>Intercessão pela Pátria</description>
+  </item>
+  <item>
+    <title>HTML - 376 - Intercessão pela Pátria</title>
+    <link>http://novocantico.com.br/beta/hino/376/teste.html</link>
+    <description>Intercessão pela Pátria</description>
+  </item>
+</channel>
+
+</rss>

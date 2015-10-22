@@ -1,0 +1,44 @@
+<hino situacao='incompleto'>
+    <numero>110 A</numero>
+    <n>110-A</n>
+    <n>110A</n>
+    <titulo>Crer e observar</titulo>
+    <texto>
+      <estrofe>
+        <verso>Em Jesus confiar, sua lei observar,</verso>
+        <verso>Oh, que gozo, que bênção, que paz!</verso>
+        <verso>Satisfeito guardar tudo quanto ordenar</verso>
+        <verso>Alegria perene nos traz.</verso>
+        <coro>
+          <verso>Crer e observar tudo quanto ordenar</verso>
+          <verso>O fiel obedece ao que Cristo mandar!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>O inimigo falaz, a calúnia mordaz</verso>
+        <verso>Cristo sabe desprestigiar;</verso>
+        <verso>Nem tristeza, nem dor, nem intriga, a maior,</verso>
+        <verso>Pode o crente fiel abalar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Grande prova de amor, comunhão no Senhor</verso>
+        <verso>Tem o crente zeloso e leal!</verso>
+        <verso>O seu rosto mirar, seus segredos privar:</verso>
+        <verso>É consolo que não tem igual.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Resoluto, Senhor, e com zelo e fervor,</verso>
+        <verso>Os teus passos queremos seguir!</verso>
+        <verso>Teus preceitos guardar, o teu nome exaltar,</verso>
+        <verso>Sempre a tua vontade cumprir.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>083</numero>
+    <n>83</n>
+    <titulo>Divino instruidor</titulo>
+    <texto>
+      <estrofe>
+        <verso>Ó divinal Instruidor</verso>
+        <verso>Que nos mostraste o bom Senhor,</verso>
+        <verso>Com tua luz e teu poder</verso>
+        <verso>Reveste sempre o nosso ser.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ó inefável Preceptor,</verso>
+        <verso>Por tua graça e teu favor</verso>
+        <verso>Inflama o nosso coração</verso>
+        <verso>Na vera e santa adoração.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Consolador, Senhor e Deus,</verso>
+        <verso>Dom inefável lá dos céus.</verso>
+        <verso>Revela ao mundo a tua luz,</verso>
+        <verso>A Redenção que vem da cruz. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

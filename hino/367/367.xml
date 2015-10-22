@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>367</numero>
+  <titulo>Convite aos meninos</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vinde meninos! Vinde a Jesus!</verso>
+      <verso>Ele ganhou-vos bênçãos na cruz!</verso>
+      <verso>Os pequeninos ele conduz,</verso>
+      <verso>Oh! Vinde ao Salvador!</verso>
+      <coro>
+        <verso>Que alegria, sem pecado ou mal,</verso>
+        <verso>Reunir-nos todos, afinal,</verso>
+        <verso>Na santa Pátria celestial,</verso>
+        <verso>Com Cristo, o Salvador!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Já, sem demora, a todos convém</verso>
+      <verso>Ir caminhando à glória do além!</verso>
+      <verso>Cristo vos chama, quer vosso bem.</verso>
+      <verso>Oh! Vinde ao Salvador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>&#x201C;Vinde meninos!&#x201D; &#x2014; ele vos diz;</verso>
+      <verso>Quer receber-vos no bom País;</verso>
+      <verso>Quer conceder-vos vida feliz.</verso>
+      <verso>Oh! Vinde ao Salvador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eis a chamada: &#x201C;Vinde hoje a mim!&#x201D;</verso>
+      <verso>Não há no mundo quem ame assim!</verso>
+      <verso>Seu grande amor por vós não tem fim.</verso>
+      <verso>Oh! Vinde ao Salvador!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <titulo_original>Come to the Savior</titulo_original>
+  <metrica id='9_9_9_6_Coro'>9.9.9.6.Coro</metrica>
+  <origem_letra id="RootGF" referencia="Root, George Frederick" ano="1870">George Frederick Root</origem_letra>
+  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1875">Sarah Poulton Kalley</origem_letra>
+  <origem_musica id="RootGF" referencia="Root, George Frederick" ano="1870">George Frederick Root</origem_musica>
+  <primeiro_verso_original>Come to the Savior, make no delay</primeiro_verso_original>
+  <referencia_biblica id="21_012_001">Eclesiastes 12.1</referencia_biblica>
+  <referencia_biblica id="42_018_016">Lucas 18.16</referencia_biblica>
+</hino>

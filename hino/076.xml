@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>076</numero>
+    <n>76</n>
+    <titulo>Compaixão</titulo>
+    <texto>
+      <estrofe>
+        <verso>Tem compaixão de mim Senhor!</verso>
+        <verso>Oh, mostra o teu excelso amor,</verso>
+        <verso>E, na infinita multidão</verso>
+        <verso>De tuas graças dá perdão.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Tão pecador me descobri!</verso>
+        <verso>Perdoa o mal que cometi.</verso>
+        <verso>Minha alma venho aqui lavar;</verso>
+        <verso>Oh, não me deixes mais pecar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A mim Tu podes perdoar,</verso>
+        <verso>De toda mancha me lavar;</verso>
+        <verso>Vem dar-me um novo cora-ção,</verso>
+        <verso>Ó Deus de amor e compaixão.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Por geração, ó bom Senhor,</verso>
+        <verso>Não sou senão um pecador.</verso>
+        <verso>Em ti me posso levantar</verso>
+        <verso>E, como a neve, puro estar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Vem, pois, a mim então valer,</verso>
+        <verso>A meus clamores atender,</verso>
+        <verso>E o coração que triste está</verso>
+        <verso>De eterno gozo exultará. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

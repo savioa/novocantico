@@ -1,0 +1,44 @@
+<hino situacao='incompleto'>
+    <numero>201</numero>
+    <n>201</n>
+    <titulo>Manso e suave</titulo>
+    <texto>
+      <estrofe>
+        <verso>Manso e suave! Eis Jesus nos chamando:</verso>
+        <verso>Chama por ti e por mim.</verso>
+        <verso>Eis que ele às portas espera velando:</verso>
+        <verso>Vela por ti e por mim!</verso>
+        <coro>
+          <verso>Vem já! Vem já! Alma cansada, vem já!</verso>
+          <verso>Manso e suave, Jesus convidando,</verso>
+          <verso>Chama: “Ó pecador, vem!”</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Com paciência, ele está esperando</verso>
+        <verso>Hoje por ti e por mim.</verso>
+        <verso>Oh, não desprezes a quem, convidando,</verso>
+        <verso>Convida a ti e a mim.!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O tempo corre! As horas, passando,</verso>
+        <verso>Passam por ti e por mim!</verso>
+        <verso>Transes de morte, por fim, vão chegando,</verso>
+        <verso>Chegam a ti e a mim.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Oh, quanto amor que Jesus nos em dado:</verso>
+        <verso>Dado a ti e a mim!</verso>
+        <verso>Eis que foi morte, foi crucificado</verso>
+        <verso>Morto por ti e por mim!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

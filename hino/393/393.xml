@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>393</numero>
+  <n>393</n>
+  <titulo>União vital</titulo>
+  <texto>
+    <estrofe>
+      <verso>Duas vidas, Senhor, se unem num só ser;</verso>
+      <verso>Duas almas e dois nobres corações.</verso>
+      <verso>Pelo amor e afeição querem já viver</verso>
+      <verso>Sempre juntos na paz ou nas aflições.</verso>
+      <coro>
+        <verso>Abençoa, Senhor, esta santa união,</verso>
+        <verso>Dando graça e favor, faze-a prosperar</verso>
+        <verso>Na alegria, na fé, na consagração!</verso>
+        <verso>E este amor verdadeiro vem confirmar.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Mais um lar que se faz cheio de vigor</verso>
+      <verso>Do caráter cristão, base principal.</verso>
+      <verso>Dá-lhe vida feliz numa união de amor,</verso>
+      <verso>O mais forte, o maior laço conjugal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tu criaste, Senhor, Para o nosso bem,</verso>
+      <verso>A união que adorna esta vida aqui.</verso>
+      <verso>De uma união mui feliz quantas bênçãos vêm</verso>
+      <verso>À família dos teus filhos, glória a ti! Amém</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="07">Casamento</assunto>
+  <titulo_original>Duas vidas</titulo_original>
+  <metrica id="11_11_11_11_Coro">11.11.11.11.Coro</metrica>
+  <origem_letra id="SouzaMA" referencia="Souza, Manuel Avelino de">Manuel Avelino de Souza</origem_letra>
+  <origem_musica id="BeazleySW" referencia="Beazley, Samuel W.">Samuel W. Beazley</origem_musica>
+  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
+  <primeiro_verso_original>Duas vidas, Senhor, se unem num só ser</primeiro_verso_original>
+  <referencia_biblica id="58_013_004">Hebreus 13.4</referencia_biblica>
+</hino>

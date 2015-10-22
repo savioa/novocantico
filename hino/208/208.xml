@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>208</numero>
+  <n>208</n>
+  <titulo>Aproximação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Chegai-vos ao Senhor com puro coração.</verso>
+      <verso>Ouvi palavras de favor, a voz da salvação!</verso>
+      <verso>É Deus quem fala aqui, na sua santa lei;</verso>
+      <verso>Humildes, pois, a ele ouvi e sempre obedecei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Entendimento dá a quem com fé pedir.</verso>
+      <verso>Com paciência guiará a todo que o seguir.</verso>
+      <verso>As trevas dissipou, rasgou o escuro véu,</verso>
+      <verso>A luz divina derramou, por ela vinde ao céu.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <titulo_original>Chalvey</titulo_original>
+  <metrica id="6_6_8_6_D">6.6.8.6.D</metrica>
+  <origem_letra id="MoretonRH" referencia="Moreton, Robert Hawkey" ano="1876">Robert Hawkey Moreton</origem_letra>
+  <origem_musica id="HayneLG" referencia="Hayne, Leighton George" ano="1868">Leighton George Hayne</origem_musica>
+  <primeiro_verso_original>Chegai-vos ao Senhor com puro coração</primeiro_verso_original>
+  <referencia_biblica id="42_005_001">Lucas 5.1</referencia_biblica>
+</hino>
+

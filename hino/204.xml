@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>204</numero>
+    <n>204</n>
+    <titulo>Cristo à porta</titulo>
+    <texto>
+      <estrofe>
+        <verso>À porta estou, ó alma triste,</verso>
+        <verso>Ansioso por e consolar;</verso>
+        <verso>A minha voz, enfim, ouviste,</verso>
+        <verso>Eu vou entrar, eu vou entrar!</verso>
+        <coro>
+          <verso>À porta, por amor levado,</verso>
+          <verso>Procuro já teu mal sanar;</verso>
+          <verso>Ó pecador desalentado,</verso>
+          <verso>Eu vou entrar, eu vou entrar!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Por ti foi grande o meu castigo,</verso>
+        <verso>Sofri na cruz sem murmurar!</verso>
+        <verso>Só para teres paz comigo,</verso>
+        <verso>Eu vou entrar, eu vou entrar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>A minha graça poderosa</verso>
+        <verso>O teu pecado vem lavar!</verso>
+        <verso>Ó alma impura, pesarosa,</verso>
+        <verso>Eu vou entrar, eu vou entrar!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

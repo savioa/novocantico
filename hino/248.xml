@@ -1,0 +1,27 @@
+<hino situacao='incompleto'>
+    <numero>248</numero>
+    <n>248</n>
+    <titulo>No humilde presépio</titulo>
+    <texto>
+      <estrofe>
+        <verso>No humilde presépio, sem ter nada seu,</verso>
+        <verso>Jesus, pobrezinho, sem teto nasceu!</verso>
+        <verso>Os céus estrelados, fulgentes de luz,</verso>
+        <verso>Abrigam o meigo e divino Jesus.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Desejo a teu lado viver, meu Senhor;</verso>
+        <verso>Amar-te e servir-te, Jesus Salvador.</verso>
+        <verso>Aos teus pequeninos pedimos guardar</verso>
+        <verso>Até que possamos contigo morar. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

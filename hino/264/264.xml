@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>264</numero>
+  <titulo>Fronte ensangüentada!</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Fronte ensangüentada</verso>
+      <verso>Em tanto opróbrio e dor,</verso>
+      <verso>De espinhos coroada</verso>
+      <verso>Com ódio e com furor!</verso>
+      <verso>Tão gloriosa, outrora,</verso>
+      <verso>Tão bela e tão viril,</verso>
+      <verso>Tão abatida, agora,</verso>
+      <verso>De afronta e escárnio vil.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quão humilhada pende</verso>
+      <verso>A face do Senhor!</verso>
+      <verso>Não vive, não resplende,</verso>
+      <verso>Já não tem luz nem cor!</verso>
+      <verso>Oh! Crime inominável,</verso>
+      <verso>Fazer anuviar</verso>
+      <verso>O brilho inigualável</verso>
+      <verso>De um tão piedoso olhar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Estás tão carregado,</verso>
+      <verso>Mas todo fardo é meu!</verso>
+      <verso>Eu só me fiz culpado,</verso>
+      <verso>E o sofrimento é teu.</verso>
+      <verso>Venho aos teus pés, tremente,</verso>
+      <verso>Mereço a punição,</verso>
+      <verso>Mas olhas-me clemente</verso>
+      <verso>Com santa compaixão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sê meu refúgio forte,</verso>
+      <verso>Meu guia e vida e luz!</verso>
+      <verso>Que eu sinta, vendo a morte,</verso>
+      <verso>Conforto em tua cruz!</verso>
+      <verso>Na cruz com fé me abrigo</verso>
+      <verso>E amparo tu me dás!</verso>
+      <verso>E unido assim contigo,</verso>
+      <verso>Hei de dormir em paz!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <titulo_original>Herzlich thut mich verlangen</titulo_original>
+  <metrica id="7_6_7_6_D">7.6.7.6.D</metrica>
+  <origem_letra id="GerhardtP" referencia="Gerhardt, Paul" ano="1656">Paul Gerhardt</origem_letra>
+  <origem_letra id="ClairvauxB" referencia="Clairvaux, Bernardo de">Bernardo de Clairvaux</origem_letra>
+  <origem_letra id="SalumIN" referencia="Salum, Isaac Nicolau" ano="1950">Isaac Nicolau Salum</origem_letra>
+  <origem_musica id="HasslerHL" referencia="Hassler, Hans Leo" ano="1601">Hans Leo Hassler</origem_musica>
+  <origem_musica id="BachJS" referencia="Bach, Johann Sebastian" ano="1729">Johann Sebastian Bach</origem_musica>
+  <primeiro_verso_original>O Haupt voll Blut und Wunden</primeiro_verso_original>
+  <referencia_biblica id="40_026_067">Mateus 26.67</referencia_biblica>
+</hino>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>152</numero>
+  <titulo>Onisciência divina</titulo>
+  <texto>
+    <estrofe>
+      <verso>Tu me sondaste a mim, ó Deus,</verso>
+      <verso>Não há segredo aos olhos teus!</verso>
+      <verso>Prevês por onde quero andar,</verso>
+      <verso>E sabes como vou falar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Contemplas tu meu interior!</verso>
+      <verso>Quem compreenderá, Senhor,</verso>
+      <verso>Tua ciência e o teu poder?</verso>
+      <verso>Pois infinito é teu saber.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nas trevas e na clara luz</verso>
+      <verso>A mão divina me conduz!</verso>
+      <verso>E se fugindo acaso vou,</verso>
+      <verso>Por teu poder cercado estou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Deus da minha salvação,</verso>
+      <verso>Vem dominar meu coração;</verso>
+      <verso>Vem controlar o meu sentir,</verso>
+      <verso>E minha vida conduzir. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Erhalt Uns Herr</titulo_original>
+  <metrica id="8_8_8_8">8.8.8.8</metrica>
+  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1865">Sarah Poulton Kalley</origem_letra>
+  <origem_letra id="LuteroM" referencia="Lutero, Martinho">Martinho Lutero</origem_letra>
+  <origem_letra id="WittenbergColetanea" referencia="Wittenberg (Coletânea)" ano="1543">Wittenberg (Coletânea)</origem_letra>
+  <primeiro_verso_original>Tu me sondaste a mim, ó Deus</primeiro_verso_original>
+  <referencia_biblica id="19_139">Salmos 139</referencia_biblica>
+</hino>

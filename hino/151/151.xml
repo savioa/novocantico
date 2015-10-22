@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>151</numero>
+  <titulo>O bom Pastor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Pelos bosques e campinas</verso>
+      <verso>Pastoreia o bom Jesus.</verso>
+      <verso>Junto às águas cristalinas</verso>
+      <verso>Seu rebanho em paz conduz.</verso>
+      <verso>Ele guarda assim minha alma</verso>
+      <verso>E a protege em seu calor.</verso>
+      <verso>Nas angústias ou na calma</verso>
+      <verso>Vai comigo o Bom Pastor.</verso>
+      <coro>
+        <verso>Sempre amável e clemente,</verso>
+        <verso>Vai comigo o Bom Pastor.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Não me afligem os perigos</verso>
+      <verso>E não temo a tentação!</verso>
+      <verso>Ele sempre está comigo</verso>
+      <verso>E sustém-me o seu bordão.</verso>
+      <verso>Não me aflige nem a morte,</verso>
+      <verso>Cuja sombra hei de enfrentar.</verso>
+      <verso>Ele é meu amparo forte</verso>
+      <verso>Em que posso confiar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sua mesa me prepara,</verso>
+      <verso>Pois minha alma quer nutrir.</verso>
+      <verso>Minhas mágoas ele sara,</verso>
+      <verso>Com seu óleo vem me ungir.</verso>
+      <verso>Certamente que a bondade</verso>
+      <verso>Toda a vida fruirei</verso>
+      <verso>E no céu felicidade</verso>
+      <verso>Para sempre gozarei!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Lungo rivi queti ombrosi</titulo_original>
+  <metrica id="8_7_8_7_D_Coro">8.7.8.7.D.Coro</metrica>
+  <origem_letra id="Salmo23" referencia="Salmo 23">Salmo 23</origem_letra>
+  <origem_letra id="FaustiniJW" referencia="Faustini, João Wilson" ano="1957">João Wilson Faustini</origem_letra>
+  <origem_musica id="SchubertF" referencia="Schubert, Franz">Franz Schubert</origem_musica>
+  <primeiro_verso_original>Pelos bosques e campinas</primeiro_verso_original>
+  <referencia_biblica id="19_023">Salmos 23</referencia_biblica>
+</hino>
+

@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>294</numero>
+    <n>294</n>
+    <titulo>O senhor voltará</titulo>
+    <texto>
+      <estrofe>
+        <verso>Breve o Senhor, em esplendor,</verso>
+        <verso>Aqui há de descer.</verso>
+        <verso>O mundo inteiro, com temor,</verso>
+        <verso>Justiça, então, vai ter.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Eis a verdade a despontar,</verso>
+        <verso>Qual planta a reflorir;</verso>
+        <verso>Eis a justiça a iluminar</verso>
+        <verso>O mundo que há de vir!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Os povos todos, ó Senhor,</verso>
+        <verso>Submissos estarão.</verso>
+        <verso>Do régio sólio em derredor</verso>
+        <verso>Teu nome bendirão.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Faze o milagre, ó grande Deus:</verso>
+        <verso>Que vença, enfim, o Bem,</verso>
+        <verso>Com o poder dos altos céus,</verso>
+        <verso>Aqui no mundo. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

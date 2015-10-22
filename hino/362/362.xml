@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>362</numero>
+  <titulo>Brilhando por Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vejo no céu, esplendente,</verso>
+      <verso>Do sol a clara luz!</verso>
+      <verso>Quero viver tão-somente</verso>
+      <verso>Brilhando por Jesus.</verso>
+      <coro>
+        <verso>Brilhando, brilhando,</verso>
+        <verso>Brilhando qual doce luz!</verso>
+        <verso>Brilhando, brilhando,</verso>
+        <verso>Brilhando por meu Jesus!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quero na vida exaltá-lo</verso>
+      <verso>Na escola e no estudar.</verso>
+      <verso>Quero também imitá-lo</verso>
+      <verso>Em casa e no brincar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Amável com toda gente,</verso>
+      <verso>Assim me quer Jesus!</verso>
+      <verso>De rosto alegre e contente</verso>
+      <verso>Brilhando como a luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O feio e triste pecado,</verso>
+      <verso>Ajuda-me a vencer!</verso>
+      <verso>Tendo Jesus ao meu lado,</verso>
+      <verso>Eu quero aqui viver.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <titulo_original>I´ll be a sunbeam</titulo_original>
+  <metrica id="8_6_8_6_Coro">8.6.8.6.Coro</metrica>
+  <origem_letra id="TalbotN" referencia="Talbot, Nellie">Nellie Talbot</origem_letra>
+  <origem_letra id="FerrazS" referencia="Ferraz, Salomão" ano="1908">Salomão Ferraz</origem_letra>
+  <origem_musica id="ExcellEO" referencia="Excell, Edwin Othello">Edwin Othello Excell</origem_musica>
+  <primeiro_verso_original>Jesus wants me for a sunbeam</primeiro_verso_original>
+  <referencia_biblica id="10_023_004">2 Samuel 23.4</referencia_biblica>
+</hino>
+

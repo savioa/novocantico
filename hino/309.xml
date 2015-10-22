@@ -1,0 +1,51 @@
+<hino situacao='incompleto'>
+    <numero>309</numero>
+    <n>309</n>
+    <titulo>Proclamação</titulo>
+    <texto>
+      <estrofe>
+        <verso>Proclamai que Jesus Cristo é Senhor e Rei,</verso>
+        <verso>Proclamai! Proclamai!</verso>
+        <verso>Que nos livra da cruel condenação da Lei,</verso>
+        <verso>Proclamai! Proclamai!</verso>
+        <verso>Contai que lá dos céus desceu Jesus,</verso>
+        <verso>Por nós sofrendo a morte da nefanda cruz!</verso>
+        <verso>Agora, ressurreto, sobre o trono está,</verso>
+        <verso>E é Deus de toda graça, que de graça tudo dá!</verso>
+        <coro>
+          <verso>Proclamai que Jesus Cristo é Senhor e Rei,</verso>
+          <verso>Proclamai! Proclamai!</verso>
+          <verso>Que nos livra da cruel condenação da Lei,</verso>
+          <verso>Proclamai! Proclamai!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Proclamai que reina em graça Cristo Salvador,</verso>
+        <verso>Proclamai! Proclamai!</verso>
+        <verso>Que por cetro de seu reino ele tem o amor,</verso>
+        <verso>Proclamai! Proclamai!1</verso>
+        <verso>Contai aos tristes que a alegria ele tem.</verso>
+        <verso>E é dele que aos cansados o descanso vem!</verso>
+        <verso>Dizei aos pecadores que ele os quer salvar,</verso>
+        <verso>E a todos os cativos que ele os pode libertar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Proclamai que em grande glória Cristo voltará,</verso>
+        <verso>Proclamai! Proclamai!</verso>
+        <verso>E com todos os remidos ele reinará,</verso>
+        <verso>Proclamai! Proclamai!</verso>
+        <verso>Dizei que, sem demora, todos devem crer</verso>
+        <verso>E a Cristo agora mesmo o coração render!</verso>
+        <verso>Que estejam preparados quando aqui voltar,</verso>
+        <verso>A fim de, redimidos, com louvores o aclamar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

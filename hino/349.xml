@@ -1,0 +1,37 @@
+<hino situacao='incompleto'>
+    <numero>349</numero>
+    <n>349</n>
+    <titulo>Dia do Senhor</titulo>
+    <texto>
+      <estrofe>
+        <verso>Hoje é dia do Senhor!</verso>
+        <verso>Entoai o seu louvor</verso>
+        <verso>E adorai-o com fervor.</verso>
+        <verso>Glória ao nosso Deus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Hoje a casa de oração</verso>
+        <verso>Procuramos, em união,</verso>
+        <verso>E gozamos comunhão</verso>
+        <verso>Com o nosso Deus!</verso>
+        <verso>Hoje Cristo, ao pregador</verso>
+        <verso>Que anuncia o seu amor,</verso>
+        <verso>Dê a prova do favor:</verso>
+        <verso>O poder de Deus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Hoje é dia de perdão!</verso>
+        <verso>Deus convida o coração</verso>
+        <verso>A aceitar a Redenção;</verso>
+        <verso>Glória ao nosso Deus!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

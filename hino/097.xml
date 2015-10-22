@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>097</numero>
+    <n>97</n>
+    <titulo>Súplica do redimido</titulo>
+    <texto>
+      <estrofe>
+        <verso>Meu pecado resgatado</verso>
+        <verso>Foi na cruz, por teu amor!</verso>
+        <verso>E da morte - triste sorte! -</verso>
+        <verso>Me livraste, ó Redentor!</verso>
+        <coro>
+          <verso>Cristo, inflama viva chama</verso>
+          <verso>Em meu peito, ó Salvador!</verso>
+          <verso>Pois te adora quem te implora:</verso>
+          <verso>Vem guiar-me, bom Senhor!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Se hesitante, vacilante,</verso>
+        <verso>Ouço a voz do tentador,</verso>
+        <verso>Tu me guias, me auxilias,</verso>
+        <verso>E me tornas vencedor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Redimida só tem vida</verso>
+        <verso>A minha alma em teu amor!</verso>
+        <verso>Com apreço reconheço</verso>
+        <verso>Quanto devo a ti, Senhor.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

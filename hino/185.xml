@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>185</numero>
+    <n>185</n>
+    <titulo>Glória vindoura</titulo>
+    <texto>
+      <estrofe>
+        <verso>No tempo em que meu trabalho acabar</verso>
+        <verso>E enfim de Deus a presença gozar,</verso>
+        <verso>E quando a Cristo eu puder contemplar,</verso>
+        <verso>Oh, quanta glória haverá com Jesus!</verso>
+        <coro>
+          <verso>Sim, haverá glória sem par,</verso>
+          <verso>Junto a Jesus, glória sem fim!</verso>
+          <verso>Oh, quando a Cristo eu puder contemplar</verso>
+          <verso>Glória, sim, glória haverá com Jesus!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>No tempo em que Cristo, o meu Redentor,</verso>
+        <verso>Tiver de dar-me o seu “vinde!” de amor,</verso>
+        <verso>Transposto, enfim, o meu vale de dor,</verso>
+        <verso>Oh, quanta glória haverá com Jesus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>No tempo em que meus irmãos for rever</verso>
+        <verso>Lá nos fulgores do céu - que prazer!</verso>
+        <verso>Sim, quando junto a Jesus for viver,</verso>
+        <verso>Oh, quanta glória haverá com Jesus!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

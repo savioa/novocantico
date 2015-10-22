@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>074</numero>
+    <n>74</n>
+    <titulo>Sinceridade</titulo>
+    <texto>
+      <estrofe>
+        <verso>Jesus Senhor, me achego a ti,</verso>
+        <verso>Tua ira santa mereci;</verso>
+        <verso>O teu favor estende aqui!</verso>
+        <verso>Aceita um pecador!</verso>
+        <coro>
+          <verso>Eu venho como estou!</verso>
+          <verso>Sim, venho como estou!</verso>
+          <verso>Porque Jesus por mim morreu,</verso>
+          <verso>Eu venho como estou!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>As minhas culpas grandes são,</verso>
+        <verso>Mas Tu, que não morreste em vão,</verso>
+        <verso>Me podes conceder perdão!</verso>
+        <verso>Aceita um pecador!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Oh! Vem agora Salvador,</verso>
+        <verso>Livrar-me por teu grande amor,</verso>
+        <verso>Pois Tu, Jesus, és meu Senhor,</verso>
+        <verso>Aceita um pecador. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

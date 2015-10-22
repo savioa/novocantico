@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>088</numero>
+  <n>88</n>
+  <titulo>Amor perene</titulo>
+  <texto>
+    <estrofe>
+      <verso>Amavas-me, Senhor, ainda cintilante</verso>
+      <verso>Não irrompera a luz ao mando Criador!</verso>
+      <verso>E nem o ardente sol, rompendo no levante,</verso>
+      <verso>Trouxera à terra e ao mar a força fecundante.</verso>
+      <verso>Meu Deus, que amor!</verso>
+      <verso>Meu Deus, que eterno amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Amavas-me, Senhor, também quando, imolado,</verso>
+      <verso>Por mim sofreu na cruz o meigo Salvador,</verso>
+      <verso>O Santo de Israel, o teu Cordeiro amado,</verso>
+      <verso>Levando sobre si a culpa do pecado.</verso>
+      <verso>Meu Deus, que amor!</verso>
+      <verso>Meu Deus, que antigo amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Amavas-me, Senhor, quando atingiu meu peito</verso>
+      <verso>O Espírito de luz, o meu Consolador.</verso>
+      <verso>E com tesouros mil, de teu favor perfeito,</verso>
+      <verso>Trouxe à minha alma a fé em que hoje me deleito.|</verso>
+      <verso>Meu Deus, que amor!</verso>
+      <verso>Meu Deus, que antigo amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E sempre me amarás, porque jamais inferno</verso>
+      <verso>Ou mundo poderão ao teu querer se opor,</verso>
+      <verso>Ao teu decreto, ó Deus, ao teu decreto eterno,</verso>
+      <verso>Ao teu amor, ó Pai, ao teu amor superno.</verso>
+      <verso>Meu Deus, que amor!</verso>
+      <verso>És sempre e todo amor! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="04">Amor de Deus</assunto>
+  <titulo_original>Suivez l'Agneau</titulo_original>
+  <metrica id="13_12_13_13_4_6">13.12.13.13.4.6</metrica>
+  <origem_letra id="FerreiraGLS" referencia="Ferreira, Guilherme Luiz dos Santos" ano="1900">Guilherme Luiz dos Santos Ferreira</origem_letra>
+  <origem_musica id="AvocatM" referencia="Avocat, M.">M. Avocat</origem_musica>
+  <origem_musica id="CantiquesDuMessager" referencia="“Cantiques du Messager”">“Cantiques du Messager”</origem_musica>
+  <primeiro_verso_original>Amavas-me, Senhor, ainda cintilante</primeiro_verso_original>
+  <referencia_biblica id="49_001_005">Efésios 1.5</referencia_biblica>
+</hino>

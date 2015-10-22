@@ -1,0 +1,55 @@
+<hino situacao='incompleto'>
+    <numero>232</numero>
+    <n>232</n>
+    <titulo>Pequena vila de Belém</titulo>
+    <texto>
+      <estrofe>
+        <verso>Pequena vila de Belém,</verso>
+        <verso>Repousa em teu dormir,</verso>
+        <verso>Enquanto os astros lá no céu</verso>
+        <verso>Estão a refulgir.</verso>
+        <verso>Porém, nas tuas trevas</verso>
+        <verso>Resplende eterna luz,</verso>
+        <verso>Incomparável, divinal:</verso>
+        <verso>Nasceu o bom Jesus!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Da virgem mãe nasceu Jesus!</verso>
+        <verso>Vós anjos proclamai</verso>
+        <verso>As boas-novas lá dos céus,</verso>
+        <verso>E a Deus louvores dai!</verso>
+        <verso>Estrelas matutinas,</verso>
+        <verso>Em hinos de louvor,</verso>
+        <verso>Aos anjos e homens proclamai</verso>
+        <verso>De Deus o eterno amor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O dom glorioso, divinal</verso>
+        <verso>Nenhum estrondo faz,</verso>
+        <verso>Assim, aos homens, o Senhor</verso>
+        <verso>Concede graça e paz.</verso>
+        <verso>Sereno e sem alarde</verso>
+        <verso>Vem ele ao mundo assim,</verso>
+        <verso>Trazendo aos homens Redenção,</verso>
+        <verso>Amor e paz sem fim.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Oh! Vem morar nos corações,</verso>
+        <verso>Divino Rei, Jesus,</verso>
+        <verso>E faze-os entrever no céu</verso>
+        <verso>Visões da tua luz.</verso>
+        <verso>Ali proclamam anjos</verso>
+        <verso>De Deus o amor fiel!</verso>
+        <verso>Oh! Vem, Senhor, aqui reinar,</verso>
+        <verso>Eterno Emanuel. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

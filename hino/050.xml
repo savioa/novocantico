@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao='incompleto'>
+  <numero>050</numero>
+  <n>50</n>
+  <titulo>Sangue Precioso</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cantarei a Cristo e seu excelso amor;</verso>
+      <verso>Por nós baixou à terra o grande Salvador.</verso>
+      <coro>
+        <verso>O sangue precioso</verso>
+        <verso>De Cristo tem valor:</verso>
+        <verso>Das penas da justiça</verso>
+        <verso>Liberta o pecador.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Cantarei a Cristo! Por nós morreu na cruz.</verso>
+      <verso>Aos pobres pecadores quem salva é só Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cantarei a Cristo! Por nós cumpriu a Lei!</verso>
+      <verso>Seu manto de Justiça, alegre, vestirei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cantarei a Cristo! Nas nuvens voltará</verso>
+      <verso>E na celeste glória os seus receberá.</verso>
+    </estrofe>
+  </texto>
+  <secao id=''></secao>
+  <assunto id=''></assunto>
+  <titulo_original></titulo_original>
+  <metrica id=''></metrica>
+  <origem_letra ano='' id='' referencia=''></origem_letra>
+  <origem_musica ano='' id='' referencia=''></origem_musica>
+  <primeiro_verso_original></primeiro_verso_original>
+  <referencia_biblica id=''></referencia_biblica>
+</hino>

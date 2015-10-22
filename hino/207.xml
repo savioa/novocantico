@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>207</numero>
+    <n>207</n>
+    <titulo>Convite ao pecador</titulo>
+    <texto>
+      <estrofe>
+        <verso>Vem a Cristo, mesmo agora,</verso>
+        <verso>Vem assim como estás!</verso>
+        <verso>Que dele, sem demora,</verso>
+        <verso>O perdão obterás.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Crê em Cristo, sem detença,</verso>
+        <verso>Foi por nós que morreu!</verso>
+        <verso>E só por esta crença</verso>
+        <verso>Tens entrada no céu.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ele almeja receber-te,</verso>
+        <verso>Tua vida salvar,</verso>
+        <verso>Pois quer consigo ver-te</verso>
+        <verso>E contigo habitar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

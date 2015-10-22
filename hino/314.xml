@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>314</numero>
+    <n>314</n>
+    <titulo>Diligência</titulo>
+    <texto>
+      <estrofe>
+        <verso>Ouve! A voz divina clama:</verso>
+        <verso>“Quem deseja trabalhar?”</verso>
+        <verso>Vastos campos nos convidam,</verso>
+        <verso>Hoje entremos a ceifar!</verso>
+        <verso>Incessante o Mestre apela,</verso>
+        <verso>Chama obreiros para si</verso>
+        <verso>Quem responderá dizendo:</verso>
+        <verso>“Manda-me, estou pronto aqui?”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Corre! Aponta aos pecadores</verso>
+        <verso>O benigno Salvador!</verso>
+        <verso>Vai! Conduze os cordeirinhos</verso>
+        <verso>Ao regaço do Pastor!</verso>
+        <verso>Leva às almas doloridas</verso>
+        <verso>Novas de consolação!</verso>
+        <verso>Vai! Proclama a todo mundo:</verso>
+        <verso>“Em Jesus há salvação.”</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Oh! Não digas, ocioso:</verso>
+        <verso>Eu não tenho o que fazer!”</verso>
+        <verso>Eis os povos que padecem,</verso>
+        <verso>Multidões a perecer!</verso>
+        <verso>Olha o Mestre a convocar-te,</verso>
+        <verso>Ouve a voz chamando a ti!</verso>
+        <verso>Oh! Responde sem demora:</verso>
+        <verso>“Manda-me! Estou pronto aqui!”</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

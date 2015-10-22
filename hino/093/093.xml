@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>093</numero>
+  <n>93</n>
+  <titulo>Firmeza na fé</titulo>
+  <texto>
+    <estrofe>
+      <verso>Somente ponho a minha fé</verso>
+      <verso>Na graça excelsa de Jesus,</verso>
+      <verso>No sacrifício remidor,</verso>
+      <verso>No sangue do bom Redentor.</verso>
+      <coro>
+        <verso>A minha fé e o meu amor</verso>
+        <verso>Estão firmados no Senhor,</verso>
+        <verso>Estão firmados no Senhor.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Se não lhe posso a face ver,</verso>
+      <verso>É pela fé que vou viver;</verso>
+      <verso>Em cada transe a suportar</verso>
+      <verso>Eu hei de nele confiar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A sua graça é mui real,</verso>
+      <verso>Abrigo traz no temporal;</verso>
+      <verso>Ao vir cercar-me a tentação,</verso>
+      <verso>Me fortalece a sua mão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando a trombeta ressoar,</verso>
+      <verso>Irei com ele me encontrar;</verso>
+      <verso>E com os salvos cantarei</verso>
+      <verso>Louvor eterno ao grande Rei!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="05">Fé</assunto>
+  <titulo_original>Solid Rock</titulo_original>
+  <metrica id="8_8_8_8_Coro">8.8.8.8.Coro</metrica>
+  <origem_letra id="MoteE" referencia="Mote, Edward" ano="1834">Edward Mote</origem_letra>
+  <origem_letra id="SilvaFCB" referencia="Silva, Francisco Caetano Borges da">Francisco Caetano Borges da Silva</origem_letra>
+  <origem_musica id="BradburyWB" referencia="Bradbury, William Batchelder" ano="1863">William Batchelder Bradbury</origem_musica>
+  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1875">Ralph Eugene Manuel</origem_musica>
+  <primeiro_verso_original>My hope is built on nothing less</primeiro_verso_original>
+  <referencia_biblica id="19_059_010">Salmos 59.10</referencia_biblica>
+</hino>

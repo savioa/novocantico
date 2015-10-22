@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>032</numero>
+  <n>32</n>
+  <titulo>O Deus Fiel</titulo>
+  <texto>
+    <estrofe>
+      <verso>Tu és fiel, Senhor, ó Pai celeste,</verso>
+      <verso>Teus filhos sabem que não falharás!</verso>
+      <verso>Nunca mudaste, tu nunca faltaste,</verso>
+      <verso>Tal como eras tu sempre serás.</verso>
+      <coro>
+        <verso>Tu és fiel, Senhor! Tu és fiel, Senhor!</verso>
+        <verso>Dia após dia, com bênçãos sem fim,</verso>
+        <verso>Tua mercê nos sustenta e nos guarda;</verso>
+        <verso>Tu és fiel, Senhor, fiel assim.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Flores e frutos, montanhas e mares,</verso>
+      <verso>Sol, lua, estrelas brilhando no céu,</verso>
+      <verso>Tudo criaste na terra e nos ares,</verso>
+      <verso>Para louvar-te, Senhor, que és fiel.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pleno perdão tu dás! Que segurança!</verso>
+      <verso>Cada momento me guias, Senhor,</verso>
+      <verso>E no porvir, oh! que doce esperança!</verso>
+      <verso>Desfrutarei do teu rico favor. Amém</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="07">Deus Fiel</assunto>
+  <titulo_original>Great is thy faithfulness</titulo_original>
+  <metrica id="10_10_10_10_Coro">10.10.10.10.Coro</metrica>
+  <origem_letra id="ChisholmTO" referencia="Chisholm, Thomas Obediah" ano="1923">Thomas Obediah Chisholm</origem_letra>
+  <origem_letra id="SuttonJL" referencia="Sutton, Joan Larie" ano="1960">Joan Larie Sutton</origem_letra>
+  <origem_letra id="BuenoL" referencia="Bueno, Lídia" ano="1960">Lídia Bueno</origem_letra>
+  <origem_letra id="SilvaH" referencia="Silva, Hope" ano="1960">Hope Silva</origem_letra>
+  <origem_musica id="RunyanWM" referencia="Runyan, William Marion" ano="1923">William Marion Runyan</origem_musica>
+  <primeiro_verso_original>Great is thy faithfulness</primeiro_verso_original>
+  <referencia_biblica id="19_093_005">Salmos 93.5</referencia_biblica>
+  <referencia_biblica id="25_003_022_023">Lamentações 3.22,23</referencia_biblica>
+</hino>
+

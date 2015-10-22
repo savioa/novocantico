@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>368</numero>
+  <titulo>Despedida</titulo>
+  <texto>
+    <estrofe>
+      <verso>Deus vos guarde pelo seu poder,</verso>
+      <verso>Permaneça ao vosso lado,</verso>
+      <verso>Vos dispense o seu cuidado,</verso>
+      <verso>Deus vos guarde pelo seu poder!</verso>
+      <coro>
+        <verso>Pelo seu poder e no seu amor,</verso>
+        <verso>Estaremos todos com Jesus!</verso>
+        <verso>Pelo seu poder e no seu amor,</verso>
+        <verso>Oh! Que Deus vos guarde em sua luz!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Deus vos guarde para o seu louvor,</verso>
+      <verso>Consolados e contentes,</verso>
+      <verso>Achegados sempre aos crentes,</verso>
+      <verso>Deus vos guarde para o seu louvor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Deus vos guarde bem no seu amor.</verso>
+      <verso>No trabalho glorioso,</verso>
+      <verso>Para o dia venturoso,</verso>
+      <verso>Deus vos guarde bem no seu amor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Igreja - Seu Ministério</secao>
+  <assunto id="01">Assuntos Diversos</assunto>
+  <titulo_original>God be with you</titulo_original>
+  <metrica id='9_8_8_9_Coro'>9.8.8.9.Coro</metrica>
+  <origem_letra id="RankinJE" referencia="Rankin, Jeremiah Eames" ano="1882">Jeremiah Eames Rankin</origem_letra>
+  <origem_letra id="McNairSE" referencia="McNair, Stuart Edmund" ano="1901">Stuart Edmund McNair</origem_letra>
+  <origem_musica id="TomerWG" referencia="Tomer, William Gould" ano="1882">William Gould Tomer</origem_musica>
+  <primeiro_verso_original>God be with you till we meet again</primeiro_verso_original>
+  <referencia_biblica id="44_020_032">Atos 20.32</referencia_biblica>
+</hino>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao='incompleto'>
+  <numero>045</numero>
+  <n>45</n>
+  <titulo>Grande Redenção</titulo>
+  <texto>
+    <estrofe>
+      <verso>Milhares de milhares ouço</verso>
+      <verso>Cantando a Deus com gratidão,</verso>
+      <verso>A Cristo, o Salvador, louvando</verso>
+      <verso>Por sua grande Redenção.</verso>
+      <verso>“A Deus louvai!” — em coro clamam;</verso>
+      <verso>“A Deus louvai — pois nos amou!</verso>
+      <verso>E, pelo sangue do Cordeiro,</verso>
+      <verso>De toda mancha nos lavou!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O mesmo salmo triunfante,</verso>
+      <verso>Em tons de santa exultação,</verso>
+      <verso>Por todo o mundo vai subindo</verso>
+      <verso>A Deus, autor da Redenção.</verso>
+      <verso>“A Deus louvai” — nos vales soa</verso>
+      <verso>E os montes fazem ecoar:</verso>
+      <verso>“A Deus louvai, o Deus da Graça,</verso>
+      <verso>Que aos pecadores quer salvar!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E nós, teus santos pés cercando,</verso>
+      <verso>Enquanto militando aqui</verso>
+      <verso>As nossas vozes elevamos</verso>
+      <verso>Para exaltar, Senhor, a ti.</verso>
+      <verso>“A Deus louvai” - também clamamos!</verso>
+      <verso>“A Deus louvai, supremo Rei!</verso>
+      <verso>E glória, honra, majestade</verso>
+      <verso>A Cristo, o Salvador, rendei!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Das trevas fomos nós chamados</verso>
+      <verso>À tua pura e santa luz!</verso>
+      <verso>Da escravidão e do pecado</verso>
+      <verso>Nos libertaste pela cruz.</verso>
+      <verso>“A Deus louvai!” - cantemos todos!</verso>
+      <verso>“A Deus louvai, que nos remiu,</verso>
+      <verso>E filhos seus e seus herdeiros,</verso>
+      <verso>Em Cristo, nos constituiu!”</verso>
+    </estrofe>
+  </texto>
+  <secao id='01'>Louvor e Adoração</secao>
+  <assunto id='09'>Deus Salvador</assunto>
+  <titulo_original>Jubilee</titulo_original>
+  <metrica id='9_8_9_8_D'>9.8.9.8.D</metrica>
+  <origem_letra ano='1848' id='FoxHW' referencia='Fox, Henry Watson'>Henry Watson Fox</origem_letra>
+  <origem_letra ano='1913' id='WrightHM' referencia='Wright, Henry Maxwell'>Henry Maxwell Wright</origem_letra>
+  <origem_musica ano='1894' id='MaunderJH' referencia='Maunder, John Henry'>John Henry Maunder</origem_musica>
+  <primeiro_verso_original>I hear ten thousand voices singing</primeiro_verso_original>
+  <referencia_biblica id='66_005_011_013'>Apocalipse 5.11-13</referencia_biblica>
+</hino>

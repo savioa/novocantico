@@ -1,0 +1,33 @@
+<hino situacao='incompleto'>
+    <numero>133</numero>
+    <n>133</n>
+    <titulo>Aspiração à santidade</titulo>
+    <texto>
+      <estrofe>
+        <verso>Puro, sim, mais puro eu desejo ser!</verso>
+        <verso>Santo, sim, mais santo, sempre em meu viver!</verso>
+        <verso>Ó Senhor, te peço nesta oração:</verso>
+        <verso>Satisfaz o anseio do meu coração.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Calmo, sim, mais calmo sempre eu quero estar!</verso>
+        <verso>Firme, sim, mais firme eu desejo andar!</verso>
+        <verso>Nunca se enfraqueça minha fé, Senhor,</verso>
+        <verso>E que eu, sempre alegre, cante o teu louvor.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Justo, sim, mais justo quem me dera ser!</verso>
+        <verso>Reto, sim, mais reto em meu proceder.</verso>
+        <verso>Cristo é meu modelo, sempre o seguirei;</verso>
+        <verso>Tudo quanto almejo nele encontrarei.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

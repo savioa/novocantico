@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>066</numero>
+  <n>66</n>
+  <titulo>Contrição</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sonda-me, ó Deus, o coração;</verso>
+      <verso>Sonda-me, ó Deus, o coração;</verso>
+      <verso>Prova e conhece os  meus pensamentos;</verso>
+      <verso>Prova e conhece os meus pensamentos;</verso>
+      <verso>Vê se em mim há algum mau caminho.</verso>
+      <verso>Sonda-me, conhece-me</verso>
+      <verso>E prova-me, ó Deus!</verso>
+      <verso voz="Baixo">ó Deus</verso>
+      <verso>Conhece-me o coração,</verso>
+      <verso>Conhece-me o coração;</verso>
+      <verso>Guia-me, Senhor,</verso>
+      <verso>Guia-me, Senhor,</verso>
+      <verso>E mostra o caminho,</verso>
+      <verso>E guia meus passos,</verso>
+      <verso>Guia meus passos,</verso>
+      <verso>Ó meu Salvador. Amém. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <titulo_original>Contrição</titulo_original>
+  <metrica id="Irregular">Irregular</metrica>
+  <origem_musica id="SantosRR" referencia="Santos, Renato Ribeiro dos">Renato Ribeiro dos Santos</origem_musica>
+  <origem_musica id="BuyersN" referencia="Buyers, Norah" ano="1968">Norah Buyers</origem_musica>
+  <primeiro_verso_original>Sonda-me, ó Deus, o coração</primeiro_verso_original>
+  <referencia_biblica id="19_139_023_024">Salmos 139.23,24</referencia_biblica>
+</hino>
+

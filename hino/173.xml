@@ -1,0 +1,31 @@
+<hino situacao='incompleto'>
+    <numero>173</numero>
+    <n>173</n>
+    <titulo>Oração vespertina</titulo>
+    <texto>
+      <estrofe>
+        <verso>Vai fugindo o dia, breve a noite vem;</verso>
+        <verso>Vespertina estrela já se avista além.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ao que mui cansado na tristeza jaz,</verso>
+        <verso>Dá, Jesus bendito, teu descanso e paz!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Noite de sossego vimos te pedir;</verso>
+        <verso>Em tuas mãos entregues, hemos de dormir.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>E quando acordarmos, faze, ó bom Senhor,</verso>
+        <verso>Que nós te sirvamos com maior vigor. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

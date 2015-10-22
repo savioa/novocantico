@@ -1,0 +1,52 @@
+<hino situacao='incompleto'>
+    <numero>110</numero>
+    <n>110</n>
+    <titulo>A vida com Jesus</titulo>
+    <texto>
+      <estrofe>
+        <verso>Um dia Cristo achou-me</verso>
+        <verso>Mui longe do meu lar,</verso>
+        <verso>Perdido já no mundo,</verso>
+        <verso>Sem mais poder voltar!</verso>
+        <verso>Tomando-me em seus braços,</verso>
+        <verso>Firmou-me nos meus passos,</verso>
+        <verso>E agora andamos juntos,</verso>
+        <verso>Voltando para o lar.</verso>
+        <coro>
+          <verso>A presença de Jesus</verso>
+          <verso>Enche o coração de luz!</verso>
+          <verso>Mui preciosa fica,</verso>
+          <verso>E também mais rica</verso>
+          <verso>Esta vida com Jesus</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Passamos pelo vale</verso>
+        <verso>A fim de me provar,</verso>
+        <verso>Em meio a densas trevas</verso>
+        <verso>Que impedem-me o andar!</verso>
+        <verso>Não há nenhum perigo,</verso>
+        <verso>Pois já está comigo</verso>
+        <verso>O excelso Companheiro,</verso>
+        <verso>Voltando para o lar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Entramos na atmosfera</verso>
+        <verso>Que envolve a aquele lar,</verso>
+        <verso>No qual meu Pai me aguarda</verso>
+        <verso>E é onde vou morar!</verso>
+        <verso>Não há no mundo inteiro</verso>
+        <verso>Um outro companheiro</verso>
+        <verso>Que mostre tanto zelo</verso>
+        <verso>Voltando para o lar.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

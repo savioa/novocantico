@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>399</numero>
+  <titulo>Término do culto</titulo>
+  <texto>
+    <estrofe>
+      <verso>Findado agora o culto, ó Deus,</verso>
+      <verso>Prestado em teu louvor,</verso>
+      <verso>Despede em paz e guia os teus</verso>
+      <verso>Até chegarmos lá nos céus,</verso>
+      <verso>Ó Pai de vero amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De Cristo dá-nos sempre ter</verso>
+      <verso>A graça singular!</verso>
+      <verso>No teu amor permanecer,</verso>
+      <verso>No Santo Espírito viver,</verso>
+      <verso>Em comunhão sem par. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="11">Final de Culto</assunto>
+  <titulo_original>Rest</titulo_original>
+  <metrica id='8_6_8_8_6'>8.6.8.8.6</metrica>
+  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da" ano="1909">João Gomes da Rocha</origem_letra>
+  <origem_musica id="MakerFC" referencia="Maker, Frederick Charles" ano="1887">Frederick Charles Maker</origem_musica>
+  <primeiro_verso_original>Findado agora o culto, ó Deus</primeiro_verso_original>
+  <referencia_biblica id="47_001_002">2 Coríntios 1.2</referencia_biblica>
+</hino>
+

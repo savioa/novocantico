@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>004</numero>
+  <n>4</n>
+  <titulo>Culto à Trindade</titulo>
+  <texto>
+    <estrofe>
+      <verso>Deus está no templo!</verso>
+      <verso>Pai Onipotente!</verso>
+      <verso>A seus pés nos humilhamos.</verso>
+      <verso>Servos consagrados,</verso>
+      <verso>Reverentemente,</verso>
+      <verso>Ao Deus santo adoramos.</verso>
+      <verso>Por favor, com amor,</verso>
+      <verso>Espiritualmente</verso>
+      <verso>Deus está no templo!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo está no templo!</verso>
+      <verso>Sumo benefício</verso>
+      <verso>Por seu sangue nos foi dado.</verso>
+      <verso>Ele, o bom Cordeiro,</verso>
+      <verso>Foi o sacrifício</verso>
+      <verso>Que expiou o vil pecado.</verso>
+      <verso>Escolheu e sofreu</verso>
+      <verso>O cabal suplício;</verso>
+      <verso>Cristo está no templo!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tu, que estás no templo,</verso>
+      <verso>Preceptor divino,</verso>
+      <verso>E os corações habitas;</verso>
+      <verso>Tu, paciente Mestre,</verso>
+      <verso>Dá-nos teu ensino,</verso>
+      <verso>Aclarando as leis benditas.</verso>
+      <verso>Que prazer conhecer</verso>
+      <verso>A graça infinita!</verso>
+      <verso>Sim, está no templo!</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="02">Deus Trino</assunto>
+  <titulo_original>Arnsberg</titulo_original>
+  <metrica id="6_6_8_6_6_8_6_6_6">6.6.8.6.6.8.6.6.6</metrica>
+  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da" ano="1898">João Gomes da Rocha</origem_letra>
+  <origem_letra id="TersteegenG" referencia="Tersteegen, Gerhard" ano="1729">Gerhard Tersteegen</origem_letra>
+  <origem_musica id="NeanderJ" referencia="Neander, Joachim">Joachim Neander</origem_musica>
+  <origem_musica id="Bundes-Lieder" referencia="“Bundes-Lieder”" ano="1680">“Bundes-Lieder”</origem_musica>
+  <primeiro_verso_original>Gott ist gegenwärtig</primeiro_verso_original>
+  <primeiro_verso_original>God Himself is with us</primeiro_verso_original>
+  <referencia_biblica id="01_028_017">Gênesis 28.17</referencia_biblica>
+  <referencia_biblica id="19_095_006">Salmos 95.6</referencia_biblica>
+</hino>

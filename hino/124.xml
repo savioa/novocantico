@@ -1,0 +1,39 @@
+<hino situacao='incompleto'>
+    <numero>124</numero>
+    <n>124</n>
+    <titulo>Benigna luz</titulo>
+    <texto>
+      <estrofe>
+        <verso>Benigna luz, os passos vacilantes</verso>
+        <verso>Me vem guiar!</verso>
+        <verso>É noite escura, e vejo os céus distantes,</verso>
+        <verso>Meu doce lar.</verso>
+        <verso>Não peço ver da estrada as longes cenas;</verso>
+        <verso>Oh! Basta um passo, um passo mais, apenas.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Nem sempre humilde supliquei outrora</verso>
+        <verso>A tua luz,</verso>
+        <verso>Porém minha alma o teu perdão implora,</verso>
+        <verso>Ó meu Jesus!</verso>
+        <verso>O orgulho vão minha alma endurecia;</verso>
+        <verso>Oh! Dá-me aqui visão de um novo dia.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>O teu poder conduzirá seguro</verso>
+        <verso>Meu caminhar</verso>
+        <verso>Descansarei, vencido o trilho escuro,</verso>
+        <verso>No doce lar.</verso>
+        <verso>Ali verei, na luz da eterna aurora,</verso>
+        <verso>A tua face que não vejo agora. Amém.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>297</numero>
+  <titulo>A chamada final</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quando lá dos céus descendo</verso>
+      <verso>Para os seus Jesus voltar,</verso>
+      <verso>E o clarim de Deus a todos proclamar</verso>
+      <verso>Que chegou o grande dia</verso>
+      <verso>Da vitória do meu Rei,</verso>
+      <verso>Eu, por sua imensa graça, lá estarei!</verso>
+      <coro>
+        <verso>Quando enfim chegar o dia</verso>
+        <verso>Da vitória do meu Rei,</verso>
+        <verso>Quando enfim chegar o dia,</verso>
+        <verso>Pela graça de Jesus eu lá estarei!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Nesse dia, quando os mortos</verso>
+      <verso>Hão de a voz de Cristo ouvir</verso>
+      <verso>E dos seus sepulcros hão de ressurgir,</verso>
+      <verso>Os remidos, transformados,</verso>
+      <verso>Logo aclamarão seu Rei,</verso>
+      <verso>E, por sua imensa graça, lá estarei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pelo mundo rejeitado</verso>
+      <verso>Foi Jesus, meu Salvador!</verso>
+      <verso>Desprezaram, insultaram meu Senhor!</verso>
+      <verso>Mas glorioso vem o dia</verso>
+      <verso>Da vitória do meu Rei,</verso>
+      <verso>E, por sua imensa graça, lá estarei.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <titulo_original>When the roll is called</titulo_original>
+  <metrica id='15_11_15_11_Coro'>15.11.15.11.Coro</metrica>
+  <origem_letra id="WrightHM" referencia="Wright, Henry Maxwell" ano="1914">Henry Maxwell Wright</origem_letra>
+  <origem_letra id="BlackJM" referencia="Black, James Milton">James Milton Black</origem_letra>
+  <origem_musica id="BlackJM" referencia="Black, James Milton">James Milton Black</origem_musica>
+  <primeiro_verso_original>When the trumpet of the Lord shall sound</primeiro_verso_original>
+  <referencia_biblica id="46_001_007">1 Coríntios 1.7</referencia_biblica>
+</hino>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>388</numero>
+  <n>388</n>
+  <titulo>Mocidade, Avante</titulo>
+  <texto>
+    <estrofe>
+      <verso>Mocidade cristã, eia, avante!</verso>
+      <verso>Reuni vossas forças: Lutai!</verso>
+      <verso>O inimigo potente se mostra,</verso>
+      <verso>Mas com Cristo sois fortes: Marchai!</verso>
+      <coro>
+        <verso>Mocidade cristã, eis, avante!</verso>
+        <verso>Contra o mal, contra o erro lutai!</verso>
+        <verso>Tendo o santo Evangelho por arma,</verso>
+        <verso>A verdade da Cruz proclamai!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Mocidade cristã, vede o abismo</verso>
+      <verso>Onde muitos estão a cair,</verso>
+      <verso>Por faltar-lhes a luz do Evangelho,</verso>
+      <verso>E não virem a Cristo seguir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eia, pois, mocidade pujante,</verso>
+      <verso>Por Jesus, pela fé, avançai!</verso>
+      <verso>Ide aos povos levar o Evangelho,</verso>
+      <verso>Para a glória de Deus trabalhai!</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="06">Mocidade</assunto>
+  <titulo_original>Mocidade</titulo_original>
+  <metrica id="">10.9.10.9.Coro</metrica>
+  <origem_letra id="DAguiarT" referencia="D'Aguiar, Thomas">Thomas D'Aguiar</origem_letra>
+  <origem_musica id="PitrowskyR" referencia="Pitrowsky, Ricardo">Ricardo Pitrowsky</origem_musica>
+  <referencia_biblica id="49_006_011">Efésios 6.11</referencia_biblica>
+</hino>

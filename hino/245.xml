@@ -1,0 +1,48 @@
+<hino situacao='incompleto'>
+    <numero>245</numero>
+    <n>245</n>
+    <titulo>Homens sábios e de bem</titulo>
+    <texto>
+      <estrofe>
+        <verso>Vós homens sábios e de bem,</verso>
+        <verso>E vós que estais em dor,</verso>
+        <verso>Lembrai-vos todos, afinal:</verso>
+        <verso>Nasceu o Salvador,</verso>
+        <verso>Trazendo a todos salvação, a todos paz e amor!</verso>
+        <coro>
+          <verso>Oh, louvai o bom Deus com fervor,</verso>
+          <verso>Com fervor!</verso>
+          <verso>Oh, louvai o bom Deus com fervor!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>De Deus o nosso Pai,</verso>
+        <verso>Do céu um anjo apareceu,</verso>
+        <verso>E boas novas de louvor</verso>
+        <verso>Aos bons pastores deu:</verso>
+        <verso>Que lá na vila de Belém o Cristo lhes nasceu.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Oh, não temais,</verso>
+        <verso>Pois vim trazer mensagem singular:</verso>
+        <verso>Nasceu o vosso Redentor,</verso>
+        <verso>Que aos homens quer salvar!</verso>
+        <verso>Libertará de todo o mal a quem não duvidar.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ao nosso Deus e Salvador</verso>
+        <verso>Louvores entoai,</verso>
+        <verso>Com verdadeira gratidão</verso>
+        <verso>As novas proclamai,</verso>
+        <verso>E neste dia de Natal ao Salvador louvai</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

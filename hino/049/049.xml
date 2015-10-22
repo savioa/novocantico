@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>049</numero>
+  <n>049</n>
+  <titulo>Sempre vencendo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sempre vencendo, mui vitorioso,</verso>
+      <verso>Cristo Jesus, o Senhor!</verso>
+      <verso>É Soberano, Chefe bendito,</verso>
+      <verso>Em tudo ele é vencedor!</verso>
+      <verso>Ei-lo supremo, guiando,</verso>
+      <verso>Com seu imenso poder!</verso>
+      <verso>Todos avante, pois, crentes,</verso>
+      <verso>Todos lutar e vencer.</verso>
+      <coro>
+        <verso>Não é dos fortes a vitória,</verso>
+        <verso>Nem dos que correm melhor.</verso>
+        <verso>Mas dos fiéis e sinceros</verso>
+        <verso>Que seguem junto ao Senhor</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Sempre vencendo, mui vitorioso,</verso>
+      <verso>Cristo Jesus, o Senhor!</verso>
+      <verso>Eis suas hostes inumeráveis,</verso>
+      <verso>Seu grande império e fulgor;</verso>
+      <verso>Em seu governo demonstra</verso>
+      <verso>Cuidado e amor sem igual;</verso>
+      <verso>Sempre nos ama e protege</verso>
+      <verso>Com seu poder eternal</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sempre vencendo, mui vitorioso,</verso>
+      <verso>Cristo Jesus, o Senhor!</verso>
+      <verso>Reis e vassalos, servos e chefes</verso>
+      <verso>Querem também seu favor.</verso>
+      <verso>Senhor, desejo e te imploro</verso>
+      <verso>Que me permitas lutar</verso>
+      <verso>Sempre ao teu lado, invencível,</verso>
+      <verso>Até meus dias findar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="10">Deus Vencedor</assunto>
+  <titulo_original>Victory Through Grace</titulo_original>
+  <metrica id="10_7_10_7_8_7_8_7_Coro">10.7.10.7.8.7.8.7.Coro</metrica>
+  <origem_letra id="CrosbyFJ" referencia="Crosby, Fanny Jane">Fanny Jane Crosby</origem_letra>
+  <origem_letra id="GinsburgSL" referencia="Ginsburg, Salomão Luiz">Salomão Luiz Ginsburg</origem_letra>
+  <origem_musica id="SweneyJR" referencia="Sweney, John Robson">John Robson Sweney</origem_musica>
+  <primeiro_verso_original>Conquering now and still to conquer</primeiro_verso_original>
+  <referencia_biblica id="66_011_015">Apocalipse 11.15</referencia_biblica>
+</hino>
+

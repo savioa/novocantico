@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>155</numero>
+  <titulo>Castelo forte</titulo>
+  <texto>
+    <estrofe>
+      <verso>Castelo forte é nosso Deus,</verso>
+      <verso>Espada e bom escudo!</verso>
+      <verso>Com seu poder defende os seus</verso>
+      <verso>Em todo transe agudo.</verso>
+      <verso>Com fúria pertinaz</verso>
+      <verso>Persegue Satanás</verso>
+      <verso>Com ânimo cruel!</verso>
+      <verso>Mui forte é o Deus fiel,</verso>
+      <verso>Igual não há na terra.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A força do homem nada faz,</verso>
+      <verso>Sozinho está perdido!</verso>
+      <verso>Mas nosso Deus socorro traz</verso>
+      <verso>Em seu Filho escolhido.</verso>
+      <verso>Sabeis quem é? Jesus,</verso>
+      <verso>O que venceu na cruz,</verso>
+      <verso>Senhor dos altos céus,</verso>
+      <verso>E sendo o próprio Deus,</verso>
+      <verso>Triunfa na batalha.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se nos quisessem devorar</verso>
+      <verso>Demônios não contados,</verso>
+      <verso>Não nos iriam derrotar</verso>
+      <verso>Nem ver-nos assustados.</verso>
+      <verso>O príncipe do mal,</verso>
+      <verso>Com seu plano infernal,</verso>
+      <verso>Já condenado está!</verso>
+      <verso>Vencido cairá</verso>
+      <verso>Por uma só palavra.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De Deus o verbo ficará,</verso>
+      <verso>Sabemos com certeza,</verso>
+      <verso>E nada nos assustará</verso>
+      <verso>Com Cristo por defesa!</verso>
+      <verso>Se temos de perder</verso>
+      <verso>Família, bens, prazer!</verso>
+      <verso>Se tudo se acabar</verso>
+      <verso>E a morte enfim chegar,</verso>
+      <verso>Com ele reinaremos!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Ein’ feste Burg</titulo_original>
+  <metrica id="8_7_8_7_6_6_6_6_7">8.7.8.7.6.6.6.6.7</metrica>
+  <origem_letra id="LuteroM" referencia="Lutero, Martinho">Martinho Lutero</origem_letra>
+  <origem_letra id="HafeJE" referencia="Hafe, Jacob Eduardo von" ano="1886">Jacob Eduardo von Hafe</origem_letra>
+  <origem_letra id="CabreraJB" referencia="Cabrera, Juan Bautista">Juan Bautista Cabrera</origem_letra>
+  <origem_musica id="LuteroM" referencia="Lutero, Martinho">Martinho Lutero</origem_musica>
+  <origem_musica id="WittenbergGesangbuch" referencia="“Wittenberg Gesangbuch”" ano="1529">“Wittenberg Gesangbuch”</origem_musica>
+  <origem_musica id="Klug, J" referencia="Klug, Joseph">Joseph Klug</origem_musica>
+  <primeiro_verso_original>Ein’ feste Burg ist unser Gott</primeiro_verso_original>
+  <referencia_biblica id="19_046_007">Salmos 46.7</referencia_biblica>
+</hino>
+

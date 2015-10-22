@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>269</numero>
+  <n>269</n>
+  <titulo>Pureza no sangue de Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Seja bendito o Cordeiro</verso>
+      <verso>Que na cruz por nós padeceu;</verso>
+      <verso>Seja bendito o seu sangue</verso>
+      <verso>Que por nós, pecadores, verteu.</verso>
+      <verso>Eis que no sangue lavados,</verso>
+      <verso>E tendo puro o coração,</verso>
+      <verso>Os pecadores remidos</verso>
+      <verso>Por Jesus têm com Deus comunhão.</verso>
+      <coro>
+        <verso>Alvo mais que a neve,</verso>
+        <verso>Alvo mais que a neve!</verso>
+        <verso>Sim, nesse sangue lavado,</verso>
+        <verso>Mais alvo que a neve eu estou</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quão espinhosa coroa</verso>
+      <verso>Que Jesus por nós suportou!</verso>
+      <verso>Oh! Quão profundas as chagas</verso>
+      <verso>Que nos provam o quanto ele amou!</verso>
+      <verso>Eis nessas chagas pureza</verso>
+      <verso>Para o maior pecador,</verso>
+      <verso>A quem mais alvo que a neve</verso>
+      <verso>O teu sangue transforma, Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se as faltas nós confessarmos</verso>
+      <verso>E seguirmos na tua luz,</verso>
+      <verso>Tu não somente perdoas;</verso>
+      <verso>Purificas também, ó Jesus!</verso>
+      <verso>Lavas de todo pecado,</verso>
+      <verso>Que maravilha de amor!</verso>
+      <verso>Pois que mais alvo que a neve</verso>
+      <verso>O teu sangue nos torna, Senhor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <titulo_original>Blessed Be the Fountain</titulo_original>
+  <metrica id="8_8_8_9_8_7_8_9_Coro">8.8.8.9.8.7.8.9.Coro</metrica>
+  <origem_letra id="LattaER" referencia="Latta, Eden Reeder">Eden Reeder Latta</origem_letra>
+  <origem_letra id="WrightHM" referencia="Wright, Henry Maxwell" ano="1914">Henry Maxwell Wright</origem_letra>
+  <origem_musica id="PerkinsHS" referencia="Perkins, Henry Southwick">Henry Southwick Perkins</origem_musica>
+  <primeiro_verso_original>Blessed be the fountain of blood</primeiro_verso_original>
+  <referencia_biblica id="66_005_009">Apocalipse 5.9</referencia_biblica>
+</hino>

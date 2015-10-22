@@ -1,0 +1,37 @@
+<hino situacao='incompleto'>
+    <numero>306</numero>
+    <n>306</n>
+    <titulo>Fidelidade na luta</titulo>
+    <texto>
+      <estrofe>
+        <verso>Erguei-vos, cristãos! Cristo quer-vos de pé!</verso>
+        <verso>Na luta do bem, revelai vossa fé!</verso>
+        <verso>Cingindo a armadura, hoje a Cristo exaltai,</verso>
+        <verso>À sombra da cruz, corajosos lutai!</verso>
+        <coro>
+          <verso>Sede fiéis, sede fiéis</verso>
+          <verso>Sede fiéis e por Cristo lutai!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Jesus vos remiu, afastai o temor.</verso>
+        <verso>Confiantes, segui vosso bom Salvador!</verso>
+        <verso>Na causa de Cristo fervor demonstrai!</verso>
+        <verso>À sombra da cruz, corajosos lutai!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>As hostes do mal deveis hoje enfrentar,</verso>
+        <verso>As suas prisões pecadores livrar.</verso>
+        <verso>De Cristo bem alto o pendão levantai!</verso>
+        <verso>À sombra da cruz, corajosos lutai!</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

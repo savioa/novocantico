@@ -1,0 +1,55 @@
+<hino situacao='incompleto'>
+    <numero>238</numero>
+    <n>238</n>
+    <titulo>Novas de amor</titulo>
+    <texto>
+      <estrofe>
+        <verso>Harmonias pelo ar,</verso>
+        <verso>Uma estrela no céu,</verso>
+        <verso>Uma prece de mãe,</verso>
+        <verso>Um infante a chorar,</verso>
+        <verso>São começos da história</verso>
+        <verso>Que muito nos diz:</verso>
+        <verso>Rude berço em Belém,</verso>
+        <verso>Mas de glória sem par.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Toda gente já ouviu</verso>
+        <verso>Dessa nova de amor</verso>
+        <verso>Pois o brilho da estrela</verso>
+        <verso>É de luz sem igual...</verso>
+        <verso>Há louvores de gozo,</verso>
+        <verso>Há promessas de paz.</verso>
+        <verso>Pois no berço, em Belém,</verso>
+        <verso>Dorme um Rei divinal.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Nos fulgores da estrela</verso>
+        <verso>Há mensagens dos céus</verso>
+        <verso>Que nos homens despertam</verso>
+        <verso>Imenso prazer</verso>
+        <verso>Cada lar se bendiz</verso>
+        <verso>E proclama esse bem,</verso>
+        <verso>Anunciando às nações</verso>
+        <verso>O divino querer!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Hoje o mundo já pode</verso>
+        <verso>Esse dom repetir,</verso>
+        <verso>Com mil graças a Deus</verso>
+        <verso>Pelo santo Natal.</verso>
+        <verso>Pois no berço, em Belém,</verso>
+        <verso>Manjedoura de luz,</verso>
+        <verso>Eis o Deus Salvador,</verso>
+        <verso>Esse humano imortal.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

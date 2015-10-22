@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>033</numero>
+  <n>33</n>
+  <titulo>Maravilhas divinas</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ao Deus de amor e de imensa bondade,</verso>
+      <verso>Com voz de júbilo, vinde e aclamai!</verso>
+      <verso>Com coração transbordante de graças,</verso>
+      <verso>Seu grande amor, todos, vinde e louvai.</verso>
+      <coro>
+        <verso>No céu, na terra, que maravilhas</verso>
+        <verso>Vai operando o poder do Senhor!</verso>
+        <verso>Mas seu amor, aos homens perdidos,</verso>
+        <verso>Das maravilhas é sempre a maior.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Já nossos pais nos contaram a história</verso>
+      <verso>De Deus, falando com muito prazer,</verso>
+      <verso>Que nas tristezas, nos grandes perigos,</verso>
+      <verso>Ele os salvou por seu grande poder.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hoje também, nós bem alto, cantamos</verso>
+      <verso>Que as orações ele nos atendeu;</verso>
+      <verso>Seu forte braço, que é tão compassivo</verso>
+      <verso>Em nosso auxílio ele sempre estendeu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Como até hoje e daqui para frente,</verso>
+      <verso>Ele será nosso eterno poder,</verso>
+      <verso>Nosso castelo bem forte e seguro,</verso>
+      <verso>E nossa fonte de excelso prazer.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="07">Deus Fiel</assunto>
+  <titulo_original>Truehearted</titulo_original>
+  <metrica id="11_10_11_10_Coro">11.10.11.10.Coro</metrica>
+  <origem_letra id="GinsburgSL" referencia="Ginsburg, Salomão Luiz">Salomão Luiz Ginsburg</origem_letra>
+  <origem_musica id="StebbinsGC" referencia="Stebbins, George Coles">George Coles Stebbins</origem_musica>
+  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
+  <primeiro_verso_original>Ao Deus de amor e de imensa bondade</primeiro_verso_original>
+  <referencia_biblica id="19_145_005">Salmos 145.5</referencia_biblica>
+</hino>

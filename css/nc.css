@@ -1,0 +1,82 @@
+.estrofe
+{
+    margin-bottom: 1.42857143em;
+}
+
+.estrofe:last-child
+{
+    margin-bottom: 0;
+}
+
+.coro
+{
+    font-style: italic;
+    margin: 1.42857143em 0;
+    margin-left: 1.42857143em;
+}
+
+dt
+{
+    margin-top: 1.42857143em;
+}
+
+dt:first-child
+{
+    margin-top: 0;
+}
+
+i[class~="fa-info-circle"],
+i[class~="fa-volume-up"]
+{
+    color: #ddd;
+}
+
+
+i[class~="fa-level-up"] {
+    color: #333;
+    margin-left: 0.71em;
+}
+
+.social a {
+    color: #222;
+    margin-left: 1.42857143em;
+    font-size: .75em;
+}
+
+
+.gsc-control-cse,
+.gsc-control-cse-pt_PT,
+.gsc-control-wrapper-cse,
+.gsc-results,
+.gsc-result-info,
+.gsc-webResult {
+    font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif!important;
+    font-size: 15px;
+}
+
+.gsc-search-box {
+    display: none;
+}
+
+ul.indice li span {
+/*    font-weight: bold;
+    font-size: 150%;*/
+}
+
+ul.indice ul {
+    margin-left: 1.42857143em;
+    margin-bottom: 1.42857143em;
+}
+
+body {
+    position: relative;
+}
+
+dfn i {
+    font-weight: normal;
+}
+
+.panel-title {
+    font-size: 2em;
+    line-height: 1.5em;
+}

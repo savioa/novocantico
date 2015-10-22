@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>154</numero>
+  <titulo>Segurança e paz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Pelo vale escuro seguirei, Jesus,</verso>
+      <verso>Mas, por ti seguro, vendo a tua luz,</verso>
+      <verso>O meu passo incerto tu dirigirás;</verso>
+      <verso>Ao sentir-te perto nunca perco a paz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os espinhos tantos que nos vêm sangrar</verso>
+      <verso>São remédios santos para nos curar.</verso>
+      <verso>Onde existe a graça que nos vem dos céus,</verso>
+      <verso>Tudo o que se passa mostra o amor de Deus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não há dor que seja sem divino fim.</verso>
+      <verso>Faze, ó Deus, que a Igreja compreenda assim</verso>
+      <verso>E, apesar das trevas, possa ver, Senhor,</verso>
+      <verso>Que tu mesmo a levas com imenso amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Breve a noite desce, noite de Emaús,</verso>
+      <verso>E meu ser carece de te ver, Jesus!</verso>
+      <verso>Companheiro amigo que ao meu lado vens,</verso>
+      <verso>Sim, estás comigo, sempre me susténs. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <titulo_original>Stern, auf den ich schaue</titulo_original>
+  <metrica id="6_5_6_5_D">6.5.6.5.D</metrica>
+  <origem_letra id="MotaO" referencia="Mota, Otoniel">Otoniel Mota</origem_letra>
+  <origem_musica id="KochM" referencia="Koch, Minna" ano="1897">Minna Koch</origem_musica>
+  <primeiro_verso_original>Pelo vale escuro seguirei, Jesus</primeiro_verso_original>
+  <referencia_biblica id="20_020_024">Provérbios 20.24</referencia_biblica>
+</hino>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>012</numero>
+  <n>12</n>
+  <titulo>Glória a Deus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Santo! Santo! Santo!</verso>
+      <verso>Deus dos exercitos,</verso>
+      <verso>A terra e os céus</verso>
+      <verso>Proclamam tua glória.</verso>
+      <verso>Glória a ti, glória a ti, ó Deus,</verso>
+      <verso>Eternamente. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="03">Deus Santo</assunto>
+  <titulo_original>Sanctus</titulo_original>
+  <metrica id="Irregular">Irregular</metrica>
+  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1869">Sarah Poulton Kalley</origem_letra>
+  <origem_musica id="CamidgeJ" referencia="Camidge, John">John Camidge</origem_musica>
+  <primeiro_verso_original>Santo! Santo! Santo!</primeiro_verso_original>
+  <referencia_biblica id="23_006_003">Isaías 6.3</referencia_biblica>
+</hino>

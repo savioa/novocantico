@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>303</numero>
+    <n>303</n>
+    <titulo>Pendão Real</titulo>
+    <texto>
+      <estrofe>
+        <verso>Um pendão real vos entregou o Rei,</verso>
+        <verso>A vós, soldados seus!</verso>
+        <verso>Corajosos, pois, em tudo o defendei,</verso>
+        <verso>Marchando para os céus.</verso>
+        <coro>
+          <verso>Com valor, sem temor!</verso>
+          <verso>Por Cristo pronto a sofrer!</verso>
+          <verso>Bem alto erguei o seu pendão,</verso>
+          <verso>Firmes, sempre, até morrer!</verso>
+        </coro>
+      </estrofe>
+      <estrofe>
+        <verso>Eis formados já terríveis batalhões</verso>
+        <verso>Do grande usurpador!</verso>
+        <verso>Revelai-vos hoje bravos campeões!</verso>
+        <verso>Avante, sem temor!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quem receio sente no seu coração</verso>
+        <verso>E fraco se mostrar,</verso>
+        <verso>Não receberá o eterno galardão</verso>
+        <verso>Que Cristo tem pra dar!</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Pois sejamos todos a Jesus fiéis,</verso>
+        <verso>E a seu real pendão!</verso>
+        <verso>Os que da vitória colhem os lauréis</verso>
+        <verso>Com ele reinarão.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

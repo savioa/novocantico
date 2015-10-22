@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>398</numero>
+  <n>398</n>
+  <titulo>Outra vez cantamos</titulo>
+  <texto>
+    <estrofe>
+      <verso>Pai, outra vez cantamos teu louvor</verso>
+      <verso>A uma voz, ao templo teu deixar.</verso>
+      <verso>Bendito és Tu, conosco estás, Senhor,</verso>
+      <verso>Com tua paz vem nos abençoar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que tua paz levemos para o lar;</verso>
+      <verso>Sê Tu conosco até ao anoitecer!</verso>
+      <verso>E do pecado, ó Pai, vem nos guardar</verso>
+      <verso>Ao virmos nós teu Nome engrandecer.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que tua paz nos guie, qual fanal,</verso>
+      <verso>Durante a noite, para nos guardar</verso>
+      <verso>Na escuridão da vida e contra o mal,</verso>
+      <verso>Pois luz e trevas podes dominar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dá-nos, Senhor, a tua paz fruir</verso>
+      <verso>A cada instante, em nosso labutar!</verso>
+      <verso>E adentrando a Pátria do porvir,</verso>
+      <verso>A paz perfeita iremos desfrutar. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="11">Final de Culto</assunto>
+  <titulo_original>Ellers</titulo_original>
+  <metrica id="10_10_10_10">10.10.10.10</metrica>
+  <origem_letra id="EllertonJ" referencia="" ano="1866">John Ellerton</origem_letra>
+  <origem_letra id="CostaJ" referencia="Costa, J." ano="1969">J. Costa</origem_letra>
+  <origem_musica id="HopkinsEJ" referencia="Hopkins, Edward John" ano="1869">Edward John Hopkins</origem_musica>
+  <primeiro_verso_original>Savior, again to Thy dear name we raise</primeiro_verso_original>
+  <referencia_biblica id="50_004_009">50  Filipenses 4.9</referencia_biblica>
+</hino>

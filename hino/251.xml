@@ -1,0 +1,45 @@
+<hino situacao='incompleto'>
+    <numero>251</numero>
+    <n>251</n>
+    <titulo>O pão da vida</titulo>
+    <texto>
+      <estrofe>
+        <verso>Ó Cristo, Pão da vida,</verso>
+        <verso>Descido lá do céu,</verso>
+        <verso>O Pão de nossas almas</verso>
+        <verso>Que o Pai de amor nos deu!</verso>
+        <verso>Em ti nos alegramos,</verso>
+        <verso>Provando, mesmo aqui,</verso>
+        <verso>Do alento e da bondade</verso>
+        <verso>Que achamos sempre em ti.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Da eterna e santa vida,</verso>
+        <verso>Da qual Tu és o Autor,</verso>
+        <verso>Sustento e fortaleza</verso>
+        <verso>És Tu, também, Senhor!</verso>
+        <verso>Sem ti não nos assistem</verso>
+        <verso>Nem forças nem poder;</verso>
+        <verso>De ti, nosso alimento,</verso>
+        <verso>Queremos nós viver.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Ó Cristo, Pão da vida,</verso>
+        <verso>A ti louvamos nós!</verso>
+        <verso>E ao Pai também erguemos</verso>
+        <verso>A nossa alegre voz.</verso>
+        <verso>Agradecemos sempre</verso>
+        <verso>O amor que aqui nos deu</verso>
+        <verso>Sustento verdadeiro,</verso>
+        <verso>No santo Pão do céu.</verso>
+      </estrofe>
+    </texto>
+    <secao id=''/>
+    <assunto id=''/>
+    <titulo_original/>
+    <metrica id=''/>
+    <origem_letra ano='' id='' referencia=''/>
+    <origem_musica ano='' id='' referencia=''/>
+    <primeiro_verso_original/>
+    <referencia_biblica id=''/>
+  </hino>

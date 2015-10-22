@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>385</numero>
+  <n>385</n>
+  <titulo>O Estudante e a Bíblia</titulo>
+  <texto>
+    <estrofe>
+      <verso>Toda luz que a razão irradia</verso>
+      <verso>Nós podemos nos livros achar.</verso>
+      <verso>Mas só Cristo nossa alma alumia,</verso>
+      <verso>Pois só ele dá calma e alegria,</verso>
+      <verso>E só ele nos pode guiar</verso>
+      <verso>E só ele nos pode guiar</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Muito mais do que bons estudantes</verso>
+      <verso>Muito mais do que bons cidadãos,</verso>
+      <verso>Precisamos de andar vigilantes</verso>
+      <verso>Para sermos da fé bandeirantes;</verso>
+      <verso>Pois, colegas, nós somos cristãos!</verso>
+      <verso>Pois, colegas, nós somos cristãos!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não busquemos apenas a glória</verso>
+      <verso>De alcançar quase todo saber,</verso>
+      <verso>Quer da ciência, quer da arte ou da história;</verso>
+      <verso>A razão é falaz e ilusória!</verso>
+      <verso>Sem Jesus nada pode valer!</verso>
+      <verso>Sem Jesus nada pode valer!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>À pesquisa da pura verdade</verso>
+      <verso>Consagremos o nosso labor.</verso>
+      <verso>Todo engano enfraquece a vontade,</verso>
+      <verso>A mentira não traz liberdade</verso>
+      <verso>E não cabe ao engano o louvor!</verso>
+      <verso>E não cabe ao engano o louvor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Só em Cristo esta Pátria querida</verso>
+      <verso>Achará seu futuro feliz.</verso>
+      <verso>Nele está toda a luz, toda a vida.</verso>
+      <verso>Procuremos tornar difundida</verso>
+      <verso>A verdade em nosso País.</verso>
+      <verso>A verdade em nosso País.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="06">Mocidade</assunto>
+  <titulo_original>Margaret</titulo_original>
+  <metrica id="">10.9.10.10.9.[9]</metrica>
+  <origem_letra id="MotaJC" referencia="Mota, Jorge César" ano="1958">Jorge César Mota</origem_letra>
+  <origem_musica id="MatthewsTR" referencia="Matthews, Timothy Richard" ano="1876">Timothy Richard Matthews</origem_musica>
+  <referencia_biblica id="20_016_020">Provérbios 16.20</referencia_biblica>
+</hino>

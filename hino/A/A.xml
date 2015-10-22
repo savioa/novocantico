@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino>
+  <numero>A</numero>
+  <titulo>Ofertório</titulo>
+  <texto>
+    <estrofe>
+      <verso>Tudo vem de ti Senhor</verso>
+      <verso>E do que é teu, te damos. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="09">Outros</secao>
+  <assunto id="01">Ofertório e Améns</assunto>
+  <origem_musica id="BeethovenL" referencia="Beethoven, Ludwig van">Ludwig van Beethoven</origem_musica>
+  <referencia_biblica id="13_029_014">1 Crônicas 29.14</referencia_biblica>
+</hino>
+
