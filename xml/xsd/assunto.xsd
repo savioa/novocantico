@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:simpleType name="TS_secao">
+        <xs:annotation>
+            <xs:documentation>Seção</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="01_Louvor_e_Adoração" />
+            <xs:enumeration value="02_Confissão" />
+            <xs:enumeration value="03_Edificação" />
+            <xs:enumeration value="04_Apelo" />
+            <xs:enumeration value="05_Consagração" />
+            <xs:enumeration value="06_Cristo_-_Sua_Vida" />
+            <xs:enumeration value="07_Igreja_-_Seu_Ministério" />
+            <xs:enumeration value="08_Assuntos_Diversos" />
+            <xs:enumeration value="09_Outros" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="TS_assunto">
+        <xs:annotation>
+            <xs:documentation>Assunto</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="01_01_Intróitos" />
+            <xs:enumeration value="01_02_Deus_Trino" />
+            <xs:enumeration value="01_03_Deus_Santo" />
+            <xs:enumeration value="01_04_Deus_Soberano" />
+            <xs:enumeration value="01_05_Deus_Criador" />
+            <xs:enumeration value="01_06_Deus_Providente" />
+            <xs:enumeration value="01_07_Deus_Fiel" />
+            <xs:enumeration value="01_08_Deus_Senhor" />
+            <xs:enumeration value="01_09_Deus_Salvador" />
+            <xs:enumeration value="01_10_Deus_Vencedor" />
+            <xs:enumeration value="01_11_Gratidão" />
+            <xs:enumeration value="02_01_Contrição_e_Arrependimento" />
+            <xs:enumeration value="02_02_Perdão" />
+            <xs:enumeration value="03_01_Espírito_Instruidor" />
+            <xs:enumeration value="03_02_Espírito_Consolador" />
+            <xs:enumeration value="03_03_Espírito_Vivificador" />
+            <xs:enumeration value="03_04_Amor_de_Deus" />
+            <xs:enumeration value="03_05_Fé" />
+            <xs:enumeration value="03_06_Salvação" />
+            <xs:enumeration value="03_07_Testemunho" />
+            <xs:enumeration value="03_08_Companhia_do_Senhor" />
+            <xs:enumeration value="03_09_Aspiração" />
+            <xs:enumeration value="03_10_Oração" />
+            <xs:enumeration value="03_11_Santificação" />
+            <xs:enumeration value="03_12_Proteção" />
+            <xs:enumeration value="03_13_Confiança" />
+            <xs:enumeration value="03_14_Fidelidade" />
+            <xs:enumeration value="03_15_Fraternidade" />
+            <xs:enumeration value="03_16_Esperança" />
+            <xs:enumeration value="03_17_Lar_Celestial" />
+            <xs:enumeration value="04_01_Convite" />
+            <xs:enumeration value="04_02_Decisão" />
+            <xs:enumeration value="05_01_Submissão" />
+            <xs:enumeration value="05_02_Dedicação" />
+            <xs:enumeration value="06_01_Advento" />
+            <xs:enumeration value="06_02_Natal" />
+            <xs:enumeration value="06_03_Ministério" />
+            <xs:enumeration value="06_04_Entrada_Triunfal" />
+            <xs:enumeration value="06_05_Paixão_e_Morte" />
+            <xs:enumeration value="06_06_Ressurreição" />
+            <xs:enumeration value="06_07_Ascensão" />
+            <xs:enumeration value="06_08_A_Grande_Comissão" />
+            <xs:enumeration value="06_09_Segunda_Vinda" />
+            <xs:enumeration value="07_01_Igreja_Militante" />
+            <xs:enumeration value="07_02_Evangelização" />
+            <xs:enumeration value="07_03_Trabalho_Cristão" />
+            <xs:enumeration value="07_04_Sociedade_Auxiliadora_Feminina" />
+            <xs:enumeration value="07_05_União_Presbiteriana_de_Homens" />
+            <xs:enumeration value="07_06_Discipulado_e_Serviço" />
+            <xs:enumeration value="07_07_Posse_de_Pastor" />
+            <xs:enumeration value="07_08_Bastismo" />
+            <xs:enumeration value="07_09_Convertidos" />
+            <xs:enumeration value="07_10_Profissão_de_Fé" />
+            <xs:enumeration value="07_11_Ceia_do_Senhor" />
+            <xs:enumeration value="07_12_Dia_do_Senhor" />
+            <xs:enumeration value="07_13_Escola_Dominical" />
+            <xs:enumeration value="07_14_Crianças" />
+            <xs:enumeration value="08_01_Despedida" />
+            <xs:enumeration value="08_02_Bíblia" />
+            <xs:enumeration value="08_03_Ano_Novo" />
+            <xs:enumeration value="08_04_Pátria" />
+            <xs:enumeration value="08_05_Cidade" />
+            <xs:enumeration value="08_06_Mocidade" />
+            <xs:enumeration value="08_07_Casamento" />
+            <xs:enumeration value="08_08_Lar_Cristão" />
+            <xs:enumeration value="08_09_Aniversário" />
+            <xs:enumeration value="08_10_Mãe" />
+            <xs:enumeration value="08_11_Final_de_Culto" />
+            <xs:enumeration value="09_01_Ofertório_e_Améns" />
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

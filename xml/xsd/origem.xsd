@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:complexType name="TS_origem">
+        <xs:attribute name="id" type="TS_referencia_origem" use="required" />
+        <xs:attribute name="ano" type="xs:string" use="optional" />
+    </xs:complexType>
+    <xs:simpleType name="TS_referencia_origem">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="AckleyAH">
+                <xs:annotation>
+                    <xs:appinfo>Ackley, Alfred Henry</xs:appinfo>
+                    <xs:documentation>Alfred Henry Ackley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AdamsSFF">
+                <xs:annotation>
+                    <xs:appinfo>Adams, Sarah Fuller Flower</xs:appinfo>
+                    <xs:documentation>Sarah Fuller Flower Adams</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AgnusDei">
+                <xs:annotation>
+                    <xs:appinfo>Agnus Dei</xs:appinfo>
+                    <xs:documentation>Agnus Dei</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AllenCG">
+                <xs:annotation>
+                    <xs:appinfo>Allen, Chester G.</xs:appinfo>
+                    <xs:documentation>Chester G. Allen</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AlmeidaA">
+                <xs:annotation>
+                    <xs:appinfo>Almeida, Antônio</xs:appinfo>
+                    <xs:documentation>Antônio Almeida</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AndradeMGL">
+                <xs:annotation>
+                    <xs:appinfo>Andrade, Maria da Glória Loureiro de</xs:appinfo>
+                    <xs:documentation>Maria da Glória Loureiro de Andrade</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Anonimo">
+                <xs:annotation>
+                    <xs:appinfo>Anônimo</xs:appinfo>
+                    <xs:documentation>Anônimo</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AntigaMelodiaHebraica">
+                <xs:annotation>
+                    <xs:appinfo>Antiga Melodia Hebraica</xs:appinfo>
+                    <xs:documentation>Antiga Melodia Hebraica</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AssisF">
+                <xs:annotation>
+                    <xs:appinfo>Assis, Francisco de</xs:appinfo>
+                    <xs:documentation>Francisco de Assis</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AvisonC">
+                <xs:annotation>
+                    <xs:appinfo>Avison, Charles</xs:appinfo>
+                    <xs:documentation>Charles Avison</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="AvocatM">
+                <xs:annotation>
+                    <xs:appinfo>Avocat, M.</xs:appinfo>
+                    <xs:documentation>M. Avocat</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BachJS">
+                <xs:annotation>
+                    <xs:appinfo>Bach, Johann Sebastian</xs:appinfo>
+                    <xs:documentation>Johann Sebastian Bach</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BakerMA">
+                <xs:annotation>
+                    <xs:appinfo>Baker, Mary Ann</xs:appinfo>
+                    <xs:documentation>Mary Ann Baker</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BandeiraB">
+                <xs:annotation>
+                    <xs:appinfo>Bandeira, Bolivar</xs:appinfo>
+                    <xs:documentation>Bolivar Bandeira</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BaringGouldS">
+                <xs:annotation>
+                    <xs:appinfo>Baring-Gould, Sabine</xs:appinfo>
+                    <xs:documentation>Sabine Baring-Gould</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BarnbyJ">
+                <xs:annotation>
+                    <xs:appinfo>Barnby, Joseph</xs:appinfo>
+                    <xs:documentation>Joseph Barnby</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BarrosMC">
+                <xs:annotation>
+                    <xs:appinfo>Barros, Manuela C.</xs:appinfo>
+                    <xs:documentation>Manuela C. Barros</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BastosMD">
+                <xs:annotation>
+                    <xs:appinfo>Bastos, Moacyr Dias</xs:appinfo>
+                    <xs:documentation>Moacyr Dias Bastos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BattersbyCM">
+                <xs:annotation>
+                    <xs:appinfo>Battersby, C. M.</xs:appinfo>
+                    <xs:documentation>C. M. Battersby</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BeazleySW">
+                <xs:annotation>
+                    <xs:appinfo>Beazley, Samuel W.</xs:appinfo>
+                    <xs:documentation>Samuel W. Beazley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BeethovenL">
+                <xs:annotation>
+                    <xs:appinfo>Beethoven, Ludwig van</xs:appinfo>
+                    <xs:documentation>Ludwig van Beethoven</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BennardG">
+                <xs:annotation>
+                    <xs:appinfo>Bennard, George</xs:appinfo>
+                    <xs:documentation>George Bennard</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BilhornPB">
+                <xs:annotation>
+                    <xs:appinfo>Bilhorn, Peter Philip</xs:appinfo>
+                    <xs:documentation>Peter Philip Bilhorn</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BlackJM">
+                <xs:annotation>
+                    <xs:appinfo>Black, James Milton</xs:appinfo>
+                    <xs:documentation>James Milton Black</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BlankerburgerLieder">
+                <xs:annotation>
+                    <xs:appinfo>“Blankerburger Lieder”</xs:appinfo>
+                    <xs:documentation>“Blankerburger Lieder”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BlissPP">
+                <xs:annotation>
+                    <xs:appinfo>Bliss, Philip Paul</xs:appinfo>
+                    <xs:documentation>Philip Paul Bliss</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BlumW">
+                <xs:annotation>
+                    <xs:appinfo>Blum, W</xs:appinfo>
+                    <xs:documentation>W Blum</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BobergC">
+                <xs:annotation>
+                    <xs:appinfo>Boberg, Carl</xs:appinfo>
+                    <xs:documentation>Carl Boberg</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BonarH">
+                <xs:annotation>
+                    <xs:appinfo>Bonar, Horatius</xs:appinfo>
+                    <xs:documentation>Horatius Bonar</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BorgeoisL">
+                <xs:annotation>
+                    <xs:appinfo>Borgeois, Loys</xs:appinfo>
+                    <xs:documentation>Loys Borgeois</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BorthwickJL">
+                <xs:annotation>
+                    <xs:appinfo>Borthwick, Jane Laurie</xs:appinfo>
+                    <xs:documentation>Jane Laurie Borthwick</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BradburyWB">
+                <xs:annotation>
+                    <xs:appinfo>Bradbury, William Batchelder</xs:appinfo>
+                    <xs:documentation>William Batchelder Bradbury</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BragaHRF">
+                <xs:annotation>
+                    <xs:appinfo>Braga, Henriqueta Rosa Fernandes</xs:appinfo>
+                    <xs:documentation>Henriqueta Rosa Fernandes Braga</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BuenoL">
+                <xs:annotation>
+                    <xs:appinfo>Bueno, Lídia</xs:appinfo>
+                    <xs:documentation>Lídia Bueno</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BundesLieder">
+                <xs:annotation>
+                    <xs:appinfo>“Bundes-Lieder”</xs:appinfo>
+                    <xs:documentation>“Bundes-Lieder”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="BuyersN">
+                <xs:annotation>
+                    <xs:appinfo>Buyers, Norah</xs:appinfo>
+                    <xs:documentation>Norah Buyers</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CabreraJB">
+                <xs:annotation>
+                    <xs:appinfo>Cabrera, Juan Bautista</xs:appinfo>
+                    <xs:documentation>Juan Bautista Cabrera</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CaldasAPS">
+                <xs:annotation>
+                    <xs:appinfo>Caldas, Antônio Pereira de Sousa</xs:appinfo>
+                    <xs:documentation>Antônio Pereira de Sousa Caldas</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CalkinJB">
+                <xs:annotation>
+                    <xs:appinfo>Calkin, John Baptiste</xs:appinfo>
+                    <xs:documentation>John Baptiste Calkin</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CamargoMA">
+                <xs:annotation>
+                    <xs:appinfo>Camargo, Manoel de Arruda</xs:appinfo>
+                    <xs:documentation>Manoel de Arruda Camargo</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CamidgeJ">
+                <xs:annotation>
+                    <xs:appinfo>Camidge, John</xs:appinfo>
+                    <xs:documentation>John Camidge</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CampbellJM">
+                <xs:annotation>
+                    <xs:appinfo>Campbell, Jane Montgomery</xs:appinfo>
+                    <xs:documentation>Jane Montgomery Campbell</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CanticoDoSol">
+                <xs:annotation>
+                    <xs:appinfo>Cântico do Sol</xs:appinfo>
+                    <xs:documentation>Cântico do Sol</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CantiquesDuMessager">
+                <xs:annotation>
+                    <xs:appinfo>“Cantiques du Messager”</xs:appinfo>
+                    <xs:documentation>“Cantiques du Messager”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CantoniH">
+                <xs:annotation>
+                    <xs:appinfo>Cantoni, Humberto</xs:appinfo>
+                    <xs:documentation>Humberto Cantoni</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CantusDiversi">
+                <xs:annotation>
+                    <xs:appinfo>“Cantus Diversi”</xs:appinfo>
+                    <xs:documentation>“Cantus Diversi”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CarterRK">
+                <xs:annotation>
+                    <xs:appinfo>Carter, Russel Kelso</xs:appinfo>
+                    <xs:documentation>Russel Kelso Carter</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CarvalhoB">
+                <xs:annotation>
+                    <xs:appinfo>Carvalho, Benedito de</xs:appinfo>
+                    <xs:documentation>Benedito de Carvalho</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CarvalhoE">
+                <xs:annotation>
+                    <xs:appinfo>Carvalho, Eurípedes de</xs:appinfo>
+                    <xs:documentation>Eurípedes de Carvalho</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CasselET">
+                <xs:annotation>
+                    <xs:appinfo>Cassel, Elijah Taylor</xs:appinfo>
+                    <xs:documentation>Elijah Taylor Cassel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CasselFH">
+                <xs:annotation>
+                    <xs:appinfo>Cassel, Flora Hamilton</xs:appinfo>
+                    <xs:documentation>Flora Hamilton Cassel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CesarMotaJ">
+                <xs:annotation>
+                    <xs:appinfo>César Mota, Jorge</xs:appinfo>
+                    <xs:documentation>Jorge César Mota</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ChantsEvangeliques">
+                <xs:annotation>
+                    <xs:appinfo>“Chants Evangeliques”</xs:appinfo>
+                    <xs:documentation>“Chants Evangeliques”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ChisholmTO">
+                <xs:annotation>
+                    <xs:appinfo>Chisholm, Thomas Obediah</xs:appinfo>
+                    <xs:documentation>Thomas Obediah Chisholm</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ChurchPraiseColecao">
+                <xs:annotation>
+                    <xs:appinfo>“Church Praise” (Coleção)</xs:appinfo>
+                    <xs:documentation>“Church Praise” (Coleção)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ClairvauxB">
+                <xs:annotation>
+                    <xs:appinfo>Clairvaux, Bernardo de</xs:appinfo>
+                    <xs:documentation>Bernardo de Clairvaux</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ClarkMA">
+                <xs:annotation>
+                    <xs:appinfo>Clark, Myron August</xs:appinfo>
+                    <xs:documentation>Myron August Clark</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ClaudiusM">
+                <xs:annotation>
+                    <xs:appinfo>Claudius, Matthias</xs:appinfo>
+                    <xs:documentation>Matthias Claudius</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CombaMCC">
+                <xs:annotation>
+                    <xs:appinfo>Comba, Margarita Comotto Cores de</xs:appinfo>
+                    <xs:documentation>Margarita Comotto Cores de Comba</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ComissaoDoHinarioEvangelico">
+                <xs:annotation>
+                    <xs:appinfo>Comissão do Hinário Evangélico</xs:appinfo>
+                    <xs:documentation>Comissão do Hinário Evangélico</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ConceicaoLR">
+                <xs:annotation>
+                    <xs:appinfo>Conceição, Leopoldina Ruth da</xs:appinfo>
+                    <xs:documentation>Leopoldina Ruth da Conceição</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CookGH">
+                <xs:annotation>
+                    <xs:appinfo>Cook, George H.</xs:appinfo>
+                    <xs:documentation>George H. Cook</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CopeM">
+                <xs:annotation>
+                    <xs:appinfo>Cope, Mildred</xs:appinfo>
+                    <xs:documentation>Mildred Cope</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CostaEJ">
+                <xs:annotation>
+                    <xs:appinfo>Costa, E. J.</xs:appinfo>
+                    <xs:documentation>E. J. Costa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CostaJ">
+                <xs:annotation>
+                    <xs:appinfo>Costa, J.</xs:appinfo>
+                    <xs:documentation>J. Costa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CostaJr">
+                <xs:annotation>
+                    <xs:appinfo>Costa Jr.</xs:appinfo>
+                    <xs:documentation>Costa Jr.</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CostaJS">
+                <xs:annotation>
+                    <xs:appinfo>Costa, Joaquim Silvério</xs:appinfo>
+                    <xs:documentation>Joaquim Silvério Costa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CowperW">
+                <xs:annotation>
+                    <xs:appinfo>Cowper, William</xs:appinfo>
+                    <xs:documentation>William Cowper</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CrosbyFJ">
+                <xs:annotation>
+                    <xs:appinfo>Crosby, Fanny Jane</xs:appinfo>
+                    <xs:documentation>Fanny Jane Crosby</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CrugerJ">
+                <xs:annotation>
+                    <xs:appinfo>Crüger, Johann</xs:appinfo>
+                    <xs:documentation>Johann Crüger</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CruzL">
+                <xs:annotation>
+                    <xs:appinfo>Cruz, Luiza</xs:appinfo>
+                    <xs:documentation>Luiza Cruz</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CummingsWH">
+                <xs:annotation>
+                    <xs:appinfo>Cummings, William Hayman</xs:appinfo>
+                    <xs:documentation>William Hayman Cummings</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CunhaA">
+                <xs:annotation>
+                    <xs:appinfo>Cunha, Atenilde</xs:appinfo>
+                    <xs:documentation>Atenilde Cunha</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="CurryL">
+                <xs:annotation>
+                    <xs:appinfo>Curry, Lawrence</xs:appinfo>
+                    <xs:documentation>Lawrence Curry</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DAguiarT">
+                <xs:annotation>
+                    <xs:appinfo>D'Aguiar, Thomas</xs:appinfo>
+                    <xs:documentation>Thomas D'Aguiar</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DanaMSB">
+                <xs:annotation>
+                    <xs:appinfo>Dana, Mary Stanley Bunce</xs:appinfo>
+                    <xs:documentation>Mary Stanley Bunce Dana</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DarwallJ">
+                <xs:annotation>
+                    <xs:appinfo>Darwall, John</xs:appinfo>
+                    <xs:documentation>John Darwall</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DixWC">
+                <xs:annotation>
+                    <xs:appinfo>Dix, William Chatterton</xs:appinfo>
+                    <xs:documentation>William Chatterton Dix</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DoaneWH">
+                <xs:annotation>
+                    <xs:appinfo>Doane, William Howard</xs:appinfo>
+                    <xs:documentation>William Howard Doane</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DoddridgeP">
+                <xs:annotation>
+                    <xs:appinfo>Doddridge, Philip</xs:appinfo>
+                    <xs:documentation>Philip Doddridge</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DoxologiaLatina">
+                <xs:annotation>
+                    <xs:appinfo>Doxologia latina</xs:appinfo>
+                    <xs:documentation>Doxologia latina</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DraperWH">
+                <xs:annotation>
+                    <xs:appinfo>Draper, William Henry</xs:appinfo>
+                    <xs:documentation>William Henry Draper</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DuarteBR">
+                <xs:annotation>
+                    <xs:appinfo>Duarte, Benjamin Rufino</xs:appinfo>
+                    <xs:documentation>Benjamin Rufino Duarte</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DykeH">
+                <xs:annotation>
+                    <xs:appinfo>Dyke, Henry van</xs:appinfo>
+                    <xs:documentation>Henry van Dyke</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="DykesJB">
+                <xs:annotation>
+                    <xs:appinfo>Dykes, John Bacchus</xs:appinfo>
+                    <xs:documentation>John Bacchus Dykes</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="EdwardsRL">
+                <xs:annotation>
+                    <xs:appinfo>Edwards, Robert Lansing</xs:appinfo>
+                    <xs:documentation>Robert Lansing Edwards</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="EllertonJ">
+                <xs:annotation>
+                    <xs:appinfo>Ellerton, John</xs:appinfo>
+                    <xs:documentation>John Ellerton</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="EllorJ">
+                <xs:annotation>
+                    <xs:appinfo>Ellor, James</xs:appinfo>
+                    <xs:documentation>James Ellor</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ElNathan">
+                <xs:annotation>
+                    <xs:appinfo>El Nathan (Whittle, Daniel Webster)</xs:appinfo>
+                    <xs:documentation>Daniel Webster) El Nathan (Whittle</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="EmmerichN">
+                <xs:annotation>
+                    <xs:appinfo>Emmerich, Nathanael</xs:appinfo>
+                    <xs:documentation>Nathanael Emmerich</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="EntzmingerWE">
+                <xs:annotation>
+                    <xs:appinfo>Entzminger, William Edwin</xs:appinfo>
+                    <xs:documentation>William Edwin Entzminger</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ExcellEO">
+                <xs:annotation>
+                    <xs:appinfo>Excell, Edwin Othello</xs:appinfo>
+                    <xs:documentation>Edwin Othello Excell</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FaustiniJW">
+                <xs:annotation>
+                    <xs:appinfo>Faustini, João Wilson</xs:appinfo>
+                    <xs:documentation>João Wilson Faustini</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FawcettJ">
+                <xs:annotation>
+                    <xs:appinfo>Fawcett, John</xs:appinfo>
+                    <xs:documentation>John Fawcett</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FerrazS">
+                <xs:annotation>
+                    <xs:appinfo>Ferraz, Salomão</xs:appinfo>
+                    <xs:documentation>Salomão Ferraz</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FerreiraGLS">
+                <xs:annotation>
+                    <xs:appinfo>Ferreira, Guilherme Luiz dos Santos</xs:appinfo>
+                    <xs:documentation>Guilherme Luiz dos Santos Ferreira</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FestgesangCantata">
+                <xs:annotation>
+                    <xs:appinfo>“Festgesang” (Cantata)</xs:appinfo>
+                    <xs:documentation>“Festgesang” (Cantata)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FischerWG">
+                <xs:annotation>
+                    <xs:appinfo>Fischer, William Gustavus</xs:appinfo>
+                    <xs:documentation>William Gustavus Fischer</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FlemmingFF">
+                <xs:annotation>
+                    <xs:appinfo>Flemming, Friedrich Ferdinand</xs:appinfo>
+                    <xs:documentation>Friedrich Ferdinand Flemming</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FoxBL">
+                <xs:annotation>
+                    <xs:appinfo>Fox, Baynard L.</xs:appinfo>
+                    <xs:documentation>Baynard L. Fox</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FoxHW">
+                <xs:annotation>
+                    <xs:appinfo>Fox, Henry Watson</xs:appinfo>
+                    <xs:documentation>Henry Watson Fox</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FranzI">
+                <xs:annotation>
+                    <xs:appinfo>Franz, Ignaz</xs:appinfo>
+                    <xs:documentation>Ignaz Franz</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="FryCW">
+                <xs:annotation>
+                    <xs:appinfo>Fry, Charles William</xs:appinfo>
+                    <xs:documentation>Charles William Fry</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GabrielCH">
+                <xs:annotation>
+                    <xs:appinfo>Gabriel, Charles Hutchinson</xs:appinfo>
+                    <xs:documentation>Charles Hutchinson Gabriel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GeistlicheKirchengesang">
+                <xs:annotation>
+                    <xs:appinfo>“Geistliche Kirchengesäng”</xs:appinfo>
+                    <xs:documentation>“Geistliche Kirchengesäng”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GeistlicheLieder">
+                <xs:annotation>
+                    <xs:appinfo>“Geistliche Lieder”</xs:appinfo>
+                    <xs:documentation>“Geistliche Lieder”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GemeinschaftsLieder">
+                <xs:annotation>
+                    <xs:appinfo>“Gemeinschafts Lieder”</xs:appinfo>
+                    <xs:documentation>“Gemeinschafts Lieder”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GerhardtP">
+                <xs:annotation>
+                    <xs:appinfo>Gerhardt, Paul</xs:appinfo>
+                    <xs:documentation>Paul Gerhardt</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GinsburgSL">
+                <xs:annotation>
+                    <xs:appinfo>Ginsburg, Salomão Luiz</xs:appinfo>
+                    <xs:documentation>Salomão Luiz Ginsburg</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GoncalvesAC">
+                <xs:annotation>
+                    <xs:appinfo>Gonçalves, Antonio de Campos</xs:appinfo>
+                    <xs:documentation>Antonio de Campos Gonçalves</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GoncalvesR">
+                <xs:annotation>
+                    <xs:appinfo>Gonçalves, Raul</xs:appinfo>
+                    <xs:documentation>Raul Gonçalves</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GorehEL">
+                <xs:annotation>
+                    <xs:appinfo>Goreh, Ellen Lakshmi</xs:appinfo>
+                    <xs:documentation>Ellen Lakshmi Goreh</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GossJ">
+                <xs:annotation>
+                    <xs:appinfo>Goss, John</xs:appinfo>
+                    <xs:documentation>John Goss</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GoudimelC">
+                <xs:annotation>
+                    <xs:appinfo>Goudimel, Claude</xs:appinfo>
+                    <xs:documentation>Claude Goudimel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GruberFX">
+                <xs:annotation>
+                    <xs:appinfo>Gruber, Franz Xaver</xs:appinfo>
+                    <xs:documentation>Franz Xaver Gruber</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GueirosJ">
+                <xs:annotation>
+                    <xs:appinfo>Gueiros, Jerônimo</xs:appinfo>
+                    <xs:documentation>Jerônimo Gueiros</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GuimaraesS">
+                <xs:annotation>
+                    <xs:appinfo>Guimarães, Sebastião</xs:appinfo>
+                    <xs:documentation>Sebastião Guimarães</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GurneyDFB">
+                <xs:annotation>
+                    <xs:appinfo>Gurney, Dorothy Frances Bloomfield</xs:appinfo>
+                    <xs:documentation>Dorothy Frances Bloomfield Gurney</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HaendelGF">
+                <xs:annotation>
+                    <xs:appinfo>Haendel, Georg Friedrich</xs:appinfo>
+                    <xs:documentation>Georg Friedrich Haendel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HafeJE">
+                <xs:annotation>
+                    <xs:appinfo>Hafe, Jacob Eduardo von</xs:appinfo>
+                    <xs:documentation>Jacob Eduardo von Hafe</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HallJL">
+                <xs:annotation>
+                    <xs:appinfo>Hall, J. Lincoln</xs:appinfo>
+                    <xs:documentation>J. Lincoln Hall</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HasseR">
+                <xs:annotation>
+                    <xs:appinfo>Hasse, Rodolpho</xs:appinfo>
+                    <xs:documentation>Rodolpho Hasse</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HasslerHL">
+                <xs:annotation>
+                    <xs:appinfo>Hassler, Hans Leo</xs:appinfo>
+                    <xs:documentation>Hans Leo Hassler</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HastingsT">
+                <xs:annotation>
+                    <xs:appinfo>Hastings, Thomas</xs:appinfo>
+                    <xs:documentation>Thomas Hastings</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HavergalWH">
+                <xs:annotation>
+                    <xs:appinfo>Havergal, William Henry</xs:appinfo>
+                    <xs:documentation>William Henry Havergal</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HaydnFJ">
+                <xs:annotation>
+                    <xs:appinfo>Haydn, Franz Joseph</xs:appinfo>
+                    <xs:documentation>Franz Joseph Haydn</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HayneLG">
+                <xs:annotation>
+                    <xs:appinfo>Hayne, Leighton George</xs:appinfo>
+                    <xs:documentation>Leighton George Hayne</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HeberR">
+                <xs:annotation>
+                    <xs:appinfo>Heber, Reginald</xs:appinfo>
+                    <xs:documentation>Reginald Heber</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HerbstM">
+                <xs:annotation>
+                    <xs:appinfo>Herbst, Martin</xs:appinfo>
+                    <xs:documentation>Martin Herbst</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HewittEE">
+                <xs:annotation>
+                    <xs:appinfo>Hewitt, Eliza Edmunds</xs:appinfo>
+                    <xs:documentation>Eliza Edmunds Hewitt</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HinoLatino">
+                <xs:annotation>
+                    <xs:appinfo>Hino latino</xs:appinfo>
+                    <xs:documentation>Hino latino</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HopkinsEJ">
+                <xs:annotation>
+                    <xs:appinfo>Hopkins, Edward John</xs:appinfo>
+                    <xs:documentation>Edward John Hopkins</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HoustonJT">
+                <xs:annotation>
+                    <xs:appinfo>Houston, James Theodore</xs:appinfo>
+                    <xs:documentation>James Theodore Houston</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HoweJW">
+                <xs:annotation>
+                    <xs:appinfo>Howe, Julia Ward</xs:appinfo>
+                    <xs:documentation>Julia Ward Howe</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="IchterBH">
+                <xs:annotation>
+                    <xs:appinfo>Ichter, Bill H.</xs:appinfo>
+                    <xs:documentation>Bill H. Ichter</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="IronsHS">
+                <xs:annotation>
+                    <xs:appinfo>Irons, Herbert Stephen</xs:appinfo>
+                    <xs:documentation>Herbert Stephen Irons</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="JacksonW">
+                <xs:annotation>
+                    <xs:appinfo>Jackson, William</xs:appinfo>
+                    <xs:documentation>William Jackson</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="JarmanT">
+                <xs:annotation>
+                    <xs:appinfo>Jarman, Thomas</xs:appinfo>
+                    <xs:documentation>Thomas Jarman</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="JerseyJ">
+                <xs:annotation>
+                    <xs:appinfo>Jersey, Jeferson</xs:appinfo>
+                    <xs:documentation>Jeferson Jersey</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="JonesJ">
+                <xs:annotation>
+                    <xs:appinfo>Jones, Joseph</xs:appinfo>
+                    <xs:documentation>Joseph Jones</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="JudahD">
+                <xs:annotation>
+                    <xs:appinfo>Judah, Daniel ben</xs:appinfo>
+                    <xs:documentation>Daniel ben Judah</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="K194">
+                <xs:annotation>
+                    <xs:appinfo>K. 194</xs:appinfo>
+                    <xs:documentation>K. 194</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KalleyRR">
+                <xs:annotation>
+                    <xs:appinfo>Kalley, Robert Reid</xs:appinfo>
+                    <xs:documentation>Robert Reid Kalley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KalleySP">
+                <xs:annotation>
+                    <xs:appinfo>Kalley, Sarah Poulton</xs:appinfo>
+                    <xs:documentation>Sarah Poulton Kalley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KaschelW">
+                <xs:annotation>
+                    <xs:appinfo>Kaschel, Werner</xs:appinfo>
+                    <xs:documentation>Werner Kaschel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KenT">
+                <xs:annotation>
+                    <xs:appinfo>Ken, Thomas</xs:appinfo>
+                    <xs:documentation>Thomas Ken</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KentJ">
+                <xs:annotation>
+                    <xs:appinfo>Kent, James</xs:appinfo>
+                    <xs:documentation>James Kent</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KettringDD">
+                <xs:annotation>
+                    <xs:appinfo>Kettring, Donald D.</xs:appinfo>
+                    <xs:documentation>Donald D. Kettring</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KikpatrickWJ">
+                <xs:annotation>
+                    <xs:appinfo>Kikpatrick, William James</xs:appinfo>
+                    <xs:documentation>William James Kikpatrick</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KlugJ">
+                <xs:annotation>
+                    <xs:appinfo>Klug, Joseph</xs:appinfo>
+                    <xs:documentation>Joseph Klug</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KnappPP">
+                <xs:annotation>
+                    <xs:appinfo>Knapp, Phoebe Palmer</xs:appinfo>
+                    <xs:documentation>Phoebe Palmer Knapp</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KocherC">
+                <xs:annotation>
+                    <xs:appinfo>Kocher, Conrad</xs:appinfo>
+                    <xs:documentation>Conrad Kocher</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="KochM">
+                <xs:annotation>
+                    <xs:appinfo>Koch, Minna</xs:appinfo>
+                    <xs:documentation>Minna Koch</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LattaER">
+                <xs:annotation>
+                    <xs:appinfo>Latta, Eden Reeder</xs:appinfo>
+                    <xs:documentation>Eden Reeder Latta</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LeoniM">
+                <xs:annotation>
+                    <xs:appinfo>Leoni, Michael</xs:appinfo>
+                    <xs:documentation>Michael Leoni</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LinseyEV">
+                <xs:annotation>
+                    <xs:appinfo>Linsey, Emily V.</xs:appinfo>
+                    <xs:documentation>Emily V. Linsey</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LongstaffWD">
+                <xs:annotation>
+                    <xs:appinfo>Longstaff, William Dunn</xs:appinfo>
+                    <xs:documentation>William Dunn Longstaff</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LoudGH">
+                <xs:annotation>
+                    <xs:appinfo>Loud, George H.</xs:appinfo>
+                    <xs:documentation>George H. Loud</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LowryR">
+                <xs:annotation>
+                    <xs:appinfo>Lowry, Robert</xs:appinfo>
+                    <xs:documentation>Robert Lowry</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LuteroM">
+                <xs:annotation>
+                    <xs:appinfo>Lutero, Martinho</xs:appinfo>
+                    <xs:documentation>Martinho Lutero</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="LyteHF">
+                <xs:annotation>
+                    <xs:appinfo>Lyte, Henry Francis</xs:appinfo>
+                    <xs:documentation>Henry Francis Lyte</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MackayWP">
+                <xs:annotation>
+                    <xs:appinfo>Mackay, William Paton</xs:appinfo>
+                    <xs:documentation>William Paton Mackay</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MakerFC">
+                <xs:annotation>
+                    <xs:appinfo>Maker, Frederick Charles</xs:appinfo>
+                    <xs:documentation>Frederick Charles Maker</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ManuelRE">
+                <xs:annotation>
+                    <xs:appinfo>Manuel, Ralph Eugene</xs:appinfo>
+                    <xs:documentation>Ralph Eugene Manuel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MasonL">
+                <xs:annotation>
+                    <xs:appinfo>Mason, Lowell</xs:appinfo>
+                    <xs:documentation>Lowell Mason</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MatthewsTR">
+                <xs:annotation>
+                    <xs:appinfo>Matthews, Timothy Richard</xs:appinfo>
+                    <xs:documentation>Timothy Richard Matthews</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MaunderJH">
+                <xs:annotation>
+                    <xs:appinfo>Maunder, John Henry</xs:appinfo>
+                    <xs:documentation>John Henry Maunder</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="McGranahanJ">
+                <xs:annotation>
+                    <xs:appinfo>McGranahan, James</xs:appinfo>
+                    <xs:documentation>James McGranahan</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="McNairSE">
+                <xs:annotation>
+                    <xs:appinfo>McNair, Stuart Edmund</xs:appinfo>
+                    <xs:documentation>Stuart Edmund McNair</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="McNaughtonJH">
+                <xs:annotation>
+                    <xs:appinfo>McNaughton, John Hugh</xs:appinfo>
+                    <xs:documentation>John Hugh McNaughton</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MeinekeC">
+                <xs:annotation>
+                    <xs:appinfo>Meineke, Charles</xs:appinfo>
+                    <xs:documentation>Charles Meineke</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaAlema">
+                <xs:annotation>
+                    <xs:appinfo>Melodia alemã</xs:appinfo>
+                    <xs:documentation>Melodia alemã</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaDinamarquesa">
+                <xs:annotation>
+                    <xs:appinfo>Melodia dinamarquesa</xs:appinfo>
+                    <xs:documentation>Melodia dinamarquesa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaGalesa">
+                <xs:annotation>
+                    <xs:appinfo>Melodia galesa</xs:appinfo>
+                    <xs:documentation>Melodia galesa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaInglesa">
+                <xs:annotation>
+                    <xs:appinfo>Melodia inglesa</xs:appinfo>
+                    <xs:documentation>Melodia inglesa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaMaori">
+                <xs:annotation>
+                    <xs:appinfo>Melodia maori</xs:appinfo>
+                    <xs:documentation>Melodia maori</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaNurnberg">
+                <xs:annotation>
+                    <xs:appinfo>Melodia de “Nürnberg”</xs:appinfo>
+                    <xs:documentation>Melodia de “Nürnberg”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MelodiaSueca">
+                <xs:annotation>
+                    <xs:appinfo>Melodia sueca</xs:appinfo>
+                    <xs:documentation>Melodia sueca</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MendelssohnBF">
+                <xs:annotation>
+                    <xs:appinfo>Mendelssohn-Bartholdy, Felix</xs:appinfo>
+                    <xs:documentation>Felix Mendelssohn-Bartholdy</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MenezesMA">
+                <xs:annotation>
+                    <xs:appinfo>Menezes, Manoel Antônio de</xs:appinfo>
+                    <xs:documentation>Manoel Antônio de Menezes</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MiltonJ">
+                <xs:annotation>
+                    <xs:appinfo>Milton, John</xs:appinfo>
+                    <xs:documentation>John Milton</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MissaBreveReMaior">
+                <xs:annotation>
+                    <xs:appinfo>Missa Breve em Ré Maior</xs:appinfo>
+                    <xs:documentation>Missa Breve em Ré Maior</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MohrJ">
+                <xs:annotation>
+                    <xs:appinfo>Mohr, Joseph</xs:appinfo>
+                    <xs:documentation>Joseph Mohr</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MonsellJSB">
+                <xs:annotation>
+                    <xs:appinfo>Monsell, John Samuel Bewley</xs:appinfo>
+                    <xs:documentation>John Samuel Bewley Monsell</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MoodyMW">
+                <xs:annotation>
+                    <xs:appinfo>Moody, Mary Whittle</xs:appinfo>
+                    <xs:documentation>Mary Whittle Moody</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MoretonRH">
+                <xs:annotation>
+                    <xs:appinfo>Moreton, Robert Hawkey</xs:appinfo>
+                    <xs:documentation>Robert Hawkey Moreton</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MotaJC">
+                <xs:annotation>
+                    <xs:appinfo>Mota, Jorge César</xs:appinfo>
+                    <xs:documentation>Jorge César Mota</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MotaO">
+                <xs:annotation>
+                    <xs:appinfo>Mota, Otoniel</xs:appinfo>
+                    <xs:documentation>Otoniel Mota</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MoteE">
+                <xs:annotation>
+                    <xs:appinfo>Mote, Edward</xs:appinfo>
+                    <xs:documentation>Edward Mote</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="MozartWA">
+                <xs:annotation>
+                    <xs:appinfo>Mozart, Wolfgang Amadeus</xs:appinfo>
+                    <xs:documentation>Wolfgang Amadeus Mozart</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NaegeliJG">
+                <xs:annotation>
+                    <xs:appinfo>Naegeli, Johann Georg</xs:appinfo>
+                    <xs:documentation>Johann Georg Naegeli</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NeanderJ">
+                <xs:annotation>
+                    <xs:appinfo>Neander, Joachim</xs:appinfo>
+                    <xs:documentation>Joachim Neander</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NelsonJH">
+                <xs:annotation>
+                    <xs:appinfo>Nelson, Justus Henry</xs:appinfo>
+                    <xs:documentation>Justus Henry Nelson</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NevesAJS">
+                <xs:annotation>
+                    <xs:appinfo>Neves, Antônio José dos Santos</xs:appinfo>
+                    <xs:documentation>Antônio José dos Santos Neves</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Nicetas">
+                <xs:annotation>
+                    <xs:appinfo>Nicetas</xs:appinfo>
+                    <xs:documentation>Nicetas</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NiemeyerE">
+                <xs:annotation>
+                    <xs:appinfo>Niemeyer, Edouard</xs:appinfo>
+                    <xs:documentation>Edouard Niemeyer</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NilesN">
+                <xs:annotation>
+                    <xs:appinfo>Niles, Nathaniel</xs:appinfo>
+                    <xs:documentation>Nathaniel Niles</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NindGB">
+                <xs:annotation>
+                    <xs:appinfo>Nind, George Benjamin</xs:appinfo>
+                    <xs:documentation>George Benjamin Nind</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NogueiraE">
+                <xs:annotation>
+                    <xs:appinfo>Nogueira, Edilson</xs:appinfo>
+                    <xs:documentation>Edilson Nogueira</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NonaSinfoniaCoral">
+                <xs:annotation>
+                    <xs:appinfo>Nona Sinfonia (Coral)</xs:appinfo>
+                    <xs:documentation>Nona Sinfonia (Coral)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="NurnbergischesGesangbuch">
+                <xs:annotation>
+                    <xs:appinfo>“Nürnbergisches Gesangbuch”</xs:appinfo>
+                    <xs:documentation>“Nürnbergisches Gesangbuch”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OatmanJ">
+                <xs:annotation>
+                    <xs:appinfo>Oatman, Johnson</xs:appinfo>
+                    <xs:documentation>Johnson Oatman</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OgdenWA">
+                <xs:annotation>
+                    <xs:appinfo>Ogden, William Augustine</xs:appinfo>
+                    <xs:documentation>William Augustine Ogden</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OgdonID">
+                <xs:annotation>
+                    <xs:appinfo>Ogdon, Ina Duley</xs:appinfo>
+                    <xs:documentation>Ina Duley Ogdon</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OKaneTC">
+                <xs:annotation>
+                    <xs:appinfo>O'Kane, Tullius Clinton</xs:appinfo>
+                    <xs:documentation>Tullius Clinton O'Kane</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OliveiraJC">
+                <xs:annotation>
+                    <xs:appinfo>Oliveira, João Chrysóstomo de</xs:appinfo>
+                    <xs:documentation>João Chrysóstomo de Oliveira</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OliveiraSPS">
+                <xs:annotation>
+                    <xs:appinfo>Oliveira, Stella Pessoa da Silva</xs:appinfo>
+                    <xs:documentation>Stella Pessoa da Silva Oliveira</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OliversT">
+                <xs:annotation>
+                    <xs:appinfo>Olivers, Thomas</xs:appinfo>
+                    <xs:documentation>Thomas Olivers</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OratorioMessias">
+                <xs:annotation>
+                    <xs:appinfo>Oratório Messias</xs:appinfo>
+                    <xs:documentation>Oratório Messias</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="OrrJE">
+                <xs:annotation>
+                    <xs:appinfo>Orr, James Edwin</xs:appinfo>
+                    <xs:documentation>James Edwin Orr</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PalmerHR">
+                <xs:annotation>
+                    <xs:appinfo>Palmer, Horatio Richmond</xs:appinfo>
+                    <xs:documentation>Horatio Richmond Palmer</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ParryJ">
+                <xs:annotation>
+                    <xs:appinfo>Parry, Joseph</xs:appinfo>
+                    <xs:documentation>Joseph Parry</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PerkinsHS">
+                <xs:annotation>
+                    <xs:appinfo>Perkins, Henry Southwick</xs:appinfo>
+                    <xs:documentation>Henry Southwick Perkins</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PerronetE">
+                <xs:annotation>
+                    <xs:appinfo>Perronet, Edward</xs:appinfo>
+                    <xs:documentation>Edward Perronet</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PitrowskyR">
+                <xs:annotation>
+                    <xs:appinfo>Pitrowsky, Ricardo</xs:appinfo>
+                    <xs:documentation>Ricardo Pitrowsky</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PollardAA">
+                <xs:annotation>
+                    <xs:appinfo>Pollard, Adelaide Addison</xs:appinfo>
+                    <xs:documentation>Adelaide Addison Pollard</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PortoFilhoMS">
+                <xs:annotation>
+                    <xs:appinfo>Porto Filho, Manoel da Silveira</xs:appinfo>
+                    <xs:documentation>Manoel da Silveira Porto Filho</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PortugalV">
+                <xs:annotation>
+                    <xs:appinfo>Portugal, Volmer</xs:appinfo>
+                    <xs:documentation>Volmer Portugal</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="PraxisPietatisMelica">
+                <xs:annotation>
+                    <xs:appinfo>“Praxis Pietatis Melica”</xs:appinfo>
+                    <xs:documentation>“Praxis Pietatis Melica”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ProutE">
+                <xs:annotation>
+                    <xs:appinfo>Prout, Ebenezer</xs:appinfo>
+                    <xs:documentation>Ebenezer Prout</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RankinJE">
+                <xs:annotation>
+                    <xs:appinfo>Rankin, Jeremiah Eames</xs:appinfo>
+                    <xs:documentation>Jeremiah Eames Rankin</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RappardD">
+                <xs:annotation>
+                    <xs:appinfo>Rappard, Dora</xs:appinfo>
+                    <xs:documentation>Dora Rappard</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ReamAW">
+                <xs:annotation>
+                    <xs:appinfo>Ream, Albert Willard</xs:appinfo>
+                    <xs:documentation>Albert Willard Ream</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RevivalTuneBookColecao">
+                <xs:annotation>
+                    <xs:appinfo>“Revival Tune Book” (Coleção)</xs:appinfo>
+                    <xs:documentation>“Revival Tune Book” (Coleção)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RinckartM">
+                <xs:annotation>
+                    <xs:appinfo>Rinckart, Martin</xs:appinfo>
+                    <xs:documentation>Martin Rinckart</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RobertsDC">
+                <xs:annotation>
+                    <xs:appinfo>Roberts, Daniel Crane</xs:appinfo>
+                    <xs:documentation>Daniel Crane Roberts</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RochaJG">
+                <xs:annotation>
+                    <xs:appinfo>Rocha, João Gomes da</xs:appinfo>
+                    <xs:documentation>João Gomes da Rocha</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RootGF">
+                <xs:annotation>
+                    <xs:appinfo>Root, George Frederick</xs:appinfo>
+                    <xs:documentation>George Frederick Root</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RounsefellCEP">
+                <xs:annotation>
+                    <xs:appinfo>Rounsefell, Carrie Esther Parker</xs:appinfo>
+                    <xs:documentation>Carrie Esther Parker Rounsefell</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RousseauJJ">
+                <xs:annotation>
+                    <xs:appinfo>Rousseau, Jean-Jacques</xs:appinfo>
+                    <xs:documentation>Jean-Jacques Rousseau</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RunyanWM">
+                <xs:annotation>
+                    <xs:appinfo>Runyan, William Marion</xs:appinfo>
+                    <xs:documentation>William Marion Runyan</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="RussoV">
+                <xs:annotation>
+                    <xs:appinfo>Russo, Vicente</xs:appinfo>
+                    <xs:documentation>Vicente Russo</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SacredMelodyColecao">
+                <xs:annotation>
+                    <xs:appinfo>“Sacred Melody” (Coleção)</xs:appinfo>
+                    <xs:documentation>“Sacred Melody” (Coleção)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Salmo103">
+                <xs:annotation>
+                    <xs:appinfo>Salmo 103</xs:appinfo>
+                    <xs:documentation>Salmo 103</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Salmo136">
+                <xs:annotation>
+                    <xs:appinfo>Salmo 136</xs:appinfo>
+                    <xs:documentation>Salmo 136</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Salmo19">
+                <xs:annotation>
+                    <xs:appinfo>Salmo 19</xs:appinfo>
+                    <xs:documentation>Salmo 19</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Salmo23">
+                <xs:annotation>
+                    <xs:appinfo>Salmo 23</xs:appinfo>
+                    <xs:documentation>Salmo 23</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SalterioGenebra">
+                <xs:annotation>
+                    <xs:appinfo>“Saltério de Genebra”</xs:appinfo>
+                    <xs:documentation>“Saltério de Genebra”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SalumIN">
+                <xs:annotation>
+                    <xs:appinfo>Salum, Isaac Nicolau</xs:appinfo>
+                    <xs:documentation>Isaac Nicolau Salum</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SalvationArmyMusic">
+                <xs:annotation>
+                    <xs:appinfo>“Salvation Army Music”</xs:appinfo>
+                    <xs:documentation>“Salvation Army Music”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SankeyID">
+                <xs:annotation>
+                    <xs:appinfo>Sankey, Ira David</xs:appinfo>
+                    <xs:documentation>Ira David Sankey</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SantosMG">
+                <xs:annotation>
+                    <xs:appinfo>Santos, Mattathias Gomes dos</xs:appinfo>
+                    <xs:documentation>Mattathias Gomes dos Santos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SantosRR">
+                <xs:annotation>
+                    <xs:appinfo>Santos, Renato Ribeiro dos</xs:appinfo>
+                    <xs:documentation>Renato Ribeiro dos Santos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SchlegelKAD">
+                <xs:annotation>
+                    <xs:appinfo>Schlegel, Katharina Amalia Dorothea von</xs:appinfo>
+                    <xs:documentation>Katharina Amalia Dorothea von Schlegel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ScholfieldJP">
+                <xs:annotation>
+                    <xs:appinfo>Scholfield, Jack P.</xs:appinfo>
+                    <xs:documentation>Jack P. Scholfield</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SchubertF">
+                <xs:annotation>
+                    <xs:appinfo>Schubert, Franz</xs:appinfo>
+                    <xs:documentation>Franz Schubert</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SchulzJAP">
+                <xs:annotation>
+                    <xs:appinfo>Schulz, Johann Abraham Peter</xs:appinfo>
+                    <xs:documentation>Johann Abraham Peter Schulz</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SeeR">
+                <xs:annotation>
+                    <xs:appinfo>See, Ruth</xs:appinfo>
+                    <xs:documentation>Ruth See</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SherwinWF">
+                <xs:annotation>
+                    <xs:appinfo>Sherwin, William Fiske</xs:appinfo>
+                    <xs:documentation>William Fiske Sherwin</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SibeliusJJC">
+                <xs:annotation>
+                    <xs:appinfo>Sibelius, Johan Julius Christian</xs:appinfo>
+                    <xs:documentation>Johan Julius Christian Sibelius</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SilvaAH">
+                <xs:annotation>
+                    <xs:appinfo>Silva, Alfredo Henrique</xs:appinfo>
+                    <xs:documentation>Alfredo Henrique Silva</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SilvaFCB">
+                <xs:annotation>
+                    <xs:appinfo>Silva, Francisco Caetano Borges da</xs:appinfo>
+                    <xs:documentation>Francisco Caetano Borges da Silva</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SilvaH">
+                <xs:annotation>
+                    <xs:appinfo>Silva, Hope</xs:appinfo>
+                    <xs:documentation>Hope Silva</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SilvaJAS">
+                <xs:annotation>
+                    <xs:appinfo>Silva, José Augusto dos Santos e</xs:appinfo>
+                    <xs:documentation>José Augusto dos Santos e Silva</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SilveiraG">
+                <xs:annotation>
+                    <xs:appinfo>Silveira, Guaraci</xs:appinfo>
+                    <xs:documentation>Guaraci Silveira</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SmartER">
+                <xs:annotation>
+                    <xs:appinfo>Smart, Eliza Rivers</xs:appinfo>
+                    <xs:documentation>Eliza Rivers Smart</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SmartHT">
+                <xs:annotation>
+                    <xs:appinfo>Smart, Henry Thomas</xs:appinfo>
+                    <xs:documentation>Henry Thomas Smart</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SmithOJ">
+                <xs:annotation>
+                    <xs:appinfo>Smith, Oswald Jeffray</xs:appinfo>
+                    <xs:documentation>Oswald Jeffray Smith</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SosaPD">
+                <xs:annotation>
+                    <xs:appinfo>Sosa, Pablo D.</xs:appinfo>
+                    <xs:documentation>Pablo D. Sosa</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SouzaMA">
+                <xs:annotation>
+                    <xs:appinfo>Souza, Manuel Avelino de</xs:appinfo>
+                    <xs:documentation>Manuel Avelino de Souza</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SpaffordHG">
+                <xs:annotation>
+                    <xs:appinfo>Spafford, Horatio Gates</xs:appinfo>
+                    <xs:documentation>Horatio Gates Spafford</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="StainerJ">
+                <xs:annotation>
+                    <xs:appinfo>Stainer, John</xs:appinfo>
+                    <xs:documentation>John Stainer</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="StebbinsGC">
+                <xs:annotation>
+                    <xs:appinfo>Stebbins, George Coles</xs:appinfo>
+                    <xs:documentation>George Coles Stebbins</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SteffeJW">
+                <xs:annotation>
+                    <xs:appinfo>Steffe, John William</xs:appinfo>
+                    <xs:documentation>John William Steffe</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="StoneSJ">
+                <xs:annotation>
+                    <xs:appinfo>Stone, Samuel John</xs:appinfo>
+                    <xs:documentation>Samuel John Stone</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="StralsundGesangbuch">
+                <xs:annotation>
+                    <xs:appinfo>“Stralsund Gesangbuch”</xs:appinfo>
+                    <xs:documentation>“Stralsund Gesangbuch”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="StrattnerGC">
+                <xs:annotation>
+                    <xs:appinfo>Strattner, Georg Christoph</xs:appinfo>
+                    <xs:documentation>Georg Christoph Strattner</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SuttonJL">
+                <xs:annotation>
+                    <xs:appinfo>Sutton, Joan Larie</xs:appinfo>
+                    <xs:documentation>Joan Larie Sutton</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="SweneyJR">
+                <xs:annotation>
+                    <xs:appinfo>Sweney, John Robson</xs:appinfo>
+                    <xs:documentation>John Robson Sweney</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TalbotN">
+                <xs:annotation>
+                    <xs:appinfo>Talbot, Nellie</xs:appinfo>
+                    <xs:documentation>Nellie Talbot</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TeDeum">
+                <xs:annotation>
+                    <xs:appinfo>“Te Deum”</xs:appinfo>
+                    <xs:documentation>“Te Deum”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TersteegenG">
+                <xs:annotation>
+                    <xs:appinfo>Tersteegen, Gerhard</xs:appinfo>
+                    <xs:documentation>Gerhard Tersteegen</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TheHymnal">
+                <xs:annotation>
+                    <xs:appinfo>“The Hymnal”</xs:appinfo>
+                    <xs:documentation>“The Hymnal”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ThesaurusMusicus">
+                <xs:annotation>
+                    <xs:appinfo>“Thesaurus musicus”</xs:appinfo>
+                    <xs:documentation>“Thesaurus musicus”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TomerWG">
+                <xs:annotation>
+                    <xs:appinfo>Tomer, William Gould</xs:appinfo>
+                    <xs:documentation>William Gould Tomer</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TopladyAM">
+                <xs:annotation>
+                    <xs:appinfo>Toplady, Augustus Montague</xs:appinfo>
+                    <xs:documentation>Augustus Montague Toplady</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="TuckerH">
+                <xs:annotation>
+                    <xs:appinfo>Tucker, Henry</xs:appinfo>
+                    <xs:documentation>Henry Tucker</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="UniversalPsalmodist">
+                <xs:annotation>
+                    <xs:appinfo>“Universal Psalmodist”</xs:appinfo>
+                    <xs:documentation>“Universal Psalmodist”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WadeJohnF">
+                <xs:annotation>
+                    <xs:appinfo>Wade, John Francis</xs:appinfo>
+                    <xs:documentation>John Francis Wade</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WalfordWW">
+                <xs:annotation>
+                    <xs:appinfo>Walford, William W.</xs:appinfo>
+                    <xs:documentation>William W. Walford</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WarrenGW">
+                <xs:annotation>
+                    <xs:appinfo>Warren, George William</xs:appinfo>
+                    <xs:documentation>George William Warren</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WatsonA">
+                <xs:annotation>
+                    <xs:appinfo>Watson, Aleck</xs:appinfo>
+                    <xs:documentation>Aleck Watson</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WesleyC">
+                <xs:annotation>
+                    <xs:appinfo>Wesley, Charles</xs:appinfo>
+                    <xs:documentation>Charles Wesley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WesleySS">
+                <xs:annotation>
+                    <xs:appinfo>Wesley, Samuel Sebastian</xs:appinfo>
+                    <xs:documentation>Samuel Sebastian Wesley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WhishawA">
+                <xs:annotation>
+                    <xs:appinfo>Whishaw, Alexander</xs:appinfo>
+                    <xs:documentation>Alexander Whishaw</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WhittleDW">
+                <xs:annotation>
+                    <xs:appinfo>Whittle, Daniel Webster</xs:appinfo>
+                    <xs:documentation>Daniel Webster Whittle</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WhyteJM">
+                <xs:annotation>
+                    <xs:appinfo>Whyte, John Marchant</xs:appinfo>
+                    <xs:documentation>John Marchant Whyte</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WilkesJB">
+                <xs:annotation>
+                    <xs:appinfo>Wilkes, John Bernard</xs:appinfo>
+                    <xs:documentation>John Bernard Wilkes</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WilliamTJ">
+                <xs:annotation>
+                    <xs:appinfo>William, Thomas John</xs:appinfo>
+                    <xs:documentation>Thomas John William</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WilsonH">
+                <xs:annotation>
+                    <xs:appinfo>Hugh, Wilson</xs:appinfo>
+                    <xs:documentation>Wilson Hugh</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WinkworthC">
+                <xs:annotation>
+                    <xs:appinfo>Winkworth, Catherine</xs:appinfo>
+                    <xs:documentation>Catherine Winkworth</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WittenbergColetanea">
+                <xs:annotation>
+                    <xs:appinfo>Wittenberg (Coletânea)</xs:appinfo>
+                    <xs:documentation>Wittenberg (Coletânea)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WittenbergGesangbuch">
+                <xs:annotation>
+                    <xs:appinfo>“Wittenberg Gesangbuch”</xs:appinfo>
+                    <xs:documentation>“Wittenberg Gesangbuch”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="WrightHM">
+                <xs:annotation>
+                    <xs:appinfo>Wright, Henry Maxwell</xs:appinfo>
+                    <xs:documentation>Henry Maxwell Wright</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ZelleyHJ">
+                <xs:annotation>
+                    <xs:appinfo>Zelley, Henry J.</xs:appinfo>
+                    <xs:documentation>Henry J. Zelley</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ZimmermannA">
+                <xs:annotation>
+                    <xs:appinfo>Zimmermann, Alfonso</xs:appinfo>
+                    <xs:documentation>Alfonso Zimmermann</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ZionsharfeColecao">
+                <xs:annotation>
+                    <xs:appinfo>“Zionsharfe” (Coleção)</xs:appinfo>
+                    <xs:documentation>“Zionsharfe” (Coleção)</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

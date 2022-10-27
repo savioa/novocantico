@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    targetNamespace="http://www.novocantico.com.br/schema/hino"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified"
+    attributeFormDefault="unqualified">
+    <xs:include schemaLocation="assunto.xsd" />
+    <xs:include schemaLocation="metrica.xsd" />
+    <xs:include schemaLocation="origem.xsd" />
+    <xs:include schemaLocation="referencia_biblica.xsd" />
+    <xs:element name="hino">
+        <xs:annotation>
+            <xs:documentation>Hino</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="tit_ori" maxOccurs="unbounded" minOccurs="0" type="xs:string">
+                    <xs:annotation>
+                        <xs:documentation>Título original</xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="pri_ver_ori" maxOccurs="unbounded" minOccurs="0" type="xs:string">
+                    <xs:annotation>
+                        <xs:documentation>Primeiro verso original</xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="ori_let" maxOccurs="unbounded" minOccurs="0" type="TS_origem">
+                    <xs:annotation>
+                        <xs:documentation>Origem da letra</xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="ori_mus" maxOccurs="unbounded" minOccurs="0" type="TS_origem">
+                    <xs:annotation>
+                        <xs:documentation>Origem da música</xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+                <xs:element name="ref_bib" maxOccurs="unbounded" minOccurs="0" type="TS_referencia_biblica" />
+                <xs:element name="tex">
+                    <xs:annotation>
+                        <xs:documentation>Texto</xs:documentation>
+                    </xs:annotation>
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="est" maxOccurs="unbounded">
+                                <xs:annotation>
+                                    <xs:documentation>Estrofe</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="ver" maxOccurs="unbounded" type="TS_verso" />
+                                        <xs:element name="cor" minOccurs="0" maxOccurs="unbounded">
+                                            <xs:annotation>
+                                                <xs:documentation>Coro</xs:documentation>
+                                            </xs:annotation>
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="ver" maxOccurs="unbounded" type="TS_verso" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="num" use="required">
+                <xs:annotation>
+                    <xs:documentation>Número</xs:documentation>
+                </xs:annotation>
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="[0-9][0-9][0-9][A-Z]?|[A-Z]" />
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="tit" type="xs:string" use="required">
+                <xs:annotation>
+                    <xs:documentation>Título</xs:documentation>
+                </xs:annotation>
+            </xs:attribute>
+            <xs:attribute name="sec" type="TS_secao" use="required" />
+            <xs:attribute name="ass" type="TS_assunto" use="required" />
+            <xs:attribute name="met" type="TS_metrica" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="TS_verso">
+        <xs:annotation>
+            <xs:documentation>Verso</xs:documentation>
+        </xs:annotation>
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="voz" type="xs:string" use="optional">
+                    <xs:annotation>
+                        <xs:documentation>Voz</xs:documentation>
+                    </xs:annotation>
+                </xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+</xs:schema>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    num="002"
+    tit="Reverência"
+    sec="01_Louvor_e_Adoração"
+    ass="01_01_Intróitos"
+    met="Irregular">
+    <ori_mus id="PortugalV" />
+    <ori_mus id="JerseyJ" />
+    <ref_bib liv="Hc" cap="2" ver="20" />
+    <ref_bib liv="Sl" cap="11" ver="4" />
+    <tex>
+        <est>
+            <ver>O Senhor está no seu santo templo,</ver>
+            <ver>O Senhor está no seu santo templo!</ver>
+            <ver>Cale-se diante dele toda a terra,</ver>
+            <ver>Cale-se diante dele toda a terra!</ver>
+            <ver voz="Contralto">Toda a terra!</ver>
+        </est>
+    </tex>
+</hino>

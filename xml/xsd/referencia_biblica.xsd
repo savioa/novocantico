@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:complexType name="TS_referencia_biblica">
+        <xs:annotation>
+            <xs:documentation>Referência bíblica</xs:documentation>
+        </xs:annotation>
+        <xs:attribute name="liv" type="TS_livro" use="required">
+            <xs:annotation>
+                <xs:documentation>Livro</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="cap" use="required">
+            <xs:annotation>
+                <xs:documentation>Capítulo</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:pattern value="\d{1,3}" />
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="ver" use="required">
+            <xs:annotation>
+                <xs:documentation>Versículo</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:pattern value="\d{1,3}([-,]\d{1,3})*" />
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:simpleType name="TS_livro">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Gn">
+                <xs:annotation>
+                    <xs:documentation>Gênesis</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ex">
+                <xs:annotation>
+                    <xs:documentation>Êxodo</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Lv">
+                <xs:annotation>
+                    <xs:documentation>Levítico</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Dt">
+                <xs:annotation>
+                    <xs:documentation>Deuteronômio</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Rt">
+                <xs:annotation>
+                    <xs:documentation>Rute</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="2Sm">
+                <xs:annotation>
+                    <xs:documentation>2 Samuel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="1Cr">
+                <xs:annotation>
+                    <xs:documentation>1 Crônicas</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ne">
+                <xs:annotation>
+                    <xs:documentation>Neemias</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Sl">
+                <xs:annotation>
+                    <xs:documentation>Salmos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Pv">
+                <xs:annotation>
+                    <xs:documentation>Provérbios</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ec">
+                <xs:annotation>
+                    <xs:documentation>Eclesiastes</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ct">
+                <xs:annotation>
+                    <xs:documentation>Cantares</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Is">
+                <xs:annotation>
+                    <xs:documentation>Isaías</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Lm">
+                <xs:annotation>
+                    <xs:documentation>Lamentações</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ez">
+                <xs:annotation>
+                    <xs:documentation>Ezequiel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Dn">
+                <xs:annotation>
+                    <xs:documentation>Daniel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Os">
+                <xs:annotation>
+                    <xs:documentation>Oséias</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Hc">
+                <xs:annotation>
+                    <xs:documentation>Habacuque</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Mt">
+                <xs:annotation>
+                    <xs:documentation>Mateus</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Mc">
+                <xs:annotation>
+                    <xs:documentation>Marcos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Lc">
+                <xs:annotation>
+                    <xs:documentation>Lucas</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Jo">
+                <xs:annotation>
+                    <xs:documentation>João</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="At">
+                <xs:annotation>
+                    <xs:documentation>Atos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Rm">
+                <xs:annotation>
+                    <xs:documentation>Romanos</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="1Co">
+                <xs:annotation>
+                    <xs:documentation>1 Coríntios</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="2Co">
+                <xs:annotation>
+                    <xs:documentation>2 Coríntios</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Gl">
+                <xs:annotation>
+                    <xs:documentation>Gálatas</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ef">
+                <xs:annotation>
+                    <xs:documentation>Efésios</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Fp">
+                <xs:annotation>
+                    <xs:documentation>Filipenses</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Cl">
+                <xs:annotation>
+                    <xs:documentation>Colossenses</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="1Ts">
+                <xs:annotation>
+                    <xs:documentation>1 Tessalonicenses</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="1Tm">
+                <xs:annotation>
+                    <xs:documentation>1 Timóteo</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="2Tm">
+                <xs:annotation>
+                    <xs:documentation>2 Timóteo</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Hb">
+                <xs:annotation>
+                    <xs:documentation>Hebreus</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="1Pe">
+                <xs:annotation>
+                    <xs:documentation>1 Pedro</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="2Pe">
+                <xs:annotation>
+                    <xs:documentation>2 Pedro</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="1Jo">
+                <xs:annotation>
+                    <xs:documentation>1 João</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Jd">
+                <xs:annotation>
+                    <xs:documentation>Judas</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="Ap">
+                <xs:annotation>
+                    <xs:documentation>Apocalipse</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
