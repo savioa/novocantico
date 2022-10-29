@@ -836,8 +836,8 @@
             </xs:enumeration>
             <xs:enumeration value="JerseyJ">
                 <xs:annotation>
-                    <xs:appinfo>Jersey, Jeferson</xs:appinfo>
-                    <xs:documentation>Jeferson Jersey</xs:documentation>
+                    <xs:appinfo>Jersey, Jefferson</xs:appinfo>
+                    <xs:documentation>Jefferson Jersey</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="JonesJ">

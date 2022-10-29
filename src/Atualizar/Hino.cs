@@ -6,8 +6,6 @@ using System.Xml.Linq;
 [DebuggerDisplay("{Numero,nq} - {Titulo,nq}")]
 public class Hino
 {
-    private readonly char[] terminais = new char[] { '.', ',', ';', ':', '?', '!' };
-
     public Hino(XDocument xdHino)
     {
         XNamespace xn = xdHino.Root!.GetDefaultNamespace();
@@ -17,6 +15,8 @@ public class Hino
         Numero = xeHino.Attribute("num")!.Value;
 
         Titulo = xeHino.Attribute("tit")!.Value;
+
+        TituloAnterior = xeHino.Attribute("tit_ant") != null ? xeHino.Attribute("tit_ant")!.Value : string.Empty;
 
         Metrica = xeHino.Attribute("met")!.Value;
 
@@ -36,20 +36,16 @@ public class Hino
 
         Letra = xeHino.Element(xn + "tex")!.Elements(xn + "est").Select(e => new Estrofe(e, xn)).ToList();
 
-        if (!TitulosOriginais.Any())
-        {
-            TitulosOriginais.Add(Titulo);
-        }
-
-        if (!PrimeirosVersosOriginais.Any())
-        {
-            PrimeirosVersosOriginais.Add(Letra[0].Versos[0].Texto.TrimEnd(terminais));
-        }
+        PrimeiroVerso = Letra[0].Versos[0].Texto;
     }
 
     public string Numero { get; set; }
 
     public string Titulo { get; set; }
+
+    public string TituloAnterior { get; set; }
+
+    public string PrimeiroVerso { get; set; }
 
     public string Metrica { get; set; }
 

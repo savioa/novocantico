@@ -81,6 +81,11 @@
                     <xs:documentation>Título</xs:documentation>
                 </xs:annotation>
             </xs:attribute>
+            <xs:attribute name="tit_ant" type="xs:string" use="optional">
+                <xs:annotation>
+                    <xs:documentation>Título Anterior</xs:documentation>
+                </xs:annotation>
+            </xs:attribute>
             <xs:attribute name="sec" type="TS_secao" use="required" />
             <xs:attribute name="ass" type="TS_assunto" use="required" />
             <xs:attribute name="met" type="TS_metrica" use="required" />

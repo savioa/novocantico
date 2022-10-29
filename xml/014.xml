@@ -8,37 +8,38 @@
     sec="01_Louvor_e_Adoração"
     ass="01_03_Deus_Santo"
     met="11_11_7_7_11_Coro">
+    <tit_ori>Louvor</tit_ori>
     <ori_let id="SouzaMA" />
     <ori_mus id="GabrielCH" />
     <ref_bib liv="Sl" cap="145" ver="1" />
     <tex>
         <est>
-            <ver>Vamos nós louvar a Deus, Vamos, vamos!</ver>
-            <ver>Ao Senhor de toda luz, Santo, Santo!</ver>
+            <ver>Vamos nós louvar a Deus, vamos! Vamos!</ver>
+            <ver>Ao Senhor de toda a luz, Santo! Santo!</ver>
             <ver>Cantem, louvem lá nos céus</ver>
             <ver>Nosso Deus e Rei Jesus!</ver>
-            <ver>Exaltado seja Deus, Santo, Santo!</ver>
+            <ver>Exaltado seja Deus, Santo! Santo!</ver>
             <cor>
                 <ver>Exaltado seja nosso Deus e Pai!</ver>
                 <ver>Exaltado! Para sempre o exaltai!</ver>
                 <ver>Cantem, louvem lá nos céus</ver>
                 <ver>Nosso Deus e Rei Jesus!</ver>
-                <ver>Exaltado seja Deus, Santo, Santo!</ver>
+                <ver>Exaltado seja Deus, Santo! Santo!</ver>
             </cor>
         </est>
         <est>
-            <ver>Nosso Deus, eterno Pai, Santo, santo,</ver>
-            <ver>Deu-nos bênçãos por Jesus, Vede, vede!</ver>
+            <ver>Nosso Deus, eterno Pai, Santo! Santo,</ver>
+            <ver>Deu-nos bênçãos por Jesus, vede! Vede!</ver>
             <ver>Ao Senhor glorificai,</ver>
             <ver>Vós, os salvos pela cruz,</ver>
-            <ver>Sim, conosco glória dai, Vinde, vinde!</ver>
+            <ver>Sim, conosco glória dai, vinde! Vinde!</ver>
         </est>
         <est>
-            <ver>Exaltemos nosso Deus, Santo, Santo!</ver>
-            <ver>Exaltemos com fervor, Hoje, hoje!</ver>
-            <ver>Tributemos todos nós</ver>
+            <ver>Exaltemos nosso Deus, Santo! Santo!</ver>
+            <ver>Exaltemos com fervor, hoje! Hoje!</ver>
+            <ver>Tributemos, todos nós,</ver>
             <ver>Hinos santos de louvor,</ver>
-            <ver>Sim, louvor em alta voz, Hoje, hoje!</ver>
+            <ver>Sim, louvor em alta voz, hoje! Hoje!</ver>
         </est>
     </tex>
 </hino>

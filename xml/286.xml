@@ -4,7 +4,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
     num="286"
-    tit="Colheita bendita"
+    tit="Colheita Bendita"
+    tit_ant="Vamos à Colheita"
     sec="06_Cristo_-_Sua_Vida"
     ass="06_08_A_Grande_Comissão"
     met="8_8_8_8">
@@ -26,17 +27,17 @@
             <ver>Ao nosso Mestre, lá no Céu,</ver>
             <ver>Que sobre a cruz por nós morreu.</ver>
             <cor>
-                <ver>Vamos nós obedecer! Vamos à colheita!</ver>
+                <ver>Vamos nós obedecer! Vamos à colheita</ver>
                 <ver>Para quando anoitecer ver a obra feita</ver>
-                <ver>Pouco tempo restará;</ver>
+                <ver>Pouco tempo restará,</ver>
                 <ver>Breve o prazo acabará;</ver>
                 <ver>Breve, breve, breve acabará!</ver>
             </cor>
         </est>
         <est>
             <ver>Nós trabalhamos por Jesus</ver>
-            <ver>Que para os campos nos conduz,</ver>
-            <ver>E na Seara imensa quer</ver>
+            <ver>Que para os campos nos conduz</ver>
+            <ver>E na seara imensa quer</ver>
             <ver>Obreiros novos receber.</ver>
             <ver>Ainda há muito o que fazer,</ver>
             <ver>E tanto fruto que colher!</ver>
@@ -44,12 +45,12 @@
             <ver>“Quem quer por mim ir trabalhar?”</ver>
         </est>
         <est>
-            <ver>Estão as horas a fugir;</ver>
-            <ver>O teu Senhor não tarda em vir.</ver>
+            <ver>Estão as horas a fugir,</ver>
+            <ver>O teu Senhor não tarda em vir;</ver>
             <ver>Tu queres fruto ao céu levar,</ver>
             <ver>Ou folhas só apresentar?</ver>
-            <ver>Oh, não demores a atender!</ver>
-            <ver>A noite em breve vai descer.</ver>
+            <ver>Oh! Não demores a atender,</ver>
+            <ver>A noite em breve vai descer;</ver>
             <ver>Conosco toma o teu lugar</ver>
             <ver>E por Jesus vem trabalhar!</ver>
         </est>
