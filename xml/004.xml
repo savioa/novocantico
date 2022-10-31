@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino sit="sem_audio"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    num="004"
+    tit="Culto à Trindade"
+    sec="01_Louvor_e_Adoração"
+    ass="01_02_Deus_Trino"
+    met="6_6_8_6_6_8_6_6_6">
+    <tit_ori>Arnsberg</tit_ori>
+    <pri_ver_ori>Gott ist gegenwärtig</pri_ver_ori>
+    <pri_ver_ori>God Himself is with us</pri_ver_ori>
+    <ori_let id="RochaJG" ano="1898" />
+    <ori_let id="TersteegenG" ano="1729" />
+    <ori_mus id="NeanderJ" />
+    <ori_mus id="BundesLieder" ano="1680" />
+    <ref_bib liv="Gn" cap="28" ver="17" />
+    <ref_bib liv="Sl" cap="95" ver="6" />
+    <tex>
+        <est>
+            <ver>Deus está no templo!</ver>
+            <ver>Pai onipotente!</ver>
+            <ver>A seus pés nos humilhamos.</ver>
+            <ver>Servos consagrados,</ver>
+            <ver>Reverentemente,</ver>
+            <ver>Ao Deus santo adoramos.</ver>
+            <ver>Por favor, com amor,</ver>
+            <ver>Espiritualmente,</ver>
+            <ver>Deus está no templo!</ver>
+        </est>
+        <est>
+            <ver>Cristo está no templo!</ver>
+            <ver>Sumo benefício</ver>
+            <ver>Por seu sangue nos foi dado.</ver>
+            <ver>Ele, o bom Cordeiro,</ver>
+            <ver>Foi o sacrifício</ver>
+            <ver>Que expiou o vil pecado.</ver>
+            <ver>Escolheu e sofreu</ver>
+            <ver>O cabal suplício;</ver>
+            <ver>Cristo está no templo!</ver>
+        </est>
+        <est>
+            <ver>Tu, que estás no templo,</ver>
+            <ver>Preceptor divino,</ver>
+            <ver>E os corações habitas;</ver>
+            <ver>Tu, paciente Mestre,</ver>
+            <ver>Dá-nos teu ensino,</ver>
+            <ver>Aclarando as leis benditas.</ver>
+            <ver>Que prazer conhecer</ver>
+            <ver>A graça infinita!</ver>
+            <ver>Sim, estás no templo!</ver>
+        </est>
+    </tex>
+</hino>

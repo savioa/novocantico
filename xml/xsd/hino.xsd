@@ -66,6 +66,20 @@
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>
+            <xs:attribute name="sit" use="optional">
+                <xs:annotation>
+                    <xs:documentation>Situação</xs:documentation>
+                </xs:annotation>
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="sem_audio">
+                            <xs:annotation>
+                                <xs:documentation>Sem áudio</xs:documentation>
+                            </xs:annotation>
+                        </xs:enumeration>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
             <xs:attribute name="num" use="required">
                 <xs:annotation>
                     <xs:documentation>Número</xs:documentation>

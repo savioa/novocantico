@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    num="003"
+    tit="A Igreja em Adoração"
+    tit_ant="Teu Povo Congregado"
+    sec="01_Louvor_e_Adoração"
+    ass="01_02_Deus_Trino"
+    met="11_10_11_10_D">
+    <tit_ori>O selig Haus</tit_ori>
+    <ori_let id="KalleySP" ano="1872" />
+    <ori_mus id="NiemeyerE" ano="1854" />
+    <ref_bib liv="Dt" cap="33" ver="3" />
+    <ref_bib liv="Lc" cap="10" ver="39" />
+    <tex>
+        <est>
+            <ver>Eterno Pai, teu povo congregado,</ver>
+            <ver>Humilde entoa o teu louvor aqui!</ver>
+            <ver>No dia para o culto reservado,</ver>
+            <ver>Com esperança olhamos para ti.</ver>
+            <ver>Teu santo livro, ó grande Deus, tomamos</ver>
+            <ver>Com fé singela e reverente amor;</ver>
+            <ver>E, como atentos filhos, procuramos</ver>
+            <ver>Ciência na Palavra do Senhor.</ver>
+        </est>
+        <est>
+            <ver>Jesus! Aos teus benditos pés sentados</ver>
+            <ver>Queremos teu conselho receber,</ver>
+            <ver>E sendo por ti mesmo doutrinados,</ver>
+            <ver>De mais em mais na santa fé crescer.</ver>
+            <ver>Do mundo e seus encargos retirados</ver>
+            <ver>Queremos descansar em ti, Senhor,</ver>
+            <ver>Mirando os ricos bens entesourados</ver>
+            <ver>Na plenitude do teu vasto amor.</ver>
+        </est>
+        <est>
+            <ver>Ensina aos teus, Espírito divino,</ver>
+            <ver>Dissipa as trevas destes corações;</ver>
+            <ver>E com a luz do teu celeste ensino,</ver>
+            <ver>Vem aclarar as santas instruções.</ver>
+            <ver>Aviva em nós as forças da memória,</ver>
+            <ver>Pois sempre mais queremos conhecer</ver>
+            <ver>O Rei dos céus, o Cristo cuja glória</ver>
+            <ver>Enleva os santos anjos de prazer. Amém.</ver>
+        </est>
+    </tex>
+</hino>

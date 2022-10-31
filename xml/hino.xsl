@@ -76,7 +76,7 @@
 
                         <div class='panel-body'>
                             <xsl:choose>
-                            <xsl:when test='nc:hino/@situacao'>
+                            <xsl:when test='nc:hino/@sit'>
                             </xsl:when>
                             <xsl:otherwise>
                             <a class='btn btn-primary pull-right' href='{nc:hino/@num}.pdf' role='button'>Mostrar partitura</a>
@@ -114,7 +114,7 @@
                         <div class='panel-body'>
                             <i class='fa fa-volume-up fa-5x pull-right'></i>
                             <xsl:choose>
-                            <xsl:when test='nc:hino/@situacao'>
+                            <xsl:when test='nc:hino/@sit'>
                             <p>Não disponível</p>
                             </xsl:when>
                             <xsl:otherwise>
