@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    num="006"
+    tit="Doxologia"
+    sec="01_Louvor_e_Adoração"
+    ass="01_02_Deus_Trino"
+    met="8_8_8_9">
+    <tit_ori>Old Hundreth</tit_ori>
+    <pri_ver_ori>Praise God from whom all blessings flow</pri_ver_ori>
+    <ori_let id="KenT" ano="1692" />
+    <ori_let id="SilveiraG" />
+    <ori_mus id="BourgeoisL" />
+    <ori_mus id="SalterioGenebra" ano="1551" />
+    <ori_mus id="GoudimelC" ano="1565" />
+    <ref_bib liv="1Cr" cap="29" ver="13" />
+    <ref_bib liv="Ap" cap="7" ver="12" />
+    <tex>
+        <est>
+            <ver>A Deus, supremo Benfeitor,</ver>
+            <ver>Anjos e homens deem louvor.</ver>
+            <ver>A Deus o Filho, a Deus o Pai,</ver>
+            <ver>E a Deus Espírito, glória dai.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

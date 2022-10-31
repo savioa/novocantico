@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    num="005"
+    tit="Trindade Adorada"
+    tit_ant="Glória à Trindade"
+    sec="01_Louvor_e_Adoração"
+    ass="01_02_Deus_Trino"
+    met="Irregular">
+    <tit_ori>Gloria Patri</tit_ori>
+    <pri_ver_ori>Glory be to the Father</pri_ver_ori>
+    <ori_let id="DoxologiaLatina" ano="sec. II" />
+    <ori_let id="RochaJG" />
+    <ori_mus id="MeinekeC" />
+    <ref_bib liv="Rm" cap="11" ver="36" />
+    <tex>
+        <est>
+            <ver>Glória seja ao Pai,</ver>
+            <ver>Ao Filho e ao Santo Espírito!</ver>
+            <ver>Como era no princípio,</ver>
+            <ver>E hoje e para sempre,</ver>
+            <ver>Eternamente! Amém! Amém!</ver>
+        </est>
+    </tex>
+</hino>

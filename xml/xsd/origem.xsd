@@ -180,10 +180,10 @@
                     <xs:documentation>Horatius Bonar</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
-            <xs:enumeration value="BorgeoisL">
+            <xs:enumeration value="BourgeoisL">
                 <xs:annotation>
-                    <xs:appinfo>Borgeois, Loys</xs:appinfo>
-                    <xs:documentation>Loys Borgeois</xs:documentation>
+                    <xs:appinfo>Bourgeois, Loys</xs:appinfo>
+                    <xs:documentation>Loys Bourgeois</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="BorthwickJL">

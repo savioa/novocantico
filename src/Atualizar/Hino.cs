@@ -73,12 +73,12 @@ public class Hino
             XAttribute? xaAno = xeOrigem.Attribute("ano");
 
             Identificador = xeOrigem.Attribute("id")!.Value;
-            Ano = xaAno != null ? int.Parse(xaAno.Value) : null;
+            Ano = xaAno != null ? xaAno.Value : string.Empty;
         }
 
         public string Identificador { get; set; }
 
-        public int? Ano { get; set; }
+        public string Ano { get; set; }
 
         private string DebuggerDisplay => $"{Identificador}{(Ano != null ? $", {Ano}" : string.Empty)}";
     }
