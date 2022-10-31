@@ -76,7 +76,7 @@ internal class Program
             origens.Add(idOrigem, (descricaoOrigem, referenciaOrigem));
         }
 
-        Dictionary<string, string> referencias = new();
+        Dictionary<string, (string Descricao, string IdOrdenacao)> referencias = new();
 
         XDocument xdReferencia = XDocument.Load("xsd\\referencia_biblica.xsd");
         foreach (XElement itemReferencia in xdReferencia.XPathSelectElements("//xs:enumeration", nsm))
@@ -89,8 +89,9 @@ internal class Program
             }
 
             string descricaoReferencia = itemReferencia.XPathSelectElement(".//xs:documentation", nsm)!.Value;
+            string idOrdenacao = itemReferencia.XPathSelectElement(".//xs:appinfo", nsm)!.Value;
 
-            referencias.Add(idReferencia, descricaoReferencia);
+            referencias.Add(idReferencia, (descricaoReferencia, idOrdenacao));
         }
 
         List<Hino> hinario = new();
@@ -166,7 +167,7 @@ internal class Program
             {
                 string idReferencia = $"{referencia.Livro}_{referencia.Capitulo}_{referencia.Versiculos}";
                 string descricaoReferencia = $"{referencia.Capitulo}.{referencia.Versiculos}";
-                indices["referencia-biblica"].AdicionarOcorrencia(referencia.Livro, referencias[referencia.Livro], idReferencia, descricaoReferencia, hino);
+                indices["referencia-biblica"].AdicionarOcorrencia(referencia.Livro, referencias[referencia.Livro].Descricao, idReferencia, descricaoReferencia, hino, referencias[referencia.Livro].IdOrdenacao);
             }
 
             foreach (string tituloOriginal in hino.TitulosOriginais)
@@ -206,7 +207,7 @@ internal class Program
         return texto.TrimEnd('.', ',', ';', ':');
     }
 
-    private static void GravarHino(Dictionary<string, string> metricas, Dictionary<string, (string Descricao, string Referencia)> origens, Dictionary<string, string> referencias, string caminhoXml, Hino hino, XslCompiledTransform transformer)
+    private static void GravarHino(Dictionary<string, string> metricas, Dictionary<string, (string Descricao, string Referencia)> origens, Dictionary<string, (string Descricao, string IdOrdenacao)> referencias, string caminhoXml, Hino hino, XslCompiledTransform transformer)
     {
         string caminhoSaida = $"..\\pub\\{hino.Numero}";
 
@@ -231,7 +232,7 @@ internal class Program
 
         foreach (Hino.ReferenciaBiblica referencia in hino.ReferenciasBiblicas)
         {
-            saida = saida.Replace($">{referencia.Livro}#", $">{referencias[referencia.Livro]} ");
+            saida = saida.Replace($">{referencia.Livro}#", $">{referencias[referencia.Livro].Descricao} ");
         }
 
         File.WriteAllText(caminhoSaida + "\\index.html", saida);

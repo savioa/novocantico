@@ -34,196 +34,235 @@
         <xs:restriction base="xs:string">
             <xs:enumeration value="Gn">
                 <xs:annotation>
+                    <xs:appinfo>01</xs:appinfo>
                     <xs:documentation>Gênesis</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ex">
                 <xs:annotation>
+                    <xs:appinfo>02</xs:appinfo>
                     <xs:documentation>Êxodo</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Lv">
                 <xs:annotation>
+                    <xs:appinfo>03</xs:appinfo>
                     <xs:documentation>Levítico</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Dt">
                 <xs:annotation>
+                    <xs:appinfo>05</xs:appinfo>
                     <xs:documentation>Deuteronômio</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Rt">
                 <xs:annotation>
+                    <xs:appinfo>08</xs:appinfo>
                     <xs:documentation>Rute</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="2Sm">
                 <xs:annotation>
+                    <xs:appinfo>10</xs:appinfo>
                     <xs:documentation>2 Samuel</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="1Cr">
                 <xs:annotation>
+                    <xs:appinfo>13</xs:appinfo>
                     <xs:documentation>1 Crônicas</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ne">
                 <xs:annotation>
+                    <xs:appinfo>16</xs:appinfo>
                     <xs:documentation>Neemias</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Sl">
                 <xs:annotation>
+                    <xs:appinfo>19</xs:appinfo>
                     <xs:documentation>Salmos</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Pv">
                 <xs:annotation>
+                    <xs:appinfo>20</xs:appinfo>
                     <xs:documentation>Provérbios</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ec">
                 <xs:annotation>
+                    <xs:appinfo>21</xs:appinfo>
                     <xs:documentation>Eclesiastes</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ct">
                 <xs:annotation>
+                    <xs:appinfo>22</xs:appinfo>
                     <xs:documentation>Cantares</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Is">
                 <xs:annotation>
+                    <xs:appinfo>23</xs:appinfo>
                     <xs:documentation>Isaías</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Lm">
                 <xs:annotation>
+                    <xs:appinfo>25</xs:appinfo>
                     <xs:documentation>Lamentações</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ez">
                 <xs:annotation>
+                    <xs:appinfo>26</xs:appinfo>
                     <xs:documentation>Ezequiel</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Dn">
                 <xs:annotation>
+                    <xs:appinfo>27</xs:appinfo>
                     <xs:documentation>Daniel</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Os">
                 <xs:annotation>
+                    <xs:appinfo>28</xs:appinfo>
                     <xs:documentation>Oséias</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Hc">
                 <xs:annotation>
+                    <xs:appinfo>35</xs:appinfo>
                     <xs:documentation>Habacuque</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Mt">
                 <xs:annotation>
+                    <xs:appinfo>40</xs:appinfo>
                     <xs:documentation>Mateus</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Mc">
                 <xs:annotation>
+                    <xs:appinfo>41</xs:appinfo>
                     <xs:documentation>Marcos</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Lc">
                 <xs:annotation>
+                    <xs:appinfo>42</xs:appinfo>
                     <xs:documentation>Lucas</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Jo">
                 <xs:annotation>
+                    <xs:appinfo>43</xs:appinfo>
                     <xs:documentation>João</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="At">
                 <xs:annotation>
+                    <xs:appinfo>44</xs:appinfo>
                     <xs:documentation>Atos</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Rm">
                 <xs:annotation>
+                    <xs:appinfo>45</xs:appinfo>
                     <xs:documentation>Romanos</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="1Co">
                 <xs:annotation>
+                    <xs:appinfo>46</xs:appinfo>
                     <xs:documentation>1 Coríntios</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="2Co">
                 <xs:annotation>
+                    <xs:appinfo>47</xs:appinfo>
                     <xs:documentation>2 Coríntios</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Gl">
                 <xs:annotation>
+                    <xs:appinfo>48</xs:appinfo>
                     <xs:documentation>Gálatas</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ef">
                 <xs:annotation>
+                    <xs:appinfo>49</xs:appinfo>
                     <xs:documentation>Efésios</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Fp">
                 <xs:annotation>
+                    <xs:appinfo>50</xs:appinfo>
                     <xs:documentation>Filipenses</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Cl">
                 <xs:annotation>
+                    <xs:appinfo>51</xs:appinfo>
                     <xs:documentation>Colossenses</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="1Ts">
                 <xs:annotation>
+                    <xs:appinfo>52</xs:appinfo>
                     <xs:documentation>1 Tessalonicenses</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="1Tm">
                 <xs:annotation>
+                    <xs:appinfo>54</xs:appinfo>
                     <xs:documentation>1 Timóteo</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="2Tm">
                 <xs:annotation>
+                    <xs:appinfo>55</xs:appinfo>
                     <xs:documentation>2 Timóteo</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Hb">
                 <xs:annotation>
+                    <xs:appinfo>58</xs:appinfo>
                     <xs:documentation>Hebreus</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="1Pe">
                 <xs:annotation>
+                    <xs:appinfo>60</xs:appinfo>
                     <xs:documentation>1 Pedro</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="2Pe">
                 <xs:annotation>
+                    <xs:appinfo>61</xs:appinfo>
                     <xs:documentation>2 Pedro</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="1Jo">
                 <xs:annotation>
+                    <xs:appinfo>62</xs:appinfo>
                     <xs:documentation>1 João</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Jd">
                 <xs:annotation>
+                    <xs:appinfo>65</xs:appinfo>
                     <xs:documentation>Judas</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="Ap">
                 <xs:annotation>
+                    <xs:appinfo>66</xs:appinfo>
                     <xs:documentation>Apocalipse</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>

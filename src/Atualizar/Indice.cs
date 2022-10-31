@@ -16,13 +16,13 @@ public class Indice
 
     public IList<Grupo> Grupos { get; set; }
 
-    public void AdicionarOcorrencia(string valorGrupo, string descricaoGrupo, string valorTermo, string descricaoTermo, Hino hino)
+    public void AdicionarOcorrencia(string valorGrupo, string descricaoGrupo, string valorTermo, string descricaoTermo, Hino hino, string valorGrupoOrdenacao = "")
     {
         Grupo? grupo = Grupos.FirstOrDefault(g => g.Valor == valorGrupo);
 
         if (grupo == null)
         {
-            grupo = new(valorGrupo, descricaoGrupo);
+            grupo = new(valorGrupo, descricaoGrupo, valorGrupoOrdenacao);
             Grupos.Add(grupo);
         }
 
@@ -38,7 +38,7 @@ public class Indice
 
         xeIndice.Add(new XAttribute("nome", Nome));
 
-        foreach (Grupo grupo in Grupos.OrderBy(g => g.Valor))
+        foreach (Grupo grupo in Grupos.OrderBy(g => g.ValorOrdenacao))
         {
             xdIndice.Element("indice")!.Add(grupo.ToXElement());
         }
@@ -49,16 +49,19 @@ public class Indice
     [DebuggerDisplay("{Descricao,nq}")]
     public class Grupo
     {
-        public Grupo(string valor, string descricao)
+        public Grupo(string valor, string descricao, string valorOrdenacao = "")
         {
             Valor = valor;
             Descricao = descricao;
+            ValorOrdenacao = !string.IsNullOrEmpty(valorOrdenacao) ? valorOrdenacao : valor;
             Termos = new List<Termo>();
         }
 
         public string Valor { get; set; }
 
         public string Descricao { get; set; }
+
+        public string ValorOrdenacao { get; set; }
 
         public IList<Termo> Termos { get; set; }
 
