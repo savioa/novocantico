@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="008" tit="Adoração à Trindade" sec="01_Louvor_e_Adoração" ass="01_02_Deus_Trino" met="7_8_7_8_7_7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Congresso</tit_ori>
+    <ori_let id="FranzI" />
+    <ori_let id="TeDeum" ano="sec. IV" />
+    <ori_let id="MoretonRH" ano="1898" />
+    <ori_let id="PortoFilhoMS" ano="1966" />
+    <ori_mus id="Anonimo" />
+    <ori_mus id="GemeinschaftsLieder" ano="1875" />
+    <ori_mus id="RappardD" />
+    <ref_bib liv="Sl" cap="32" ver="1" />
+    <ref_bib liv="Rm" cap="14" ver="11" />
+    <tex>
+        <est>
+            <ver>Grande Deus, o teu louvor</ver>
+            <ver>Hoje, unidos, entoamos;</ver>
+            <ver>Teu excelso e doce amor</ver>
+            <ver>Com os anjos celebramos.</ver>
+            <ver>E em adoração a ti</ver>
+            <ver>Vimos bendizer-te aqui.</ver>
+        </est>
+        <est>
+            <ver>Cristo, Salvador veraz,</ver>
+            <ver>Com poder em nós domina!</ver>
+            <ver>Tua graça e tua paz,</ver>
+            <ver>Ó Senhor, ao mundo ensina.</ver>
+            <ver>Redimido, em tua luz,</ver>
+            <ver>Vem fazê-lo andar, Jesus!</ver>
+        </est>
+        <est>
+            <ver>Santo Espírito eternal,!</ver>
+            <ver>Oh, dirige as nossas mentes</ver>
+            <ver>Para, em comunhão real,</ver>
+            <ver>Te buscarmos reverentes;</ver>
+            <ver>E o nosso coração</ver>
+            <ver>Se encherá de gratidão.</ver>
+        </est>
+        <est>
+            <ver>Ó Deus Trino, pois a ti</ver>
+            <ver>Sejam, sem cessar, rendidas</ver>
+            <ver>Pelos filhos teus aqui,</ver>
+            <ver>Honra e glória sem medida.</ver>
+            <ver>Infinito é o teu amor!</ver>
+            <ver>Cantem todos teu louvor!</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

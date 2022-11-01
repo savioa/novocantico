@@ -17,6 +17,12 @@
                     <xs:documentation>6.6.8.6.6.8.6.6.6</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="7_8_7_8_7_7">
+                <xs:annotation>
+                    <xs:appinfo>07_08_07_08_07_07</xs:appinfo>
+                    <xs:documentation>7.8.7.8.7.7</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="8_8_8_8">
                 <xs:annotation>
                     <xs:appinfo>08_08_08_08</xs:appinfo>
