@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="009" tit="Aleluia ao Deus Trino" tit_ant="Aleluia ao Deus Triúno" sec="01_Louvor_e_Adoração" ass="01_02_Deus_Trino" met="10_10_10_8" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Sarum</tit_ori>
+    <ori_let id="WrightHM" ano="1901" />
+    <ori_mus id="BarnbyJ" ano="1868" />
+    <ref_bib liv="Sl" cap="44" ver="8" />
+    <ref_bib liv="Sl" cap="66" ver="1" />
+    <tex>
+        <est>
+            <ver>A ti, ó Deus, altíssimo Senhor,</ver>
+            <ver>Eterno Pai, supremo Benfeitor,</ver>
+            <ver>Teus filhos vêm, alegres, dar louvor.</ver>
+            <ver>Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>A ti, Deus Filho, Salvador Jesus,</ver>
+            <ver>Da graça a fonte, da verdade a luz;</ver>
+            <ver>Por teu amor mostrado sobre a cruz,</ver>
+            <ver>Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>A ti, ó Deus, Espírito de amor,</ver>
+            <ver>De nossas almas santificador.</ver>
+            <ver>Mestre divino, bom Consolador,</ver>
+            <ver>Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>Ó Deus Trino, vem nos conceder</ver>
+            <ver>A plenitude do real poder</ver>
+            <ver>E as nossas almas vem, aqui, reger.</ver>
+            <ver>Aleluia! Aleluia!</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
