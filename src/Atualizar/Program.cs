@@ -26,7 +26,7 @@ internal class Program
         XmlNamespaceManager nsm = new(new NameTable());
         nsm.AddNamespace("xs", "http://www.w3.org/2001/XMLSchema");
 
-        Dictionary<string, string> metricas = new();
+        Dictionary<string, (string Descricao, string IdOrdenacao)> metricas = new();
 
         XDocument xdMetrica = XDocument.Load("xsd\\metrica.xsd");
         foreach (XElement itemMetrica in xdMetrica.XPathSelectElements("//xs:enumeration", nsm))
@@ -39,13 +39,14 @@ internal class Program
             }
 
             string descricaoMetrica = itemMetrica.XPathSelectElement(".//xs:documentation", nsm)!.Value;
+            string idOrdenacao = itemMetrica.XPathSelectElement(".//xs:appinfo", nsm)!.Value;
 
             if (idMetrica != descricaoMetrica.Replace('.', '_').Replace('[', '_').Replace(']', '_'))
             {
                 throw new Exception($"O identificador e a descrição da métrica não são compatíveis: {idMetrica} {descricaoMetrica}");
             }
 
-            metricas.Add(idMetrica, descricaoMetrica);
+            metricas.Add(idMetrica, (descricaoMetrica, idOrdenacao));
         }
 
         Dictionary<string, (string Descricao, string Referencia)> origens = new();
@@ -174,7 +175,7 @@ internal class Program
             {
                 string idTituloOriginal = ObterInicial(tituloOriginal);
                 indices["titulo-original"].AdicionarOcorrencia(idTituloOriginal.ToLower(), idTituloOriginal, tituloOriginal, string.Empty, hino);
-                indices["metrica"].AdicionarOcorrencia(hino.Metrica, metricas[hino.Metrica], tituloOriginal, string.Empty, hino);
+                indices["metrica"].AdicionarOcorrencia(hino.Metrica, metricas[hino.Metrica].Descricao, tituloOriginal, string.Empty, hino, metricas[hino.Metrica].IdOrdenacao);
             }
 
             foreach (string primeiroVersoOriginal in hino.PrimeirosVersosOriginais)
@@ -207,7 +208,7 @@ internal class Program
         return texto.TrimEnd('.', ',', ';', ':');
     }
 
-    private static void GravarHino(Dictionary<string, string> metricas, Dictionary<string, (string Descricao, string Referencia)> origens, Dictionary<string, (string Descricao, string IdOrdenacao)> referencias, string caminhoXml, Hino hino, XslCompiledTransform transformer)
+    private static void GravarHino(Dictionary<string, (string Descricao, string IdOrdenacao)> metricas, Dictionary<string, (string Descricao, string Referencia)> origens, Dictionary<string, (string Descricao, string IdOrdenacao)> referencias, string caminhoXml, Hino hino, XslCompiledTransform transformer)
     {
         string caminhoSaida = $"..\\pub\\{hino.Numero}";
 
@@ -223,7 +224,7 @@ internal class Program
         string saida = twSaida.ToString();
 
         saida = saida.Replace(" xmlns:nc=\"http://www.novocantico.com.br/schema/hino\"", string.Empty);
-        saida = saida.Replace($">{hino.Metrica}<", $">{metricas[hino.Metrica]}<");
+        saida = saida.Replace($">{hino.Metrica}<", $">{metricas[hino.Metrica].Descricao}<");
 
         foreach (Hino.Origem origem in hino.OrigemLetra.Union(hino.OrigemMusica))
         {
