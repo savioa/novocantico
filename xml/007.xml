@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino sit="sem_audio"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    num="007"
+    tit="Glória à Trindade"
+    sec="01_Louvor_e_Adoração"
+    ass="01_02_Deus_Trino"
+    met="6_6_4_6_6_6_4">
+    <tit_ori>Greenwood</tit_ori>
+    <ori_let id="GueirosJ" />
+    <ori_mus id="ProutE" />
+    <ref_bib liv="Sl" cap="9" ver="1" />
+    <ref_bib liv="Sl" cap="29" ver="1,2" />
+    <tex>
+        <est>
+            <ver>A ti, meu Criador,</ver>
+            <ver>Dos altos céus Senhor,</ver>
+            <ver>Eu quero honrar.</ver>
+            <ver>Aceita a adoração</ver>
+            <ver>Que a voz e o coração</ver>
+            <ver>Te vêm, bondoso Pai,</ver>
+            <ver>Aqui prestar.</ver>
+        </est>
+        <est>
+            <ver>A ti, Emanuel,</ver>
+            <ver>Por teu amor fiel</ver>
+            <ver>Rendo eu louvor.</ver>
+            <ver>Do céu trouxeste a luz,</ver>
+            <ver>Por mim sofreste a cruz,</ver>
+            <ver>Bendito sejas, pois,</ver>
+            <ver>Meu Redentor</ver>
+        </est>
+        <est>
+            <ver>A ti, Consolador,</ver>
+            <ver>Divino Preceptor,</ver>
+            <ver>Eu louvarei.</ver>
+            <ver>Com teu poder sem par,</ver>
+            <ver>Oh! Vem me iluminar,</ver>
+            <ver>E assim, ao teu fulgor,</ver>
+            <ver>Eu brilharei.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
