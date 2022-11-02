@@ -21,7 +21,7 @@
             <xs:enumeration value="AgnusDei">
                 <xs:annotation>
                     <xs:appinfo>“Agnus Dei” da Missa Breve em Ré Maior K.194</xs:appinfo>
-                    <xs:documentation>Agnus Dei</xs:documentation>
+                    <xs:documentation>“Agnus Dei” da Missa Breve em Ré Maior K.194</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="AllenCG">
@@ -644,8 +644,8 @@
             </xs:enumeration>
             <xs:enumeration value="GemeinschaftsLieder">
                 <xs:annotation>
-                    <xs:appinfo>“Gemeinschafts Lieder”</xs:appinfo>
-                    <xs:documentation>“Gemeinschafts Lieder”</xs:documentation>
+                    <xs:appinfo>“Gemeinschafts-Lieder”</xs:appinfo>
+                    <xs:documentation>“Gemeinschafts-Lieder”</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="GerhardtP">
@@ -1418,8 +1418,8 @@
             </xs:enumeration>
             <xs:enumeration value="SalterioGenebra">
                 <xs:annotation>
-                    <xs:appinfo>“Saltério de Genebra”</xs:appinfo>
-                    <xs:documentation>“Saltério de Genebra”</xs:documentation>
+                    <xs:appinfo>Salmo 134 do Saltério de Genebra</xs:appinfo>
+                    <xs:documentation>Salmo 134 do Saltério de Genebra</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="SalumIN">
