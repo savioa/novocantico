@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="013" tit="Contemplação" tit_ant="Contemplação de Deus" sec="01_Louvor_e_Adoração" ass="01_03_Deus_Santo" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Always Cheerful</tit_ori>
+    <ori_let id="NevesAJS" ano="1867" />
+    <ori_mus id="LowryR" />
+    <ref_bib liv="Ex" cap="30" ver="20" />
+    <tex>
+        <est>
+            <ver>Se nos cega o sol ardente</ver>
+            <ver>Quando visto em seu fulgor,</ver>
+            <ver>Quem contemplará aquele</ver>
+            <ver>Que do sol é criador?</ver>
+            <ver>Patriarcas não puderam</ver>
+            <ver>O seu rosto contemplar,</ver>
+            <ver>Nem Adão chegou a vê-lo</ver>
+            <ver>Antes mesmo de pecar!</ver>
+        </est>
+        <est>
+            <ver>Luz perante a qual é trevas</ver>
+            <ver>Mesmo o sol a fulgurar!</ver>
+            <ver>Nossos olhos pecadores</ver>
+            <ver>Não te podem contemplar!</ver>
+            <ver>Fogo em cima da arca santa,</ver>
+            <ver>Sarça ardente do Sinai,</ver>
+            <ver>São figuras dessa glória</ver>
+            <ver>Do Senhor e eterno Pai.</ver>
+        </est>
+        <est>
+            <ver>Para termos nós com ele</ver>
+            <ver>Franca e doce comunhão,</ver>
+            <ver>Cristo, o Filho fez-se carne,</ver>
+            <ver>Fez-se nossa redenção!</ver>
+            <ver>Para que na glória eterna</ver>
+            <ver>O vejamos já sem véu,</ver>
+            <ver>Cristo padeceu a morte,</ver>
+            <ver>O caminho abrindo ao céu.</ver>
+        </est>
+    </tex>
+</hino>
