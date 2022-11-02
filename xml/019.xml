@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="19" tit="Rei Sublime" tit_ant="Ó Rei Sublime" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Pilgrims</tit_ori>
+    <ori_let id="KalleySP" ano="1888" />
+    <ori_mus id="SmartHT" ano="1868" />
+    <ref_bib liv="Sl" cap="93" ver="1" />
+    <ref_bib liv="Sl" cap="145" ver="5" />
+    <tex>
+        <est>
+            <ver>Ó Rei sublime em majestade e glória,</ver>
+            <ver>Sobre as milícias do celeste além,</ver>
+            <ver>Ouve o louvor, os hinos de vitória,</ver>
+            <ver>Dos que de ti recebem todo bem!</ver>
+            <cor>
+                <ver>Vinde, ó remidos, filhos de Deus!</ver>
+                <ver>Cantai louvores que alcancem os céus!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Nos altos céus louvor a Deus ressoa,</ver>
+            <ver>De gratidão ao soberano amor!</ver>
+            <ver>Os redimidos com fervor entoam</ver>
+            <ver>O nome excelso de seu Benfeitor.</ver>
+        </est>
+        <est>
+            <ver>Eterno Deus, teus filhos vês prostrados</ver>
+            <ver>Perante o brilho da superna luz,</ver>
+            <ver>Pois do pecado foram resgatados,</ver>
+            <ver>E agora rendem glórias a Jesus!</ver>
+        </est>
+    </tex>
+</hino>

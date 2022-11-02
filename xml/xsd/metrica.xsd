@@ -65,6 +65,12 @@
                     <xs:documentation>10.10.10.10</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="11_10_11_10_Coro">
+                <xs:annotation>
+                    <xs:appinfo>11_10_11_10_Coro</xs:appinfo>
+                    <xs:documentation>11.10.11.10.Coro</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="11_10_11_10_D">
                 <xs:annotation>
                     <xs:appinfo>11_10_11_10_D</xs:appinfo>
