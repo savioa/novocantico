@@ -662,8 +662,8 @@
             </xs:enumeration>
             <xs:enumeration value="GoncalvesAC">
                 <xs:annotation>
-                    <xs:appinfo>Gonçalves, Antonio de Campos</xs:appinfo>
-                    <xs:documentation>Antonio de Campos Gonçalves</xs:documentation>
+                    <xs:appinfo>Gonçalves, Antônio de Campos</xs:appinfo>
+                    <xs:documentation>Antônio de Campos Gonçalves</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="GoncalvesR">

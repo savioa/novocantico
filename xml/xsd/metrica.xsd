@@ -71,6 +71,12 @@
                     <xs:documentation>12.12.12.10</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="14_14_4_7_8">
+                <xs:annotation>
+                    <xs:appinfo>14_14_04_07_08</xs:appinfo>
+                    <xs:documentation>14.14.4.7.8</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="Irregular">
                 <xs:annotation>
                     <xs:appinfo>Irregular</xs:appinfo>

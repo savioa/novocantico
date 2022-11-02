@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="016" tit="Louvor ao Deus Soberano" tit_ant="Louvai a Deus" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="14_14_4_7_8" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Lobe den Herren</tit_ori>
+    <pri_ver_ori>Lobe den Herren</pri_ver_ori>
+    <ori_let id="NeanderJ" ano="1680" />
+    <ori_let id="GoncalvesAC" ano="1954" />
+    <ori_mus id="StralsundGesangbuch" ano="1665" />
+    <ori_mus id="PraxisPietatisMelica" ano="1668" />
+    <ref_bib liv="Sl" cap="9" ver="1" />
+    <ref_bib liv="Dn" cap="4" ver="37" />
+    <tex>
+        <est>
+            <ver>Louvai a Deus, soberano Senhor do que é feito.</ver>
+            <ver>Louvai-o, sim, de vossa alma, tesouro perfeito!</ver>
+            <ver>A Deus cantai</ver>
+            <ver>E, com fervor, tributai</ver>
+            <ver>Profundo amor e respeito.</ver>
+        </est>
+        <est>
+            <ver>Louvai a Deus que vos faz prosperar dia a dia;</ver>
+            <ver>E, com amor, vos defende e abençoa a porfia.</ver>
+            <ver>Lembrai, também,</ver>
+            <ver>Que o poderoso vos vem</ver>
+            <ver>Fazer feliz companhia.</ver>
+        </est>
+    </tex>
+</hino>
