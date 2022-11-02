@@ -103,6 +103,12 @@
                                 </li>
                                 </xsl:for-each>
                             </ul>
+                            <nav>
+                                <ul class="pager">
+                                    <li class="previous"><a href="../#ant"><i class="fa fa-angle-left"></i> HINOANTERIOR</a></li>
+                                    <li class="next"><a href="../#pos">HINOPOSTERIOR <i class="fa fa-angle-right"></i></a></li>
+                                </ul>
+                            </nav>
                         </div>
                     </div>
                 </div>

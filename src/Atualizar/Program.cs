@@ -113,7 +113,7 @@ internal class Program
         XslCompiledTransform transformer = new();
         transformer.Load("hino.xsl");
 
-        foreach (string caminhoXml in Directory.EnumerateFiles(Directory.GetCurrentDirectory(), "*.xml"))
+        foreach (string caminhoXml in Directory.EnumerateFiles(Directory.GetCurrentDirectory(), "*.xml").OrderBy(c => c))
         {
             XDocument xdHino = XDocument.Load(caminhoXml);
 
@@ -183,8 +183,15 @@ internal class Program
                 string idPrimeiroVersoOriginal = ObterInicial(primeiroVersoOriginal);
                 indices["primeiro-verso-original"].AdicionarOcorrencia(idPrimeiroVersoOriginal.ToLower(), idPrimeiroVersoOriginal, RemoverTerminais(primeiroVersoOriginal), string.Empty, hino);
             }
+        }
 
-            GravarHino(metricas, origens, referencias, caminhoXml, hino, transformer);
+        foreach (Hino hino in hinario)
+        {
+            int indiceAtual = hinario.IndexOf(hino);
+            int indiceAnterior = indiceAtual == 0 ? hinario.Count - 1 : indiceAtual - 1;
+            int indicePosterior = indiceAtual == hinario.Count - 1 ? 0 : indiceAtual + 1;
+
+            GravarHino(metricas, origens, referencias, hino, transformer, hinario[indiceAnterior], hinario[indicePosterior]);
         }
 
         GravarIndices(indices);
@@ -208,7 +215,7 @@ internal class Program
         return texto.TrimEnd('.', ',', ';', ':');
     }
 
-    private static void GravarHino(Dictionary<string, (string Descricao, string IdOrdenacao)> metricas, Dictionary<string, (string Descricao, string Referencia)> origens, Dictionary<string, (string Descricao, string IdOrdenacao)> referencias, string caminhoXml, Hino hino, XslCompiledTransform transformer)
+    private static void GravarHino(Dictionary<string, (string Descricao, string IdOrdenacao)> metricas, Dictionary<string, (string Descricao, string Referencia)> origens, Dictionary<string, (string Descricao, string IdOrdenacao)> referencias, Hino hino, XslCompiledTransform transformer, Hino anterior, Hino posterior)
     {
         string caminhoSaida = $"..\\pub\\{hino.Numero}";
 
@@ -219,7 +226,7 @@ internal class Program
 
         StringWriterUtf8 twSaida = new();
 
-        transformer.Transform(caminhoXml, null, twSaida);
+        transformer.Transform($"{hino.Numero}.xml", null, twSaida);
 
         string saida = twSaida.ToString();
 
@@ -235,6 +242,12 @@ internal class Program
         {
             saida = saida.Replace($">{referencia.Livro}#", $">{referencias[referencia.Livro].Descricao} ");
         }
+
+        saida = saida.Replace("#ant", anterior.Numero);
+        saida = saida.Replace("HINOANTERIOR", $"{anterior.Numero} · {anterior.Titulo}");
+
+        saida = saida.Replace("#pos", posterior.Numero);
+        saida = saida.Replace("HINOPOSTERIOR", $"{posterior.Numero} · {posterior.Titulo}");
 
         File.WriteAllText(caminhoSaida + "\\index.html", saida);
     }
