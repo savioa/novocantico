@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="018" tit="Deus dos Antigos" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="10_10_10_10" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>National Hymn</tit_ori>
+    <pri_ver_ori>God of our fathers, whose almighty hand</pri_ver_ori>
+    <ori_let id="RobertsDC" ano="1876" />
+    <ori_let id="FaustiniJW" ano="1958" />
+    <ori_mus id="WarrenGW" ano="1892" />
+    <ref_bib liv="Sl" cap="90" ver="1" />
+    <ref_bib liv="Sl" cap="105" ver="2,5,6" />
+    <tex>
+        <est>
+            <ver>Deus dos antigos, cuja forte mão</ver>
+            <ver>Rege e sustém os astros na amplidão!</ver>
+            <ver>Ó soberano, excelso Criador,</ver>
+            <ver>Com gratidão cantamos teu louvor!</ver>
+        </est>
+        <est>
+            <ver>Desde o passado foste nossa luz,</ver>
+            <ver>Sol que até hoje com fulgor reluz!</ver>
+            <ver>Sê nosso Esteio, Guia e Proteção,</ver>
+            <ver>Tua Palavra, lei e direção.</ver>
+        </est>
+        <est>
+            <ver>Da guerra atroz, do crime e assolação,</ver>
+            <ver>Dos tempos maus de um mundo em confusão,</ver>
+            <ver>Seja o teu braço o nosso defensor,</ver>
+            <ver>Pois confiamos sempre em ti, Senhor!</ver>
+        </est>
+        <est>
+            <ver>Teu povo, ó Deus, assiste em seu labor,</ver>
+            <ver>No testemunho do teu grande amor.</ver>
+            <ver>As nossas vidas vem fortalecer</ver>
+            <ver>Para o teu nome sempre engrandecer.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
