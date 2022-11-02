@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="017" tit="Deus Seja Louvado" tit_ant="Seja Louvado" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="10_9_10_9_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Lenington</tit_ori>
+    <ori_let id="CaldasAPS" />
+    <ori_mus id="Anonimo" />
+    <ori_mus id="ReamAW" ano="1940" />
+    <ref_bib liv="Sl" cap="71" ver="22" />
+    <ref_bib liv="Sl" cap="81" ver="1" />
+    <tex>
+        <est>
+            <ver>Seja louvado o Deus supremo,</ver>
+            <ver>Deus revelado em Israel!</ver>
+            <ver>Onipotente, prodígios obra,</ver>
+            <ver>Sempre clemente, sempre fiel.</ver>
+            <cor>
+                <ver>Seja louvado o Deus supremo,</ver>
+                <ver>Deus revelado em Israel.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Louvor perene só Deus merece!</ver>
+            <ver>Cantai, não cesse o seu louvor!</ver>
+            <ver>De todos seja sempre exaltado,</ver>
+            <ver>E cante a Igreja com terno amor.</ver>
+        </est>
+    </tex>
+</hino>
