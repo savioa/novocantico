@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="011" tit="Trindade Santíssima" tit_ant="Santo! Santo! Santo!" sec="01_Louvor_e_Adoração" ass="01_03_Deus_Santo" met="12_12_12_10" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tit_ori>Nicaea</tit_ori>
+  <pri_ver_ori>Holy, holy, holy, Lord God Almighty</pri_ver_ori>
+  <ori_let id="HeberR" ano="1827" />
+  <ori_let id="RochaJG" ano="1888" />
+  <ori_mus id="DykesJB" ano="1861" />
+  <ori_mus id="KettringDD" ano="1940" />
+  <ref_bib liv="Ap" cap="4" ver="8" />
+  <tex>
+    <est>
+      <ver>Santo! Santo! Santo! Deus onipotente!</ver>
+      <ver>Louvam nossas vozes teu nome com fervor!</ver>
+      <ver>Santo! Santo! Santo! Justo e compassivo!</ver>
+      <ver>És o Deus trino, excelso criador!</ver>
+    </est>
+    <est>
+      <ver>Santo! Santo! Santo! Nós, os pecadores,</ver>
+      <ver>Não podemos ver tua glória sem temor.</ver>
+      <ver>Tu somente és santo! Só tu és perfeito,</ver>
+      <ver>Deus soberano, imenso em teu amor.</ver>
+    </est>
+    <est>
+      <ver>Santo! Santo! Santo! Todos os remidos,</ver>
+      <ver>Juntos com os anjos, proclamam teu louvor!</ver>
+      <ver>Antes de formar-se o firmamento e a terra</ver>
+      <ver>Eras, e sempre és, e hás de ser, Senhor!</ver>
+    </est>
+    <est>
+      <ver>Santo! Santo! Santo! Deus onipotente!</ver>
+      <ver>Tuas obras louvam teu nome com fervor.</ver>
+      <ver>Santo! Santo! Santo! Justo e compassivo!</ver>
+      <ver>Deus soberano, excelso criador!</ver>
+      <ver>Amém.</ver>
+    </est>
+  </tex>
+</hino>
