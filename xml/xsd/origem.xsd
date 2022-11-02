@@ -20,7 +20,7 @@
             </xs:enumeration>
             <xs:enumeration value="AgnusDei">
                 <xs:annotation>
-                    <xs:appinfo>Agnus Dei</xs:appinfo>
+                    <xs:appinfo>“Agnus Dei” da Missa Breve em Ré Maior K.194</xs:appinfo>
                     <xs:documentation>Agnus Dei</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
@@ -852,12 +852,6 @@
                     <xs:documentation>Daniel ben Judah</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
-            <xs:enumeration value="K194">
-                <xs:annotation>
-                    <xs:appinfo>K. 194</xs:appinfo>
-                    <xs:documentation>K. 194</xs:documentation>
-                </xs:annotation>
-            </xs:enumeration>
             <xs:enumeration value="KalleyRR">
                 <xs:annotation>
                     <xs:appinfo>Kalley, Robert Reid</xs:appinfo>
@@ -1090,12 +1084,6 @@
                 <xs:annotation>
                     <xs:appinfo>Milton, John</xs:appinfo>
                     <xs:documentation>John Milton</xs:documentation>
-                </xs:annotation>
-            </xs:enumeration>
-            <xs:enumeration value="MissaBreveReMaior">
-                <xs:annotation>
-                    <xs:appinfo>Missa Breve em Ré Maior</xs:appinfo>
-                    <xs:documentation>Missa Breve em Ré Maior</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="MohrJ">

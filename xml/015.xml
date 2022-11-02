@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="015" tit="Doxologia" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Thine, O Lord, is the greatness</tit_ori>
+    <ori_let id="RochaJG" ano="1888" />
+    <ori_mus id="KentJ" />
+    <ori_mus id="AgnusDei" />
+    <ori_mus id="MozartWA" ano="1774" />
+    <ref_bib liv="1Cr" cap="29" ver="11" />
+    <ref_bib liv="Sl" cap="145" ver="3" />
+    <tex>
+        <est>
+            <ver>Tua, ó Deus, é toda a grandeza</ver>
+            <ver voz="Exceto Sop.">Tua, ó Deus, é toda a grandeza</ver>
+            <ver>Tua, ó Deus, é toda a grandeza</ver>
+            <ver>E o poder e a glória</ver>
+            <ver>E a vitória e os louvores;</ver>
+            <ver>Vitória e louvores!</ver>
+            <ver voz="Exceto Sop.">Tua, ó Deus,</ver>
+            <ver>tua, ó Deus,</ver>
+            <ver voz="Exceto Sop.">É a grandeza e o poder</ver>
+            <ver voz="Mulheres">A grandeza</ver>
+            <ver>e o poder</ver>
+            <ver voz="Cont. e Ten.">E a glória</ver>
+            <ver voz="Exceto Ten.">e a vitória</ver>
+            <ver>E os louvores eternos.</ver>
+            <ver voz="Mulheres">Pois tudo o que está</ver>
+            <ver>no mar,</ver>
+            <ver>E está no céu e na terra é teu!</ver>
+            <ver voz="Exceto Sop.">Teu é o domínio,</ver>
+            <ver>Teu é o domínio, ó Senhor!</ver>
+            <ver>E tu és acima</ver>
+            <ver voz="Exceto Ten.">de todos os reis,</ver>
+            <ver>De todos os reis.</ver>
+            <ver>Amém. Amém. Aleluia!</ver>
+        </est>
+    </tex>
+</hino>
