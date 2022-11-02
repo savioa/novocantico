@@ -35,6 +35,12 @@
                     <xs:documentation>8.8.8.9</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="8_8_8_8_8_Aleluias">
+                <xs:annotation>
+                    <xs:appinfo>08_08_08_08_08_Aleluias</xs:appinfo>
+                    <xs:documentation>8.8.8.8.8 com Aleluias</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="10_10_10_8">
                 <xs:annotation>
                     <xs:appinfo>10_10_10_08</xs:appinfo>

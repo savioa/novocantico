@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="010" tit="A Criação e seu Criador" tit_ant="Vós, Criaturas de Deus Pai" sec="01_Louvor_e_Adoração" ass="01_02_Deus_Trino" met="8_8_8_8_8_Aleluias" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Lasst uns erfreuen</tit_ori>
+    <pri_ver_ori>All creatures of our God and King</pri_ver_ori>
+    <pri_ver_ori>Laudato sia Dio mio Signore</pri_ver_ori>
+    <ori_let id="DraperWH" ano="1925" />
+    <ori_let id="CanticoDoSol" />
+    <ori_let id="AssisF" ano="1225" />
+    <ori_let id="MotaJC" ano="1962" />
+    <ori_let id="PortoFilhoMS" ano="1962" />
+    <ori_mus id="GeistlicheKirchengesang" ano="1623" />
+    <ori_mus id="CurryL" ano="1939" />
+    <ref_bib liv="Sl" cap="148" ver="1-3" />
+    <ref_bib liv="Sl" cap="150" ver="6" />
+    <tex>
+        <est>
+            <ver>Vós, criaturas de Deus Pai,</ver>
+            <ver>Todos erguei a voz, cantai!</ver>
+            <ver>Oh! Louvai-o! Aleluia!</ver>
+            <ver>Tu, sol dourado a refulgir,</ver>
+            <ver>Tu, lua em prata a reluzir,</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>Oh! Boa terra que nos dás</ver>
+            <ver>Infindas bênçãos, canta já!</ver>
+            <ver>Oh! Louvai-o! Aleluia!</ver>
+            <ver>Frutos e flores, juntos dai</ver>
+            <ver>A glória a Deus, Senhor e Pai.</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>Vós, homens sábios e de bem,</ver>
+            <ver>A todos proclamai também!</ver>
+            <ver>Oh! Louvai-o! Aleluia!</ver>
+            <ver>Louvor ao Filho, glória ao Pai</ver>
+            <ver>E ao Santo Espírito louvai!</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+    </tex>
+</hino>

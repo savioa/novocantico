@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="008" tit="Adoração à Trindade" sec="01_Louvor_e_Adoração" ass="01_02_Deus_Trino" met="7_8_7_8_7_7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Congresso</tit_ori>
+    <pri_ver_ori>Grosser Gott, wir loben dich</pri_ver_ori>
     <ori_let id="FranzI" />
     <ori_let id="TeDeum" ano="sec. IV" />
     <ori_let id="MoretonRH" ano="1898" />
