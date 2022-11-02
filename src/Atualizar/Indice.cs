@@ -22,7 +22,7 @@ public class Indice
 
         if (grupo == null)
         {
-            grupo = new(valorGrupo, descricaoGrupo, valorGrupoOrdenacao);
+            grupo = new(this, valorGrupo, descricaoGrupo, valorGrupoOrdenacao);
             Grupos.Add(grupo);
         }
 
@@ -49,13 +49,16 @@ public class Indice
     [DebuggerDisplay("{Descricao,nq}")]
     public class Grupo
     {
-        public Grupo(string valor, string descricao, string valorOrdenacao = "")
+        public Grupo(Indice pai, string valor, string descricao, string valorOrdenacao = "")
         {
+            Pai = pai;
             Valor = valor;
             Descricao = descricao;
             ValorOrdenacao = !string.IsNullOrEmpty(valorOrdenacao) ? valorOrdenacao : valor;
             Termos = new List<Termo>();
         }
+
+        public Indice Pai { get; set; }
 
         public string Valor { get; set; }
 
@@ -71,7 +74,7 @@ public class Indice
             xeGrupo.Add(new XAttribute("valor", Valor));
             xeGrupo.Add(new XAttribute("descricao", Descricao));
 
-            foreach (Termo termo in Termos.OrderBy(t => t.Valor))
+            foreach (Termo termo in Termos.OrderBy(t => t.ValorOrdenacao))
             {
                 xeGrupo.Add(termo.ToXElement());
             }
@@ -85,26 +88,40 @@ public class Indice
 
             if (termo == null)
             {
-                termo = new(valorTermo, descricaoTermo);
+                termo = new(this, valorTermo, descricaoTermo);
                 Termos.Add(termo);
             }
 
-            termo.Ocorrencias.Add(new Termo.Ocorrencia(hino));
+            termo.Ocorrencias.Add(new Termo.Ocorrencia(termo, hino));
         }
 
         [DebuggerDisplay("{Descricao,nq}")]
         public class Termo
         {
-            public Termo(string valor, string descricao)
+            public Termo(Grupo pai, string valor, string descricao, string valorOrdencao = "")
             {
+                Pai = pai;
                 Valor = valor;
                 Descricao = descricao;
+                ValorOrdenacao = string.IsNullOrEmpty(valorOrdencao) ? valor : valorOrdencao;
                 Ocorrencias = new List<Ocorrencia>();
+
+                if (pai.Pai.Nome == "Referência Bíblica")
+                {
+                    string[] itens = valor.Split("_");
+                    string[] versiculos = itens[2].Split(',', '-', ';');
+                   
+                    ValorOrdenacao = string.Join('_', itens[0], itens[1].PadLeft(3, '0'), string.Join('_', versiculos.Select(v => v.PadLeft(3, '0'))));
+                }
             }
+
+            public Grupo Pai { get; set; }
 
             public string Valor { get; set; }
 
             public string Descricao { get; set; }
+
+            public string ValorOrdenacao { get; set; }
 
             public IList<Ocorrencia> Ocorrencias { get; set; }
 
@@ -129,13 +146,16 @@ public class Indice
             [DebuggerDisplay("{Valor,nq} - {Descricao,nq}")]
             public class Ocorrencia
             {
-                public Ocorrencia(Hino hino)
+                public Ocorrencia(Termo pai, Hino hino)
                 {
+                    Pai = pai;
                     Valor = hino.Numero;
                     Descricao = hino.Titulo;
                     TituloAnterior = hino.TituloAnterior;
                     ValorOrdenacao = hino.Numero.PadLeft(3, '0');
                 }
+
+                public Termo Pai { get; set; }
 
                 public string Valor { get; set; }
 
