@@ -118,7 +118,7 @@ public class Indice
                     xeTermo.Add(new XAttribute("descricao", Descricao));
                 }
 
-                foreach (Ocorrencia ocorrencia in Ocorrencias.OrderBy(o => o.Valor))
+                foreach (Ocorrencia ocorrencia in Ocorrencias.OrderBy(o => o.ValorOrdenacao))
                 {
                     xeTermo.Add(ocorrencia.ToXElement());
                 }
@@ -134,6 +134,7 @@ public class Indice
                     Valor = hino.Numero;
                     Descricao = hino.Titulo;
                     TituloAnterior = hino.TituloAnterior;
+                    ValorOrdenacao = hino.Numero.PadLeft(3, '0');
                 }
 
                 public string Valor { get; set; }
@@ -141,6 +142,8 @@ public class Indice
                 public string Descricao { get; set; }
 
                 public string TituloAnterior { get; set; }
+
+                public string ValorOrdenacao { get; set; }
 
                 public XElement ToXElement()
                 {

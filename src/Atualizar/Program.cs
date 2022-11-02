@@ -226,7 +226,7 @@ internal class Program
 
         StringWriterUtf8 twSaida = new();
 
-        transformer.Transform($"{hino.Numero}.xml", null, twSaida);
+        transformer.Transform($"{hino.Numero.PadLeft(3, '0')}.xml", null, twSaida);
 
         string saida = twSaida.ToString();
 
