@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="20" tit="Glorificação à Trindade" tit_ant="A Ti, Ó Deus, Louvamos" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tit_ori>Te Deum laudamus</tit_ori>
+  <pri_ver_ori>Te Deum laudamus</pri_ver_ori>
+  <ori_let id="Nicetas" ano="séc. IV" />
+  <ori_let id="RochaJG" ano="1888" />
+  <ori_mus id="JacksonW" />
+  <ref_bib liv="Sl" cap="117" ver="1" />
+  <ref_bib liv="Sl" cap="148" ver="1-3" />
+  <tex>
+    <est>
+      <ver>A ti, ó Deus louvamos,</ver>
+      <ver>E por nosso Senhor te confessamos!</ver>
+      <ver>A ti, ó Pai da Eternidade, adora toda a terra;</ver>
+      <ver>A ti, o coro angélico,</ver>
+      <ver>A ti, todo o poder do céu,</ver>
+      <ver>A ti, querubins e serafins proclamam sem cessar:</ver>
+      <ver>“Santo! Santo! Santo! Senhor Deus dos Exércitos!</ver>
+      <ver>Os céus e a terra estão cheios</ver>
+      <ver>Da majestade da sua glória!”</ver>
+      <ver>A ti, o glorioso coro apostólico louva;</ver>
+      <ver>A ti, a congregação dos profetas louva;</ver>
+      <ver>A ti, o nobre exército dos mártires louva;</ver>
+      <ver>A santa Igreja reconhece por toda a terra a ti:</ver>
+      <ver>Ao Deus Pai, infinito Dominador!</ver>
+      <ver>E ao teu venerável, vero e único Filho,</ver>
+      <ver>E ao Santo Espírito, Consolador.</ver>
+    </est>
+    <est>
+      <ver>Tu és Rei da Glória, ó Jesus!</ver>
+      <ver>Tu és o sempiterno Filho de Deus!</ver>
+      <ver>Quando vieste resgatar os homens,</ver>
+      <ver>Não te escusaste a nascer do ventre da Virgem!</ver>
+      <ver>Quando venceste a morte e seu aguilhão,</ver>
+      <ver>Logo abriste a teus servos</ver>
+      <ver>As portas do reino dos céus.</ver>
+      <ver>Estás sentado à destra de Deus</ver>
+      <ver>No trono onipotente.</ver>
+      <ver>Cremos que voltarás e aqui serás Juiz.</ver>
+      <ver>Portanto, nós, remidos com teu sangue,</ver>
+      <ver>Suplicamos teu auxílio!</ver>
+      <ver>Nós, que já estamos alistados com teus santos</ver>
+      <ver>Na glória eterna.</ver>
+    </est>
+    <est>
+      <ver>Senhor, guarda o povo e abençoa-nos.</ver>
+      <ver>Reina e guarda-nos para sempre.</ver>
+      <ver>Noite e dia te adoramos</ver>
+      <ver>E glorificamos teu nome sem par.</ver>
+      <ver>Senhor, concede que hoje</ver>
+      <ver>Nós vençamos o pecado!</ver>
+      <ver>Eterno e bondoso Pai, compadece-te de nós!</ver>
+      <ver>Concede-nos a tua misericórdia,</ver>
+      <ver>Pois confiamos e esperamos em ti.</ver>
+      <ver>Senhor! Em ti, em ti eu espero;</ver>
+      <ver>Nunca eu seja, nunca eu seja confundido.</ver>
+      <ver>Amém.</ver>
+    </est>
+  </tex>
+</hino>
