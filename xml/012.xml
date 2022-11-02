@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="012" tit="Glória a Deus" sec="01_Louvor_e_Adoração" ass="01_03_Deus_Santo" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Sanctus</tit_ori>
+    <ori_let id="KalleySP" ano="1869" />
+    <ori_mus id="CamidgeJ" />
+    <ref_bib liv="Is" cap="6" ver="3" />
+    <tex>
+        <est>
+            <ver>Santo! Santo! Santo!</ver>
+            <ver>Deus dos exercitos!</ver>
+            <ver>A terra e os céus</ver>
+            <ver>Proclamam tua glória.</ver>
+            <ver>Glória a ti, glória a ti, ó Deus,</ver>
+            <ver>Eternamente.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
