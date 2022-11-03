@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="25" tit="Exaltação ao Criador e Salvador" tit_ant="Deus do Infinito o Criador" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_8_8_8_8_Aleluias" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Lasst uns erfreuen</tit_ori>
+    <pri_ver_ori>Declare, o Heavens</pri_ver_ori>
+    <ori_let id="EdwardsRL" ano="1962" />
+    <ori_let id="FaustiniJW" ano="1967" />
+    <ori_mus id="GeistlicheKirchengesang" ano="1623" />
+    <ref_bib liv="Sl" cap="8" ver="1-9" />
+    <tex>
+        <est>
+            <ver>Deus, do infinito o Criador,</ver>
+            <ver>Que deste aos astros seu fulgor,</ver>
+            <ver>Tuas obras te proclamam!</ver>
+            <ver>Ao explorarmos a amplidão,</ver>
+            <ver>Obra sem par da tua mão,</ver>
+            <ver>Extasiados te louvamos!</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>Ergue-se o homem para o céu,</ver>
+            <ver>Deixa o planeta em que nasceu;</ver>
+            <ver>Oh! Conquista sem limites!</ver>
+            <ver>Como havemos de entender</ver>
+            <ver>Que Deus quisesse aqui viver?</ver>
+            <ver>Deus eterno, entre os homens!</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>Hoje há problemas entre nós</ver>
+            <ver>Por não ouvirmos tua voz.</ver>
+            <ver>Pai, perdoa as nossas faltas!</ver>
+            <ver>Que nossa vida em Jesus</ver>
+            <ver>Busque guarida, paz e luz,</ver>
+            <ver>E teu nome celebremos:</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+        <est>
+            <ver>No grande plano divinal,</ver>
+            <ver>Dessa harmonia universal,</ver>
+            <ver>Deus com grande amor salvou-nos!</ver>
+            <ver>Ele nos deixa conhecer</ver>
+            <ver>Toda extensão de seu poder</ver>
+            <ver>Revelado no universo!</ver>
+            <ver>Aleluia! Aleluia! Aleluia!</ver>
+        </est>
+    </tex>
+</hino>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="21" tit="Louvor ao Deus de Abraão" tit_ant="Ao Deus de Abraão" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="6_6_8_4_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Leoni (Yigdal)</tit_ori>
+    <pri_ver_ori>The God of Abraham praise</pri_ver_ori>
+    <ori_let id="JudahD" ano="1404" />
+    <ori_let id="OliversT" ano="1770" />
+    <ori_let id="MoretonRH" ano="1896" />
+    <ori_mus id="LeoniM" ano="1770" />
+    <ref_bib liv="Ex" cap="3" ver="15" />
+    <ref_bib liv="Sl" cap="106" ver="2" />
+    <tex>
+        <est>
+            <ver>Ao Deus de Abraão louvai, do vasto céu Senhor,</ver>
+            <ver>Eterno e poderoso Pai e Deus de amor!</ver>
+            <ver>Augusto Jeová que terra e céu criou,</ver>
+            <ver>Minha alma o Nome exaltará do grande “Eu-Sou”.</ver>
+        </est>
+        <est>
+            <ver>Ao Deus de Abraão louvai! Eis, por mandado seu,</ver>
+            <ver>Minha alma deixa a terra e vai gozar no céu.</ver>
+            <ver>O mundo desprezei, seu lucro e seu louvor,</ver>
+            <ver>E Deus por meu quinhão tomei e protetor.</ver>
+        </est>
+        <est>
+            <ver>Meu guia Deus será! Seu infinito amor</ver>
+            <ver>Feliz em tudo me fará por onde eu for.</ver>
+            <ver>Tomou-me pela mão, na trevas deu-me luz,</ver>
+            <ver>E dá-me eterna salvação por meu Jesus.</ver>
+        </est>
+        <est>
+            <ver>Meu Deus por si jurou, eu nele confiei!</ver>
+            <ver>E para o céu que preparou eu subirei.</ver>
+            <ver>Sua face eu hei de ver, confiado em seu amor,</ver>
+            <ver>E para sempre engrandecer meu Redentor.</ver>
+        </est>
+    </tex>
+</hino>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="22" tit="A revelação de Deus" tit_ant="Altamente Os Céus Proclamam" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Hino Austríaco</tit_ori>
+    <ori_let id="KalleySP" ano="1865" />
+    <ori_mus id="HaydnFJ" ano="1797" />
+    <ref_bib liv="Sl" cap="19" ver="1" />
+    <ref_bib liv="Sl" cap="145" ver="10" />
+    <tex>
+        <est>
+            <ver>Altamente os céus proclamam</ver>
+            <ver>Seu divino Criador!</ver>
+            <ver>Anuncia o firmamento</ver>
+            <ver>Tua obras ó Senhor!</ver>
+            <ver>Incessantes, noite e dia</ver>
+            <ver>Dão sinais do teu poder;</ver>
+            <ver>Sem palavras, proclamando</ver>
+            <ver>Deus excelso no saber!</ver>
+        </est>
+        <est>
+            <ver>Majestoso o sol caminha</ver>
+            <ver>Pelos céus, com resplendor!</ver>
+            <ver>Exultando em seu percurso,</ver>
+            <ver>Enche o mundo de calor.</ver>
+            <ver>Todo o vasto universo</ver>
+            <ver>Canta, em coro, teu louvor!</ver>
+            <ver>E a nós vem doce ensino</ver>
+            <ver>Da Palavra do Senhor.</ver>
+        </est>
+        <est>
+            <ver>Tua Lei — quão preciosa! —</ver>
+            <ver>Brilha mais que a clara luz;</ver>
+            <ver>Esclarece as nossas mentes,</ver>
+            <ver>Guia as almas a Jesus,</ver>
+            <ver>Em tua graça meditando,</ver>
+            <ver>Cantarei, ó bom Senhor,</ver>
+            <ver>E será na minha boca</ver>
+            <ver>Agradável o teu louvor.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

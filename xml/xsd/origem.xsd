@@ -164,8 +164,8 @@
             </xs:enumeration>
             <xs:enumeration value="BlumW">
                 <xs:annotation>
-                    <xs:appinfo>Blum, W</xs:appinfo>
-                    <xs:documentation>W Blum</xs:documentation>
+                    <xs:appinfo>Blum, W.</xs:appinfo>
+                    <xs:documentation>W. Blum</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="BobergC">

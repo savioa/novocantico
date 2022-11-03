@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="24" tit="Convite ao Louvor" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="7_7_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Posen</tit_ori>
+    <ori_let id="KalleySP" ano="1888" />
+    <ori_mus id="StrattnerGC" ano="1691" />
+    <ori_mus id="BlumW" ano="1930" />
+    <ref_bib liv="Sl" cap="135" ver="1" />
+    <ref_bib liv="Sl" cap="136" ver="26" />
+    <tex>
+        <est>
+            <ver>Vinde, irmãos, louvar a Deus,</ver>
+            <ver>Criador da terra e céus.</ver>
+            <cor>
+                <ver>Exaltemos o Senhor!</ver>
+                <ver>Infinito é seu amor!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Glória e honra ao grande Rei;</ver>
+            <ver>Alta e santa é sua lei.</ver>
+        </est>
+        <est>
+            <ver>Age com poder real,</ver>
+            <ver>Com grandeza divinal.</ver>
+        </est>
+        <est>
+            <ver>Dia e noite a sua mão</ver>
+            <ver>Desenvolve o tenro grão.</ver>
+        </est>
+        <est>
+            <ver>Com os dons do seu poder</ver>
+            <ver>Nossas vidas faz crescer.</ver>
+        </est>
+    </tex>
+</hino>

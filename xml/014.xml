@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<hino
-    xmlns="http://www.novocantico.com.br/schema/hino"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
-    num="14"
-    tit="Louvor"
-    sec="01_Louvor_e_Adoração"
-    ass="01_03_Deus_Santo"
-    met="11_11_7_7_11_Coro">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="14" tit="Louvor e exaltação" tit_ant="Louvor" sec="01_Louvor_e_Adoração" ass="01_03_Deus_Santo" met="11_11_7_7_11_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Louvor</tit_ori>
     <ori_let id="SouzaMA" />
     <ori_mus id="GabrielCH" />
