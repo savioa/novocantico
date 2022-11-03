@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="23" tit="Adoração ao Criador e Salvador" tit_ant="Vinde Adorar" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="10_10_11_11" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="23" tit="Adoração ao Criador e Salvador" tit_ant="Adoração ao Criador; Vinde Adorar" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="10_10_11_11" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>St. Joseph</tit_ori>
     <ori_let id="WrightHM" ano="1898" />
     <ori_mus id="ParryJ" />
