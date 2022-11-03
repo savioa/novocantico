@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="27" tit="Um Hino ao Senhor" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="9_8_9_8_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Um Hino ao Senhor</tit_ori>
+    <ori_let id="SantosMG" ano="1931" />
+    <ori_mus id="GabrielCH" />
+    <ref_bib liv="Sl" cap="9" ver="2" />
+    <tex>
+        <est>
+            <ver>As grutas, as rochas imensas,</ver>
+            <ver>Dos mundos o grande esplendor,</ver>
+            <ver>Proclamam bem alto, constantes,</ver>
+            <ver>Um hino ao teu Nome, Senhor!</ver>
+            <cor>
+                <ver>Nos céus e no mar e na terra,</ver>
+                <ver>Nos bosques, nos prados em flor,</ver>
+                <ver>No fragoso alcantil, na amplitude celeste,</ver>
+                <ver>Um hino ressoa ao Senhor!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Nos céus, as estrelas brilhantes,</ver>
+            <ver>Dos mares o grande fragor,</ver>
+            <ver>E as brisas entoam, ridentes,</ver>
+            <ver>Um hino ao teu Nome, Senhor!</ver>
+        </est>
+        <est>
+            <ver>As aves alegres, na mata,</ver>
+            <ver>Por entre as ramagens em flor,</ver>
+            <ver>Exultam em coro, cantando</ver>
+            <ver>Um hino ao teu Nome, Senhor!</ver>
+        </est>
+        <est>
+            <ver>E tu, pecador que vagueias,</ver>
+            <ver>Que fazes ao teu Criador?</ver>
+            <ver>Não achas momento em que cantes</ver>
+            <ver>Um hino de glória ao Senhor?</ver>
+        </est>
+    </tex>
+</hino>

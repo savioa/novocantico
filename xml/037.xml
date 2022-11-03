@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="37" tit="O Santo Nome" tit_ant="Jesus, Teu Nome é Santo" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="7_6_8_6_8_6_8_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Beneath the cross of Jesus</tit_ori>
+    <ori_let id="MenezesMA" ano="1885" />
+    <ori_mus id="SankeyID" />
+    <ref_bib liv="Sl" cap="72" ver="17" />
+    <ref_bib liv="Rm" cap="15" ver="19" />
+    <tex>
+        <est>
+            <ver>Jesus, teu nome é santo,</ver>
+            <ver>Amável teu querer.</ver>
+            <ver>Louvor supremo e puro amor</ver>
+            <ver>Queremos te render!</ver>
+            <ver>Poder e honra e glória a ti</ver>
+            <ver>Nós vimos tributar</ver>
+            <ver>E, com sincera devoção,</ver>
+            <ver>Teu culto celebrar!</ver>
+        </est>
+        <est>
+            <ver>Jesus, teu nome é santo,</ver>
+            <ver>Merece o nosso amor!</ver>
+            <ver>És nosso Deus que estás nos céus</ver>
+            <ver>E nosso protetor.</ver>
+            <ver>Incomparável és, Senhor,</ver>
+            <ver>Em tua compaixão;</ver>
+            <ver>Quiseste, para o mal vencer,</ver>
+            <ver>Fazer-se nosso irmão!</ver>
+        </est>
+        <est>
+            <ver>Jesus, teu nome é santo,</ver>
+            <ver>Venceste sobre a cruz!</ver>
+            <ver>O teu sofrer, o teu penar,</ver>
+            <ver>À vida nos conduz.</ver>
+            <ver>Glorificado estás nos céus,</ver>
+            <ver>Atento à adoração</ver>
+            <ver>Que vimos nós, fiéis, prestar</ver>
+            <ver>Com grato coração!</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

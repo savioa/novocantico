@@ -3,6 +3,7 @@
     <xsl:output method='html' encoding='utf-8' indent='no' />
     <xsl:template match='/'>
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
+        <xsl:variable name='numero' select='format-number(nc:hino/@num, "000")' />
 <html lang='pt-br'>
 
 <head>
@@ -79,7 +80,7 @@
                             <xsl:when test='nc:hino/@sit'>
                             </xsl:when>
                             <xsl:otherwise>
-                            <a class='btn btn-primary pull-right' href='{nc:hino/@num}.pdf' role='button'>Mostrar partitura</a>
+                            <a class='btn btn-primary pull-right' href='../pdf/{$numero}.pdf' role='button'>Mostrar partitura</a>
                             </xsl:otherwise>
                             </xsl:choose>
 
@@ -125,11 +126,11 @@
                             </xsl:when>
                             <xsl:otherwise>
                             <form id='controle-audio'>
-                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}' value='audio-todos' checked='checked' /> Todos</label></div>
-                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}s' value='audio-soprano' /> Soprano</label></div>
-                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}c' value='audio-contralto' /> Contralto</label></div>
-                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}t' value='audio-tenor' /> Tenor</label></div>
-                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}b' value='audio-baixo' /> Baixo</label></div>
+                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}' value='audio-todos' checked='checked' /> Todos</label></div>
+                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}s' value='audio-soprano' /> Soprano</label></div>
+                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}c' value='audio-contralto' /> Contralto</label></div>
+                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}t' value='audio-tenor' /> Tenor</label></div>
+                                <div class='radio'><label><input type='radio' name='audio' data-id-audio='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}b' value='audio-baixo' /> Baixo</label></div>
 
                                 <div class='btn-group'>
                                     <a id='btn-controle-audio' class='btn btn-primary'><i class='fa fa-play'></i> Reproduzir</a>
@@ -138,28 +139,28 @@
                                         <span class='sr-only'>Acionar menu de áudio</span>
                                     </a>
                                     <ul class='dropdown-menu' role='menu'>
-                                        <li><a href='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}.mp3'>Salvar</a></li>
+                                        <li><a href='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}.mp3'>Salvar</a></li>
                                     </ul>
                                 </div>
                             </form>
 
-                            <audio id='audio-todos' src='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}.mp3'>
+                            <audio id='audio-todos' src='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}.mp3'>
                                 <p>Seu navegador não permite a reprodução desse áudio.</p>
                             </audio>
 
-                            <audio id='audio-soprano' src='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}s.mp3'>
+                            <audio id='audio-soprano' src='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}s.mp3'>
                                 <p>Seu navegador não permite a reprodução desse áudio.</p>
                             </audio>
 
-                            <audio id='audio-contralto'  src='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}c.mp3'>
+                            <audio id='audio-contralto'  src='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}c.mp3'>
                                 <p>Seu navegador não permite a reprodução desse áudio.</p>
                             </audio>
 
-                            <audio id='audio-tenor' src='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}t.mp3'>
+                            <audio id='audio-tenor' src='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}t.mp3'>
                                 <p>Seu navegador não permite a reprodução desse áudio.</p>
                             </audio>
 
-                            <audio id='audio-baixo' src='https://archive.org/download/impessoal_elleralmeida_{nc:hino/@num}/{nc:hino/@num}b.mp3'>
+                            <audio id='audio-baixo' src='https://archive.org/download/impessoal_elleralmeida_{$numero}/{$numero}b.mp3'>
                                 <p>Seu navegador não permite a reprodução desse áudio.</p>
                             </audio>
                             </xsl:otherwise>

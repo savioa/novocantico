@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="39" tit="Exaltação e Louvor" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="14_14_12_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Realidade</tit_ori>
+    <ori_let id="WrightHM" ano="1890" />
+    <ori_mus id="SalvationArmyMusic" />
+    <ref_bib liv="Ap" cap="7" ver="14" />
+    <tex>
+        <est>
+            <ver>Oh! Vinde crentes dar louvor ao grande rei Jesus</ver>
+            <ver>Que, para a nossa redenção, morreu na amarga cruz;</ver>
+            <ver>Seu sangue derramou, de tudo me lavou,</ver>
+            <ver>Mais alvo do que a neve me tornou.</ver>
+            <cor>
+                <ver>O sangue de Jesus me lavou, me lavou;</ver>
+                <ver>O sangue de Jesus me lavou, me lavou!</ver>
+                <ver>Alegre, cantarei louvores ao meu Rei,</ver>
+                <ver>Ao meu Senhor Jesus que me salvou!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Oh! Vinde unir-vos a Jesus na luta contra o mal</ver>
+            <ver>E, com o grande salvador em marcha triunfal,</ver>
+            <ver>A todos proclamar que seu amor sem par</ver>
+            <ver>O fez na cruz seu sangue derramar.</ver>
+        </est>
+        <est>
+            <ver>O chefe da milícia é Jesus, meu salvador,</ver>
+            <ver>O Rei dos reis, o redentor, o eterno e bom Senhor;</ver>
+            <ver>A tudo vencerá, vitória nos dará</ver>
+            <ver>E à glória eterna os seus conduzirá.</ver>
+        </est>
+    </tex>
+</hino>

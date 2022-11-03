@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="33" tit="Maravilhas Divinas" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Truehearted</tit_ori>
+    <ori_let id="GinsburgSL" />
+    <ori_mus id="StebbinsGC" />
+    <ori_mus id="ManuelRE" ano="1975" />
+    <ref_bib liv="Sl" cap="145" ver="5" />
+    <tex>
+        <est>
+            <ver>Ao Deus de amor e de imensa bondade,</ver>
+            <ver>Com voz de júbilo, vinde e aclamai!</ver>
+            <ver>Com coração transbordante de graças,</ver>
+            <ver>Seu grande amor, todos, vinde e louvai.</ver>
+            <cor>
+                <ver>No céu, na terra, que maravilhas</ver>
+                <ver>Vai operando o poder do Senhor!</ver>
+                <ver>Mas seu amor, aos homens perdidos,</ver>
+                <ver>Das maravilhas é sempre a maior.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Já nossos pais nos contaram a história</ver>
+            <ver>De Deus, falando com muito prazer</ver>
+            <ver>Que, nas tristezas, nos grandes perigos,</ver>
+            <ver>Ele os salvou por seu grande poder.</ver>
+        </est>
+        <est>
+            <ver>Hoje, também, nós, bem alto, cantamos</ver>
+            <ver>Que as orações ele nos atendeu;</ver>
+            <ver>Seu forte braço, que é tão compassivo,</ver>
+            <ver>Em nosso auxílio ele sempre estendeu.</ver>
+        </est>
+        <est>
+            <ver>Como até hoje e daqui para frente</ver>
+            <ver>Ele será nosso eterno poder,</ver>
+            <ver>Nosso castelo bem forte e seguro</ver>
+            <ver>E nossa fonte de excelso prazer.</ver>
+        </est>
+    </tex>
+</hino>

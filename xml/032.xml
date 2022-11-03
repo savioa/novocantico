@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="32" tit="O Deus Fiel às suas promessas" tit_ant="O Deus Fiel; Tu És Fiel, Senhor" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="10_10_10_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Great is thy faithfulness</tit_ori>
+    <pri_ver_ori>Great is thy faithfulness</pri_ver_ori>
+    <ori_let id="ChisholmTO" ano="1923" />
+    <ori_let id="SuttonJL" ano="1960" />
+    <ori_let id="BuenoL" ano="1960" />
+    <ori_let id="SilvaH" ano="1960" />
+    <ori_mus id="RunyanWM" ano="1923" />
+    <ref_bib liv="Sl" cap="93" ver="5" />
+    <ref_bib liv="Lm" cap="3" ver="22,23" />
+    <tex>
+        <est>
+            <ver>Tu és fiel, Senhor, ó Pai celeste,</ver>
+            <ver>Teus filhos sabem que não falharás!</ver>
+            <ver>Nunca mudaste, tu nunca faltaste,</ver>
+            <ver>Tal como eras tu sempre serás.</ver>
+            <cor>
+                <ver>Tu és fiel, Senhor! Tu és fiel, Senhor!</ver>
+                <ver>Dia após dia, com bênçãos sem fim,</ver>
+                <ver>Tua mercê nos sustenta e nos guarda;</ver>
+                <ver>Tu és fiel, Senhor, fiel assim.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Flores e frutos, montanhas e mares,</ver>
+            <ver>Sol, lua, estrelas brilhando no céu,</ver>
+            <ver>Tudo criaste na terra e nos ares,</ver>
+            <ver>Para louvar-te, Senhor, que és fiel.</ver>
+        </est>
+        <est>
+            <ver>Pleno perdão tu dás! Que segurança!</ver>
+            <ver>Cada momento me guias, Senhor,</ver>
+            <ver>E, no porvir, Oh! que doce esperança!</ver>
+            <ver>Desfrutarei do teu rico favor.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="38" tit="Louvores sem Fim" tit_ant="Mil Vezes Mil Louvores" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="13_13_13_13_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Salomão</tit_ori>
+    <ori_let id="WrightHM" ano="1901" />
+    <ori_mus id="KirkpatrickWJ" />
+    <ref_bib liv="Ap" cap="7" ver="9,10" />
+    <tex>
+        <est>
+            <ver>Mil vezes mil louvores rendamos a Jesus</ver>
+            <ver>Que, da mais alta glória, desceu até à cruz!</ver>
+            <ver>Por sua imensa graça, por seu insigne amor,</ver>
+            <ver>Por todos seja sempre louvado o Salvador.</ver>
+            <cor>
+                <ver>Mil vezes, sim, mil vezes, sim,</ver>
+                <ver>Louvores ao Senhor</ver>
+                <ver>Que nos amou e nos salvou,</ver>
+                <ver>Bendito Salvador!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Eis ao redor do trono do Redentor Jesus,</ver>
+            <ver>Milhares de milhares em refulgente luz!</ver>
+            <ver>Com reverência adoram o grande Salvador,</ver>
+            <ver>E ao bom Cordeiro rendem a honra e o louvor.</ver>
+        </est>
+        <est>
+            <ver>Oh! Vinde agora, todos, também a celebrar</ver>
+            <ver>As glórias sempiternas do Redentor sem par!</ver>
+            <ver>Com vozes de vitória seu Nome proclamai!</ver>
+            <ver>Mil vezes mil louvores a Cristo tributai!</ver>
+        </est>
+    </tex>
+</hino>

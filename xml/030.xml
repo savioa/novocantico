@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="30" tit="Providência de Deus (Na Criação)" sec="01_Louvor_e_Adoração" ass="01_06_Deus_Providente" met="7_6_7_6_D_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>The Whole Wide World</tit_ori>
+    <ori_let id="Anonimo" />
+    <ori_mus id="MaunderJH" ano="1894" />
+    <ref_bib liv="Sl" cap="104" ver="13" />
+    <ref_bib liv="Mt" cap="6" ver="30" />
+    <tex>
+        <est>
+            <ver>Ó Deus! Ó Providência! Com teu real poder</ver>
+            <ver>Trouxeste à existência o mundo, todo ser!</ver>
+            <ver>E a tudo que criaste, com benfazeja mão,</ver>
+            <ver>As bênçãos não negaste da tua proteção.</ver>
+            <cor>
+                <ver>Eterno Deus, ó Deus sem par,</ver>
+                <ver>A Criação, com gratidão,</ver>
+                <ver>Te vem louvar!</ver>
+                <ver>Nos céus teu Nome aclamam</ver>
+                <ver>Os astros, que são teus;</ver>
+                <ver>A terra e o mar proclamam:</ver>
+                <ver>“És o nosso Deus!”</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Ao sol resplandecente e à vastidão do mar</ver>
+            <ver>Traçaste, ó Deus potente, as leis que irão guardar.</ver>
+            <ver>E a tenra e pequenina florzinha em botão,</ver>
+            <ver>A tua mão divina conserva em proteção.</ver>
+        </est>
+        <est>
+            <ver>Dos campos, a verdura, dos frutos, o sabor,</ver>
+            <ver>Celebram a ternura do teu constante amor!</ver>
+            <ver>E a natureza inteira, por toda a Criação,</ver>
+            <ver>Proclama, alvissareira, a tua proteção.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

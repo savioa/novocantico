@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="31" tit="Providência de Deus (Na Redenção)" sec="01_Louvor_e_Adoração" ass="01_06_Deus_Providente" met="7_6_7_6_D_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>The Whole Wide World</tit_ori>
+    <ori_let id="Anonimo" />
+    <ori_mus id="MaunderJH" ano="1894" />
+    <ref_bib liv="Rm" cap="5" ver="8" />
+    <tex>
+        <est>
+            <ver>Ó Deus! Ó Providência! Sem ti não há viver!</ver>
+            <ver>Vem dar-nos a assistência do teu real poder!</ver>
+            <ver>Tão-só em ti confiamos e em tua proteção,</ver>
+            <ver>Pois só em ti achamos conforto e redenção.</ver>
+            <cor>
+                <ver>És nosso Pai, ó Deus de amor!</ver>
+                <ver>Teus filhos vêm aqui, também,</ver>
+                <ver>Cantar louvor!</ver>
+                <ver>Ao mundo renunciamos,</ver>
+                <ver>Agora somos teus;</ver>
+                <ver>E alegres proclamamos:</ver>
+                <ver>“És o nosso Deus!”</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Ao homem tu criaste, de ti vivo exemplar;</ver>
+            <ver>Na terra o colocaste a fim de te louvar.</ver>
+            <ver>Caído embora esteja, estendes tua mão,</ver>
+            <ver>Na graça benfazeja da tua Redenção.</ver>
+        </est>
+        <est>
+            <ver>Em Cristo, o Filho amado, a tua graça vem</ver>
+            <ver>Cobrir-nos o pecado e dar-nos todo o bem.</ver>
+            <ver>Reais munificências fruímos nós, então,</ver>
+            <ver>Nas ternas providências da tua redenção.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

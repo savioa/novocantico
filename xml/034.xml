@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="34" tit="Louvor ao Deus da graça" tit_ant="Convite ao Louvor" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="7_7_7_7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Monkland</tit_ori>
+    <pri_ver_ori>Let us with a gladsome mind</pri_ver_ori>
+    <ori_let id="Salmo136" />
+    <ori_let id="MiltonJ" />
+    <ori_let id="CostaJ" ano="1960" />
+    <ori_mus id="WilkesJB" ano="1861" />
+    <ref_bib liv="Sl" cap="136" ver="1" />
+    <tex>
+        <est>
+            <ver>Demos com alegre som</ver>
+            <ver>Glória a Deus, porque ele é bom.</ver>
+            <cor>
+                <ver>Sua graça Deus nos dá</ver>
+                <ver>E jamais nos deixará!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Com poder ele ordenou</ver>
+            <ver>E no mundo a luz raiou.</ver>
+        </est>
+        <est>
+            <ver>Com olhar de compaixão</ver>
+            <ver>Viu a nossa perdição.</ver>
+        </est>
+        <est>
+            <ver>O seu povo abençoou,</ver>
+            <ver>No deserto ele o guiou.</ver>
+        </est>
+        <est>
+            <ver>Demos com alegre som</ver>
+            <ver>Glória a Deus, porque ele é bom.</ver>
+        </est>
+    </tex>
+</hino>

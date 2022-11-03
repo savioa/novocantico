@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="40" tit="Cântico ao Salvador" tit_ant="Cantai A Cristo" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="8_6_8_6_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Oh, sing of Jesus</tit_ori>
+    <pri_ver_ori>Oh, sing of Jesus, Lamb of God</pri_ver_ori>
+    <ori_let id="OKaneTC" />
+    <ori_let id="JonesJ" ano="1887" />
+    <ori_mus id="OKaneTC" />
+    <ref_bib liv="1Jo" cap="3" ver="16" />
+    <tex>
+        <est>
+            <ver>Cantai a Cristo, o Salvador,</ver>
+            <ver>Que tanto nos amou</ver>
+            <ver>E, para nossa Redenção,</ver>
+            <ver>Seu sangue derramou!</ver>
+            <cor>
+                <ver>Salvação! Salvação!</ver>
+                <ver>Alcançou-nos o Filho de Deus;</ver>
+                <ver>Salvação! Salvação!</ver>
+                <ver>Aleluia ao Filho de Deus!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Cantai o amor celestial,</ver>
+            <ver>Amor do grande Deus,</ver>
+            <ver>Divina flama a consumir</ver>
+            <ver>Os vis pecados meus!</ver>
+        </est>
+        <est>
+            <ver>De Cristo, o excelso, infindo amor,</ver>
+            <ver>Oh! Vinde, publicai!</ver>
+            <ver>E dele a grande salvação</ver>
+            <ver>A todos proclamai!</ver>
+        </est>
+    </tex>
+</hino>

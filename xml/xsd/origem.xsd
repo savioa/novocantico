@@ -888,10 +888,10 @@
                     <xs:documentation>Donald D. Kettring</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
-            <xs:enumeration value="KikpatrickWJ">
+            <xs:enumeration value="KirkpatrickWJ">
                 <xs:annotation>
-                    <xs:appinfo>Kikpatrick, William James</xs:appinfo>
-                    <xs:documentation>William James Kikpatrick</xs:documentation>
+                    <xs:appinfo>Kirkpatrick, William James</xs:appinfo>
+                    <xs:documentation>William James Kirkpatrick</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="KlugJ">

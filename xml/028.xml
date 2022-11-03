@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="28" tit="Celebração de nosso rei e sustentador" tit_ant="Coroação; Tuas Obras Te Coroam" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Hymn to joy</tit_ori>
+    <pri_ver_ori>Joyful, joyful we adore Thee</pri_ver_ori>
+    <ori_let id="DykeH" ano="1907" />
+    <ori_let id="SalumIN" ano="1940" />
+    <ori_mus id="NonaSinfoniaCoral" ano="1826" />
+    <ori_mus id="BeethovenL" />
+    <ref_bib liv="Sl" cap="32" ver="11" />
+    <ref_bib liv="Sl" cap="148" ver="1-3" />
+    <tex>
+        <est>
+            <ver>Tuas obras te coroam</ver>
+            <ver>Como um halo de esplendor!</ver>
+            <ver>Astros, anjos, céus entoam</ver>
+            <ver>Hino eterno a ti, Senhor!</ver>
+            <ver>Campos, matas, vales, montes</ver>
+            <ver>Verde outeiro e verde mar,</ver>
+            <ver>Aves e sonoras fontes</ver>
+            <ver>Formam coro singular!</ver>
+        </est>
+        <est>
+            <ver>Nós, mortais por ti remidos,</ver>
+            <ver>Deus de glória, Deus de amor,</ver>
+            <ver>Corações aos céus erguidos,</ver>
+            <ver>Celebramos teu louvor!</ver>
+            <ver>Revelaste amor profundo,</ver>
+            <ver>Insondável, sem igual,</ver>
+            <ver>Enviando Cristo ao mundo</ver>
+            <ver>A vencer por nós o mal!</ver>
+        </est>
+        <est>
+            <ver>Fonte és de alegria e vida,</ver>
+            <ver>És do bem o Inspirador;</ver>
+            <ver>Tua graça nos convida</ver>
+            <ver>A viver em mútuo amor.</ver>
+            <ver>Quais alegres peregrinos,</ver>
+            <ver>Sempre em marcha triunfal,</ver>
+            <ver>Cantaremos gratos hinos</ver>
+            <ver>Na jornada, até o final!</ver>
+        </est>
+    </tex>
+</hino>

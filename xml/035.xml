@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="35" tit="Adoração e Súplica" tit_ant="Súplica pelo culto" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="8_6_8_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>St. Agnes</tit_ori>
+    <ori_let id="HoustonJT" />
+    <ori_mus id="DykesJB" ano="1866" />
+    <ref_bib liv="Sl" cap="100" ver="2" />
+    <tex>
+        <est>
+            <ver>Teu culto agora, aqui, Senhor,</ver>
+            <ver>Nós vimos celebrar,</ver>
+            <ver>Cantando, juntos, teu louvor,</ver>
+            <ver>Teu livro a meditar.</ver>
+        </est>
+        <est>
+            <ver>À nossa vera adoração</ver>
+            <ver>Presente estás, Senhor.</ver>
+            <ver>Fazendo o nosso coração</ver>
+            <ver>Sentir teu grande amor.</ver>
+        </est>
+        <est>
+            <ver>Atende nossas petições,</ver>
+            <ver>Ó poderoso Deus!</ver>
+            <ver>Concede aos nossos corações</ver>
+            <ver>Antegozar os céus.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

@@ -41,7 +41,7 @@ internal class Program
             string descricaoMetrica = itemMetrica.XPathSelectElement(".//xs:documentation", nsm)!.Value;
             string idOrdenacao = itemMetrica.XPathSelectElement(".//xs:appinfo", nsm)!.Value;
 
-            if (idMetrica != descricaoMetrica.Replace('.', '_').Replace('[', '_').Replace(']', '_').Replace(" com ", "_"))
+            if (idMetrica != descricaoMetrica.Replace('.', '_').Replace('[', '_').Replace(']', '_').Replace(" com ", "_").Replace(' ', '_'))
             {
                 throw new Exception($"O identificador e a descrição da métrica não são compatíveis: {idMetrica} {descricaoMetrica}");
             }

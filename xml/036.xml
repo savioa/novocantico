@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="36" tit="Exaltação universal" tit_ant="Exaltação; Exaltai O Senhor" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="8_8_8_8_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Creation</tit_ori>
+    <ori_let id="NelsonJH" />
+    <ori_mus id="HaydnFJ" />
+    <ref_bib liv="2Co" cap="9" ver="15" />
+    <tex>
+        <est>
+            <ver>De toda a terra e das nações,</ver>
+            <ver>Louvor a Cristo entoai!</ver>
+            <ver>Em alta voz, dos corações,</ver>
+            <ver>O Nome de Jesus cantai.</ver>
+            <cor>
+                <ver>O dom supremo, divinal,</ver>
+                <ver>Justiça eterna e santo amor,</ver>
+                <ver>De litoral em litoral</ver>
+                <ver>Serão cantados ao Senhor!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Em toda língua bendizei</ver>
+            <ver>A Deus, autor da Criação!</ver>
+            <ver>Em toda a terra engrandecei</ver>
+            <ver>Jesus que trouxe a Redenção!</ver>
+        </est>
+    </tex>
+</hino>

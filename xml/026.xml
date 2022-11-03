@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="26" tit="Louvor ao Deus Grandioso" tit_ant="Ao Deus Grandioso; Grandioso És Tu" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>How great Thou art</tit_ori>
+    <pri_ver_ori>O Lord, my God, when I in awesome wonder</pri_ver_ori>
+    <ori_let id="BobergC" ano="1886" />
+    <ori_let id="EmmerichN" ano="1959" />
+    <ori_mus id="MelodiaSueca" />
+    <ori_mus id="BlankerburgerLieder" />
+    <ref_bib liv="1Ts" cap="4" ver="16,17" />
+    <ref_bib liv="Ne" cap="9" ver="5,6" />
+    <tex>
+        <est>
+            <ver>Senhor meu Deus, quando eu maravilhado,</ver>
+            <ver>Os grandes feitos vejo da tua mão,</ver>
+            <ver>Estrelas, mundos e trovões rolando,</ver>
+            <ver>A proclamar teu nome na amplidão;</ver>
+            <cor>
+                <ver>Canta minh'alma, então, a ti, Senhor:</ver>
+                <ver>Grandioso és tu, grandioso és tu!</ver>
+                <ver>Canta minh'alma, então, a ti Senhor:</ver>
+                <ver>Grandioso és tu, grandioso és tu!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Quando atravesso bosques e florestas</ver>
+            <ver>Ouvindo, à brisa, pássaros cantar,</ver>
+            <ver>Ou vejo, além, montanhas altaneiras</ver>
+            <ver>O teu poder e glória proclamar;</ver>
+        </est>
+        <est>
+            <ver>Quando percebo que na cruz maldita,</ver>
+            <ver>Por teu amor, Jesus morreu por mim,</ver>
+            <ver>E me livrou do jugo do pecado,</ver>
+            <ver>Ali vertendo sangue carmesim;</ver>
+        </est>
+        <est>
+            <ver>Quando, afinal, em resplendor e glória,</ver>
+            <ver>Jesus abrir as portas da mansão,</ver>
+            <ver>Eu hei de estar de joelhos entre os santos,</ver>
+            <ver>Na mais humilde e vera adoração;</ver>
+            <cor>
+                <ver>E então cantar eternamente ali:</ver>
+                <ver>Grandioso és tu, grandioso és tu!</ver>
+                <ver>E então cantar eternamente ali:</ver>
+                <ver>Grandioso és tu, grandioso és tu!</ver>
+            </cor>
+        </est>
+    </tex>
+</hino>

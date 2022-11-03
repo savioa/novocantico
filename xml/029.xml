@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="29" tit="Louvor" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_4__4__7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Rousseau</tit_ori>
+    <pri_ver_ori>Praise my soul the king of heaven</pri_ver_ori>
+    <ori_let id="Salmo103" />
+    <ori_let id="LyteHF" ano="1834" />
+    <ori_let id="CostaJ" ano="1969" />
+    <ori_mus id="RousseauJJ" />
+    <ref_bib liv="Sl" cap="103" ver="1,2" />
+    <tex>
+        <est>
+            <ver>Ó minha alma, a Deus bendize</ver>
+            <ver>Em humilde adoração,</ver>
+            <ver>Nada há mais que te escravize</ver>
+            <ver>No pecado e escuridão!</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Ele é o Rei da criação!</ver>
+        </est>
+        <est>
+            <ver>Pelo seu favor e graça</ver>
+            <ver>Que outorgou a nossos pais,</ver>
+            <ver>E por tudo que ele faça,</ver>
+            <ver>Bendizei-o mais e mais!</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Como os nossos ancestrais.</ver>
+        </est>
+        <est>
+            <ver>Se estivermos em perigo,</ver>
+            <ver>Nosso Deus nos guardará;</ver>
+            <ver>Ele as trevas e o inimigo</ver>
+            <ver>Para sempre abaterá!</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Pelas bênçãos que nos dá!</ver>
+        </est>
+        <est>
+            <ver>Anjos e homens, reverentes,</ver>
+            <ver>Adorai-o com fervor;</ver>
+            <ver>Lua, estrela, sol luzente,</ver>
+            <ver>Que ao espaço dais fulgor!</ver>
+            <ver>Oh! Louvai-o! Oh! Louvai-o!</ver>
+            <ver>Pois é Deus de excelso amor!</ver>
+        </est>
+    </tex>
+</hino>
