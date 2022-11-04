@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="41" tit="Louvor pela Graça Divina" tit_ant="Louvai" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Joyful song</tit_ori>
+    <pri_ver_ori>Praise Him, praise Him</pri_ver_ori>
+    <ori_let id="CrosbyFJ" />
+    <ori_let id="GinsburgSL" />
+    <ori_mus id="AllenCG" />
+    <ref_bib liv="1Jo" cap="3" ver="16" />
+    <tex>
+        <est>
+            <ver>Louvai, louvai Cristo, o bom Mestre divino!</ver>
+            <ver>Por nós na cruz ele sofreu, morreu;</ver>
+            <ver>Perdão, perdão hoje aos contritos outorga,</ver>
+            <ver>Pois precioso sangue na cruz verteu.</ver>
+            <ver>Sim, louvai-o! Ei-lo tão exaltado,</ver>
+            <ver>Mediador que nunca nos faltará.</ver>
+            <cor>
+                <ver>Louvai, louvai e proclamai a grandeza</ver>
+                <ver>Do perdão, da graça que a todos dá.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Louvai, louvai Cristo, o bom Mestre divino!</ver>
+            <ver>Conselhos bons dá ele ao pecador;</ver>
+            <ver>Anunciai as bênçãos maravilhosas</ver>
+            <ver>Concedidas por nosso Salvador.</ver>
+            <ver>Ide todos, servos de Jesus Cristo,</ver>
+            <ver>E ele nunca vos abandonará.</ver>
+        </est>
+        <est>
+            <ver>Louvai, louvai Cristo, o bom Mestre divino!</ver>
+            <ver>Cantai, cantai, seu grande amor cantai;</ver>
+            <ver>Fiéis, cantai de coração, bem unidos,</ver>
+            <ver>Seu poder e glória louvai, louvai!</ver>
+            <ver>Qual pastor que cuida do seu rebanho,</ver>
+            <ver>Cristo, assim, os crentes protegerá.</ver>
+        </est>
+    </tex>
+</hino>
