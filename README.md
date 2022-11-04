@@ -1,6 +1,8 @@
 # Novo Cântico
 
-[Novo Cântico](http://novocantico.com.br/) é um projeto para disponibilização estruturada do hinário da [Igreja Presbiteriana do Brasil](https://ipb.org.br/) na internet. Cada hino é codificado em um arquivo XML com sua letra e seus metadados.
+[Novo Cântico](http://novocantico.com.br/) é um projeto para disponibilização estruturada do hinário da [Igreja Presbiteriana do Brasil](https://ipb.org.br/) na internet. Cada hino é codificado em um arquivo XML com sua letra e seus metadados. Os arquivos são processados para construir os índices e gerar páginas HTML para navegação no endereço [www.novocantico.com.br](http://novocantico.com.br/).
+
+## Exemplo
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -28,4 +30,4 @@
 </hino>
 ```
 
-Os arquivos são processados para construir os índices e gerar páginas HTML para navegação no endereço [www.novocantico.com.br](http://novocantico.com.br/).
+![image](https://user-images.githubusercontent.com/7264107/200044555-18c301f3-8a71-4070-baa1-2af0ac3d659c.png)
