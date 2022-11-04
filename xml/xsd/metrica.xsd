@@ -23,6 +23,12 @@
                     <xs:documentation>6.6.8.6.6.8.6.6.6</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="6_7_6_7_6_6_6_6">
+                <xs:annotation>
+                    <xs:appinfo>06_07_06_07_06_06_06_06</xs:appinfo>
+                    <xs:documentation>6.7.6.7.6.6.6.6</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="7_6_7_6_D_Coro">
                 <xs:annotation>
                     <xs:appinfo>07_06_07_06_D_Coro</xs:appinfo>
@@ -65,6 +71,12 @@
                     <xs:documentation>8.6.8.6 Coro</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="8_6_8_6_D_Coro">
+                <xs:annotation>
+                    <xs:appinfo>08_06_08_06_D_Coro</xs:appinfo>
+                    <xs:documentation>8.6.8.6.D Coro</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="8_7_8_7_4__4__7">
                 <xs:annotation>
                     <xs:appinfo>08_07_08_07_04__04__07</xs:appinfo>
@@ -105,6 +117,12 @@
                 <xs:annotation>
                     <xs:appinfo>09_08_09_08_Coro</xs:appinfo>
                     <xs:documentation>9.8.9.8 Coro</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="9_8_9_8_D">
+                <xs:annotation>
+                    <xs:appinfo>09_08_09_08_D</xs:appinfo>
+                    <xs:documentation>9.8.9.8.D</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="10_9_10_9_Coro">
@@ -153,6 +171,12 @@
                 <xs:annotation>
                     <xs:appinfo>11_11_07_07_11_Coro</xs:appinfo>
                     <xs:documentation>11.11.7.7.11 Coro</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="11_11_11_11_Coro">
+                <xs:annotation>
+                    <xs:appinfo>11_11_11_11_Coro</xs:appinfo>
+                    <xs:documentation>11.11.11.11 Coro</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="12_12_12_10">

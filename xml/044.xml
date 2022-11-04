@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="44" tit="Louvores ao Senhor" tit_ant="Louvemos Ao Senhor" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="6_7_6_7_6_6_6_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Nun danket alle Gott</tit_ori>
+    <pri_ver_ori>Nun danket alle Gott</pri_ver_ori>
+    <ori_let id="RochaJG" ano="1899" />
+    <ori_let id="RinckartM" ano="1636" />
+    <ori_mus id="CrugerJ" />
+    <ori_mus id="PraxisPietatisMelica" ano="1648" />
+    <ref_bib liv="1Pe" cap="1" ver="3" />
+    <tex>
+        <est>
+            <ver>Louvemos ao Senhor,</ver>
+            <ver>Ao Pai da eternidade,</ver>
+            <ver>Que mostra tanto amor</ver>
+            <ver>À pobre humanidade!</ver>
+            <ver>Seu Filho aqui sofreu</ver>
+            <ver>Por nossa redenção</ver>
+            <ver>E com o Pai nos deu</ver>
+            <ver>Bendita comunhão!</ver>
+        </est>
+    </tex>
+</hino>

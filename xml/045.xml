@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="45" tit="Grande Redenção" tit_ant="A Deus Louvai" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="9_8_9_8_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Jubilee</tit_ori>
+    <pri_ver_ori>I hear ten thousand voices singing</pri_ver_ori>
+    <ori_let id="FoxHW" ano="1848" />
+    <ori_let id="WrightHM" ano="1913" />
+    <ori_mus id="MaunderJH" ano="1894" />
+    <ref_bib liv="Ap" cap="5" ver="11,13" />
+    <tex>
+        <est>
+            <ver>Milhares de milhares ouço</ver>
+            <ver>Cantando a Deus com gratidão,</ver>
+            <ver>A Cristo, o Salvador, louvando</ver>
+            <ver>Por sua grande Redenção.</ver>
+            <ver>“A Deus louvai!”—em coro clamam;</ver>
+            <ver>“A Deus louvai—pois nos amou!</ver>
+            <ver>E, pelo sangue do Cordeiro,</ver>
+            <ver>De toda mancha nos lavou!”</ver>
+        </est>
+        <est>
+            <ver>O mesmo salmo triunfante,</ver>
+            <ver>Em tons de santa exultação,</ver>
+            <ver>Por todo o mundo vai subindo</ver>
+            <ver>A Deus, autor da Redenção.</ver>
+            <ver>“A Deus louvai”—nos vales soa</ver>
+            <ver>E os montes fazem ecoar:</ver>
+            <ver>“A Deus louvai, o Deus da Graça,</ver>
+            <ver>Que aos pecadores quer salvar!”</ver>
+        </est>
+        <est>
+            <ver>E nós, teus santos pés cercando,</ver>
+            <ver>Enquanto militando aqui</ver>
+            <ver>As nossas vozes elevamos</ver>
+            <ver>Para exaltar, Senhor, a ti.</ver>
+            <ver>“A Deus louvai”—também clamamos!</ver>
+            <ver>“A Deus louvai, supremo Rei!</ver>
+            <ver>E glória, honra, majestade</ver>
+            <ver>A Cristo, o Salvador, rendei!”</ver>
+        </est>
+        <est>
+            <ver>Das trevas fomos nós chamados</ver>
+            <ver>À tua pura e santa luz!</ver>
+            <ver>Da escravidão e do pecado</ver>
+            <ver>Nos libertaste pela cruz.</ver>
+            <ver>“A Deus louvai!”—cantemos todos!</ver>
+            <ver>“A Deus louvai, que nos remiu,</ver>
+            <ver>E filhos seus e seus herdeiros,</ver>
+            <ver>Em Cristo, nos constituiu!”</ver>
+        </est>
+    </tex>
+</hino>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="43" tit="O Deus de Amor" tit_ant="Desperta Já, Meu Coração" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="8_6_8_6_D_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Awake, awake</tit_ori>
+    <pri_ver_ori>Awake, awake, o heart of mine</pri_ver_ori>
+    <ori_let id="CrosbyFJ" />
+    <ori_let id="WrightHM" />
+    <ori_mus id="SweneyJR" />
+    <ref_bib liv="Lc" cap="19" ver="37" />
+    <tex>
+        <est>
+            <ver>Desperta já, meu coração</ver>
+            <ver>E louva ao Salvador,</ver>
+            <ver>Cantando em hinos triunfais</ver>
+            <ver>Que Deus é o Deus de amor.</ver>
+            <ver>Imenso amor! Amor sem par!</ver>
+            <ver>Preenche os vastos céus,</ver>
+            <ver>Alcança a terra e a todos nós,</ver>
+            <ver>Insigne amor de Deus!</ver>
+            <cor>
+                <ver>Desperta já, meu coração,</ver>
+                <ver>E louva ao grande Salvador;</ver>
+                <ver>Cantando em hinos triunfais</ver>
+                <ver>Que Deus é o Deus de amor.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Amor que um dia se encarnou</ver>
+            <ver>A fim de me salvar,</ver>
+            <ver>E que, subindo à dura cruz,</ver>
+            <ver>Morreu em meu lugar!</ver>
+            <ver>Amor que exclama: “Vinde a mim!”,</ver>
+            <ver>Que busca o pecador.</ver>
+            <ver>Amor eterno, sem igual,</ver>
+            <ver>De Cristo, Salvador.</ver>
+        </est>
+        <est>
+            <ver>Remido a preço tão real,</ver>
+            <ver>O sangue do Senhor,</ver>
+            <ver>Com que pagar eu poderei</ver>
+            <ver>Tal graça, tal amor?</ver>
+            <ver>Quando ele a mim, um pecador,</ver>
+            <ver>Se digna de aceitar</ver>
+            <ver>E me levar com seus fiéis</ver>
+            <ver>Ao santo e eterno lar?</ver>
+        </est>
+    </tex>
+</hino>

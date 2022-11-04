@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="42" tit="O Grande Amor de Deus" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="11_11_11_11_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>To God be the Glory</tit_ori>
+    <pri_ver_ori>To God be the glory, great things He hath done</pri_ver_ori>
+    <ori_let id="CrosbyFJ" />
+    <ori_let id="JonesJ" ano="1887" />
+    <ori_mus id="DoaneWH" />
+    <ref_bib liv="Sl" cap="126" ver="3" />
+    <ref_bib liv="Rm" cap="10" ver="9" />
+    <ref_bib liv="Ef" cap="2" ver="4,5" />
+    <tex>
+        <est>
+            <ver>A Deus demos glória por seu grande amor:</ver>
+            <ver>O Filho bendito por nós todos deu</ver>
+            <ver>E graça concede ao mais vil pecador,</ver>
+            <ver>Abrindo-lhe a porta de entrada no céu.</ver>
+            <cor>
+                <ver>Exultai! Exultai! Vinde todos louvar</ver>
+                <ver>A Jesus, Salvador, a Jesus, Redentor!</ver>
+                <ver>A Deus demos glória, porquanto do céu</ver>
+                <ver>Seu Filho bendito por nós todos deu!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Oh! Graça real! Foi assim que Jesus,</ver>
+            <ver>Morrendo, seu sangue por nós derramou.</ver>
+            <ver>Herança nos céus, com os santos em luz,</ver>
+            <ver>Legou-nos aquele que o preço pagou.</ver>
+        </est>
+        <est>
+            <ver>Tal prova de amor nos persuade a confiar</ver>
+            <ver>Nos merecimentos do Filho de Deus!</ver>
+            <ver>E quem, a Jesus, pela fé se entregar,</ver>
+            <ver>Vai vê-lo na glória eterna dos céus.</ver>
+        </est>
+    </tex>
+</hino>
