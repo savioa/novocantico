@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="46" tit="Altos Louvores" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="10_11_11_11_12_11_10_11__5_5_" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Altos Louvores</tit_ori>
+    <ori_let id="KalleySP" ano="1873" />
+    <ori_mus id="AvisonC" />
+    <ref_bib liv="Ap" cap="19" ver="7" />
+    <tex>
+        <est>
+            <ver>Altos louvores a quem triunfou!</ver>
+            <ver>Jesus, padecendo, seu povo salvou.</ver>
+            <ver>Morto na cruz pelos crimes do mundo,</ver>
+            <ver>Dotou aos iníquos de vida e perdão.</ver>
+            <ver>Quão grande esta graça! Favor tão profundo!</ver>
+            <ver>Amor indizível! Real compaixão!</ver>
+            <ver>Altos louvores a quem triunfou!</ver>
+            <ver>Jesus, padecendo, seu povo salvou.</ver>
+        </est>
+        <est>
+            <ver>Glória rendemos ao bom Salvador,</ver>
+            <ver>Excelso em justiça, supremo em amor!</ver>
+            <ver>Cristo quebrou as cadeias do forte,</ver>
+            <ver>Seu cetro arrancando com régio poder.</ver>
+            <ver>Agora, onde estão teus terrores, ó morte?</ver>
+            <ver>Sepulcro! Teus presos irão reviver!</ver>
+            <ver>Glória rendamos ao bom Salvador,</ver>
+            <ver>Excelso em justiça, supremo em amor!</ver>
+        </est>
+        <est>
+            <ver>Graças te damos, divino Senhor,</ver>
+            <ver>Amparo constante, fiel protetor!</ver>
+            <ver>Nunca nos deixas, Pastor incansável!</ver>
+            <ver>Teu braço não falha nem perde o poder.</ver>
+            <ver>Conosco presente em bondade imutável,</ver>
+            <ver>Teu povo diriges com alto saber,</ver>
+            <ver>Graças te damos, divino Senhor,</ver>
+            <ver>Amparo constante, fiel protetor.</ver>
+        </est>
+        <est>
+            <ver>Vem, ó Jesus, majestoso reinar;</ver>
+            <ver>Teu povo te espera, não queiras tardar!</ver>
+            <ver>Vem em poder, apressando esse dia,</ver>
+            <ver>Pois tua vontade será feita aqui.</ver>
+            <ver>Oh! Volta na glória trazendo alegria!</ver>
+            <ver>A Igreja suspira, ansiosa, por ti!</ver>
+            <ver>Vem, ó Jesus, majestoso reinar;</ver>
+            <ver>Teu povo te espera, não queiras tardar!</ver>
+        </est>
+    </tex>
+</hino>

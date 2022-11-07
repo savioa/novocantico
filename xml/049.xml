@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="49" tit="Sempre Vencendo" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="10_7_10_7_8_7_8_7_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Victory Through Grace</tit_ori>
+    <pri_ver_ori>Conquering now and still to conquer</pri_ver_ori>
+    <ori_let id="CrosbyFJ" />
+    <ori_let id="GinsburgSL" />
+    <ori_mus id="SweneyJR" />
+    <ref_bib liv="Ap" cap="11" ver="15" />
+    <tex>
+        <est>
+            <ver>Sempre vencendo, mui vitorioso,</ver>
+            <ver>Cristo Jesus, o Senhor!</ver>
+            <ver>É Soberano, chefe bendito,</ver>
+            <ver>Em tudo ele é vencedor!</ver>
+            <ver>Ei-lo supremo, guiando,</ver>
+            <ver>Com seu imenso poder!</ver>
+            <ver>Todos avante, pois, crentes,</ver>
+            <ver>Todos lutar e vencer.</ver>
+            <cor>
+                <ver>Não é dos fortes a vitória,</ver>
+                <ver>Nem dos que correm melhor.</ver>
+                <ver>Mas dos fiéis e sinceros</ver>
+                <ver>Que seguem junto ao Senhor</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Sempre vencendo, mui vitorioso,</ver>
+            <ver>Cristo Jesus, o Senhor!</ver>
+            <ver>Eis suas hostes inumeráveis,</ver>
+            <ver>Seu grande império e fulgor;</ver>
+            <ver>Em seu governo demonstra</ver>
+            <ver>Cuidado e amor sem igual;</ver>
+            <ver>Sempre nos ama e protege</ver>
+            <ver>Com seu poder eternal</ver>
+        </est>
+        <est>
+            <ver>Sempre vencendo, mui vitorioso,</ver>
+            <ver>Cristo Jesus, o Senhor!</ver>
+            <ver>Reis e vassalos, servos e chefes</ver>
+            <ver>Querem também seu favor.</ver>
+            <ver>Senhor, desejo e te imploro</ver>
+            <ver>Que me permitas lutar</ver>
+            <ver>Sempre ao teu lado, invencível,</ver>
+            <ver>Até meus dias findar!</ver>
+        </est>
+    </tex>
+</hino>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="50" tit="Sangue Precioso" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="6_6_7_6_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Substituto</tit_ori>
+    <ori_let id="KalleySP" ano="1872" />
+    <ori_mus id="Anonimo" />
+    <ref_bib liv="Hb" cap="10" ver="12" />
+    <tex>
+        <est>
+            <ver>Cantarei a Cristo</ver>
+            <ver>E seu excelso amor;</ver>
+            <ver>Por nós baixou à terra</ver>
+            <ver>O grande Salvador.</ver>
+            <cor>
+                <ver>O sangue precioso</ver>
+                <ver>De Cristo tem valor:</ver>
+                <ver>Das penas da justiça</ver>
+                <ver>Liberta o pecador.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Cantarei a Cristo!</ver>
+            <ver>Por nós morreu na cruz.</ver>
+            <ver>Aos pobres pecadores</ver>
+            <ver>Quem salva é só Jesus!</ver>
+        </est>
+        <est>
+            <ver>Cantarei a Cristo!</ver>
+            <ver>Por nós cumpriu a Lei!</ver>
+            <ver>Seu manto de Justiça,</ver>
+            <ver>Alegre, vestirei.</ver>
+        </est>
+        <est>
+            <ver>Cantarei a Cristo!</ver>
+            <ver>Nas nuvens voltará</ver>
+            <ver>E na celeste glória</ver>
+            <ver>Os seus receberá.</ver>
+        </est>
+    </tex>
+</hino>

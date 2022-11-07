@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="48" tit="Amor e Gratidão" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="7_6_7_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>St. Christopher</tit_ori>
+    <ori_let id="KalleySP" ano="1865" />
+    <ori_mus id="MakerFC" ano="1881" />
+    <ref_bib liv="Gl" cap="1" ver="4" />
+    <ref_bib liv="Fp" cap="2" ver="8,9" />
+    <tex>
+        <est>
+            <ver>Jesus, quão infinito é teu divino amor!</ver>
+            <ver>Além do nosso alcance, profundo é seu valor!</ver>
+            <ver>Os céus por nós deixaste, vieste, aqui, morrer,</ver>
+            <ver>A fim de que possamos contigo, além, viver.</ver>
+        </est>
+        <est>
+            <ver>Por isso, alegremente, buscamos sempre a ti,</ver>
+            <ver>Visando obedecer-te na vida breve aqui.</ver>
+            <ver>Embora desprezados, com aflições e dor,</ver>
+            <ver>É suave e bom servir-te, bendito Salvador!</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="47" tit="Louvor e Glória" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="5_6_7_5_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Rejoice and be glad</tit_ori>
+    <pri_ver_ori>We praise Thee o God, for the Son of thy love</pri_ver_ori>
+    <ori_let id="MackayWP" ano="1863" />
+    <ori_let id="HoustonJT" ano="1881" />
+    <ori_mus id="RevivalTuneBookColecao" ano="1864" />
+    <ref_bib liv="Is" cap="25" ver="9" />
+    <ref_bib liv="Hb" cap="13" ver="15" />
+    <tex>
+        <est>
+            <ver>Louvamos-te, ó Deus, pelo dom de Jesus</ver>
+            <ver>Que, por nós, pecadores, morreu sobre a cruz.</ver>
+            <cor>
+                <ver>Aleluia! Toda a glória te rendemos, Senhor!</ver>
+                <ver>Aleluia! Tua graça imploramos. Amém.</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Louvamos-te, ó Deus, pois nos mandas a luz</ver>
+            <ver>Que, brilhando nas trevas, a Cristo conduz.</ver>
+        </est>
+        <est>
+            <ver>Louvamos-te, ó Deus, por teu Filho, Jesus,</ver>
+            <ver>Que foi morto, mas vive no Reino da luz.</ver>
+        </est>
+        <est>
+            <ver>Louvamos-te, ó Deus, e rogamos, Senhor:</ver>
+            <ver>Dá-nos sempre sentir teu poder, teu amor.</ver>
+        </est>
+    </tex>
+</hino>
