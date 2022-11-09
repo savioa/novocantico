@@ -29,6 +29,12 @@
                     <xs:documentation>6.6.8.4.D</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="6_6_8_6_D">
+                <xs:annotation>
+                    <xs:appinfo>06_06_08_06_D</xs:appinfo>
+                    <xs:documentation>6.6.8.6.D</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="6_6_8_6_6_8_6_6_6">
                 <xs:annotation>
                     <xs:appinfo>06_06_08_06_06_08_06_06_06</xs:appinfo>
@@ -66,10 +72,10 @@
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="7_7_Coro">
-               <xs:annotation>
-                <xs:appinfo>7_7_Coro</xs:appinfo>
-                <xs:documentation>7.7 Coro</xs:documentation>
-               </xs:annotation> 
+                <xs:annotation>
+                    <xs:appinfo>7_7_Coro</xs:appinfo>
+                    <xs:documentation>7.7 Coro</xs:documentation>
+                </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="7_8_7_8_7_7">
                 <xs:annotation>

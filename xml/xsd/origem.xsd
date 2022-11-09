@@ -204,6 +204,12 @@
                     <xs:documentation>Henriqueta Rosa Fernandes Braga</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="BridgesM">
+                <xs:annotation>
+                    <xs:appinfo>Bridges, Matthew</xs:appinfo>
+                    <xs:documentation>Matthew Bridges</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="BuenoL">
                 <xs:annotation>
                     <xs:appinfo>Bueno, Lídia</xs:appinfo>
@@ -538,6 +544,12 @@
                 <xs:annotation>
                     <xs:appinfo>El Nathan (Whittle, Daniel Webster)</xs:appinfo>
                     <xs:documentation>Daniel Webster) El Nathan (Whittle</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ElveyGJ">
+                <xs:annotation>
+                    <xs:appinfo>Elvey, George Job</xs:appinfo>
+                    <xs:documentation>George Job Elvey</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="EmmerichN">
@@ -1648,6 +1660,12 @@
                 <xs:annotation>
                     <xs:appinfo>Toplady, Augustus Montague</xs:appinfo>
                     <xs:documentation>Augustus Montague Toplady</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="ThringG">
+                <xs:annotation>
+                    <xs:appinfo>Thring, Godfrey</xs:appinfo>
+                    <xs:documentation>Godfrey Thring</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="TuckerH">

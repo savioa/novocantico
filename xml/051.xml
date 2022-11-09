@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="51" tit="Adoração ao Cordeiro vencedor" tit_ant="A Cristo Coroai; Cristo Adorado; Cristo Coroado;" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="6_6_8_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Diademata</tit_ori>
+    <pri_ver_ori>Crown Him with many crowns</pri_ver_ori>
+    <ori_let id="BridgesM" ano="1851" />
+    <ori_let id="ThringG" />
+    <ori_let id="CostaJ" />
+    <ori_mus id="ElveyGJ" ano="1868" />
+    <ori_mus id="KettringDD" ano="1940" />
+    <ref_bib liv="Sl" cap="21" ver="3" />
+    <tex>
+        <est>
+            <ver>A Cristo adorai, Cordeiro vencedor!</ver>
+            <ver>Ouvi das hostes celestiais, dos anjos, o louvor!</ver>
+            <ver>Eleva a tua voz e entoa, coração,</ver>
+            <ver>Louvando aquele que morreu e deu-te a salvação.</ver>
+        </est>
+        <est>
+            <ver>A Cristo adorai, seu lado e mãos olhai!</ver>
+            <ver>Das suas chagas o esplendor e a glória contemplai!</ver>
+            <ver>Nem anjos lá do céu o podem suportar;</ver>
+            <ver>Perante o místico esplendor abaixam seu olhar</ver>
+        </est>
+        <est>
+            <ver>A Cristo adorai! A vida nos doou</ver>
+            <ver>E, a fim de dar-nos salvação, da tumba triunfou!</ver>
+            <ver>Cantemos seu poder: morreu, mas ressurgiu!</ver>
+            <ver>A vida eterna ali nos deu e a morte destruiu.</ver>
+        </est>
+        <est>
+            <ver>A Cristo adorai, das eras o Senhor,</ver>
+            <ver>Dos mundos e astros da amplidão eterno Criador.</ver>
+            <ver>Ao grande Redentor que nos deu salvação,</ver>
+            <ver>Eternamente tributai louvor e adoração.</ver>
+        </est>
+    </tex>
+</hino>
