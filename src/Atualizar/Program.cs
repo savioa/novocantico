@@ -64,7 +64,7 @@ internal class Program
             string descricaoOrigem = itemOrigem.XPathSelectElement(".//xs:documentation", nsm)!.Value;
             string referenciaOrigem = itemOrigem.XPathSelectElement(".//xs:appinfo", nsm)!.Value;
 
-            if (referenciaOrigem.Contains(','))
+            if (!referenciaOrigem.StartsWith('“') && referenciaOrigem.Contains(','))
             {
                 string[] partes = referenciaOrigem.Split(", ");
 

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="53" tit="Honra, Poder, Majestade" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="11_11_11_11" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>O quanta qualia</tit_ori>
+    <pri_ver_ori>Blessing and honor</pri_ver_ori>
+    <ori_let id="BonarH" />
+    <ori_let id="CostaJ" ano="1969" />
+    <ori_mus id="LaFeuillee" ano="1808" />
+    <ref_bib liv="Ap" cap="5" ver="11-13" />
+    <tex>
+        <est>
+            <ver>Honra, poder, majestade, riqueza,</ver>
+            <ver>Sabedoria, domínio e grandeza</ver>
+            <ver>Ao vencedor da batalha é cantado,</ver>
+            <ver>Ao ser, no trono do céu coroado.</ver>
+        </est>
+        <est>
+            <ver>Soa nos céus o triunfo, a vitória;</ver>
+            <ver>Vibra na terra do seu Nome a glória;</ver>
+            <ver>Montes, oceanos, florestas e flores,</ver>
+            <ver>Do seu domínio ecoam louvores.</ver>
+        </est>
+        <est>
+            <ver>Sobe em canto constante alegria;</ver>
+            <ver>Bênçãos do alto nos vêm cada dia;</ver>
+            <ver>Honra, poder, majestade entoamos</ver>
+            <ver>Em nossos hinos que a Deus elevamos.</ver>
+        </est>
+        <est>
+            <ver>Dai ao Cordeiro o louvor que é devido;</ver>
+            <ver>No trono reina de glória vestido.</ver>
+            <ver>Foi imolado—aparente fraqueza!</ver>
+            <ver>Mas, triunfante, já vive em grandeza.</ver>
+        </est>
+    </tex>
+</hino>

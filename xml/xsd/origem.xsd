@@ -930,6 +930,12 @@
                     <xs:documentation>Minna Koch</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="LaFeuillee">
+                <xs:annotation>
+                    <xs:appinfo>“La Feuillée, Méthode du plain chant”</xs:appinfo>
+                    <xs:documentation>“La Feuillée, Méthode du plain chant”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="LattaER">
                 <xs:annotation>
                     <xs:appinfo>Latta, Eden Reeder</xs:appinfo>
