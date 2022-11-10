@@ -83,6 +83,12 @@
                     <xs:documentation>7.8.7.8.7.7</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="8_6__6__8_6_Irregular">
+                <xs:annotation>
+                    <xs:appinfo>08_06__06__08_06_Irregular</xs:appinfo>
+                    <xs:documentation>8.6.[6].8.6.Irregular</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="8_6_8_6">
                 <xs:annotation>
                     <xs:appinfo>08_06_08_06</xs:appinfo>

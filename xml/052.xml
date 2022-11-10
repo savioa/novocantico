@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="52" tit="Glória e Celebração" tit_ant="Glória e coroação; Coroai" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="8_6__6__8_6_Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Diadem</tit_ori>
+    <pri_ver_ori>All hail the power of Jesus Name</pri_ver_ori>
+    <ori_let id="PerronetE" ano="1779" />
+    <ori_let id="NelsonJH" ano="1890" />
+    <ori_mus id="EllorJ" ano="1838" />
+    <ref_bib liv="Rm" cap="15" ver="11" />
+    <tex>
+        <est>
+            <ver>Saudai o nome de Jesus!</ver>
+            <ver>Arcanjos, adorai!</ver>
+            <ver>Arcanjos, adorai!</ver>
+            <ver>Ao Rei que se humilhou na cruz</ver>
+            <ver voz="Soprano">Com glória, glória, glória, glória,</ver>
+            <ver voz="Contralto">Com glória, glória, glória, glória, glória,</ver>
+            <ver voz="Tenor">Com glória, glória, glória,</ver>
+            <ver voz="Baixo">Com glória, glória, glória, glória,</ver>
+            <ver>Com glória coroai!</ver>
+        </est>
+        <est>
+            <ver>Ó escolhida geração</ver>
+            <ver>De Deus, o eterno Pai,</ver>
+            <ver>De Deus, o eterno Pai,</ver>
+            <ver>Ao grande Autor da Salvação</ver>
+            <ver voz="Soprano">Com glória, glória, glória, glória,</ver>
+            <ver voz="Contralto">Com glória, glória, glória, glória, glória,</ver>
+            <ver voz="Tenor">Com glória, glória, glória,</ver>
+            <ver voz="Baixo">Com glória, glória, glória, glória,</ver>
+            <ver>Com glória coroai!</ver>
+        </est>
+        <est>
+            <ver>Remidos todos, com fervor,</ver>
+            <ver>Louvores entoai!</ver>
+            <ver>Louvores entoai!</ver>
+            <ver>Ao que da morte é vencedor</ver>
+            <ver voz="Soprano">Com glória, glória, glória, glória,</ver>
+            <ver voz="Contralto">Com glória, glória, glória, glória, glória,</ver>
+            <ver voz="Tenor">Com glória, glória, glória,</ver>
+            <ver voz="Baixo">Com glória, glória, glória, glória,</ver>
+            <ver>Com glória coroai!</ver>
+        </est>
+        <est>
+            <ver>Ó raças, povos e nações,</ver>
+            <ver>Ao Rei divino honrai!</ver>
+            <ver>Ao Rei divino honrai!</ver>
+            <ver>A quem quebrou os vis grilhões</ver>
+            <ver voz="Soprano">Com glória, glória, glória, glória,</ver>
+            <ver voz="Contralto">Com glória, glória, glória, glória, glória,</ver>
+            <ver voz="Tenor">Com glória, glória, glória,</ver>
+            <ver voz="Baixo">Com glória, glória, glória, glória,</ver>
+            <ver>Com glória coroai!</ver>
+        </est>
+    </tex>
+</hino>
