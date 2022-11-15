@@ -702,6 +702,18 @@
                     <xs:documentation>Claude Goudimel</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="HWGreatorexCollection">
+                <xs:annotation>
+                    <xs:appinfo>“H. W. Greatorex Collection”</xs:appinfo>
+                    <xs:documentation>“H. W. Greatorex Collection”</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="GreatorexHW">
+                <xs:annotation>
+                    <xs:appinfo>Greatorex, Henry Wellington</xs:appinfo>
+                    <xs:documentation>Henry Wellington Greatorex</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="GruberFX">
                 <xs:annotation>
                     <xs:appinfo>Gruber, Franz Xaver</xs:appinfo>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="57" tit="Fonte de Todo Bem" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="7_6_7_6_D_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Wir pflügen</tit_ori>
+    <pri_ver_ori>Wir pflügen, und wir streuen den Samen auf das Land</pri_ver_ori>
+    <ori_let id="ClaudiusM" ano="1782" />
+    <ori_let id="WrightHM" ano="1898" />
+    <ori_let id="CampbellJM" ano="1861" />
+    <ori_mus id="SchulzJAP" />
+    <ref_bib liv="Sl" cap="65" ver="11,12" />
+    <tex>
+        <est>
+            <ver>A terra semeamos a fim de nos dar pão,</ver>
+            <ver>Mas Deus é quem a nutre com benfazeja mão.</ver>
+            <ver>É Deus quem manda o frio, o inverno e o verão,</ver>
+            <ver>A chuva, o doce orvalho e a fresca viração.</ver>
+            <cor>
+                <ver>De todo bem a fonte</ver>
+                <ver>É o nosso bom Senhor!</ver>
+                <ver>Louvai a Deus, louvai a Deus</ver>
+                <ver>Por todo o seu amor!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>O Criador de tudo que em toda parte está</ver>
+            <ver>Colore a flor silvestre e à estrela brilho dá.</ver>
+            <ver>Os ventos lhe obedecem e o bravo mar também;</ver>
+            <ver>As frágeis avezinhas o seu cuidado têm!</ver>
+        </est>
+        <est>
+            <ver>A nós, porém, seus filhos, revela mais amor,</ver>
+            <ver>Mandando a este mundo o Filho Salvador!</ver>
+            <ver>A nós fazendo herdeiros de tudo quanto tem,</ver>
+            <ver>Na redenção perfeita que dele nos provém!</ver>
+        </est>
+    </tex>
+</hino>

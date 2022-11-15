@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="60" tit="Ofertório" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="8_7_8_7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Manoah</tit_ori>
+    <ori_let id="PortoFilhoMS" ano="1966" />
+    <ori_mus id="HWGreatorexCollection" ano="1851" />
+    <ori_mus id="GreatorexHW" />
+    <ref_bib liv="1Cr" cap="16" ver="29" />
+    <tex>
+        <est>
+            <ver>Em tudo as tuas mãos, Senhor,</ver>
+            <ver>Nos têm enriquecido,</ver>
+            <ver>E às provisões do teu amor,</ver>
+            <ver>Bondosas, conduzido.</ver>
+        </est>
+        <est>
+            <ver>De ti procedem salvação</ver>
+            <ver>E as bênçãos incontáveis</ver>
+            <ver>Que, dia a dia, ó Pai, nos dão</ver>
+            <ver>As tuas mãos amáveis.</ver>
+        </est>
+        <est>
+            <ver>De ti vivemos nós, Senhor,</ver>
+            <ver>E em ti nos alegramos;</ver>
+            <ver>Na comunhão do puro amor</ver>
+            <ver>Que em Cristo desfrutamos.</ver>
+        </est>
+        <est>
+            <ver>Com mui sincero coração</ver>
+            <ver>Oferta aqui trazemos;</ver>
+            <ver>Recebe como gratidão</ver>
+            <ver>De quanto a ti devemos.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

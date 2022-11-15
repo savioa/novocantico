@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="58" tit="Ofertas" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="8_6_8_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Ofertas</tit_ori>
+    <ori_let id="GueirosJ" />
+    <ori_mus id="WilsonH" />
+    <ref_bib liv="Sl" cap="65" ver="11,12" />
+    <tex>
+        <est>
+            <ver>A minha vida, com seus bens,</ver>
+            <ver>Provém de ti, Senhor.</ver>
+            <ver>Saúde, veste, abrigo e pão</ver>
+            <ver>São dons do teu amor!</ver>
+        </est>
+        <est>
+            <ver>Oh! Não permitas, Pai de amor</ver>
+            <ver>Que aquilo que me dás</ver>
+            <ver>Eu ouse, incauto, desviar</ver>
+            <ver>Em causas vãs ou más!</ver>
+        </est>
+        <est>
+            <ver>Não deixes que meu coração</ver>
+            <ver>Se engolfe no prazer,</ver>
+            <ver>E no fruir de muitos dons</ver>
+            <ver>Eu venha a te esquecer!</ver>
+        </est>
+        <est>
+            <ver>Mordomo teu, eu quero dar</ver>
+            <ver>À Igreja, em proporção</ver>
+            <ver>A quantas bênçãos recebi</ver>
+            <ver>De tuas próprias mãos!</ver>
+        </est>
+        <est>
+            <ver>Aceita a minha oferta, ó Deus,</ver>
+            <ver>E bênçãos dá-me a flux.</ver>
+            <ver>Sim, dá-me sempre o que ofertar</ver>
+            <ver>À causa de Jesus!</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

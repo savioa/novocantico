@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="59" tit="Gratidão" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="8_7_8_7_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Gratidão</tit_ori>
+    <ori_let id="SantosRR" ano="1959" />
+    <ori_mus id="SantosRR" ano="1959" />
+    <ori_mus id="BuyersN" ano="1968" />
+    <ref_bib liv="Sl" cap="103" ver="1,2" />
+    <tex>
+        <est>
+            <ver>Ao Deus eterno, criador,</ver>
+            <ver>Mil graças tributemos,</ver>
+            <ver>Por tantos anos de labor</ver>
+            <ver>No pátrio lar que temos.</ver>
+            <cor>
+                <ver>Ao Deus eterno, Criador,</ver>
+                <ver>Ao Deus da redenção,</ver>
+                <ver>Por tantos anos de labor,</ver>
+                <ver>A nossa gratidão!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Provaste, ó Deus, o teu amor</ver>
+            <ver>A nós, os brasileiros,</ver>
+            <ver>Na voz tão plena de fervor</ver>
+            <ver>Dos grandes pioneiros.</ver>
+        </est>
+        <est>
+            <ver>Por toda parte, ó Redentor,</ver>
+            <ver>Agora é anunciado</ver>
+            <ver>Teu Nome ao pobre pecador</ver>
+            <ver>Que jaz no vil pecado.</ver>
+        </est>
+        <est>
+            <ver>Que grandes coisas, ó Senhor,</ver>
+            <ver>A todos nós legaste!</ver>
+            <ver>São provas desse grande amor</ver>
+            <ver>Com que tu nos amaste.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

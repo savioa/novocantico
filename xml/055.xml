@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="55" tit="Alegria e Gratidão" tit_ant="Cantai Alegremente" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="7_6_7_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Wie lieblich ist der Maien</tit_ori>
+    <pri_ver_ori>Sing to the Lord of harvest</pri_ver_ori>
+    <ori_let id="MonsellJSB" />
+    <ori_let id="FaustiniJW" ano="1963" />
+    <ori_mus id="MelodiaNurnberg" ano="1581" />
+    <ori_mus id="FaustiniJW" ano="1967" />
+    <ref_bib liv="Sl" cap="65" ver="11,12" />
+    <tex>
+        <est>
+            <ver>Cantai alegremente, cantai a Deus louvor;</ver>
+            <ver>Trazei a ele um canto de exultação e amor</ver>
+            <ver>É Deus quem faz a terra seus frutos produzir</ver>
+            <ver>E as estações do ano em ordem prosseguir.</ver>
+        </est>
+        <est>
+            <ver>É Deus que envia as chuvas e os montes faz florir;</ver>
+            <ver>Que o vale exuberante de trigo faz cobrir.</ver>
+            <ver>Deus tudo multiplica em sua compaixão,</ver>
+            <ver>Fartura concedendo com dadivosa mão.</ver>
+        </est>
+        <est>
+            <ver>Trazei aos seus altares dos frutos que ele deu,</ver>
+            <ver>E as almas da colheita por quem Jesus morreu.</ver>
+            <ver>Prostrai-vos diante dele, humildes, com louvor,</ver>
+            <ver>E assim, em vossa vida, dai graças ao Senhor!</ver>
+        </est>
+    </tex>
+</hino>

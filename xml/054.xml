@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="54" tit="A Chegada do Messias" tit_ant="Cantai! Exultai!" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="5_6_7_5_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>The New Song</tit_ori>
+    <pri_ver_ori>Rejoice and be glad, the Redeemer hath come</pri_ver_ori>
+    <ori_let id="BonarH" />
+    <ori_let id="KalleySP" ano="1877" />
+    <ori_mus id="BlissPP" />
+    <ref_bib liv="Is" cap="25" ver="9" />
+    <tex>
+        <est>
+            <ver>Cantai! Exultai! O Messias chegou!</ver>
+            <ver>Dissiparam-se as trevas, a aurora raiou!</ver>
+            <cor>
+                <ver>Dai louvores, celebrai-o!</ver>
+                <ver>Foi morto na cruz!</ver>
+                <ver>Dai louvores, publicai-o;</ver>
+                <ver>Já vive Jesus!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Cantai! Exultai! Pelos ímpios sofreu!</ver>
+            <ver>Satisfez a justiça e o sangue verteu!</ver>
+        </est>
+        <est>
+            <ver>Cantai! Exultai! Temos pleno perdão,</ver>
+            <ver>Pois Jesus nos concede real salvação!</ver>
+        </est>
+        <est>
+            <ver>Cantai! Exultai! Jesus Cristo, nos céus,</ver>
+            <ver>Pelos seus intercede à destra de Deus.</ver>
+        </est>
+        <est>
+            <ver>Cantai! Exultai! O Senhor voltará!</ver>
+            <ver>Triunfante, glorioso, nas nuvens virá!</ver>
+        </est>
+    </tex>
+</hino>
