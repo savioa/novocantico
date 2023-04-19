@@ -69,7 +69,7 @@
                 <div class='col-md-8'>
                     <div class='panel panel-default'>
                         <div class='panel-heading'>
-                            <h1 class='panel-title'><xsl:value-of select='nc:hino/@num' /> · <xsl:value-of select='nc:hino/@tit' /> <span class='pull-right social'><a title='Compartilhe no Twitter' href='https://twitter.com/intent/tweet?text={nc:hino/@num}%20·%20{nc:hino/@tit}&amp;url=http://www.novocantico.com.br/hino/{nc:hino/@num}/{nc:hino/@num}.xml&amp;via=novo_cantico' target='_blank'><i class='fa fa-twitter fa-lg'></i></a> <a title='Compartilhe no Facebook' href='https://www.facebook.com/sharer/sharer.php?u=http://www.novocantico.com.br/hino/{nc:hino/@num}/{nc:hino/@num}.xml' target='_blank'><i class='fa fa-facebook-official fa-lg'></i></a></span></h1>
+                            <h1 class='panel-title'><xsl:value-of select='nc:hino/@num' /> · <xsl:value-of select='nc:hino/@tit' /></h1>
                             <xsl:if test='nc:hino/nc:tit_ant'>
                             <div class='panel-heading'>
                             <xsl:for-each select='nc:hino/nc:tit_ant'><xsl:if test="position() > 1"><xsl:text>; </xsl:text></xsl:if><xsl:value-of select='.' /></xsl:for-each>
@@ -229,7 +229,6 @@
             <div class='row show-grid'>
                 <div class='col-md-12'>
                     <p class='text-center'>Entoai-lhe novo cântico, tangei com arte e com júbilo. Salmo 33.3</p>
-                    <p class='text-center'><a href='https://twitter.com/novo_cantico' class='twitter-follow-button' data-show-count='false' data-lang='pt'>Seguir @novo_cantico</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
                 </div>
             </div>
         </div>

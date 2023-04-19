@@ -13,6 +13,4 @@ Pode haver mais de um primeiro verso original. Ver: 004.
 
 Definir diretriz para uso de maiúsculas em títulos
 
-Remover links para redes sociais em páginas de hinos.
-
 Remover origens sem uso.
