@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino
+    num="62"
+    tit="Hino de Gratidão"
+    sec="01_Louvor_e_Adoração" ass="01_11_Gratidão"
+    met="11_11_11_11_Coro"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Hino de Gratidão</tit_ori>
+    <ori_let id="OliveiraJC" />
+    <ori_mus id="NogueiraE" />
+    <ori_mus id="ManuelRE" ano="1975" />
+    <ref_bib liv="Sl" cap="103" ver="1,2" />
+    <ref_bib liv="2Co" cap="9" ver="15" />
+    <tex>
+        <est>
+            <ver>Graças te dou por tudo que me deste,</ver>
+            <ver>Primeiro a salvação em meu Jesus.</ver>
+            <ver>Graças te dou por tudo que fizeste</ver>
+            <ver>Por este pecador salvo na cruz!</ver>
+            <cor>
+                <ver>Graças, graças, mil graças</ver>
+                <ver>A ti, meu Salvador!</ver>
+                <ver>Graças, graças, mil graças</ver>
+                <ver>Por teu precioso amor!</ver>
+            </cor>
+        </est>
+        <est>
+            <ver>Eu te agradeço a bênção do trabalho</ver>
+            <ver>E do meu lar, que alegra o meu viver;</ver>
+            <ver>A correção paterna, quando falho,</ver>
+            <ver>Provando o teu amor pelo meu ser.</ver>
+        </est>
+        <est>
+            <ver>Eu te agradeço o pão de cada dia,</ver>
+            <ver>A água que alivia a sede dura</ver>
+            <ver>E o sol que aquece a pobre gente fria:</ver>
+            <ver>São bênçãos que enchem a terra de fartura.</ver>
+        </est>
+        <est>
+            <ver>Eu te agradeço, ó Pai, os meus amigos,</ver>
+            <ver>E os inimigos também te agradeço.</ver>
+            <ver>Sou grato por vitórias em perigos</ver>
+            <ver>E outras bênçãos que eu não mereço.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
