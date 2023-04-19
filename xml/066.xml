@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino
+    num="66"
+    tit="Coração quebrantado"
+    sec="02_Confissão" ass="02_01_Contrição_e_Arrependimento"
+    met="Irregular"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Sonda-me, ó Deus</tit_ori>
+    <tit_ant>Contrição</tit_ant>
+    <tit_ant>Sonda-me, ó Senhor</tit_ant>
+    <ori_mus id="SantosRR" />
+    <ori_mus id="BuyersN" ano="1968" />
+    <ref_bib liv="Sl" cap="139" ver="23,24" />
+    <tex>
+        <est>
+            <ver>Sonda-me, ó Deus, o coração;</ver>
+            <ver>Sonda-me, ó Deus, o coração;</ver>
+            <ver>Prova e conhece os  meus pensamentos;</ver>
+            <ver>Prova e conhece os meus pensamentos;</ver>
+            <ver>Vê se em mim há algum mau caminho.</ver>
+            <ver>Sonda-me, conhece-me</ver>
+            <ver>E prova-me, ó Deus!</ver>
+            <ver>Conhece-me o coração,</ver>
+            <ver>Conhece-me o coração;</ver>
+            <ver>Guia-me, Senhor,</ver>
+            <ver>Guia-me, Senhor,</ver>
+            <ver>E mostra o caminho,</ver>
+            <ver>E guia meus passos,</ver>
+            <ver>Guia meus passos,</ver>
+            <ver>Ó meu Salvador.</ver>
+            <ver>Amém. Amém.</ver>
+        </est>
+    </tex>
+</hino>
