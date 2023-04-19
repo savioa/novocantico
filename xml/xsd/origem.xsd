@@ -1242,10 +1242,10 @@
                     <xs:documentation>“Nürnbergisches Gesangbuch”</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
-            <xs:enumeration value="OatmanJ">
+            <xs:enumeration value="OatmanJrJ">
                 <xs:annotation>
-                    <xs:appinfo>Oatman, Johnson</xs:appinfo>
-                    <xs:documentation>Johnson Oatman</xs:documentation>
+                    <xs:appinfo>Oatman Jr., Johnson</xs:appinfo>
+                    <xs:documentation>Johnson Oatman Jr.</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="OgdenWA">
