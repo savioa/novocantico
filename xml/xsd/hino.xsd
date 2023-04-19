@@ -20,6 +20,11 @@
                         <xs:documentation>Título original</xs:documentation>
                     </xs:annotation>
                 </xs:element>
+                <xs:element name="tit_ant" maxOccurs="unbounded" minOccurs="0" type="xs:string">
+                    <xs:annotation>
+                        <xs:documentation>Título Anterior</xs:documentation>
+                    </xs:annotation>
+                </xs:element>
                 <xs:element name="pri_ver_ori" maxOccurs="unbounded" minOccurs="0" type="xs:string">
                     <xs:annotation>
                         <xs:documentation>Primeiro verso original</xs:documentation>
@@ -35,7 +40,8 @@
                         <xs:documentation>Origem da música</xs:documentation>
                     </xs:annotation>
                 </xs:element>
-                <xs:element name="ref_bib" maxOccurs="unbounded" minOccurs="0" type="TS_referencia_biblica" />
+                <xs:element name="ref_bib" maxOccurs="unbounded" minOccurs="0"
+                    type="TS_referencia_biblica" />
                 <xs:element name="tex">
                     <xs:annotation>
                         <xs:documentation>Texto</xs:documentation>
@@ -55,7 +61,8 @@
                                             </xs:annotation>
                                             <xs:complexType>
                                                 <xs:sequence>
-                                                    <xs:element name="ver" maxOccurs="unbounded" type="TS_verso" />
+                                                    <xs:element name="ver" maxOccurs="unbounded"
+                                                        type="TS_verso" />
                                                 </xs:sequence>
                                             </xs:complexType>
                                         </xs:element>
@@ -93,11 +100,6 @@
             <xs:attribute name="tit" type="xs:string" use="required">
                 <xs:annotation>
                     <xs:documentation>Título</xs:documentation>
-                </xs:annotation>
-            </xs:attribute>
-            <xs:attribute name="tit_ant" type="xs:string" use="optional">
-                <xs:annotation>
-                    <xs:documentation>Título Anterior</xs:documentation>
                 </xs:annotation>
             </xs:attribute>
             <xs:attribute name="sec" type="TS_secao" use="required" />

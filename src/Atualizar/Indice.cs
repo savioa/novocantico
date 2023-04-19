@@ -151,7 +151,7 @@ public class Indice
                     Pai = pai;
                     Valor = hino.Numero;
                     Descricao = hino.Titulo;
-                    TituloAnterior = hino.TituloAnterior;
+                    TitulosAnteriores = hino.TitulosAnteriores;
                     ValorOrdenacao = hino.Numero.PadLeft(3, '0');
                 }
 
@@ -161,7 +161,7 @@ public class Indice
 
                 public string Descricao { get; set; }
 
-                public string TituloAnterior { get; set; }
+                public IList<string> TitulosAnteriores { get; set; }
 
                 public string ValorOrdenacao { get; set; }
 
@@ -171,9 +171,9 @@ public class Indice
                     xeOcorrencia.Add(new XAttribute("valor", Valor));
                     xeOcorrencia.Add(new XAttribute("descricao", Descricao));
 
-                    if (!string.IsNullOrEmpty(TituloAnterior))
+                    if (TitulosAnteriores.Any())
                     {
-                        xeOcorrencia.Add(new XAttribute("tituloAnterior", TituloAnterior));
+                        xeOcorrencia.Add(new XAttribute("tituloAnterior", string.Join("; ", TitulosAnteriores)));
                     }
 
                     return xeOcorrencia;

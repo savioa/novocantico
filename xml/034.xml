@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="34" tit="Louvor ao Deus da graça" tit_ant="Convite ao Louvor" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="7_7_7_7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="34" tit="Louvor ao Deus da graça" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="7_7_7_7" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Monkland</tit_ori>
+    <tit_ant>Convite ao Louvor</tit_ant>
     <pri_ver_ori>Let us with a gladsome mind</pri_ver_ori>
     <ori_let id="Salmo136" />
     <ori_let id="MiltonJ" />

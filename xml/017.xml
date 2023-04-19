@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="17" tit="Deus Seja Louvado" tit_ant="Seja Louvado" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="10_9_10_9_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="17" tit="Deus Seja Louvado" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="10_9_10_9_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Lenington</tit_ori>
+    <tit_ant>Seja Louvado</tit_ant>
     <ori_let id="CaldasAPS" />
     <ori_mus id="Anonimo" />
     <ori_mus id="ReamAW" ano="1940" />

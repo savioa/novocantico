@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="22" tit="A revelação de Deus" tit_ant="Os Céus Proclamam; Altamente Os Céus Proclamam" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="22" tit="A revelação de Deus" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Hino Austríaco</tit_ori>
+    <tit_ant>Os Céus Proclamam</tit_ant>
+    <tit_ant>Altamente Os Céus Proclamam</tit_ant>
     <ori_let id="KalleySP" ano="1865" />
     <ori_mus id="HaydnFJ" ano="1797" />
     <ref_bib liv="Sl" cap="19" ver="1" />

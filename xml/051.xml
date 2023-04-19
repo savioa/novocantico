@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="51" tit="Adoração ao Cordeiro vencedor" tit_ant="A Cristo Coroai; Cristo Adorado; Cristo Coroado;" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="6_6_8_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="51" tit="Adoração ao Cordeiro vencedor" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="6_6_8_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Diademata</tit_ori>
+    <tit_ant>A Cristo Coroai</tit_ant>
+    <tit_ant>Cristo Adorado</tit_ant>
+    <tit_ant>Cristo Coroado;</tit_ant>
     <pri_ver_ori>Crown Him with many crowns</pri_ver_ori>
     <ori_let id="BridgesM" ano="1851" />
     <ori_let id="ThringG" />

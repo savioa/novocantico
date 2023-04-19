@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="28" tit="Celebração de nosso rei e sustentador" tit_ant="Coroação; Tuas Obras Te Coroam" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="28" tit="Celebração de nosso rei e sustentador" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_7_8_7_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Hymn to joy</tit_ori>
+    <tit_ant>Coroação</tit_ant>
+    <tit_ant>Tuas Obras Te Coroam</tit_ant>
     <pri_ver_ori>Joyful, joyful we adore Thee</pri_ver_ori>
     <ori_let id="DykeH" ano="1907" />
     <ori_let id="SalumIN" ano="1940" />

@@ -5,11 +5,12 @@
     xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
     num="3"
     tit="A Igreja em Adoração"
-    tit_ant="Teu Povo Congregado"
+    
     sec="01_Louvor_e_Adoração"
     ass="01_02_Deus_Trino"
     met="11_10_11_10_D">
     <tit_ori>O selig Haus</tit_ori>
+    <tit_ant>Teu Povo Congregado</tit_ant>
     <ori_let id="KalleySP" ano="1872" />
     <ori_mus id="NiemeyerE" ano="1854" />
     <ref_bib liv="Dt" cap="33" ver="3" />

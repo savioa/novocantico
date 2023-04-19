@@ -474,6 +474,12 @@
                     <xs:documentation>John Darwall</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="DenyszczukAO">
+                <xs:annotation>
+                    <xs:appinfo>Denyszczuk, Alice Östergreen</xs:appinfo>
+                    <xs:documentation>Alice Östergreen Denyszczuk</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="DixWC">
                 <xs:annotation>
                     <xs:appinfo>Dix, William Chatterton</xs:appinfo>
@@ -700,6 +706,12 @@
                 <xs:annotation>
                     <xs:appinfo>Goudimel, Claude</xs:appinfo>
                     <xs:documentation>Claude Goudimel</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="HultmanJA">
+                <xs:annotation>
+                    <xs:appinfo>Hultman, John Alfred</xs:appinfo>
+                    <xs:documentation>John Alfred Hultman</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="HWGreatorexCollection">
@@ -1612,6 +1624,12 @@
                 <xs:annotation>
                     <xs:appinfo>Stone, Samuel John</xs:appinfo>
                     <xs:documentation>Samuel John Stone</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
+            <xs:enumeration value="StormAL">
+                <xs:annotation>
+                    <xs:appinfo>Storm, August Ludwig</xs:appinfo>
+                    <xs:documentation>August Ludwig Storm</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
             <xs:enumeration value="StralsundGesangbuch">

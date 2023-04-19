@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="52" tit="Glória e Celebração" tit_ant="Glória e coroação; Coroai" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="8_6__6__8_6_Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="52" tit="Glória e Celebração" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="8_6__6__8_6_Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Diadem</tit_ori>
+    <tit_ant>Glória e coroação</tit_ant>
+    <tit_ant>Coroai</tit_ant>
     <pri_ver_ori>All hail the power of Jesus Name</pri_ver_ori>
     <ori_let id="PerronetE" ano="1779" />
     <ori_let id="NelsonJH" ano="1890" />

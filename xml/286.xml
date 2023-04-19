@@ -5,11 +5,11 @@
     xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
     num="286"
     tit="Colheita Bendita"
-    tit_ant="Vamos à Colheita"
     sec="06_Cristo_-_Sua_Vida"
     ass="06_08_A_Grande_Comissão"
     met="8_8_8_8">
     <tit_ori>To the harvest field</tit_ori>
+    <tit_ant>Vamos à Colheita</tit_ant>
     <pri_ver_ori>A band of faithful reapers</pri_ver_ori>
     <ori_let id="GabrielCH" />
     <ori_let id="WatsonA" ano="1913" />

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="41" tit="Louvor pela Graça Divina" tit_ant="Louvai" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="41" tit="Louvor pela Graça Divina" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Joyful song</tit_ori>
+    <tit_ant>Louvai</tit_ant>
     <pri_ver_ori>Praise Him, praise Him</pri_ver_ori>
     <ori_let id="CrosbyFJ" />
     <ori_let id="GinsburgSL" />

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="54" tit="A Chegada do Messias" tit_ant="Cantai! Exultai!" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="5_6_7_5_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="54" tit="A Chegada do Messias" sec="01_Louvor_e_Adoração" ass="01_10_Deus_Vencedor" met="5_6_7_5_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>The New Song</tit_ori>
+    <tit_ant>Cantai! Exultai!</tit_ant>
     <pri_ver_ori>Rejoice and be glad, the Redeemer hath come</pri_ver_ori>
     <ori_let id="BonarH" />
     <ori_let id="KalleySP" ano="1877" />

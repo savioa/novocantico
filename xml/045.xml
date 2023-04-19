@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="45" tit="Grande Redenção" tit_ant="A Deus Louvai" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="9_8_9_8_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="45" tit="Grande Redenção" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="9_8_9_8_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Jubilee</tit_ori>
+    <tit_ant>A Deus Louvai</tit_ant>
     <pri_ver_ori>I hear ten thousand voices singing</pri_ver_ori>
     <ori_let id="FoxHW" ano="1848" />
     <ori_let id="WrightHM" ano="1913" />

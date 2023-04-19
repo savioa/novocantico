@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="37" tit="O Santo Nome" tit_ant="Jesus, Teu Nome é Santo" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="7_6_8_6_8_6_8_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="37" tit="O Santo Nome" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="7_6_8_6_8_6_8_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Beneath the cross of Jesus</tit_ori>
+    <tit_ant>Jesus, Teu Nome é Santo</tit_ant>
     <ori_let id="MenezesMA" ano="1885" />
     <ori_mus id="SankeyID" />
     <ref_bib liv="Sl" cap="72" ver="17" />

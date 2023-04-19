@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hino
+    num="61"
+    tit="Ações de Graças"
+    sec="01_Louvor_e_Adoração" ass="01_11_Gratidão"
+    met="8_7_8_7_D"
+    sit="sem_audio"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Tack o Gud</tit_ori>
+    <tit_ant>Graças dou por esta Vida</tit_ant>
+    <pri_ver_ori>Thanks to God for my Redeemer</pri_ver_ori>
+    <ori_let id="StormAL" ano="1891" />
+    <ori_let id="DenyszczukAO" ano="1961" />
+    <ori_mus id="HultmanJA" />
+    <ref_bib liv="2Co" cap="9" ver="15" />
+    <ref_bib liv="Sl" cap="103" ver="1,2" />
+    <tex>
+        <est>
+            <ver>Graças dou por esta vida,</ver>
+            <ver>Pelo bem que revelou,</ver>
+            <ver>Graças dou pelo futuro</ver>
+            <ver>E por tudo que passou.</ver>
+            <ver>Pelas bênçãos derramadas,</ver>
+            <ver>Pelo amor, pela aflição,</ver>
+            <ver>Pelas graças reveladas,</ver>
+            <ver>Graças dou pelo perdão.</ver>
+        </est>
+        <est>
+            <ver>Graças pelo azul-celeste</ver>
+            <ver>E por nuvens que há também,</ver>
+            <ver>Pelas rosas do caminho</ver>
+            <ver>E os espinhos que elas têm;</ver>
+            <ver>Pelas noites desta vida,</ver>
+            <ver>Pela estrela que brilhou,</ver>
+            <ver>Pela prece respondida</ver>
+            <ver>E a esperança que falhou.</ver>
+        </est>
+        <est>
+            <ver>Pela cruz e o sofrimento,</ver>
+            <ver>E, afinal, ressurreição,</ver>
+            <ver>Pelo amor que é sem medida,</ver>
+            <ver>Pela paz no coração;</ver>
+            <ver>Pela lágrima vertida</ver>
+            <ver>E o consolo que é sem par,</ver>
+            <ver>Pelo dom da eterna vida</ver>
+            <ver>Sempre graças hei de dar.</ver>
+        </est>
+    </tex>
+</hino>

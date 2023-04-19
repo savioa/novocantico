@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="44" tit="Louvores ao Senhor" tit_ant="Louvemos Ao Senhor" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="6_7_6_7_6_6_6_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="44" tit="Louvores ao Senhor" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="6_7_6_7_6_6_6_6" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Nun danket alle Gott</tit_ori>
+    <tit_ant>Louvemos Ao Senhor</tit_ant>
     <pri_ver_ori>Nun danket alle Gott</pri_ver_ori>
     <ori_let id="RochaJG" ano="1899" />
     <ori_let id="RinckartM" ano="1636" />

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="19" tit="Rei Sublime" tit_ant="Ó Rei Sublime" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="19" tit="Rei Sublime" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Pilgrims</tit_ori>
+    <tit_ant>Ó Rei Sublime</tit_ant>
     <ori_let id="KalleySP" ano="1888" />
     <ori_mus id="SmartHT" ano="1868" />
     <ref_bib liv="Sl" cap="93" ver="1" />

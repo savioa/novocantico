@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="56" tit="Ações de Graças e Súplica" tit_ant="Ação de Graças" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="6_5_6_5_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="56" tit="Ações de Graças e Súplica" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="6_5_6_5_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Stern, auf den ich schaue</tit_ori>
+    <tit_ant>Ação de Graças</tit_ant>
     <ori_let id="GueirosJ" />
     <ori_mus id="KochM" ano="1897" />
     <ref_bib liv="Sl" cap="75" ver="1" />

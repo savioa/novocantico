@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="55" tit="Alegria e Gratidão" tit_ant="Cantai Alegremente" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="7_6_7_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="55" tit="Alegria e Gratidão" sec="01_Louvor_e_Adoração" ass="01_11_Gratidão" met="7_6_7_6_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Wie lieblich ist der Maien</tit_ori>
+    <tit_ant>Cantai Alegremente</tit_ant>
     <pri_ver_ori>Sing to the Lord of harvest</pri_ver_ori>
     <ori_let id="MonsellJSB" />
     <ori_let id="FaustiniJW" ano="1963" />

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="32" tit="O Deus Fiel às suas promessas" tit_ant="O Deus Fiel; Tu És Fiel, Senhor" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="10_10_10_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="32" tit="O Deus Fiel às suas promessas" sec="01_Louvor_e_Adoração" ass="01_07_Deus_Fiel" met="10_10_10_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Great is thy faithfulness</tit_ori>
+    <tit_ant>O Deus Fiel</tit_ant>
+    <tit_ant>Tu És Fiel, Senhor</tit_ant>
     <pri_ver_ori>Great is thy faithfulness</pri_ver_ori>
     <ori_let id="ChisholmTO" ano="1923" />
     <ori_let id="SuttonJL" ano="1960" />

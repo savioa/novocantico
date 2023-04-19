@@ -16,7 +16,7 @@ public class Hino
 
         Titulo = xeHino.Attribute("tit")!.Value;
 
-        TituloAnterior = xeHino.Attribute("tit_ant") != null ? xeHino.Attribute("tit_ant")!.Value : string.Empty;
+        TitulosAnteriores = xeHino.Elements(xn + "tit_ant").Select(p => p.Value).ToList();
 
         Metrica = xeHino.Attribute("met")!.Value;
 
@@ -43,7 +43,7 @@ public class Hino
 
     public string Titulo { get; set; }
 
-    public string TituloAnterior { get; set; }
+    public IList<string> TitulosAnteriores { get; set; }
 
     public string PrimeiroVerso { get; set; }
 

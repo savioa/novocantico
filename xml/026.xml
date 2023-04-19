@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="26" tit="Louvor ao Deus Grandioso" tit_ant="Ao Deus Grandioso; Grandioso És Tu" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="26" tit="Louvor ao Deus Grandioso" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="11_10_11_10_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>How great Thou art</tit_ori>
+    <tit_ant>Ao Deus Grandioso</tit_ant>
+    <tit_ant>Grandioso És Tu</tit_ant>
     <pri_ver_ori>O Lord, my God, when I in awesome wonder</pri_ver_ori>
     <ori_let id="BobergC" ano="1886" />
     <ori_let id="EmmerichN" ano="1959" />

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="36" tit="Exaltação universal" tit_ant="Exaltação; Exaltai O Senhor" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="8_8_8_8_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="36" tit="Exaltação universal" sec="01_Louvor_e_Adoração" ass="01_08_Deus_Senhor" met="8_8_8_8_D" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Creation</tit_ori>
+    <tit_ant>Exaltação</tit_ant>
+    <tit_ant>Exaltai O Senhor</tit_ant>
     <ori_let id="NelsonJH" />
     <ori_mus id="HaydnFJ" />
     <ref_bib liv="2Co" cap="9" ver="15" />

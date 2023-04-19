@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="43" tit="O Deus de Amor" tit_ant="Desperta Já, Meu Coração" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="8_6_8_6_D_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="43" tit="O Deus de Amor" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="8_6_8_6_D_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Awake, awake</tit_ori>
+    <tit_ant>Desperta Já, Meu Coração</tit_ant>
     <pri_ver_ori>Awake, awake, o heart of mine</pri_ver_ori>
     <ori_let id="CrosbyFJ" />
     <ori_let id="WrightHM" />

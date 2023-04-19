@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="40" tit="Cântico ao Salvador" tit_ant="Cantai A Cristo" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="8_6_8_6_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="40" tit="Cântico ao Salvador" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="8_6_8_6_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Oh, sing of Jesus</tit_ori>
+    <tit_ant>Cantai A Cristo</tit_ant>
     <pri_ver_ori>Oh, sing of Jesus, Lamb of God</pri_ver_ori>
     <ori_let id="OKaneTC" />
     <ori_let id="JonesJ" ano="1887" />

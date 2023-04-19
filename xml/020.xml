@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="20" tit="Glorificação à Trindade" tit_ant="A Ti, Ó Deus, Louvamos" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="20" tit="Glorificação à Trindade" sec="01_Louvor_e_Adoração" ass="01_04_Deus_Soberano" met="Irregular" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <tit_ori>Te Deum laudamus</tit_ori>
+  <tit_ant>A Ti, Ó Deus, Louvamos</tit_ant>
   <pri_ver_ori>Te Deum laudamus</pri_ver_ori>
   <ori_let id="Nicetas" ano="séc. IV" />
   <ori_let id="RochaJG" ano="1888" />

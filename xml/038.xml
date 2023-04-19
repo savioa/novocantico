@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="38" tit="Louvores sem Fim" tit_ant="Mil Vezes Mil Louvores" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="13_13_13_13_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" num="38" tit="Louvores sem Fim" sec="01_Louvor_e_Adoração" ass="01_09_Deus_Salvador" met="13_13_13_13_Coro" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Salomão</tit_ori>
+    <tit_ant>Mil Vezes Mil Louvores</tit_ant>
     <ori_let id="WrightHM" ano="1901" />
     <ori_mus id="KirkpatrickWJ" />
     <ref_bib liv="Ap" cap="7" ver="9,10" />

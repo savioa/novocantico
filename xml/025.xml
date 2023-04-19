@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="25" tit="Exaltação ao Criador e Salvador" tit_ant="O Criador de Tudo; Deus do Infinito o Criador" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_8_8_8_8_Aleluias" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<hino xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd" sit="sem_audio" num="25" tit="Exaltação ao Criador e Salvador" sec="01_Louvor_e_Adoração" ass="01_05_Deus_Criador" met="8_8_8_8_8_Aleluias" xmlns="http://www.novocantico.com.br/schema/hino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <tit_ori>Lasst uns erfreuen</tit_ori>
+    <tit_ant>O Criador de Tudo</tit_ant>
+    <tit_ant>Deus do Infinito o Criador</tit_ant>
     <pri_ver_ori>Declare, o Heavens</pri_ver_ori>
     <ori_let id="EdwardsRL" ano="1962" />
     <ori_let id="FaustiniJW" ano="1967" />
