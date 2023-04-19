@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino
+    num="64"
+    tit="Grata memória"
+    sec="01_Louvor_e_Adoração" ass="01_11_Gratidão"
+    met="11_11_11_5"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Flemming</tit_ori>
+    <pri_ver_ori>Nunca, Dios mio, cesará mi labio</pri_ver_ori>
+    <ori_let id="CabreraJB" />
+    <ori_mus id="PortoFilhoMS" ano="1961" />
+    <ori_mus id="FlemmingFF" ano="1810" />
+    <ref_bib liv="2Co" cap="9" ver="15" />
+    <tex>
+        <est>
+            <ver>Nunca meus lábios cessarão, ó Cristo,</ver>
+            <ver>De bendizer-te, de cantar-te glória;</ver>
+            <ver>Pois guardo na alma teu amor imenso.</ver>
+            <ver>Grata memória!</ver>
+        </est>
+        <est>
+            <ver>Quando perdido vagueava aflito</ver>
+            <ver>E em densas trevas meu andar seguia,</ver>
+            <ver>Tu me buscastes, lá dos céus mandando</ver>
+            <ver>Luz que me guia!</ver>
+        </est>
+        <est>
+            <ver>Quando oprimido por mundano jugo,</ver>
+            <ver>Em maus caminhos eu me angustiava,</ver>
+            <ver>Deu-me descanso tua voz tão terna</ver>
+            <ver>Que me chamava!</ver>
+        </est>
+        <est>
+            <ver>Aos fortes braços eu corri confiante;</ver>
+            <ver>Meigo e bondoso, não me recusaste</ver>
+            <ver>E, em teu imenso, suave amor, tão puro,</ver>
+            <ver>Me agasalhaste!</ver>
+        </est>
+        <est>
+            <ver>Oh! Nunca, nunca cessarão meus lábios</ver>
+            <ver>De bendizer-te, de cantar-te glória;</ver>
+            <ver>Pois em minha alma tu és sempre, ó Cristo,</ver>
+            <ver>Grata memória!</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>

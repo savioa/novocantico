@@ -221,6 +221,12 @@
                     <xs:documentation>11.10.11.10.D</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="11_11_11_5">
+                <xs:annotation>
+                    <xs:appinfo>11_11_11_5</xs:appinfo>
+                    <xs:documentation>11.11.11.5</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="10_11_11_11_12_11_10_11__5_5_">
                 <xs:annotation>
                     <xs:appinfo>10_11_11_11_12_11_10_11__05_05_</xs:appinfo>
