@@ -15,7 +15,7 @@
         </xs:annotation>
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="tit_ori" maxOccurs="unbounded" minOccurs="0" type="xs:string">
+                <xs:element name="tit_ori" type="xs:string">
                     <xs:annotation>
                         <xs:documentation>Título original</xs:documentation>
                     </xs:annotation>
