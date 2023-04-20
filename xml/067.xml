@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    num="67"
+    tit="Coração quebrantado"
+    sec="02_Confissão" ass="02_01_Contrição_e_Arrependimento"
+    met="10_10_10_10"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Cleanse me</tit_ori>
+    <pri_ver_ori>Cleanse me</pri_ver_ori>
+    <ori_let id="OrrJE" />
+    <ori_let id="KaschelW" />
+    <ori_mus id="MelodiaMaori" />
+    <ref_bib liv="Sl" cap="139" ver="23,24" />
+    <tex>
+        <est>
+            <ver>Sonda-me, ó Deus, pois vês meu coração!</ver>
+            <ver>Prova-me, ó Pai, te peço em oração.</ver>
+            <ver>De todo o mal liberta-me, Senhor,</ver>
+            <ver>Até da transgressão que oculta for.</ver>
+        </est>
+        <est>
+            <ver>Vem me lavar dos vis pecados meus,</ver>
+            <ver>Conforme prometeste, meu bom Deus.</ver>
+            <ver>Faze-me arder e consumir de amor,</ver>
+            <ver>Pois quero te magnificar, Senhor.</ver>
+        </est>
+        <est>
+            <ver>Todo o meu ser não considero meu;</ver>
+            <ver>Quero gastá-lo no serviço teu.</ver>
+            <ver>Minhas paixões tu podes dominar,</ver>
+            <ver>Pois tu, Senhor, vieste em mim morar.</ver>
+        </est>
+        <est>
+            <ver>Lá do alto céu o avivamento vem</ver>
+            <ver>E que comece em mim, seguindo além.</ver>
+            <ver>O teu poder, as bênçãos, teu favor</ver>
+            <ver>Concede aos que são teus, ó Pai de amor.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
