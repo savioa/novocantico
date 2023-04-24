@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    num="71"
+    tit="Perdão"
+    sec="02_Confissão" ass="02_01_Contrição_e_Arrependimento"
+    met="10_10_10_4"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Camacuá</tit_ori>
+    <tit_ant>Perdão, Senhor</tit_ant>
+    <pri_ver_ori>If I have wounded any soul today</pri_ver_ori>
+    <ori_let id="BattersbyCM" ano="1913" />
+    <ori_let id="CantoniH" ano="1966" />
+    <ori_let id="CostaJS" ano="1987" />
+    <ori_mus id="SosaPD" ano="1959" />
+    <ori_mus id="ManuelRE" ano="1975" />
+    <ref_bib liv="Lc" cap="18" ver="3" />
+    <tex>
+        <est>
+            <ver>Se sofrimento te causei, ó Deus,</ver>
+            <ver>Se ao meu exemplo o fraco tropeçou,</ver>
+            <ver>Se eu não andei nos bons caminhos teus.</ver>
+            <ver>Perdão, Senhor!</ver>
+        </est>
+        <est>
+            <ver>Se vão e fútil foi o meu falar</ver>
+            <ver>Se amor a meu irmão não demonstrei;</ver>
+            <ver>Se ao sofredor eu não quis ajudar.</ver>
+            <ver>Perdão, Senhor!</ver>
+        </est>
+        <est>
+            <ver>Se negligente foi o meu viver,</ver>
+            <ver>Sem me dispor a pelejar por ti,</ver>
+            <ver>Se firme em teu trabalho eu não quis ser.</ver>
+            <ver>Perdão, Senhor!</ver>
+        </est>
+        <est>
+            <ver>Escuta, ó Deus, a minha oração</ver>
+            <ver>E vem livrar-me do pecado vil.</ver>
+            <ver>Renova este pobre coração!</ver>
+            <ver>Amém, Senhor!</ver>
+        </est>
+    </tex>
+</hino>
