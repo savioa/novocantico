@@ -251,6 +251,12 @@
                     <xs:documentation>11.11.11.11 Coro</xs:documentation>
                 </xs:annotation>
             </xs:enumeration>
+            <xs:enumeration value="12_11_12_11">
+                <xs:annotation>
+                    <xs:appinfo>12_11_12_11</xs:appinfo>
+                    <xs:documentation>12.11.12.11</xs:documentation>
+                </xs:annotation>
+            </xs:enumeration>
             <xs:enumeration value="12_12_12_10">
                 <xs:annotation>
                     <xs:appinfo>12_12_12_10</xs:appinfo>

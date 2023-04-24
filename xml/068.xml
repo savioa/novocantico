@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hino
+    num="68"
+    tit="Necessidade"
+    sec="02_Confissão" ass="02_01_Contrição_e_Arrependimento"
+    met="12_11_12_11"
+    xsi:schemaLocation="http://www.novocantico.com.br/schema/hino xsd/hino.xsd"
+    xmlns="http://www.novocantico.com.br/schema/hino"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <tit_ori>Telford</tit_ori>
+    <tit_ant>Senhor, eu preciso de Ti</tit_ant>
+    <tit_ant>Dependência de Deus</tit_ant>
+    <ori_let id="GoncalvesAC" ano="1952" />
+    <ori_mus id="BragaHRF" ano="1952" />
+    <ref_bib liv="Sl" cap="34" ver="10" />
+    <tex>
+        <est>
+            <ver>Eu creio, Senhor, na divina promessa,</ver>
+            <ver>Vitórias já tive nas lutas aqui.</ver>
+            <ver>Contudo, é mui certo que a gente tropeça;</ver>
+            <ver>Por isso, Senhor, eu preciso de ti.</ver>
+        </est>
+        <est>
+            <ver>A luz que me guia no escuro caminho</ver>
+            <ver>Fulgura de cima, do Sol criador;</ver>
+            <ver>Contudo, não posso segui-la sozinho;</ver>
+            <ver>Por isso eu preciso de ti, meu Senhor.</ver>
+        </est>
+        <est>
+            <ver>Bem sei que nas preces eu posso buscar-te,</ver>
+            <ver>Jamais dessa bênção na vida eu descri;</ver>
+            <ver>Contudo, é possível que dela me afaste;</ver>
+            <ver>Por isso, Senhor, eu preciso de ti.</ver>
+        </est>
+        <est>
+            <ver>Esforços da terra, precário destino,</ver>
+            <ver>Empenho dos homens, riqueza, o que for,</ver>
+            <ver>Não valem a bênção do reino divino;</ver>
+            <ver>Por isso eu preciso de ti, meu Senhor.</ver>
+            <ver>Amém.</ver>
+        </est>
+    </tex>
+</hino>
