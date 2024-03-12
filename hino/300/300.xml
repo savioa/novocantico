@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>300</numero>
+  <n>300</n>
+  <titulo>Igreja Militante</titulo>
+  <texto>
+    <estrofe>
+      <verso>Para resgatar a Igreja, grande preço Cristo deu.</verso>
+      <verso>Não foi ouro, nem foi prata: foi seu sangue que verteu.</verso>
+      <coro>
+        <verso>Grande foi o teu amor que na cruz assim mostraste!</verso>
+        <verso>Para meus grilhões168 partires, tua vida não poupaste!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Pois agora que sou tua, não te quero mais perder</verso>
+      <verso>E, com gratidão servindo, quero só por ti viver.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quero receber teu jugo e em teus passos caminhar!</verso>
+      <verso>Se por ti eu sofro tudo, vou contigo em paz reinar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eis que estou aqui na terra esperando o teu voltar.</verso>
+      <verso>Vem buscar a tua Igreja, vem, Senhor, e sem tardar!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="01">Igreja Militante</assunto>
+  <origem_letra>J. J. P. Rodrigues</origem_letra>
+</hino>

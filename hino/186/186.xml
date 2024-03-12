@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>186</numero>
+  <n>186</n>
+  <titulo>O Lar do Céu</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Pensai nesse lar lá do céu,</verso>
+      <verso>Nas gloriosas moradas de luz,</verso>
+      <verso>Onde os crentes, felizes,</verso>
+      <verso>Desfrutam da presença de Cristo Jesus.</verso>
+      <coro>
+        <verso>Oh! Pensai! Oh! Pensai!</verso>
+        <verso>Oh! Pensai nesse lar lá do céu,</verso>
+        <verso>Lá do céu, lá do céu, lá do céu!</verso>
+        <verso>Oh! Pensai nesse lar lá do céu!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Pensai nos amigos no céu,</verso>
+      <verso>Que venceram a luta afinal,</verso>
+      <verso>E nos cantos que sempre ressoam</verso>
+      <verso>Na harmonia do lar eternal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hei de ver, lá no céu, meu Jesus,</verso>
+      <verso>Face a face seu rosto mirar!</verso>
+      <verso>E bem longe cuidados, tristezas,</verso>
+      <verso>Para sempre com ele habitar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sem demora no céu estarei;</verso>
+      <verso>Vejo o fim da jornada chegar.</verso>
+      <verso>Meu bondoso Jesus lá me espera</verso>
+      <verso>Para as bênçãos eternas me dar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <origem_letra>W. C. Hanteington</origem_letra>
+  <origem_letra>L. F. C. da Silva</origem_letra>
+</hino>

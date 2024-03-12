@@ -3,32 +3,21 @@
 <hino situacao="incompleto">
   <numero>400</numero>
   <n>400</n>
-  <titulo>Oração por proteção</titulo>
+  <titulo>Oração por Proteção</titulo>
   <texto>
     <estrofe>
-      <verso>Grande Deus! Em paz,agora,</verso>
-      <verso>Despedimo-nos, Senhor.</verso>
-      <verso>Certos de fruir as bênçãos</verso>
-      <verso>Que provém do teu amor.</verso>
-      <verso>Dá-nos forças, dá-nos forças,</verso>
-      <verso>Neste mundo de amargor.</verso>
+      <verso>Grande Deus! Em paz, agora, despedimo-nos, Senhor.</verso>
+      <verso>Certos de fruir as bênçãos que provêm do teu amor.</verso>
+      <verso>Dá-nos forças, dá-nos forças, neste mundo de amargor.</verso>
     </estrofe>
     <estrofe>
-      <verso>Graças, graças nós rendemos</verso>
-      <verso>Pela tua Redenção.</verso>
-      <verso>E teremos jubilosos,</verso>
-      <verso>Tua santa proteção.</verso>
-      <verso>Deus eterno, Deus eterno,</verso>
-      <verso>Reina em cada coração. Amém.</verso>
+      <verso>Graças, graças nós rendemos pela tua redenção</verso>
+      <verso>E teremos, jubilosos, tua santa proteção.</verso>
+      <verso>Deus eterno, Deus eterno, reina em cada coração.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
-  <assunto id="11">Final de culto</assunto>
-  <titulo_original>Crown Him</titulo_original>
-  <metrica id="8_7_8_7_8_7__8_7_">8.7.8.7.8.7.[8.7]</metrica>
-  <origem_letra id="HoustonJT" referencia="Houston, James Theodore" ano="1881">James Theodore Houston</origem_letra>
-  <origem_letra id="FawcettJ" referencia="Fawcett, John">John Fawcett</origem_letra>
-  <origem_musica id="StebbinsGC" referencia="Stebbins, George Coles">George Coles Stebbins</origem_musica>
-  <primeiro_verso_original>Lord, dismiss us with thy blessing</primeiro_verso_original>
-  <referencia_biblica id="41_006_045">Marcos 6.45</referencia_biblica>
+  <assunto id="11">Final de Culto</assunto>
+  <origem_letra>J. T. Houston</origem_letra>
 </hino>

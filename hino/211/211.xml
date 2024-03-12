@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>211</numero>
+  <n>211</n>
+  <titulo>Quase Induzido</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quase induzido a crer em Jesus;</verso>
+      <verso>Quase induzido a andar na luz!</verso>
+      <verso>Pensas em replicar:</verso>
+      <verso>“Quando tiver vagar,</verso>
+      <verso>Irei, então, buscar o Redentor”.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quase induzido, oh! Coração!</verso>
+      <verso>Quase induzido, oh! Ilusão!</verso>
+      <verso>Hoje o bom Salvador,</verso>
+      <verso>Com voz de terno amor,</verso>
+      <verso>Quer dar ao pecador a sua paz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quase induzido, não queres crer?</verso>
+      <verso>Quase induzido, vem sem temer!</verso>
+      <verso>“Quase” não servirá;</verso>
+      <verso>“Quase” te afastará!</verso>
+      <verso>“Quase” te lançará na perdição!</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>P. P. Bliss</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

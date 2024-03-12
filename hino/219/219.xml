@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>219</numero>
+  <n>219</n>
+  <titulo>Dedicação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sofreste, ó meu Senhor, na amarga cruz,</verso>
+      <verso>E derramaste ali teu sangue a flux,</verso>
+      <verso>Que resgatou minha alma dos pecados meus</verso>
+      <verso>E deu-me o céu de luz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Agora, ó Salvador, quero te honrar</verso>
+      <verso>E, enquanto aqui viver, sempre te amar</verso>
+      <verso>E, dando provas desse amor, meu coração</verso>
+      <verso>Desejo consagrar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aceita, ó terno Deus, a adoração</verso>
+      <verso>Que oferto a ti, Senhor, com devoção.</verso>
+      <verso>Depondo, então, a teus pés, para sempre, ó Pai,</verso>
+      <verso>A eterna gratidão.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="05">Consagração</secao>
+  <assunto id="02">Dedicação</assunto>
+  <origem_letra>M. B. Souza</origem_letra>
+</hino>

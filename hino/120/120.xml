@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>120</numero>
+  <n>120</n>
+  <titulo>Dependência</titulo>
+  <texto>
+    <estrofe>
+      <verso>Careço de Jesus, de ti, meu Salvador!</verso>
+      <verso>Somente a tua voz tem para mim valor.</verso>
+      <coro>
+        <verso>De ti, Senhor, careço! Do teu amparo, sempre!</verso>
+        <verso>Oh! Dá-me tua bênção! Aspiro a ti.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Careço de Jesus! Unido a ti, Senhor,</verso>
+      <verso>Pecado e tentação não mais terão vigor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Careço de Jesus, nas trevas e na luz!</verso>
+      <verso>Sem ti a vida é vã; sou pobre sem Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Careço de Jesus! Viver desejo aqui,</verso>
+      <verso>Ligado mais e mais, ó Salvador, a ti!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="09">Aspiração</assunto>
+  <origem_letra>A. S. Hawks</origem_letra>
+  <origem_letra>E. R. Lowry</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

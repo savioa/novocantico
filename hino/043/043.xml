@@ -1,54 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino situacao='incompleto'>
+<hino situacao="incompleto">
   <numero>043</numero>
   <n>43</n>
   <titulo>O Deus de Amor</titulo>
   <texto>
     <estrofe>
-      <verso>Desperta já, meu coração</verso>
-      <verso>E louva ao Salvador,</verso>
-      <verso>Cantando em hinos triunfais</verso>
-      <verso>Que Deus é o Deus de amor.</verso>
-      <verso>Imenso amor! Amor sem-par!</verso>
-      <verso>Preenche os vastos céus,</verso>
-      <verso>Alcança a terra e a todos nós,</verso>
-      <verso>Insigne amor de Deus!</verso>
+      <verso>Desperta já, meu coração e louva ao Salvador,</verso>
+      <verso>Cantando em hinos triunfais que Deus é o Deus de amor.</verso>
+      <verso>Imenso amor! Amor sem-par! Preenche os vastos céus,</verso>
+      <verso>Alcança a terra e a todos nós, insigne amor de Deus!</verso>
       <coro>
-        <verso>Desperta já, meu coração,</verso>
-        <verso>E louva ao grande Salvador;</verso>
-        <verso>Cantando em hinos triunfais</verso>
-        <verso>Que Deus é o Deus de amor.</verso>
+        <verso>Desperta já, meu coração, e louva ao grande Salvador;</verso>
+        <verso>Cantando em hinos triunfais que Deus é o Deus de amor.</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Amor que um dia se encarnou</verso>
-      <verso>A fim de me salvar,</verso>
-      <verso>E que, subindo à dura cruz,</verso>
-      <verso>Morreu em meu lugar!</verso>
-      <verso>Amor que exclama: “Vinde a mim!”,</verso>
-      <verso>Que busca o pecador.</verso>
-      <verso>Amor eterno, sem igual,</verso>
-      <verso>De Cristo, Salvador.</verso>
+      <verso>Amor que um dia se encarnou a fim de me salvar</verso>
+      <verso>E que, subindo à dura cruz, morreu em meu lugar!</verso>
+      <verso>Amor que exclama: “Vinde a mim!”, que busca o pecador.</verso>
+      <verso>Amor eterno, sem igual, de Cristo, Salvador.</verso>
     </estrofe>
     <estrofe>
-      <verso>Remido a preço tão real,</verso>
-      <verso>O sangue do Senhor,</verso>
-      <verso>Com que pagar eu poderei</verso>
-      <verso>Tal graça, tal amor?</verso>
-      <verso>Quando ele a mim, um pecador,</verso>
-      <verso>Se digna de aceitar</verso>
-      <verso>E me levar com seus fiéis</verso>
-      <verso>Ao santo e eterno lar?</verso>
+      <verso>Remido a preço tão real, o sangue do Senhor,</verso>
+      <verso>Com que pagar eu poderei tal graça, tal amor?</verso>
+      <verso>Quando ele a mim, um pecador, se digna de aceitar</verso>
+      <verso>E me levar com seus fiéis ao santo e eterno lar?</verso>
     </estrofe>
   </texto>
-  <secao id='01'>Louvor e Adoração</secao>
-  <assunto id='09'>Deus Salvador</assunto>
-  <titulo_original>Awake, awake</titulo_original>
-  <metrica id='8_6_8_6_D'>8.6.8.6.D</metrica>
-  <origem_letra id='CrosbyFJ' referencia='Crosby, Fanny Jane'>Fanny Jane Crosby</origem_letra>
-  <origem_letra id='WrightHM' referencia='Wright, Henry Maxwell'>Henry Maxwell Wright</origem_letra>
-  <origem_musica id='SweneyJR' referencia='Sweney, John Robson'>John Robson Sweney</origem_musica>
-  <primeiro_verso_original>Awake, awake, o heart of mine</primeiro_verso_original>
-    <referencia_biblica id="42_019_037">Lucas 19.37</referencia_biblica>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="09">Deus Salvador</assunto>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
 </hino>

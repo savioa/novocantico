@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>095</numero>
+  <n>95</n>
+  <titulo>Somente Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Somente Cristo é Salvador, assim reconhecemos;</verso>
+      <verso>Morreu por nós, em santo amor, e vida nele temos.</verso>
+      <coro>
+        <verso>Jesus, Jesus é o Salvador; e não há outro Mediador!</verso>
+        <verso>Foi ele quem na cruz morreu e vivo está nos altos céus.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Os homens santos e fiéis, nós sempre respeitamos;</verso>
+      <verso>Mas a Jesus, o Rei dos reis, humilde adoramos.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A Deus fazemos oração, só ele quer e pode</verso>
+      <verso>Valer-nos na tribulação; aos seus Deus sempre acolhe.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>No santo sangue de Jesus confia todo crente;</verso>
+      <verso>O que ele fez na dura cruz é sempre suficiente.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="06">Salvação</assunto>
+  <origem_letra>S. E. McNair</origem_letra>
+</hino>

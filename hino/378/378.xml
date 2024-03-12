@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>378</numero>
+  <n>378</n>
+  <titulo>Oração pela Pátria</titulo>
+  <texto>
+    <estrofe>
+      <verso>Por nossa pátria oramos a ti, supremo Deus!</verso>
+      <verso>Por nosso lar clamamos a ti, ó Rei dos Céus!</verso>
+      <verso>Bendize a vida pastoril, governa o brio senhoril,</verso>
+      <verso>Modera a lida mercantil: Deus salve a pátria!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Da pátria que nos deste, desvie tua mão</verso>
+      <verso>Desgraças, fome e peste, perfídia e sedição!</verso>
+      <verso>Sustenta a ordem nacional, o bom governo imparcial,</verso>
+      <verso>E dá-nos graça divinal: Deus salve a pátria!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dá-nos real civismo, fiel, constante, audaz!</verso>
+      <verso>Promove o Cristianismo do Príncipe da Paz!</verso>
+      <verso>Da pátria afasta crenças vãs,</verso>
+      <verso>Derrama bênçãos temporãs,</verso>
+      <verso>Dominem só doutrinas sãs: Deus salve a pátria!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A tua Igreja inflama com zelo e terno amor</verso>
+      <verso>E seja o seu programa cumprido com vigor.</verso>
+      <verso>Então, os salvos de Jesus, lutando firmes pela cruz,</verso>
+      <verso>Difundirão de Cristo a luz por toda a pátria!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="04">Pátria</assunto>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

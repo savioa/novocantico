@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>270</numero>
+  <n>270</n>
+  <titulo>Desafio</titulo>
+  <texto>
+    <estrofe>
+      <verso>Morri na cruz por ti, foi para te livrar.</verso>
+      <verso>Meu sangue ali verti e posso te salvar.</verso>
+      <coro>
+        <verso>Morri, morri na cruz por ti, que fazes tu por mim?</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Vivi assim por ti, sofrendo intensa dor</verso>
+      <verso>E tudo fiz aqui por ser teu Salvador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sofri na cruz por ti, a fim de te salvar.</verso>
+      <verso>A vida consegui e agora ta vou dar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eu trouxe a salvação, dos altos céus favor.</verso>
+      <verso>É livre o meu perdão é grande o meu amor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>F. R. Havergal</origem_letra>
+  <origem_letra>D. M. Hazlett</origem_letra>
+</hino>

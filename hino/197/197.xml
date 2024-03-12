@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>197</numero>
+  <n>197</n>
+  <titulo>O Salvador Espera</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus quer entrar hoje em teu coração</verso>
+      <verso>E para sempre ficar;</verso>
+      <verso>E há de outorgar-te seu pleno perdão,</verso>
+      <verso>Quando, afinal, ele entrar.</verso>
+      <coro>
+        <verso>Oh! Quantas vezes Jesus te chamou</verso>
+        <verso>E agora ele volta a chamar.</verso>
+        <verso>Real salvação com seu sangue comprou,</verso>
+        <verso>Para, de graça, te dar.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Se Cristo adentrar esse teu coração</verso>
+      <verso>E em tua vida reinar,</verso>
+      <verso>Que paz infinita, que satisfação</verso>
+      <verso>Sua presença há de dar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>R. Carmichael</origem_letra>
+  <origem_letra>R. Rosa</origem_letra>
+  <origem_letra>J. L. Sutton</origem_letra>
+</hino>

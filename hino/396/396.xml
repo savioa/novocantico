@@ -3,45 +3,31 @@
 <hino situacao="incompleto">
   <numero>396</numero>
   <n>396</n>
-  <titulo>Graças pelo aniversário</titulo>
+  <titulo>Graças pelo Aniversário</titulo>
   <texto>
     <estrofe>
-      <verso>Um ano mais de vida</verso>
-      <verso>Guardou-vos o Senhor!</verso>
-      <verso>E deu-vos fiel guarida</verso>
-      <verso>No seu divino amor.</verso>
+      <verso>Um ano mais de vida guardou-vos o Senhor</verso>
+      <verso>E deu-vos fiel guarida no seu divino amor.</verso>
       <coro>
-        <verso>De coração dai graças</verso>
-        <verso>Ao vosso eterno Pai!</verso>
-        <verso>Pois mais um ano passa,</verso>
-        <verso>A Deus mil graças dai!</verso>
+        <verso>De coração, dai graças ao vosso eterno Pai,</verso>
+        <verso>Pois mais um ano passa, a Deus mil graças dai!</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>De noite, em claro dia,</verso>
-      <verso>No inverno e no verão,</verso>
-      <verso>Na dor e na alegria</verso>
-      <verso>Gozastes proteção.</verso>
+      <verso>De noite, em claro dia, no inverno e no verão,</verso>
+      <verso>Na dor e na alegria gozaste proteção.</verso>
     </estrofe>
     <estrofe>
-      <verso>No coração que ama</verso>
-      <verso>O terno Salvador,</verso>
-      <verso>Existe um canto alegre</verso>
-      <verso>Que espalha o teu louvor.</verso>
+      <verso>No coração que ama o terno Salvador</verso>
+      <verso>Existe um canto alegre que espalha o seu louvor.</verso>
     </estrofe>
     <estrofe>
-      <verso>Ensina-nos, ó Cristo,</verso>
-      <verso>O que convém lembrar,</verso>
-      <verso>E todo o nosso tempo</verso>
-      <verso>No bem aproveitar. Amém.</verso>
+      <verso>Ensina-nos, ó Cristo, o que convém lembrar</verso>
+      <verso>E todo o nosso tempo no bem aproveitar.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="09">Aniversário</assunto>
-  <titulo_original>Divino amor</titulo_original>
-  <metrica id="7_6_7_6_Coro">7.6.7.6.Coro</metrica>
-  <origem_letra id="Anonimo" referencia="Anônimo">Anônimo</origem_letra>
-  <origem_musica id="Anonimo" referencia="Anônimo">Anônimo</origem_musica>
-  <primeiro_verso_original>Um ano mais de vida</primeiro_verso_original>
-  <referencia_biblica id="19_090_012">Salmos 90.12</referencia_biblica>
+  <origem_letra>Anônimo</origem_letra>
 </hino>

@@ -2,20 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>147</numero>
-  <titulo>Vencendo vem Jesus</titulo>
+  <n>147</n>
+  <titulo>Vencendo Vem Jesus</titulo>
   <texto>
     <estrofe>
       <verso>Quando à alma sequiosa</verso>
       <verso>Chega a voz do Salvador,</verso>
       <verso>Eis que logo reconhece</verso>
-      <verso>Ser Jesus o seu Senhor!</verso>
+      <verso>ser Jesus, o seu Senhor!</verso>
       <verso>Mas se o “eu” quer levantar-se</verso>
       <verso>E mostrar algum valor,</verso>
       <verso>Vencendo vem Jesus!</verso>
       <coro>
-        <verso>Glória, glória, aleluia!</verso>
-        <verso>Glória, glória, aleluia!</verso>
-        <verso>Glória, glória, aleluia!</verso>
+        <verso>Glória, glória, aleluia! (3 vezes)</verso>
         <verso>Vencendo vem Jesus!</verso>
       </coro>
     </estrofe>
@@ -40,13 +39,5 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="12">Proteção</assunto>
-  <titulo_original>Battle hymn</titulo_original>
-  <metrica id='15_15_15_6_Coro'>15.15.15.6.Coro</metrica>
-  <origem_letra id="SilvaJAS" referencia="Silva, José Augusto dos Santos e" ano="1908">José Augusto dos Santos e Silva</origem_letra>
-  <origem_letra id="HoweJW" referencia="Howe, Julia Ward" ano="1861">Julia Ward Howe</origem_letra>
-  <origem_musica id="SteffeJW" referencia="Steffe, John William" ano="1852">John William Steffe</origem_musica>
-  <primeiro_verso_original>Mine eyes have seen the glory</primeiro_verso_original>
-  <referencia_biblica id="66_006_012">Apocalipse 6.12</referencia_biblica>
-  <referencia_biblica id="66_017_014">Apocalipse 17.14</referencia_biblica>
+  <origem_letra>J. A. S. e Silva</origem_letra>
 </hino>
-

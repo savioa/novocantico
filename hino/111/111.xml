@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>111</numero>
+  <n>111</n>
+  <titulo>Comunhão Divina</titulo>
+  <texto>
+    <estrofe>
+      <verso>Comigo estás, ó Deus, a noite vem!</verso>
+      <verso>As trevas crescem e o temor também!</verso>
+      <verso>Socorro tenho e vera proteção,</verso>
+      <verso>Porque em mim fizeste habitação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem revelar a mim, ó meu Senhor,</verso>
+      <verso>Divino Mestre, Rei, Consolador,</verso>
+      <verso>O teu amparo em toda tentação,</verso>
+      <verso>Fazendo em mim constante habitação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Andando aqui, nas trevas ou na luz,</verso>
+      <verso>Não há perigo estando com Jesus!</verso>
+      <verso>Medo e pavor não prevalecerão,</verso>
+      <verso>Pois em meu ser fizeste habitação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó morte, os teus poderes vão findar!</verso>
+      <verso>Em Cristo os santos vão ressuscitar!</verso>
+      <verso>No Reino eterno há gozo e exultação</verso>
+      <verso>E, com Jesus, eterna habitação.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+  <origem_letra>H. F. Lyte</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

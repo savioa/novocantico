@@ -3,47 +3,29 @@
 <hino>
   <numero>022</numero>
   <n>22</n>
-  <titulo>Os céus proclamam</titulo>
+  <titulo>A Revelação de Deus</titulo>
   <texto>
     <estrofe>
-      <verso>Altamente os céus proclamam</verso>
-      <verso>Seu divino Criador!</verso>
-      <verso>Anunciam o firmamento</verso>
-      <verso>Tua obras ó Senhor!</verso>
-      <verso>Incessantes, noite e dia,</verso>
-      <verso>Dão sinais do teu poder,</verso>
-      <verso>Sem palavras, proclamando</verso>
-      <verso>Deus excelso no saber!</verso>
+      <verso>Altamente os céus proclamam seu divino Criador!</verso>
+      <verso>Anuncia o firmamento tuas obras, ó Senhor!</verso>
+      <verso>Incessantes, noite e dia dão sinais do teu poder;</verso>
+      <verso>Sem palavras, proclamando Deus excelso no saber!</verso>
     </estrofe>
     <estrofe>
-      <verso>Majestoso o sol caminha</verso>
-      <verso>Pelos céus, com resplendor!</verso>
-      <verso>Exultando, em seu percurso,</verso>
-      <verso>Enche o mundo de calor.</verso>
-      <verso>Todo o vasto universo</verso>
-      <verso>Canta, em coro, teu louvor!</verso>
-      <verso>E a nós vem doce ensino</verso>
-      <verso>Da Palavra do Senhor.</verso>
+      <verso>Majestoso, o sol caminha pelos céus, com resplendor!</verso>
+      <verso>Exultando em seu percurso, enche o mundo de calor.</verso>
+      <verso>Todo o vasto universo canta, em coro, teu louvor!</verso>
+      <verso>E a nós vem doce ensino da Palavra do Senhor.</verso>
     </estrofe>
     <estrofe>
-      <verso>Tua Lei, quão preciosa,</verso>
-      <verso>Brilha mais que a clara luz;</verso>
-      <verso>Esclarece as nossas mentes,</verso>
-      <verso>Guia as almas a Jesus,</verso>
-      <verso>Em tua graça meditando,</verso>
-      <verso>Cantarei, ó bom Senhor,</verso>
-      <verso>E será na minha boca</verso>
-      <verso>Agradável o teu louvor. Amém.</verso>
+      <verso>Tua Lei — quão preciosa! — brilha mais que a clara luz;</verso>
+      <verso>Esclarece as nossas mentes, guia as almas a Jesus,</verso>
+      <verso>Em tua graça meditando, cantarei, ó bom Senhor,</verso>
+      <verso>E será na minha boca agradável o teu louvor.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="05">Deus Criador</assunto>
-  <titulo_original>Hino Austríaco</titulo_original>
-  <metrica id="8_7_8_7_D">8.7.8.7.D</metrica>
-  <origem_letra id="Salmo19" referencia="Salmo 19">Salmo 19</origem_letra>
-  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1865">Sarah Poulton Kalley</origem_letra>
-  <origem_musica id="HaydnFJ" referencia="Haydn, Franz Joseph" ano="1797">Franz Joseph Haydn</origem_musica>
-  <primeiro_verso_original>Altamente os céus proclamam</primeiro_verso_original>
-  <referencia_biblica id="19_019_001">Salmos 19.1</referencia_biblica>
-  <referencia_biblica id="19_145_010"> Salmos 145.10</referencia_biblica>
+  <origem_letra>Sl 19 metrif. S. P. Kalley</origem_letra>
 </hino>

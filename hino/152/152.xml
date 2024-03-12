@@ -2,12 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>152</numero>
-  <titulo>Onisciência divina</titulo>
+  <n>152</n>
+  <titulo>Onisciência Divina</titulo>
   <texto>
     <estrofe>
       <verso>Tu me sondaste a mim, ó Deus,</verso>
       <verso>Não há segredo aos olhos teus!</verso>
-      <verso>Prevês por onde quero andar,</verso>
+      <verso>Prevês por onde quero andar</verso>
       <verso>E sabes como vou falar.</verso>
     </estrofe>
     <estrofe>
@@ -31,11 +32,6 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="12">Proteção</assunto>
-  <titulo_original>Erhalt Uns Herr</titulo_original>
-  <metrica id="8_8_8_8">8.8.8.8</metrica>
-  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1865">Sarah Poulton Kalley</origem_letra>
-  <origem_letra id="LuteroM" referencia="Lutero, Martinho">Martinho Lutero</origem_letra>
-  <origem_letra id="WittenbergColetanea" referencia="Wittenberg (Coletânea)" ano="1543">Wittenberg (Coletânea)</origem_letra>
-  <primeiro_verso_original>Tu me sondaste a mim, ó Deus</primeiro_verso_original>
-  <referencia_biblica id="19_139">Salmos 139</referencia_biblica>
+  <origem_letra>Sl 139</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
 </hino>

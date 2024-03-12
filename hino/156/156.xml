@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>156</numero>
+  <n>156</n>
   <titulo>Confiança em Deus</titulo>
   <texto>
     <estrofe>
@@ -15,7 +16,7 @@
     <estrofe>
       <verso>Prossegue, ó alma; o trilho é estreito e escuro,</verso>
       <verso>Mas no passado Deus guiou-te assim!</verso>
-      <verso>Confia agora a Deus o teu futuro,</verso>
+      <verso>Confia agora a Deus o teu futuro</verso>
       <verso>E o que é mistério há de aclarar-se enfim.</verso>
       <verso>Confia, ó alma, a sua mansa voz</verso>
       <verso>Ainda acalma o vento e o mar feroz!</verso>
@@ -23,7 +24,7 @@
     <estrofe>
       <verso>Confia, ó alma! A hora vem chegando!</verso>
       <verso>Irás com Cristo, o teu Senhor, morar.</verso>
-      <verso>Sem dor, nem mágoas gozarás cantando</verso>
+      <verso>Sem dor, nem mágoas fruirás cantando</verso>
       <verso>As alegrias do celeste lar!</verso>
       <verso>Descansa, ó alma; agora há pranto e dor;</verso>
       <verso>Depois o gozo, a paz, o céu de amor!</verso>
@@ -31,14 +32,6 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="13">Confiança</assunto>
-  <titulo_original>Finlandia</titulo_original>
-  <metrica id='11_10_11_10_10_10'>11.10.11.10.10.10</metrica>
-  <origem_letra id="SchlegelKAD" referencia="Schlegel, Katharina Amalia Dorothea von" ano="1752">Katharina Amalia Dorothea von Schlegel</origem_letra>
-  <origem_letra id="SalumIN" referencia="Salum, Isaac Nicolau" ano="1940">Isaac Nicolau Salum</origem_letra>
-  <origem_letra id="BorthwickJL" referencia="Borthwick, Jane Laurie" ano="1855">Jane Laurie Borthwick</origem_letra>
-  <origem_musica id="TheHymnal" referencia="&#x201C;The Hymnal&#x201D;" ano="1933">&#x201C;The Hymnal&#x201D;</origem_musica>
-  <origem_musica id="SibeliusJJC" referencia="Sibelius, Johan Julius Christian">Johan Julius Christian Sibelius</origem_musica>
-  <primeiro_verso_original>Stille, mein Wille, dein Jesus hilft siegen</primeiro_verso_original>
-  <referencia_biblica id="20_022_019">Provérbios 22.19</referencia_biblica>
+  <origem_letra>K. A. D. Von Schegel</origem_letra>
+  <origem_letra>I. N. Salum</origem_letra>
 </hino>
-

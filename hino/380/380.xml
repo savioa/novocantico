@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>380</numero>
+  <n>380</n>
+  <titulo>Jesus Proteja a Pátria</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Minha Pátria amada, Brasil dos sonhos meus!</verso>
+      <verso>Dirija o teu destino a mão do eterno Deus!</verso>
+      <verso>Que brilhe em teu caminho a refulgente luz</verso>
+      <verso>Do amor e da verdade, da glória de Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que o Pai dirija e guarde a vida nacional,</verso>
+      <verso>Nos livre de perigos, pecado e todo mal!</verso>
+      <verso>A quantos que governam conceda seu favor</verso>
+      <verso>E guie em paz o povo nas sendas do amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus proteja sempre o povo do Brasil</verso>
+      <verso>E sobre a nossa terra derrame bênçãos mil!</verso>
+      <verso>A gratidão nos faça erguer o coração</verso>
+      <verso>Em culto fervoroso, em santa adoração.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="04">Pátria</assunto>
+  <origem_letra>A. Th. Pithan</origem_letra>
+</hino>

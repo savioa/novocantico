@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>076</numero>
+  <n>76</n>
+  <titulo>Clamor por Compaixão</titulo>
+  <texto>
+    <estrofe>
+      <verso>Tem compaixão de mim, Senhor!</verso>
+      <verso>Oh! Mostra o teu excelso amor</verso>
+      <verso>E, na infinita multidão</verso>
+      <verso>De tuas graças, dá perdão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tão pecador me descobri!</verso>
+      <verso>Perdoa o mal que cometi.</verso>
+      <verso>Minha alma venho aqui lavar;</verso>
+      <verso>Oh! Não me deixes mais pecar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A mim tu podes perdoar,</verso>
+      <verso>De toda mancha me lavar;</verso>
+      <verso>Vem dar-me um novo coração,</verso>
+      <verso>Ó Deus de amor e compaixão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Por geração, ó bom Senhor,</verso>
+      <verso>Não sou senão um pecador.</verso>
+      <verso>Em ti me posso levantar</verso>
+      <verso>E, como a neve, puro estar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, pois, a mim então valer,</verso>
+      <verso>A meus clamores atender,</verso>
+      <verso>E o coração que triste está</verso>
+      <verso>De alegria exultará.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <origem_letra>Sl 51</origem_letra>
+  <origem_letra>W. H. Hewitson</origem_letra>
+</hino>

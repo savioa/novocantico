@@ -25,8 +25,8 @@
     <estrofe>
       <verso>Deus nos amou! Deus nos mandou</verso>
       <verso>Cristo, seu Filho amado!</verso>
-      <verso>Deus nos amou! Deus se encarnou!</verso>
-      <verso>Vede o menino deitado!</verso>
+      <verso>Deus nos amou! Deus se encarnou,</verso>
+      <verso>Vede o Menino deitado!</verso>
       <verso>Deus nos amou! Deus nos amou!</verso>
       <verso>Digam-no todos os povos!</verso>
       <verso>Gozam paz e salvação todos os que crêem.</verso>
@@ -36,11 +36,5 @@
   </texto>
   <secao id="06">Cristo - Sua Vida</secao>
   <assunto id="02">Natal</assunto>
-  <titulo_original>Natalício</titulo_original>
-  <metrica id="Irregular">Irregular</metrica>
-  <origem_letra id="MoretonRH" referencia="Moreton, Robert Hawkey" ano="1887">Robert Hawkey Moreton</origem_letra>
-  <origem_musica id="LowryR" referencia="Lowry, Robert">Robert Lowry</origem_musica>
-  <primeiro_verso_original>Nasce Jesus! Fonte de luz</primeiro_verso_original>
-  <referencia_biblica id="42_002_030_031">Lucas 2.30,31</referencia_biblica>
+  <origem_letra>R. H. Moreton</origem_letra>
 </hino>
-

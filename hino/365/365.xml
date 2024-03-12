@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>365</numero>
+  <n>365</n>
+  <titulo>Convite às Crianças</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Vinde crianças!</verso>
+      <verso>Cantai a linda história</verso>
+      <verso>Do bom Messias, Rei dos reis,</verso>
+      <verso>Jesus, o Salvador.</verso>
+      <verso>E repeti, com gratidão,</verso>
+      <verso>A eterna e meiga exclamação:</verso>
+      <verso>“Deixai as crianças que venham a mim”.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pais crentes traziam</verso>
+      <verso>A Cristo seus filhinhos,</verso>
+      <verso>Mas quando alguém os impediu,</verso>
+      <verso>Tentando os afastar,</verso>
+      <verso>Ouviu-se a voz do Mestre, então,</verso>
+      <verso>Dizer com grande compaixão:</verso>
+      <verso>“Deixai as crianças que venham a mim”.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Vinde crianças!</verso>
+      <verso>Jesus deseja a todas</verso>
+      <verso>A sua bênção conceder</verso>
+      <verso>E sua salvação!</verso>
+      <verso>A voz de Cristo, o Bom Pastor,</verso>
+      <verso>Repete ainda com amor:</verso>
+      <verso>“Deixai as crianças que venham a mim”.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

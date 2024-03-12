@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>189</numero>
+  <n>189</n>
+  <titulo>Jerusalém Celeste</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jerusalém celeste, de fúlgido esplendor;</verso>
+      <verso>És vívida esperança da Igreja do Senhor!</verso>
+      <verso>Teus muros fulgurantes avisto pela fé,</verso>
+      <verso>E ansioso em alcançar-te mantenho-me de pé!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>É Deus quem te ilumina, perene é tua luz;</verso>
+      <verso>Refletes, incessante, a glória de Jesus.</verso>
+      <verso>Que alegre canto inspiras, oh! Divinal mansão,</verso>
+      <verso>Saber que és alvo e termo da peregrinação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cidade radiosa, sem noite, morte ou mal,</verso>
+      <verso>Que neste pobre mundo atinge o que é mortal.</verso>
+      <verso>Exulta, ó alma crente, eis teu glorioso lar,</verso>
+      <verso>Que Cristo, redivivo, no céu foi preparar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <origem_letra>B. de Clunny</origem_letra>
+  <origem_letra>J. M. M. Sobrinho</origem_letra>
+</hino>

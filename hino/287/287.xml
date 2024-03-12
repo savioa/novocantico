@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>287</numero>
+  <n>287</n>
+  <titulo>Igreja, Alerta!</titulo>
+  <texto>
+    <estrofe>
+      <verso>É tempo! É tempo, o Mestre está chamando já!</verso>
+      <verso>Marchar, marchar, confiando em seu amor!</verso>
+      <verso>Partir, partir, a salvação a proclamar,</verso>
+      <verso>Cumprindo ordem santa do bom Salvador!</verso>
+      <coro>
+        <verso>Marchar, sim, avante!</verso>
+        <verso>Marchar, sim, erguendo o seu pendão real, avante!</verso>
+        <verso>Sim, avante! Unidos sempre, firmes avançai!</verso>
+        <verso>“Glória! Glória!” Eis que canta a multidão!</verso>
+        <verso>Consagrando todo o vosso coração,</verso>
+        <verso>A Jesus obedecei, seu querer executai,</verso>
+        <verso>Entoai louvores altos! Avançai!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Levemos luz, aos povos e nações pagãs</verso>
+      <verso>Que vivem longe, além do imenso mar.</verso>
+      <verso>Oh! Vamos lá levar-lhes novas de amor,</verso>
+      <verso>Sem esquecer também aqui de semear.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Desperta, Igreja, e vem o teu dever cumprir;</verso>
+      <verso>A todos faze a Cristo conhecer!</verso>
+      <verso>A tua mão estende, com paciente amor,</verso>
+      <verso>Ajuda-os, em Jesus, a vida receber.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Igreja, alerta! O dia prometido vem,</verso>
+      <verso>No qual Jesus, o Salvador, virá!</verso>
+      <verso>Por toda parte, o vitorioso Redentor</verso>
+      <verso>Eterna glória e honra e louvor terá.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="08">A Grande Comissão</assunto>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>A. J. R. da Silva</origem_letra>
+</hino>

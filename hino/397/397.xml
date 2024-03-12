@@ -3,46 +3,30 @@
 <hino situacao="incompleto">
   <numero>397</numero>
   <n>397</n>
-  <titulo>Por minha boa mãe</titulo>
+  <titulo>Por minha Boa Mãe</titulo>
   <texto>
     <estrofe>
-      <verso>Por minha boa mãe</verso>
-      <verso>E pelo seu amor,</verso>
-      <verso>Na terra, sem igual,</verso>
-      <verso>Eu louvo-te, ó Senhor.</verso>
+      <verso>Por minha boa mãe e pelo seu amor,</verso>
+      <verso>Na terra, sem igual, eu louvo-te, ó Senhor.</verso>
       <coro>
-        <verso>É grande o bem</verso>
-        <verso>Que na alma tem</verso>
-        <verso>Quem pode alguém</verso>
-        <verso>Chamar de mãe!</verso>
+        <verso>É grande o bem que na alma tem</verso>
+        <verso>Quem pode alguém chamar de mãe!</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Pois ela me cuidou</verso>
-      <verso>Da vida ao despontar.</verso>
-      <verso>E aos pés do bom Jesus</verso>
-      <verso>Feliz me fez andar.</verso>
+      <verso>Pois ela me cuidou da vida ao despontar</verso>
+      <verso>E aos pés do bom Jesus feliz me fez andar.</verso>
     </estrofe>
     <estrofe>
-      <verso>Se pobre ou rico eu for,</verso>
-      <verso>Jamais hei de esquecer</verso>
-      <verso>A minha boa mãe,</verso>
-      <verso>Enquanto aqui viver.</verso>
+      <verso>Se pobre ou rico eu for, jamais hei de esquecer</verso>
+      <verso>A minha boa mãe enquanto aqui viver.</verso>
     </estrofe>
     <estrofe>
-      <verso>É grato aqui sentir</verso>
-      <verso>De mãe o puro amor.</verso>
-      <verso>Por ela o coração</verso>
-      <verso>Bendize ao Criador.</verso>
+      <verso>É grato aqui sentir de mãe o puro amor;</verso>
+      <verso>Por ela o coração bendiz ao Criador.</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="10">Mãe</assunto>
-  <titulo_original>Darwall</titulo_original>
-  <metrica id="6_6_6_6_Coro">6.6.6.6.Coro</metrica>
-  <origem_letra id="Anonimo" referencia="Anônimo">Anônimo</origem_letra>
-  <origem_musica id="DarwallJ" referencia="Darwall, John">John Darwall</origem_musica>
-  <origem_musica id="UniversalPsalmodist" referencia="“Universal Psalmodist”" ano="1770">“Universal Psalmodist”</origem_musica>
-  <primeiro_verso_original>Por minha boa mãe</primeiro_verso_original>
-  <referencia_biblica id="23_063_007">Isaías 63.7</referencia_biblica>
+  <origem_letra>Anônimo</origem_letra>
 </hino>

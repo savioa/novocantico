@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>195</numero>
+  <n>195</n>
+  <titulo>Dormindo no Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Dormindo no Senhor, bendito é nosso irmão!</verso>
+      <verso>Perante o trono, vencedor, desfruta a salvação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dormindo no Senhor, liberto já do mal,</verso>
+      <verso>Deixando o mundo e seu labor, descansa em paz real.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dormindo no Senhor, na glória de Jesus,</verso>
+      <verso>Perante o grande Redentor, nos céus, vivendo em luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dormindo no Senhor! É doce assim morrer!</verso>
+      <verso>Do crente a morte é sem terror, é ir com Deus viver.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dormindo no Senhor, ao pó seu corpo irá,</verso>
+      <verso>Mas Deus, um dia, com poder o ressuscitará.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os mortos viverão! E os vivos, com fulgor,</verso>
+      <verso>Ao teu encontro subirão! Oh! Vem, Jesus Senhor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="17">Lar Celestial</assunto>
+  <origem_letra>M. Mackay</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

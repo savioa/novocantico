@@ -2,51 +2,33 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>151</numero>
-  <titulo>O bom Pastor</titulo>
+  <n>151</n>
+  <titulo>O Bom Pastor</titulo>
   <texto>
     <estrofe>
-      <verso>Pelos bosques e campinas</verso>
-      <verso>Pastoreia o bom Jesus.</verso>
-      <verso>Junto às águas cristalinas</verso>
-      <verso>Seu rebanho em paz conduz.</verso>
-      <verso>Ele guarda assim minha alma</verso>
-      <verso>E a protege em seu calor.</verso>
-      <verso>Nas angústias ou na calma</verso>
-      <verso>Vai comigo o Bom Pastor.</verso>
+      <verso>Pelos bosques e campinas pastoreia o bom Jesus.</verso>
+      <verso>Junto às águas cristalinas seu rebanho em paz conduz.</verso>
+      <verso>Ele guarda assim minha alma e a protege em seu calor.</verso>
+      <verso>Nas angústias ou na calma vai comigo o Bom Pastor.</verso>
       <coro>
-        <verso>Sempre amável e clemente,</verso>
-        <verso>Vai comigo o Bom Pastor.</verso>
+        <verso>Sempre amável e clemente, vai comigo o Bom Pastor.</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Não me afligem os perigos</verso>
-      <verso>E não temo a tentação!</verso>
-      <verso>Ele sempre está comigo</verso>
-      <verso>E sustém-me o seu bordão.</verso>
-      <verso>Não me aflige nem a morte,</verso>
-      <verso>Cuja sombra hei de enfrentar.</verso>
-      <verso>Ele é meu amparo forte</verso>
-      <verso>Em que posso confiar.</verso>
+      <verso>Não me afligem os perigos e não temo a tentação!</verso>
+      <verso>Ele sempre está comigo e sustém-me o seu bordão.</verso>
+      <verso>Não me aflige nem a morte, cuja sombra hei de enfrentar.</verso>
+      <verso>Ele é meu amparo forte em que posso confiar.</verso>
     </estrofe>
     <estrofe>
-      <verso>Sua mesa me prepara,</verso>
-      <verso>Pois minha alma quer nutrir.</verso>
-      <verso>Minhas mágoas ele sara,</verso>
-      <verso>Com seu óleo vem me ungir.</verso>
-      <verso>Certamente que a bondade</verso>
-      <verso>Toda a vida fruirei</verso>
-      <verso>E no céu felicidade</verso>
-      <verso>Para sempre gozarei!</verso>
+      <verso>Sua mesa me prepara, pois minha alma quer nutrir.</verso>
+      <verso>Minhas mágoas ele sara, com seu óleo vem me ungir.</verso>
+      <verso>Certamente que a bondade toda a vida fruirei.</verso>
+      <verso>E no céu felicidade para sempre gozarei!</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="12">Proteção</assunto>
-  <titulo_original>Lungo rivi queti ombrosi</titulo_original>
-  <metrica id="8_7_8_7_D_Coro">8.7.8.7.D.Coro</metrica>
-  <origem_letra id="Salmo23" referencia="Salmo 23">Salmo 23</origem_letra>
-  <origem_letra id="FaustiniJW" referencia="Faustini, João Wilson" ano="1957">João Wilson Faustini</origem_letra>
-  <origem_musica id="SchubertF" referencia="Schubert, Franz">Franz Schubert</origem_musica>
-  <primeiro_verso_original>Pelos bosques e campinas</primeiro_verso_original>
-  <referencia_biblica id="19_023">Salmos 23</referencia_biblica>
+  <origem_letra>Sl 23</origem_letra>
+  <origem_letra>J. W. Faustini</origem_letra>
 </hino>
-

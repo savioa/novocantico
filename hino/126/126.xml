@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>126</numero>
+  <n>126</n>
+  <titulo>Dependência e Confiança</titulo>
+  <texto>
+    <estrofe>
+      <verso>De ti, meu bom Senhor, eu tenho precisão;</verso>
+      <verso>Só teu divino amor dá paz ao coração.</verso>
+      <verso>Ó meu Jesus, comigo tu sempre hás de ficar,</verso>
+      <verso>Até que eu vá contigo, Senhor, no céu morar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Concede-me, Jesus, fruir teu rico amor</verso>
+      <verso>E andar em tua luz, submisso a ti, Senhor.</verso>
+      <verso>3 Vencendo a tentação, contente viverei</verso>
+      <verso>Na tua proteção, ó meu bendito Rei!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="09">Aspiração</assunto>
+  <origem_letra>A. L. Blackford</origem_letra>
+</hino>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>357</numero>
+  <n>357</n>
+  <titulo>Louvor Infantil</titulo>
+  <texto>
+    <estrofe>
+      <verso>Filhos de Jerusalém davam a Jesus louvor!</verso>
+      <verso>Cantaremos nós, também, seu excelso e doce amor!</verso>
+      <coro>
+        <verso>Ouve! Ouve! Ouve! Os meninos dão louvor!</verso>
+        <verso>Ouve! Ouve! Ouve! Os meninos dão louvor!</verso>
+        <verso>Aleluia! Aleluia! Aleluia ao Salvador!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Graças ao divino Rei que no mundo quis viver!</verso>
+      <verso>Graças pela santa lei que declara o seu querer!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Grande é o nosso Salvador, toda a dívida pagou!</verso>
+      <verso>Pela morte, o Bom Pastor seu rebanho resgatou.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>J. Henley</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

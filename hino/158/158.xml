@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>158</numero>
+  <n>158</n>
+  <titulo>Conforto e Luz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vai, alma tristonha, teu pranto depor!</verso>
+      <verso>Põe os teus cuidados nas mãos do Senhor!</verso>
+      <verso>Ao Mestre confia toda essa aflição,</verso>
+      <verso>Pois sempre oferece plena compaixão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Teus sustos e medos vai, mostra ao Senhor!</verso>
+      <verso>Seu mando transforma a noite em fulgor.</verso>
+      <verso>Ergue a tua fronte! Logo há de raiar</verso>
+      <verso>O sol que dissipa nuvens de pesar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Há tantos que choram dor muito maior;</verso>
+      <verso>Há corações tristes por culpa e temor.</verso>
+      <verso>Vai! Leva a mensagem de perdão e luz!</verso>
+      <verso>Vai! Deixa as tristezas aos pés de Jesus!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>M. A. Bachelor</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

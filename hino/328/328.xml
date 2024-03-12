@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>328</numero>
+  <n>328</n>
+  <titulo>Deus do Universo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Deus do universo, de leis imutáveis</verso>
+      <verso>Que nos sustém na vida terreal,</verso>
+      <verso>Dá-nos marchar em meio às tuas hostes,</verso>
+      <verso>Para servir na luta divinal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Filho de Deus, por ele aqui mandado</verso>
+      <verso>És com o Pai o mesmo Deus de amor!</verso>
+      <verso>Une teus servos para o teu serviço,</verso>
+      <verso>Sim, vem unir-nos, pois, em ti, Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Santo Espírito, divino Mestre,</verso>
+      <verso>A sã doutrina vem nos ensinar!</verso>
+      <verso>Traze ao aflito e triste o teu consolo,</verso>
+      <verso>E em meio às trevas faze a luz brilhar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Deus Trino, Deus de toda a graça,</verso>
+      <verso>Teus pensamentos quão grandiosos são!</verso>
+      <verso>Teu povo almeja estar contigo sempre;</verso>
+      <verso>“Venha o teu reino” — é a nossa petição.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="06">Discipulado e Serviço</assunto>
+  <origem_letra>S. Knapp</origem_letra>
+  <origem_letra>J. W. Faustini</origem_letra>
+</hino>

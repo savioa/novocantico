@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>252</numero>
+  <n>252</n>
+  <titulo>Pão Celestial</titulo>
+  <texto>
+    <estrofe>
+      <verso>Pão da vida, pão dos céus, pão celeste é meu Jesus!</verso>
+      <verso>Pão que dá ao coração alegria, paz e luz;</verso>
+      <verso>Pão que dá ao coração alegria, paz e luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sangue que Jesus verteu é divino e eficaz!</verso>
+      <verso>Este sangue, ao coração, força, amor e vida traz;</verso>
+      <verso>Este sangue, ao coração, força, amor e vida traz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, Jesus, me abençoar! Enche-me de ti, Senhor!</verso>
+      <verso>Pois almejo te servir e te honrar, meu Salvador.</verso>
+      <verso>Pois almejo te servir e te honrar, meu Salvador. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <origem_letra>S. L. Ginsburg</origem_letra>
+</hino>

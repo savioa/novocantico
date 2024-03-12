@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>228</numero>
+  <n>228</n>
+  <titulo>De Deus o Ungido</titulo>
+  <texto>
+    <estrofe>
+      <verso>Saudai de Deus o Ungido, o Filho de Davi.</verso>
+      <verso>Saudai o Prometido que vem reinar aqui!</verso>
+      <verso>As garras da maldade partiu e nos livrou!</verso>
+      <verso>E um reino de equidade no mundo, então, criou!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O Justo, em sofrimento, socorre com amor;</verso>
+      <verso>Aos pobres dá sustento e aos fracos dá vigor.</verso>
+      <verso>Aos tristes dá alegria, desfaz a escuridão,</verso>
+      <verso>E ao que pereceria outorga a salvação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>No trono glorioso então se assentará!</verso>
+      <verso>Das eras vitorioso, bendito reinará.</verso>
+      <verso>Concerto permanente conosco irá guardar;</verso>
+      <verso>Seu Nome, eternamente, traduz amor sem-par.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="01">Advento</assunto>
+  <origem_letra>J. Montgomery</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

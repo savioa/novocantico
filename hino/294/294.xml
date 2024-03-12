@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>294</numero>
+  <n>294</n>
+  <titulo>O Senhor Voltará</titulo>
+  <texto>
+    <estrofe>
+      <verso>Breve o Senhor, em esplendor, aqui há de descer.</verso>
+      <verso>O mundo inteiro, com temor, justiça, então vai ter.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eis a verdade a despontar qual planta a reflorir;</verso>
+      <verso>Eis a justiça a iluminar o mundo que há de vir!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os povos todos, ó Senhor, submissos estarão.</verso>
+      <verso>Do real trono em derredor teu nome bendirão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Faze o milagre, ó grande Deus: que vença, enfim, o bem,</verso>
+      <verso>Com o poder dos altos céus, aqui no mundo.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <origem_letra>J. Milton</origem_letra>
+  <origem_letra>J. M. Mota Sobrinho</origem_letra>
+</hino>

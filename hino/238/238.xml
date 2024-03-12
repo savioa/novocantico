@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>238</numero>
+  <n>238</n>
+  <titulo>Novas de Amor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Harmonias pelo ar, uma estrela no céu,</verso>
+      <verso>Uma prece de mãe, um infante a chorar,</verso>
+      <verso>São começos da história que muito nos diz:</verso>
+      <verso>Rude berço em Belém, mas de glória sem-par.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Toda gente já ouviu dessa nova de amor,</verso>
+      <verso>Pois o brilho da estrela é de luz sem igual...</verso>
+      <verso>Há louvores alegres, há promessas de paz.</verso>
+      <verso>Pois no berço, em Belém, dorme um Rei divinal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nos fulgores da estrela há mensagens dos céus</verso>
+      <verso>Que nos homens despertam imenso prazer;</verso>
+      <verso>Cada lar se bendiz e proclama esse bem,</verso>
+      <verso>Anunciando às nações o divino querer!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hoje o mundo já pode esse dom repetir,</verso>
+      <verso>Com mil graças a Deus pelo santo Natal,</verso>
+      <verso>Pois no berço, em Belém, manjedoura de luz,</verso>
+      <verso>Eis o Deus Salvador, esse Humano imortal!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>J. G. Holland</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

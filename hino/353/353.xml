@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>353</numero>
+  <n>353</n>
+  <titulo>Ao Fim dos Estudos</titulo>
+  <texto>
+    <estrofe>
+      <verso>Findo o tempo dos estudos, eis-nos, grande Instruidor!</verso>
+      <verso>Levantamos nossas vozes, tributamos-te louvor.</verso>
+      <verso>E pedimos, e pedimos bênçãos de celeste amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Concede o crescimento na ciência e no vigor!</verso>
+      <verso>Imprimindo na memória teus preceitos, ó Senhor.</verso>
+      <verso>Este ensino, este ensino é de mui real valor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Senhor, em nossos lares manifesta o teu poder.</verso>
+      <verso>E que o teu divino Livro mais possamos conhecer!</verso>
+      <verso>Desejamos, desejamos sempre em tua luz viver.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="13">Escola Dominical</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

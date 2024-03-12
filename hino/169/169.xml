@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>169</numero>
+  <n>169</n>
+  <titulo>Grata Confiança</titulo>
+  <texto>
+    <estrofe>
+      <verso>No poder do Deus bendito vai tudo bem!</verso>
+      <verso>Seu amor é infinito, vai tudo bem!</verso>
+      <verso>Esse amor nos foi provado em seu Filho muito amado</verso>
+      <verso>Que por nós foi imolado! Vai tudo bem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Reina Cristo em glória eterna! Vai tudo bem!</verso>
+      <verso>Ressurgiu e já governa! Vai tudo bem!</verso>
+      <verso>Seu amor é imutável, seu poder inabalável,</verso>
+      <verso>Seu cuidado é incansável! Vai tudo bem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na doença ou na tristeza, vai tudo bem!</verso>
+      <verso>Proclamamos com certeza: vai tudo bem!</verso>
+      <verso>Pois se Deus é quem nos guia, ternamente nos vigia,</verso>
+      <verso>Com bondade, noite e dia, vai tudo bem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em caminhos escabrosos, vai tudo bem!</verso>
+      <verso>Ou por mares tormentosos, vai tudo bem!</verso>
+      <verso>A Jesus tudo obedece, ele o mesmo permanece,</verso>
+      <verso>Nem um só dos seus esquece, vai tudo bem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quer na vida, quer na morte, vai tudo bem!</verso>
+      <verso>Mui feliz é nossa sorte, vai tudo bem!</verso>
+      <verso>Pelo sangue resgatados e do mundo separados,</verso>
+      <verso>Sempre por Jesus guardados, vai tudo bem!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

@@ -3,12 +3,12 @@
 <hino>
   <numero>018</numero>
   <n>18</n>
-  <titulo>Deus dos antigos</titulo>
+  <titulo>Deus dos Antigos</titulo>
   <texto>
     <estrofe>
       <verso>Deus dos antigos, cuja forte mão</verso>
       <verso>Rege e sustém os astros na amplidão!</verso>
-      <verso>Ó Soberano, excelso Criador,</verso>
+      <verso>Ó soberano, excelso Criador,</verso>
       <verso>Com gratidão cantamos teu louvor!</verso>
     </estrofe>
     <estrofe>
@@ -20,23 +20,17 @@
     <estrofe>
       <verso>Da guerra atroz, do crime e assolação,</verso>
       <verso>Dos tempos maus de um mundo em confusão,</verso>
-      <verso>Seja o teu braço o nosso defensor,</verso>
+      <verso>Seja teu braço o nosso defensor,</verso>
       <verso>Pois confiamos sempre em ti, Senhor!</verso>
     </estrofe>
     <estrofe>
-      <verso>Teu povo, ó Deus, assiste me seu labor,</verso>
-      <verso>No testemunho do teu grande amor.</verso>
+      <verso>Teu povo, ó Deus, assiste em seu labor,</verso>
+      <verso>No testemunho do teu grande amor,</verso>
       <verso>As nossas vidas vem fortalecer</verso>
       <verso>Para o teu nome sempre engrandecer. Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="04">Deus Soberano</assunto>
-  <titulo_original>National Hymn</titulo_original>
-  <metrica id="10_10_10_10">10.10.10.10</metrica>
-  <origem_letra id="RobertsDC" referencia="Roberts, Daniel Crane" ano="1876">Daniel Crane Roberts</origem_letra>
-  <origem_letra id="FaustiniJW" referencia="Faustini, João Wilson" ano="1958">João Wilson Faustini</origem_letra>
-  <origem_musica id="WarrenGW" referencia="Warren, George William" ano="1892">George William Warren</origem_musica>
-  <primeiro_verso_original>God of our fathers, whose almighty hand</primeiro_verso_original>
-  <referencia_biblica id="19_105_002_005_006">Salmos 105.2,5,6</referencia_biblica>
+  <origem_letra>D. C. Roberts  trad. J.W. Faustini</origem_letra>
 </hino>

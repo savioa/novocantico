@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>215</numero>
+  <n>215</n>
+  <titulo>Apelo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus, estás à porta do aflito coração</verso>
+      <verso>E queres fazer nele perene habitação.</verso>
+      <verso>Cristãos jamais seremos, nem filhos do Senhor,</verso>
+      <verso>Se não fizer morada em nós o Salvador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, estás batendo com traspassada mão!</verso>
+      <verso>Espinhos tens na fronte, nos olhos compaixão!</verso>
+      <verso>Com amor incompreensível esperas sem cansar!</verso>
+      <verso>Por causa do pecado não podes tu entrar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, nos amas tanto, bondoso é teu olhar!</verso>
+      <verso>Sofreste no Calvário a fim de nos salvar!</verso>
+      <verso>Senhor, com fé abrimos o nosso coração!</verso>
+      <verso>Oh! Entra e faze nele eterna habitação!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="02">Decisão</assunto>
+  <origem_letra>Wm. W. How</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

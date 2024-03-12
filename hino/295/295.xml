@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>295</numero>
+  <n>295</n>
+  <titulo>A Volta de Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sobre nuvem fulgurante vem do céu o Salvador.</verso>
+      <verso>Com poder e majestade anjos traz ao seu redor.</verso>
+      <verso>Vem glorioso, vem glorioso, Cristo, o eterno Vencedor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quem atrozes inimigos uma vez na cruz venceu,</verso>
+      <verso>Ressurgiu da sepultura e subiu além do véu,</verso>
+      <verso>Aleluia! Aleluia! outra vez vem lá do céu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Para um dia tão solene preparaste-nos, Senhor,</verso>
+      <verso>Para que, vencida a morte, nos vejamos sem temor,</verso>
+      <verso>Contemplando, contemplando tua face em resplendor!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <origem_letra>J. Boyle</origem_letra>
+</hino>

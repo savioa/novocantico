@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>349</numero>
+  <n>349</n>
+  <titulo>Dia do Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Hoje é o dia do Senhor! Entoai o seu louvor</verso>
+      <verso>E adorai-o com fervor. Glória ao nosso Deus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hoje a casa de oração procuramos, em união,</verso>
+      <verso>E gozamos comunhão com o nosso Deus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hoje, Cristo, ao pregador que anuncia o seu amor,</verso>
+      <verso>Dê a prova do favor: o poder de Deus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hoje é dia de perdão! Deus convida o coração</verso>
+      <verso>A aceitar a Redenção. Glória ao nosso Deus!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="12">Dia do Senhor</assunto>
+  <origem_letra>J. G. da Rocha</origem_letra>
+</hino>

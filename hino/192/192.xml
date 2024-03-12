@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>192</numero>
+  <n>192</n>
+  <titulo>No Céu Com Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Junto ao trono de Deus, preparado,</verso>
+      <verso>Há cristão um lugar para ti;</verso>
+      <verso>Há alegria perene ao seu lado,</verso>
+      <verso>Há profusas delícias ali;</verso>
+      <verso>Sim ali, sim ali,</verso>
+      <verso>De seus anjos fiéis rodeado,</verso>
+      <verso>Numa esfera de glória e de luz,</verso>
+      <verso>Junto ao Pai nos espera Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os encantos da terra não podem</verso>
+      <verso>Dar ideia do gozo dali!</verso>
+      <verso>Se na terra os prazeres acodem,</verso>
+      <verso>Tais prazeres se findam aqui.</verso>
+      <verso>Mas ali, mas ali,</verso>
+      <verso>As venturas eternas concorrem</verso>
+      <verso>Com o brilho perpétuo da luz,</verso>
+      <verso>A tornar-te feliz com Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Conservemos em nossa lembrança</verso>
+      <verso>As riquezas do lindo país</verso>
+      <verso>E guardemos conosco a esperança</verso>
+      <verso>Duma vida melhor, mais feliz!</verso>
+      <verso>Pois ali, pois ali</verso>
+      <verso>O cristão, pela fé, sempre alcança</verso>
+      <verso>As riquezas do Reino de luz,</verso>
+      <verso>Prometidas por Cristo Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quem quiser desfrutar da ventura</verso>
+      <verso>Que no belo país haverá,</verso>
+      <verso>É somente pedir de alma pura,</verso>
+      <verso>Que de graça Jesus lhe dará.</verso>
+      <verso>Pois dali, pois dali,</verso>
+      <verso>Todo cheio de amor, de ternura,</verso>
+      <verso>Desse amor que mostrou lá na cruz,</verso>
+      <verso>Nos atende, nos ouve Jesus.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="17">Lar Celestial</assunto>
+  <origem_letra>E. Millis</origem_letra>
+  <origem_letra>L. V. Ferreira</origem_letra>
+</hino>

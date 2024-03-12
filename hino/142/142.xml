@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>142</numero>
+  <n>142</n>
+  <titulo>O Fiel Pastor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Fiel e bom Pastor é meu Senhor Jesus</verso>
+      <verso>E nada poderá faltar por onde me conduz.</verso>
+      <verso>A pasto verde e bom conduz meu caminhar</verso>
+      <verso>E junto às águas puras vem fazer-me descansar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O bom Pastor fiel dirige em retidão,</verso>
+      <verso>Com terno e mui paciente amor, meu frágil coração.</verso>
+      <verso>E quando o fim chegar da vida temporal,</verso>
+      <verso>Com ele, firme, eu estarei sem recear o mal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eu tenho proteção no braço do Senhor</verso>
+      <verso>E sempre me consolará Jesus, o Salvador.</verso>
+      <verso>Bondade e Graça, pois, aqui me seguirão</verso>
+      <verso>E na presença do Senhor terei habitação.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>Sl 23</origem_letra>
+  <origem_letra>R. R. Kalley</origem_letra>
+</hino>

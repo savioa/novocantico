@@ -3,43 +3,30 @@
 <hino>
   <numero>080</numero>
   <n>80</n>
-  <titulo>O amor de Jesus</titulo>
+  <titulo>O Amor de Jesus</titulo>
   <texto>
     <estrofe>
-      <verso>Cantarei o imenso amor</verso>
-      <verso>Do Senhor - amor sem fim! -</verso>
-      <verso>De Jesus que aqui desceu</verso>
-      <verso>E morreu na cruz por mim.</verso>
+      <verso>Cantarei o imenso amor do Senhor  amor sem-fim! </verso>
+      <verso>De Jesus que aqui desceu e morreu na cruz por mim.</verso>
       <coro>
-        <verso>Falarei do grande amor</verso>
-        <verso>Com louvor e gratidão!</verso>
-        <verso>Servirei a meu Jesus,</verso>
-        <verso>Que na cruz me deu perdão.</verso>
+        <verso>Falarei do grande amor com louvor e gratidão!</verso>
+        <verso>Servirei a meu Jesus, que na cruz me deu perdão.</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Antes mesmo de eu orar</verso>
-      <verso>Ou chorar minha aflição,</verso>
-      <verso>Meu Jesus por mim chorou</verso>
-      <verso>E implorou, na cruz, perdão.</verso>
+      <verso>Antes mesmo de eu orar ou chorar minha aflição,</verso>
+      <verso>Meu Jesus por mim chorou e implorou, na cruz, perdão.</verso>
     </estrofe>
     <estrofe>
-      <verso>Ninguém pode calcular</verso>
-      <verso>Nem sondar tão grande amor,</verso>
-      <verso>Que me faz limpo e feliz,</verso>
-      <verso>Do Juiz sem ter pavor.</verso>
+      <verso>Ninguém pode calcular nem sondar tão grande amor,</verso>
+      <verso>Que me faz limpo e feliz, do Juiz sem ter pavor.</verso>
     </estrofe>
     <estrofe>
-      <verso>Não mereço tal favor,</verso>
-      <verso>Mas Jesus me soube amar;</verso>
-      <verso>Quero, pois, com devoção,</verso>
-      <verso>Meu amor lhe dedicar.</verso>
+      <verso>Não mereço tal favor, mas Jesus me soube amar;</verso>
+      <verso>Quero, pois, com devoção, meu amor lhe dedicar.</verso>
     </estrofe>
   </texto>
   <secao id="02">Confissão</secao>
   <assunto id="02">Perdão</assunto>
-  <titulo_original>Arfon</titulo_original>
-  <metrica id="7_7_7_7_D">7.7.7.7.D</metrica>
-  <origem_letra id="AlmeidaA" referencia="Almeida, Antônio">Antônio Almeida</origem_letra>
-  <origem_musica id="MelodiaGalesa" referencia="Melodia galesa">Melodia galesa</origem_musica>
+  <origem_letra>A. Almeida</origem_letra>
 </hino>

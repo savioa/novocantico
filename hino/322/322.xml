@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>322</numero>
+  <n>322</n>
+  <titulo>Heroínas da Fé</titulo>
+  <texto>
+    <estrofe>
+      <verso>Avante, companheiras, na causa de Jesus!</verso>
+      <verso>Ativas no trabalho, servi enquanto há luz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mostrai, na atividade, a vossa gratidão</verso>
+      <verso>A Cristo, o grande Amigo, o Autor da Redenção.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A exemplo de Maria que aos pés do Salvador</verso>
+      <verso>Tomou a melhor parte, segui com fé e amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os dons do vosso afeto a Cristo consagrai!</verso>
+      <verso>À Igreja, que é seu corpo, dedicação mostrai!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Erguei-vos, heroínas, e vinde trabalhar!</verso>
+      <verso>Mostrai vossas virtudes na Pátria, Igreja e Lar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="04">Sociedade Auxiliadora Feminina</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+</hino>

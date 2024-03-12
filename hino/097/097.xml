@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>097</numero>
+  <n>97</n>
+  <titulo>Súplica do Redimido</titulo>
+  <texto>
+    <estrofe>
+      <verso>Meu pecado resgatado foi na cruz, por teu amor!</verso>
+      <verso>E da morte — triste sorte! — me livraste, ó Redentor!</verso>
+      <coro>
+        <verso>Cristo, inflama viva chama em meu peito, ó Salvador!</verso>
+        <verso>Pois te adora quem te implora: vem guiar-me, bom Senhor!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Se hesitante, vacilante, ouço a voz do tentador,</verso>
+      <verso>Tu me guias, me auxilias e me tornas vencedor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Redimida, só tem vida a minha alma em teu amor!</verso>
+      <verso>Com apreço reconheço quanto devo a ti, Senhor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="06">Salvação</assunto>
+  <origem_letra>G. L. S. Ferreira</origem_letra>
+</hino>

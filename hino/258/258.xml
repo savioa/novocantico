@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>258</numero>
+  <n>258</n>
+  <titulo>Majestade</titulo>
+  <texto>
+    <estrofe>
+      <verso>Caminha em majestade e vai!</verso>
+      <verso>Ao som de hosana e exultação,</verso>
+      <verso>Por entre palmas, para a cruz,</verso>
+      <verso>Na estrada segue o bom Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Caminha em majestade e vai!</verso>
+      <verso>Em glória segue para a cruz,</verso>
+      <verso>Ele o pecado vencerá</verso>
+      <verso>E a morte atroz abaterá.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Caminha em majestade e vai!</verso>
+      <verso>As hostes de anjos, pelo céu,</verso>
+      <verso>Ao longe veem, com triste olhar,</verso>
+      <verso>O sacrifício despontar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Caminha em majestade e vai!</verso>
+      <verso>É vida a luta pertinaz.</verso>
+      <verso>No céu o Pai o acolherá!</verso>
+      <verso>Seu Filho, Ungido, subirá!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Caminha em majestade e vai!</verso>
+      <verso>Em glória segue para a cruz.</verso>
+      <verso>Se abate a fronte, em face à dor,</verso>
+      <verso>Mas vai triunfante o Vencedor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="04">Entrada Triunfal</assunto>
+  <origem_letra>H. H. Milman</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

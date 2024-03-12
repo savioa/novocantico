@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>089</numero>
+  <n>89</n>
+  <titulo>Amor Sacrificial</titulo>
+  <texto>
+    <estrofe>
+      <verso>O grande amor que meu Jesus</verso>
+      <verso>por mim mostrou na rude cruz,</verso>
+      <verso>Morrendo, a fim de me salvar,</verso>
+      <verso>quem poderá contar?</verso>
+      <coro>
+        <verso>Quem pode o seu amor contar? (bis)</verso>
+        <verso>O grande amor de meu Jesus, quem poderá contar?</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>O cálice que Jesus bebeu,</verso>
+      <verso>a maldição que padeceu</verso>
+      <verso>Por mim e para me salvar,</verso>
+      <verso>quem poderá contar?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A zombaria tão cruel,</verso>
+      <verso>a cruz horrenda, o amargo fel,</verso>
+      <verso>Sofridos para me salvar,</verso>
+      <verso>quem poderá contar?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Incomparável Salvador</verso>
+      <verso>teu inefável, santo amor,</verso>
+      <verso>Que é impossível de sondar,</verso>
+      <verso>quem poderá contar?</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="04">Amor de Deus</assunto>
+  <origem_letra>J. E. Hall</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

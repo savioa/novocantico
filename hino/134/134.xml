@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>134</numero>
+  <n>134</n>
+  <titulo>Riquezas do Céu</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Buscai, não as riquezas </verso>
+      <verso>Deste mundo de incertezas!</verso>
+      <verso>As do céu não têm tristezas:</verso>
+      <verso>Oh! Buscai-as! Sim, buscai!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Buscai, não as loucuras</verso>
+      <verso>Que só trazem amarguras,</verso>
+      <verso>Mas delícias santas, puras:</verso>
+      <verso>Oh! Buscai-as! Sim, buscai!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A Jesus buscai primeiro,</verso>
+      <verso>Ao real, fiel Cordeiro,</verso>
+      <verso>Ao Amigo verdadeiro:</verso>
+      <verso>Oh! Buscai-o! Sim, buscai!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, buscai o Deus bendito</verso>
+      <verso>Cujo amor é inaudito,</verso>
+      <verso>Inefável, infinito:</verso>
+      <verso>Oh! Buscai-o! Sim, buscai!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="11">Santificação</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

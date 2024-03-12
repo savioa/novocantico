@@ -2,13 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>113</numero>
-  <titulo>Achei um bom amigo</titulo>
+  <n>113</n>
+  <titulo>Achei Um Bom Amigo</titulo>
   <texto>
     <estrofe>
-      <verso>Achei um bom amigo, Jesus, o Salvador</verso>
-      <verso>Dos milhares, o escolhido para mim.</verso>
-      <verso>Ele é a Luz do mundo, o forte Mediador,</verso>
-      <verso>Que me purifica e guarda até o fim.</verso>
+      <verso>Achei um bom amigo, Jesus, o Salvador,</verso>
+      <verso>Dos milhares o escolhido para mim.</verso>
+      <verso>Ele é a Luz do mundo, o forte Mediador</verso>
+      <verso>Que me purifica e guarda até ao fim!</verso>
       <verso>Consolador amado, meu protetor do mal,</verso>
       <verso>Ele pode dar alívio ao meu pesar.</verso>
       <coro>
@@ -17,30 +18,24 @@
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Levou-me as dores todas, as mágoas lhe entreguei!</verso>
-      <verso>Nele tenho firme abrigo em tentação.</verso>
-      <verso>Deixei por ele tudo, os ídolos queimei!</verso>
-      <verso>Ele faz-me puro e santo o coração.</verso>
+      <verso>Levou-me as dores todas, as mágoas lhe entreguei;</verso>
+      <verso>Nele tenho firme abrigo em tentação!</verso>
+      <verso>Deixei por ele tudo, os ídolos queimei;</verso>
+      <verso>Ele fez-me puro e santo o coração!</verso>
       <verso>Que o mundo me abandone, persiga o tentador,</verso>
-      <verso>Meu Jesus me guarda até da vida o fim.</verso>
+      <verso>Meu Jesus me guarda até da vida ao fim.</verso>
     </estrofe>
     <estrofe>
       <verso>Jamais me desampara, nem me abandonará,</verso>
       <verso>Se fiel e obediente aqui viver!</verso>
-      <verso>Está sempre ao meu lado e me protegerá,</verso>
-      <verso>Até quando face a face o possa ver.</verso>
+      <verso>Está sempre a meu lado e me protegerá,</verso>
+      <verso>Até quando face a face o possa ver!</verso>
       <verso>Então, aos céus subindo, na glória eu me verei</verso>
-      <verso>Com Jesus, meu Salvador, morando enfim.</verso>
+      <verso>Com Jesus, meu Salvador, morando, enfim.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="08">Companhia do Senhor</assunto>
-  <titulo_original>The lily of the valley</titulo_original>
-  <metrica id='7_6_11_7_6_11_D'>7.6.11.7.6.11.D</metrica>
-  <origem_letra id="FryCW" referencia="Fry, Charles William">Charles William Fry</origem_letra>
-  <origem_letra id="NelsonJH" referencia="Nelson, Justus Henry" ano="1980">Justus Henry Nelson</origem_letra>
-  <origem_musica id="FryCW" referencia="Fry, Charles William">Charles William Fry</origem_musica>
-  <origem_musica id="SankeyID" referencia="Sankey, Ira David">Ira David Sankey</origem_musica>
-  <primeiro_verso_original>I've found a friend in Jesus</primeiro_verso_original>
-  <referencia_biblica id="22_002_001">Cantares 2.1</referencia_biblica>
+  <origem_letra>C. Wm. Fry</origem_letra>
+  <origem_letra>J. H. Nelson</origem_letra>
 </hino>

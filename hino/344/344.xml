@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>344</numero>
+  <n>344</n>
+  <titulo>A Ceia do Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis-me aqui, Senhor bondoso, tua Ceia a celebrar</verso>
+      <verso>E, por ela, neste instante, tua morte anunciar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De teu sangue e tua carne, pela fé já me nutri;</verso>
+      <verso>Pois da vida o pão me deste quando em ti, Jesus, eu cri.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Proclamando a tua Morte eu relembro o grande amor</verso>
+      <verso>Que inspirou teu sacrifício pelo pobre pecador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que o amor aqui lembrado venha encher o coração</verso>
+      <verso>Dos que jazem separados desta doce comunhão!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="11">Ceia do Senhor</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+</hino>

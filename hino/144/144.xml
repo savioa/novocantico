@@ -3,7 +3,7 @@
 <hino>
   <numero>144</numero>
   <n>144</n>
-  <titulo>Segurança e alegria</titulo>
+  <titulo>Segurança e Alegria</titulo>
   <texto>
     <estrofe>
       <verso>Que segurança tenho em Jesus,</verso>
@@ -13,7 +13,7 @@
       <coro>
         <verso>Conto esta história, cantando assim:</verso>
         <verso>Cristo, na cruz, foi morto por mim!</verso>
-        <verso>Conto esta história cantado assim:</verso>
+        <verso>Conto esta história cantando assim:</verso>
         <verso>Cristo, na cruz, foi morto por mim!</verso>
       </coro>
     </estrofe>
@@ -32,11 +32,6 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="12">Proteção</assunto>
-  <titulo_original>Blessed Assurance</titulo_original>
-  <metrica id="9_9_9_9_Coro">9.9.9.9.Coro</metrica>
-  <origem_letra id="CrosbyFJ" referencia="Crosby, Fanny Jane" ano="1873">Fanny Jane Crosby</origem_letra>
-  <origem_letra id="NindGB" referencia="Nind, George Benjamin" ano="1890">George Benjamin Nind</origem_letra>
-  <origem_musica id="KnappPP" referencia="Knapp, Phoebe Palmer" ano="1873">Phoebe Palmer Knapp</origem_musica>
-  <primeiro_verso_original>Blessed assurance, Jesus is mine</primeiro_verso_original>
-  <referencia_biblica id="54_004_010">1 Timóteo 4.10</referencia_biblica>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>G. B. Mind</origem_letra>
 </hino>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>308</numero>
+  <n>308</n>
+  <titulo>Escuridão e Luz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Nas tormentas desta vida, perto está a perdição.</verso>
+      <verso>Aos incautos navegantes quem trará a salvação?</verso>
+      <coro>
+        <verso>Resplandeçam nossas luzes Através do escuro mar,</verso>
+        <verso>Pois nas trevas do pecado Almas podem naufragar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Brilha sempre, em graça imensa, rico amor do eterno Deus.</verso>
+      <verso>Cumpre a nós mostrar o rumo do caminho para os céus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nuvens de paixão mundana não os deixam ver o sol.</verso>
+      <verso>Oh! Mostremos o perigo com as luzes do farol.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aos errantes, insensatos, guia ao porto divinal!</verso>
+      <verso>Em Jesus há vero abrigo do furor do temporal!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Noite eterna se aproxima, tenebrosa em seu horror!</verso>
+      <verso>Clama, avisa aos infelizes, insta-os para o Salvador!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="02">Evangelização</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

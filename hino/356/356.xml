@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>356</numero>
+  <n>356</n>
+  <titulo>Jesus Menino</titulo>
+  <texto>
+    <estrofe>
+      <verso>Foi também Jesus, um dia, como eu, pequeno, assim,</verso>
+      <verso>Mas em tudo se fazia um modelo para mim.</verso>
+      <verso>Na bondade e no cuidado, no constante obedecer,</verso>
+      <verso>Como foi o Mestre amado eu também desejo ser.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sou pequeno, mui fraquinho, e estou sempre a errar!</verso>
+      <verso>Mas Jesus, em meu caminho, bem me pode auxiliar.</verso>
+      <verso>Ternamente me corrige, me recorda o que convém.</verso>
+      <verso>Seu amor meus pés dirige para andar em todo bem.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Teus ensinos, Mestre amado, quero atento aqui ouvir,</verso>
+      <verso>E assim, por ti guiado, tua lei, fiel, cumprir.</verso>
+      <verso>Ao teu lado, sempre estando, quero andar na tua luz,</verso>
+      <verso>Minha vida consagrando só a ti, Senhor Jesus!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

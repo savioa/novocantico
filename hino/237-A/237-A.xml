@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>237-A</numero>
+  <n>237-A</n>
+  <titulo>Linda Estrela</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Linda estrela! Fulgor cintilante!</verso>
+      <verso>Rumo nas trevas teu brilho nos dá;</verso>
+      <verso>Vem conduzir-nos, ó lume divino,</verso>
+      <verso>Para onde o Infante nascido já está.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Gotas de orvalho no berço rebrilham;</verso>
+      <verso>Na manjedoura, sozinho, ele jaz.</verso>
+      <verso>Anjos o adoram, real maravilha!</verso>
+      <verso>Deus sempiterno do reino de paz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que lhe traremos, que pias ofertas?</verso>
+      <verso>Raros odores? Presentes de luz?</verso>
+      <verso>Pérolas puras de mares longínquos?</verso>
+      <verso>Mirra da Arábia? Tesouros de Ormuz?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>São todas vãs as ofertas mundanas,</verso>
+      <verso>Ouro não pode comprar seu favor!</verso>
+      <verso>Cristo, porém, de nós todos aceita</verso>
+      <verso>As oferendas sinceras de amor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>R. Heber</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>325-A</numero>
+  <n>325-A</n>
+  <titulo>Jesus Cristo é o Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Todas unidas com santo ardor,</verso>
+      <verso>Almas remidas cheias de amor.</verso>
+      <verso>Nossa mensagem é de valor,</verso>
+      <verso>Pois Jesus Cristo é o Senhor!</verso>
+      <coro>
+        <verso>Sim, Jesus Cristo é o Senhor!</verso>
+        <verso>Das nossas vidas ele é o Senhor!</verso>
+        <verso>Dos nossos lares ele é o Senhor!</verso>
+        <verso>E o nosso tempo é do Senhor!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Vamos bem alto o seu nome erguer,</verso>
+      <verso>Nossos recursos oferecer,</verso>
+      <verso>Para que o mundo venha a saber</verso>
+      <verso>Que ele é o Senhor de todo ser!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nosso trabalho é para o Senhor,</verso>
+      <verso>Nossos talentos são do Senhor.</verso>
+      <verso>Vamos, unidas, pois, proclamar</verso>
+      <verso>Que ele é o Senhor do céu e mar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="04">Sociedade Auxiliadora Feminina</assunto>
+  <origem_letra>P. Saboia</origem_letra>
+</hino>

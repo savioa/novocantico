@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>207</numero>
+  <n>207</n>
+  <titulo>Convite ao Pecador</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vem a Cristo, mesmo agora, vem assim como estás!</verso>
+      <verso>Que dele, sem demora, o perdão obterás.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Crê em Cristo, sem detença, foi por nós que morreu!</verso>
+      <verso>E só por esta crença tens entrada no céu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ele almeja receber-te, tua vida salvar,</verso>
+      <verso>Pois quer consigo ver-te e contigo habitar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>Anônimo</origem_letra>
+</hino>

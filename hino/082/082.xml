@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>082</numero>
+  <n>82</n>
+  <titulo>Divino Preceptor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó divino Preceptor, já sentimos teu favor!</verso>
+      <verso>Ó Consolador real, tua graça é divinal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Grande Instruidor veraz, desfrutamos tua paz!</verso>
+      <verso>Encha o mundo a tua luz, guia os homens a Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Santo Espírito de Deus, que desceste lá dos céus,</verso>
+      <verso>Revestindo de poder, santifica o nosso ser. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="01">Espírito Instruidor</assunto>
+  <origem_letra>J. Law</origem_letra>
+</hino>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>301</numero>
+  <n>301</n>
+  <titulo>O Único Salvador</titulo>
+  <texto>
+    <estrofe>
+      <verso>Igreja do Senhor, proclama com fervor:</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+      <verso>A todos faze ouvir, insiste em repetir:</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em nós não há poder que venha o mal vencer.</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+      <verso>É vão tentar viver com Deus, sem renascer:</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A lei não dá perdão: traz morte e maldição.</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+      <verso>Em Cristo os bens estão da plena redenção!</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O Bem dos altos céus é Cristo, o dom de Deus.</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+      <verso>Ele é quem livra os réus, tornando-os filhos seus.</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Igreja do Senhor, proclama com fervor:</verso>
+      <verso>“Quem salva é só Jesus!”</verso>
+      <verso>Por esse extremo amor que tem ao pecador,</verso>
+      <verso>Louvemos a Jesus.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="01">Igreja Militante</assunto>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

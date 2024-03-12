@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>359</numero>
+  <n>359</n>
+  <titulo>Jesus Me Quer Bem</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sei que Cristo me quer bem, pois a Bíblia assim o diz.</verso>
+      <verso>Frágil sou, mas força tem; quer levar-me ao bom país.</verso>
+      <coro>
+        <verso>Sei que me quer bem, quer ver-me feliz.</verso>
+        <verso>Sei que me quer bem, a Bíblia assim o diz.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Tudo fez Jesus por mim, só por ele vou viver.</verso>
+      <verso>E porque me quer assim, hei de amá-lo até morrer!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>A. B. Warner</origem_letra>
+  <origem_letra>M. A. Menezes</origem_letra>
+</hino>

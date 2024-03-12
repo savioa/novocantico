@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>132</numero>
+  <n>132</n>
+  <titulo>Vivificação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Tu, que sobre a amarga cruz revelaste teu amor;</verso>
+      <verso>Tu, que vives, ó Jesus, vivifica-nos, Senhor!</verso>
+      <coro>
+        <verso>Vem! Oh! Vem, Jesus Senhor,</verso>
+        <verso>Nossas almas despertar!</verso>
+        <verso>Com teu santo e puro amor,</verso>
+        <verso>Vem, Senhor, nos inflamar!</verso>
+        <verso>Oh! Vem! Oh! Vem</verso>
+        <verso>Nossas almas inflamar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Eis o mundo tentador a querer nos atrair;</verso>
+      <verso>Sem teu fogo abrasador, não podemos resistir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quantos que corriam bem, de ti longe agora vão!</verso>
+      <verso>Outros seguem, mas, também, sem fervor vivendo estão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem agora consumir tudo quanto, ó Salvador,</verso>
+      <verso>Quer altivo resistir ao teu brando e santo amor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="11">Santificação</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

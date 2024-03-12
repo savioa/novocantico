@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>205</numero>
+  <n>205</n>
+  <titulo>O Amor que Chama</titulo>
+  <texto>
+    <estrofe>
+      <verso>Não vos demoreis, Jesus vos chama,</verso>
+      <verso>Ele chama com amor.</verso>
+      <verso>Não vos demoreis, Jesus vos ama,</verso>
+      <verso>Ele acalma a vossa dor.</verso>
+      <coro>
+        <verso>Não vos demoreis!</verso>
+        <verso>Não vos demoreis!</verso>
+        <verso>Vinde sem temor!</verso>
+        <verso>Quem vos chama é Jesus,</verso>
+        <verso>Que morreu por nós na cruz.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Não vos demoreis, perdão alcança</verso>
+      <verso>Quem confia no Senhor.</verso>
+      <verso>Não vos demoreis e, sem tardança,</verso>
+      <verso>Recebei o Redentor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não vos demoreis, Jesus foi morto</verso>
+      <verso>Em lugar do pecador.</verso>
+      <verso>Não vos demoreis, real conforto</verso>
+      <verso>Quer vos dar o Salvador.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>A. H. da Silva</origem_letra>
+</hino>

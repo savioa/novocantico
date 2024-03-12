@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>352</numero>
+  <n>352</n>
+  <titulo>Leitura Bendita</titulo>
+  <texto>
+    <estrofe>
+      <verso>Enquanto, ó Salvador, teu livro ler,</verso>
+      <verso>De auxílio necessito para ver</verso>
+      <verso>Da mera letra, além, a ti, Senhor,</verso>
+      <verso>E meditar no teu excelso amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>À beira-mar, Jesus, partiste o pão,</verso>
+      <verso>Alimentando a imensa multidão.</verso>
+      <verso>Da vida o pão és tu; podes assim</verso>
+      <verso>Satisfazer, Senhor, também a mim.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="13">Escola Dominical</assunto>
+  <origem_letra>M. A. Lathbury</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

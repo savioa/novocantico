@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>141</numero>
+  <n>141</n>
+  <titulo>Guia Divino</titulo>
+  <texto>
+    <estrofe>
+      <verso>Guia Cristo minha nau sobre o revoltoso mar</verso>
+      <verso>Que, enfurecido e mau, quer fazê-la naufragar.</verso>
+      <verso>Bom Jesus! Oh! Vem guiar, minha nau vem pilotar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Como sabe serenar boa mãe o filho seu,</verso>
+      <verso>Oh! Acalma assim o mar proceloso e mui rebel.</verso>
+      <verso>Bom Jesus! Oh! Vem guiar, minha nau vem pilotar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se no porto quando entrar, mais o mar se enfurecer,</verso>
+      <verso>Que me possa deleitar em ouvir-te assim dizer:</verso>
+      <verso>“Entra, pobre viajor, no descanso do Senhor”.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>E. Hopper</origem_letra>
+  <origem_letra>Wm. E. Entzminger</origem_letra>
+</hino>

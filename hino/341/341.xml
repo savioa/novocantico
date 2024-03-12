@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>341</numero>
+  <n>341</n>
+  <titulo>Vera Páscoa</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó Jesus, ó vera Páscoa, suspirada dos antigos!</verso>
+      <verso>Ó Cordeiro eterno e meigo, digna-te assistir aqui!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Bom Jesus, ó Pão divino, pela fé te recebemos.</verso>
+      <verso>És nas almas o alimento que sustenta o nosso amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Bom Jesus, ó Vinho puro, de perene paz a fonte,</verso>
+      <verso>Faze que nossa alma viva para ti, sempre de ti!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="11">Ceia do Senhor</assunto>
+  <origem_letra>Anônimo</origem_letra>
+</hino>

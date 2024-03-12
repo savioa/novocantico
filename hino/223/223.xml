@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>223</numero>
+  <n>223</n>
+  <titulo>Oração do Arrependido</titulo>
+  <texto>
+    <estrofe>
+      <verso>Convencido estou, ó Cristo</verso>
+      <verso>de que o mundo é semprevão.</verso>
+      <verso>Quero, pois, viver contigo,</verso>
+      <verso>sempre em doce comunhão.</verso>
+      <coro>
+        <verso>Toma, ó Salvador, minha débil mão!</verso>
+        <verso>Pois viver contigo eu quero sempre em comunhão!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quanta dor, tristeza imensa,</verso>
+      <verso>sinto, ó Deus, ao me lembrar</verso>
+      <verso>Que vivi, por tanto tempo,</verso>
+      <verso>tua causa a desprezar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Não mais quero a vida inglória,</verso>
+      <verso>onde, incauto, me abismei.</verso>
+      <verso>Na doutrina do evangelho,</verso>
+      <verso>de hoje em diante eu viverei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quero os dons, que me outorgaste,</verso>
+      <verso>empregar no teu labor,</verso>
+      <verso>Trabalhando em tua Igreja,</verso>
+      <verso>Bem firmado em teu amor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="05">Consagração</secao>
+  <assunto id="02">Dedicação</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+</hino>

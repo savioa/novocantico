@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>164</numero>
+  <n>164</n>
+  <titulo>Nome Precioso</titulo>
+  <texto>
+    <estrofe>
+      <verso>Santo nome, incomparável,</verso>
+      <verso>Tem Jesus, o amado teu!</verso>
+      <verso>Rei dos reis, Senhor eterno,</verso>
+      <verso>Deus na terra, Deus nos céus.</verso>
+      <coro>
+        <verso>Nome bom, doce à fé, a esperança do porvir.</verso>
+        <verso>Nome bom, doce à fé, a esperança do porvir.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Leva tu contigo o Nome</verso>
+      <verso>de Jesus, o Salvador!</verso>
+      <verso>Este Nome dá conforto hoje, </verso>
+      <verso>sempre e onde for.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Este Nome leva sempre</verso>
+      <verso>para bem te defender!</verso>
+      <verso>Ele é arma ao teu alcance,</verso>
+      <verso>Quando o mal te aparecer.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>L. Baxter</origem_letra>
+  <origem_letra>B. R. Duarte</origem_letra>
+</hino>

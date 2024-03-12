@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>369</numero>
+  <n>369</n>
+  <titulo>A Bíblia para Todos</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis a Bíblia, a Palavra que de Deus provém!</verso>
+      <verso>Quem com ela vive e lavra, vive para o bem!</verso>
+      <coro>
+        <verso>Anunciai a Bíblia aos povos,</verso>
+        <verso>Ela é vida e luz!</verso>
+        <verso>Seus ensinos, sempre novos,</verso>
+        <verso>Falam de Jesus!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Dessa Bíblia, a semente ide semear</verso>
+      <verso>Anunciando a toda gente que Deus quer salvar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mocidade, homens, velhos, ponde-vos de pé</verso>
+      <verso>E as lições dos evangelhos propagai com fé!</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="02">Bíblia</assunto>
+  <origem_letra>J. L. Camargo</origem_letra>
+</hino>

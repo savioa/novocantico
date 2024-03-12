@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>227</numero>
+  <n>227</n>
+  <titulo>A Velha História</titulo>
+  <texto>
+    <estrofe>
+      <verso>Conta-me a velha história do grande Salvador,</verso>
+      <verso>De Cristo e sua vida, de Cristo e seu amor;</verso>
+      <verso>Com pausa e paciência, pois quero penetrar</verso>
+      <verso>A altura do mistério, que Deus me pode amar.</verso>
+      <coro>
+        <verso>Conta-me a velha história, que fala ao coração,</verso>
+        <verso>De Cristo e sua glória, de Cristo e seu perdão!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Fala-me com ternura do amado Redentor,</verso>
+      <verso>A mim que tanto sofro por ser um pecador.</verso>
+      <verso>Oh! Que consolo traz-me em tempos de aflição,</verso>
+      <verso>Ouvir a velha história que alegra o coração!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se o brilho deste mundo toldar dos céus a luz,</verso>
+      <verso>Oh! Narra com ternura a história de Jesus!</verso>
+      <verso>E quando, enfim, a aurora do mundo além raiar,</verso>
+      <verso>Recorda a velha história, que Deus me quis salvar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="01">Advento</assunto>
+  <origem_letra>A. K. Harkey</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

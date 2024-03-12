@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>372</numero>
+  <n>372</n>
+  <titulo>O Crente e a Bíblia</titulo>
+  <texto>
+    <estrofe>
+      <verso>Não abandono a Bíblia, pois é a voz de Deus;</verso>
+      <verso>Dos crentes o tesouro, seu guia para os céus.</verso>
+      <verso>É luz divina, intensa, nas trevas a brilhar!</verso>
+      <verso>É a voz do Pai celeste que a todos vem chamar.</verso>
+      <coro>
+        <verso>Não abandono a Bíblia,</verso>
+        <verso>Pois é a voz de Deus!</verso>
+        <verso>Dos crentes o tesouro,</verso>
+        <verso>Seu guia para os Céus.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Não abandono a Bíblia, o Livro que me diz</verso>
+      <verso>Que salvo estou em Cristo, o que me faz feliz!</verso>
+      <verso>E tenho, pois, certeza de lá no céu entrar,</verso>
+      <verso>Pois ele, com seu sangue, me quis purificar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Não abandono a Bíblia”, — eu sempre afirmarei.</verso>
+      <verso>Quem dera ser ouvido por toda a ímpia grei!</verso>
+      <verso>Que saiba todo o mundo, que a cristandade tem</verso>
+      <verso>A fé robusta e pura que pela Bíblia vem.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="02">Bíblia</assunto>
+  <origem_letra>M. A. Menezes</origem_letra>
+</hino>

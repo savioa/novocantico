@@ -3,14 +3,14 @@
 <hino situacao="incompleto">
   <numero>029</numero>
   <n>29</n>
-  <titulo>Louvor</titulo>
+  <titulo>Adoração ao Nosso Deus Sustentador</titulo>
   <texto>
     <estrofe>
       <verso>Ó minha alma, a Deus bendize</verso>
       <verso>Em humilde adoração,</verso>
       <verso>Nada há mais que te escravize</verso>
       <verso>No pecado e escuridão!</verso>
-      <verso>Oh, louvai-o! Oh, louvai-o!</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Ele é o Rei da criação!</verso>
     </estrofe>
     <estrofe>
@@ -18,7 +18,7 @@
       <verso>Que outorgou a nossos pais,</verso>
       <verso>E por tudo que ele faça,</verso>
       <verso>Bendizei-o mais e mais!</verso>
-      <verso>Oh, louvai-o! Oh, louvai-o!</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Como nossos ancestrais.</verso>
     </estrofe>
     <estrofe>
@@ -26,26 +26,20 @@
       <verso>Nosso Deus nos guardará;</verso>
       <verso>Ele as trevas e o inimigo</verso>
       <verso>Para sempre abaterá!</verso>
-      <verso>Oh, louvai-o! Oh, louvai-o!</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Pelas bênçãos que nos dá!</verso>
     </estrofe>
     <estrofe>
       <verso>Anjos e homens, reverentes,</verso>
       <verso>Adorai-o com fervor;</verso>
-      <verso>Lua, estrela, sol luzente,</verso>
-      <verso>Que ao espaço dais fulgor,</verso>
-      <verso>Oh, louvai-o! Oh louvai-o!</verso>
+      <verso>Lua, estrelas, sol luzente,</verso>
+      <verso>Que ao espaço dais fulgor!</verso>
+      <verso>Oh! Louvai-o! Oh! Louvai-o!</verso>
       <verso>Pois é Deus de excelso amor!</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="05">Deus Criador</assunto>
-  <titulo_original>Rousseau</titulo_original>
-  <metrica id="8_7_8_7_4__4__7">8.7.8.7.4.[4].7</metrica>
-  <origem_letra id="Salmo103" referencia="Salmo 103">Salmo 103</origem_letra>
-  <origem_letra id="LyteHF" referencia="Lyte, Henry Francis" ano="1834">Henry Francis Lyte</origem_letra>
-  <origem_letra id="CostaJ" referencia="Costa, J." ano="1969">J. Costa</origem_letra>
-  <origem_musica id="RousseauJJ" referencia="Rousseau, Jean-Jacques">Jean-Jacques Rousseau</origem_musica>
-  <primeiro_verso_original>Praise my soul the king of heaven</primeiro_verso_original>
-  <referencia_biblica id="19_103_001_002">Salmos 103.1,2</referencia_biblica>
+  <origem_letra>Sl 103 adapt. H. F. Lyte</origem_letra>
+  <origem_letra>Trad. J. Costa</origem_letra>
 </hino>

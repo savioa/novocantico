@@ -6,20 +6,13 @@
   <titulo>Trindade Adorada</titulo>
   <texto>
     <estrofe>
-      <verso>Glória seja ao Pai,</verso>
-      <verso>Ao Filho e ao Santo Espírito,</verso>
-      <verso>Como era no princípio,</verso>
-      <verso>É hoje e para sempre,</verso>
+      <verso>Glória seja ao Pai, ao Filho e ao Santo Espírito!</verso>
+      <verso>Como era no princípio, e hoje e para sempre,</verso>
       <verso>Eternamente! Amém! Amém!</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="02">Deus Trino</assunto>
-  <titulo_original>Gloria Patri</titulo_original>
-  <metrica id='Irregular'>Irregular</metrica>
-  <origem_letra id="DoxologiaLatina" referencia="Doxologia latina" ano="sec. II">Doxologia latina</origem_letra>
-  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da">João Gomes da Rocha</origem_letra>
-  <origem_musica id="MeinekeC" referencia="Meineke, Charles">Charles Meineke</origem_musica>
-  <primeiro_verso_original>Glory be to the Father</primeiro_verso_original>
-  <referencia_biblica id="45_011_036">Romanos 11.36</referencia_biblica>
+  <origem_letra>Latino, séc. 2º</origem_letra>
+  <origem_letra>J. G. Rocha (trad.)</origem_letra>
 </hino>

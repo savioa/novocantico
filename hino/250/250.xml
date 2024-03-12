@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>250</numero>
+  <n>250</n>
+  <titulo>A Voz de Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ouvi o Salvador dizer: “Vem descansar em mim</verso>
+      <verso>E, confiante, receber conforto e paz sem-fim”.</verso>
+      <verso>Fui a Jesus e lhe entreguei meu triste coração!</verso>
+      <verso>Abrigo e paz eu nele achei, achei consolação!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ouvi o Salvador dizer: “Da vida a Fonte eu sou;</verso>
+      <verso>As águas vivas vem beber, de graça eu sempre as dou”.</verso>
+      <verso>Fui a Jesus e me prostrei às águas e bebi;</verso>
+      <verso>Jamais sede sentirei, estando sempre ali!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ouvi o Salvador dizer: “Do mundo eu sou a luz!</verso>
+      <verso>Oh! Vem a mim, pois qual farol Te guio desde a cruz”.</verso>
+      <verso>Fui a Jesus e nele achei o sol que brilha em mim;</verso>
+      <verso>E nessa luz eu andarei até da vida o fim!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <origem_letra>H. Bonar</origem_letra>
+  <origem_letra>M. Wordlaw</origem_letra>
+</hino>

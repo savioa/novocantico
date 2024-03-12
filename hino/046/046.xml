@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino situacao='incompleto'>
+<hino situacao="incompleto">
   <numero>046</numero>
   <n>46</n>
   <titulo>Altos Louvores</titulo>
@@ -22,7 +22,7 @@
       <verso>Seu cetro arrancando com régio poder.</verso>
       <verso>Agora, onde estão teus terrores, ó morte?</verso>
       <verso>Sepulcro! Teus presos irão reviver!</verso>
-      <verso>Glória rendamos ao bom Salvador,</verso>
+      <verso>Glória rendemos ao bom Salvador,</verso>
       <verso>Excelso em justiça, supremo em amor!</verso>
     </estrofe>
     <estrofe>
@@ -33,7 +33,7 @@
       <verso>Conosco presente em bondade imutável,</verso>
       <verso>Teu povo diriges com alto saber,</verso>
       <verso>Graças te damos, divino Senhor,</verso>
-      <verso>Amparo constante, fiel protetor.</verso>
+      <verso>Amparo constante, fiel protetor!</verso>
     </estrofe>
     <estrofe>
       <verso>Vem, ó Jesus, majestoso reinar;</verso>
@@ -41,16 +41,12 @@
       <verso>Vem em poder, apressando esse dia,</verso>
       <verso>Pois tua vontade será feita aqui.</verso>
       <verso>Oh! Volta na glória trazendo alegria!</verso>
-      <verso>A Igreja suspira, ansiosa por ti!</verso>
+      <verso>A igreja suspira, ansiosa, por ti!</verso>
       <verso>Vem, ó Jesus, majestoso reinar;</verso>
       <verso>Teu povo te espera, não queiras tardar!</verso>
     </estrofe>
   </texto>
-  <secao id='01'>Louvor e Adoração</secao>
-  <assunto id='09'>Deus Salvador</assunto>
-  <titulo_original>Altos Louvores</titulo_original>
-  <metrica id='10_11_11_11_12_11_10_11__5_5'>10.11.11.11.12.11.10.11.[5.5]</metrica>
-  <origem_letra ano='1873' id='KalleySP' referencia='Kalley, Sarah Poulton'>Sarah Poulton Kalley</origem_letra>
-  <origem_musica id='AvisonC' referencia='Avison, Charles'>Charles Avison</origem_musica>
-  <referencia_biblica id='66_019_007'>Apocalipse 19.7</referencia_biblica>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="09">Deus Salvador</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
 </hino>

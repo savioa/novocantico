@@ -2,11 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>218</numero>
-  <titulo>Vontade soberana</titulo>
+  <n>218</n>
+  <titulo>Vontade Soberana</titulo>
   <texto>
     <estrofe>
       <verso>Tua vontade faze, ó Senhor!</verso>
-      <verso>Eu sou feitura, tu és o autor.</verso>
+      <verso>Eu sou feitura, tu és o Autor.</verso>
       <verso>Molda e refaze todo o meu ser,</verso>
       <verso>Segundo as normas do teu querer.</verso>
     </estrofe>
@@ -14,28 +15,24 @@
       <verso>Tua vontade faze, ó meu Deus!</verso>
       <verso>Sonda e corrige os passos meus!</verso>
       <verso>Torna-me santo porque tu és!</verso>
-      <verso>Ouve os meus rogos, Eis-me aos teus pés.</verso>
+      <verso>Ouve os meus rogos, eis-me aos teus pés.</verso>
     </estrofe>
     <estrofe>
       <verso>Tua vontade faze, ó meu Pai!</verso>
       <verso>Por ela o crente vive e não cai.</verso>
-      <verso>Guia-me a vida com tua luz!</verso>
-      <verso>Poder e graça dá-me Jesus.</verso>
+      <verso>Guia-me a vida com tua luz,</verso>
+      <verso>Poder e graça dá-me em Jesus.</verso>
     </estrofe>
     <estrofe>
-      <verso>Tua vontade, boa e sem par,</verso>
+      <verso>Tua vontade, boa e sem-par,</verso>
       <verso>Quero na vida realizar.</verso>
       <verso>Vive, triunfa, domina, enfim,</verso>
-      <verso>Reina, supremo, meu Deus, em mim! Amém.</verso>
+      <verso>Reina, supremo, meu Deus, em mim!</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="05">Consagração</secao>
   <assunto id="01">Submissão</assunto>
-  <titulo_original>Adelaide</titulo_original>
-  <metrica id='5_4_5_4_D'>5.4.5.4.D</metrica>
-  <origem_letra id="PollardAA" referencia="Pollard, Adelaide Addison" ano="1902">Adelaide Addison Pollard</origem_letra>
-  <origem_letra id="AlmeidaA" referencia="Almeida, Antônio" ano="1920">Antônio Almeida</origem_letra>
-  <origem_musica id="StebbinsGC" referencia="Stebbins, George Coles" ano="1907">George Coles Stebbins</origem_musica>
-  <primeiro_verso_original>Have thine own way, Lord</primeiro_verso_original>
-  <referencia_biblica id="47_005_015">2 Coríntios 5.15</referencia_biblica>
+  <origem_letra>A. A. Pollard</origem_letra>
+  <origem_letra>A. Almeida</origem_letra>
 </hino>

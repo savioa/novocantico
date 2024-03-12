@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>354</numero>
+  <n>354</n>
+  <titulo>A Escola Dominical</titulo>
+  <texto>
+    <estrofe>
+      <verso>Dominical é a grande e antiga escola</verso>
+      <verso>Em que se estuda o Livro do Senhor;</verso>
+      <verso>A vida aqui se exalta, se acrisola</verso>
+      <verso>E alcança em Cristo seu real valor. (bis)</verso>
+      <coro>
+        <verso>À Escola, pois, Dominical, irmãos,</verso>
+        <verso>Receber celeste luz!</verso>
+        <verso>O santo Livro, aberto em nossas mãos,</verso>
+        <verso>Aprendamos de Jesus.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>De grandes vultos e eras memoráveis</verso>
+      <verso>Lições sublimes vimos aprender!</verso>
+      <verso>Lições inscritas n’alma, inapagáveis,</verso>
+      <verso>Que moldam nossas vidas com poder. (bis)</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O Mestre insigne está presente — Cristo —,</verso>
+      <verso>Que luz e vida à vida plena traz.</verso>
+      <verso>O seu ensino igual jamais foi visto!</verso>
+      <verso>Tesouros mostra, de alegria e paz. (bis)</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Universal, bendita escola é esta,</verso>
+      <verso>Que os seus alunos conta por milhões;</verso>
+      <verso>Na qual o estudo é verdadeira festa,</verso>
+      <verso>Que empolga crianças, jovens e anciões! (bis)</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="13">Escola Dominical</assunto>
+  <origem_letra>J. M. da Mota Sobrinho</origem_letra>
+</hino>

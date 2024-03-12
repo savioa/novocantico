@@ -2,17 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>326</numero>
-  <titulo>Homens presbiterianos</titulo>
+  <n>326</n>
+  <titulo>Homens Presbiterianos</titulo>
   <texto>
     <estrofe>
-      <verso>Homens presbiterianos do Brasil,</verso>
+      <verso>Fé</verso>
+      <verso>1 Homens presbiterianos do Brasil,</verso>
       <verso>Testemunhas de Jesus, o Salvador!</verso>
       <verso>Levantemo-nos, com fé e mui vigor,</verso>
       <verso>Com mensagem varonil!</verso>
       <verso>O Senhor nos manda a todos proclamar</verso>
       <verso>O valor do sangue que por nós verteu</verso>
       <verso>Lá na cruz onde, bondoso, padeceu</verso>
-      <verso>Para a Glória nos levar!</verso>
+      <verso>Para a glória nos legar!</verso>
       <coro>
         <verso>Sim, lutemos por Cristo Jesus,</verso>
         <verso>Apontando aos descrentes ateus</verso>
@@ -21,18 +23,24 @@
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Homens presbiterianos do Brasil,</verso>
+      <verso>Oração</verso>
+      <verso>2 Homens presbiterianos do Brasil,</verso>
       <verso>Na oração teremos perenal poder!</verso>
       <verso>E faremos sempre a Bíblia resplender</verso>
       <verso>Nesta Pátria senhoril!</verso>
       <verso>Com Jesus, o nosso grande e bom país</verso>
       <verso>Viverá em paz e, olhando o seu porvir,</verso>
-      <verso>Terá bênção copiosa a espargir,</verso>
+      <verso>Terá bênção copiosa a espargir,1</verso>
       <verso>E o Brasil será feliz!</verso>
+      <verso>Sim, lutemos por Cristo Jesus,</verso>
+      <verso>Apontando aos descrentes ateus</verso>
+      <verso>O caminho repleto de luz,</verso>
+      <verso>Ó varões santos, filhos de Deus.</verso>
     </estrofe>
     <estrofe>
-      <verso>Homens presbiterianos do Brasil,</verso>
-      <verso>Que integramos vasta Confederação,</verso>
+      <verso>Trabalho</verso>
+      <verso>3 Homens presbiterianos do Brasil</verso>
+      <verso>Que integramos vasta confederação,</verso>
       <verso>Com valor e piedosa vocação</verso>
       <verso>Trabalhemos, um por mil,</verso>
       <verso>Na grandiosa obra de Jesus, Senhor,</verso>
@@ -43,13 +51,5 @@
   </texto>
   <secao id="07">Igreja - Seu Ministério</secao>
   <assunto id="05">União Presbiteriana de Homens</assunto>
-  <titulo_original>Varões</titulo_original>
-  <metrica id="11_11_11_7_D_Coro">11.11.11.7.D.Coro</metrica>
-  <origem_letra id="BandeiraB" referencia="Bandeira, Bolivar">Bolivar Bandeira</origem_letra>
-  <origem_musica id="CarvalhoE" referencia="Carvalho, Eurípedes de">Eurípedes de Carvalho</origem_musica>
-  <origem_musica id="CarvalhoB" referencia="Carvalho, Benedito de">Benedito de Carvalho</origem_musica>
-  <origem_musica id="CostaJr" referencia="Costa Jr.">Costa Júnior</origem_musica>
-  <primeiro_verso_original>Homens presbiterianos do Brasil</primeiro_verso_original>
-  <referencia_biblica id="54_006_012">1 Timóteo 6.12</referencia_biblica>
+  <origem_letra>B. Bandeira</origem_letra>
 </hino>
-

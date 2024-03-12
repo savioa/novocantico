@@ -3,7 +3,7 @@
 <hino situacao="incompleto">
   <numero>035</numero>
   <n>35</n>
-  <titulo>Adoração e súplica</titulo>
+  <titulo>Adoração e Súplica</titulo>
   <texto>
     <estrofe>
       <verso>Teu culto agora, aqui, Senhor,</verso>
@@ -13,7 +13,7 @@
     </estrofe>
     <estrofe>
       <verso>À nossa vera adoração</verso>
-      <verso>Presente estás, Senhor.</verso>
+      <verso>Presente estás, Senhor,</verso>
       <verso>Fazendo o nosso coração</verso>
       <verso>Sentir teu grande amor.</verso>
     </estrofe>
@@ -21,15 +21,11 @@
       <verso>Atende nossas petições,</verso>
       <verso>Ó poderoso Deus!</verso>
       <verso>Concede aos nossos corações</verso>
-      <verso>Antegozar os céus. Amém.</verso>
+      <verso>Antegozar os céus. </verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="08">Deus Senhor</assunto>
-  <titulo_original>St. Agnes</titulo_original>
-  <metrica id="8_6_8_6">8.6.8.6</metrica>
-  <origem_letra id="HoustonJT" referencia="Houston, James Theodore">James Theodore Houston</origem_letra>
-  <origem_musica id="DykesJB" referencia="Dykes, John Bacchus" ano="1866">John Bacchus Dykes</origem_musica>
-  <primeiro_verso_original>Teu culto agora, aqui, Senhor</primeiro_verso_original>
-  <referencia_biblica id="19_100_002">Salmos 100.2</referencia_biblica>
+  <origem_letra>J. Th. Houston</origem_letra>
 </hino>

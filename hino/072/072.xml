@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>072</numero>
+  <n>72</n>
+  <titulo>Purificação</titulo>
+  <texto>
+    <estrofe>
+      <verso>A minha alma está manchada</verso>
+      <verso>De pecado e corrupção,</verso>
+      <verso>Pois em mim não há justiça,</verso>
+      <verso>Santidade ou retidão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minha origem reconheço:</verso>
+      <verso>Pecador, bem sei, nasci;</verso>
+      <verso>Da maldade procedente,</verso>
+      <verso>O seu fardo já senti.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, Jesus, e santifica</verso>
+      <verso>Este pobre pecador!</verso>
+      <verso>Dá-me a graça de sentir-me</verso>
+      <verso>Amparado em teu amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O teu sangue precioso,</verso>
+      <verso>Derramado sobre a cruz,</verso>
+      <verso>Me redime do pecado</verso>
+      <verso>De uma vez, ó meu Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, Senhor, purificar-me,</verso>
+      <verso>Teu perdão receberei.</verso>
+      <verso>Eu bem sei que para sempre</verso>
+      <verso>Ao teu lado reinarei.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <origem_letra>J. Boyle</origem_letra>
+</hino>

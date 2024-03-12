@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>272</numero>
+  <n>272</n>
+  <titulo>Aleluia ao Cristo Redivivo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cristo já ressuscitou! Aleluia!</verso>
+      <verso>Sobre a morte triunfou! Aleluia!</verso>
+      <verso>Tudo consumado está! Aleluia!</verso>
+      <verso>Salvação de graça dá! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo sobre a cruz sofreu! Aleluia!</verso>
+      <verso>E por nós ali morreu! Aleluia!</verso>
+      <verso>Mas agora vivo está! Aleluia!</verso>
+      <verso>Para sempre reinará! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Gratos hinos hoje erguei! Aleluia!</verso>
+      <verso>A Jesus, o grande Rei! Aleluia!</verso>
+      <verso>Ressurgiu, é vencedor! Aleluia! </verso>
+      <verso>Toda glória ao Redentor! Aleluia!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="06">Ressurreição</assunto>
+  <origem_letra>Latino</origem_letra>
+  <origem_letra>anônimo</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

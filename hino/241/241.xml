@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>241</numero>
+  <n>241</n>
+  <titulo>O Nascimento de Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Mal supõe aquela gente que em Belém quer ir parar,</verso>
+      <verso>Que uma luz tão refulgente vai ali brilhar.</verso>
+      <verso>É por anjos anunciado e os pastores logo vêem</verso>
+      <verso>Que o Senhor, por Deus mandado, nasce em Belém.</verso>
+      <coro>
+        <verso>Vinde ouvir a doce história que dos altos céus nos vem!</verso>
+        <verso>O Messias, Rei da glória, nasce em Belém.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Mundo triste, vem! Desperta! Teus grilhões desfeitos são!</verso>
+      <verso>Tens a porta franca aberta; sai da vil prisão!</verso>
+      <verso>Não hesites, duvidoso, esse dom do céu provém;</verso>
+      <verso>Cristo, o Todo-poderoso, nasce em Belém.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Proclamai a todo o mundo, toda raça, toda cor:</verso>
+      <verso>Cristo, em seu amor profundo, salva o pecador!</verso>
+      <verso>Confiança nele tende, não desprezará ninguém!</verso>
+      <verso>Vinde, os braços vos estende! Nasce em Belém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>162</numero>
+  <n>162</n>
+  <titulo>A Voz de Deus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quando a tempestade ruge</verso>
+      <verso>Com o seu feroz bramir,</verso>
+      <verso>Quando as nuvens se acumulam,</verso>
+      <verso>Raios mil a despedir;</verso>
+      <verso>Do trovão o som tremendo</verso>
+      <verso>Faz-se ouvir e com pavor,</verso>
+      <verso>Mas, por sobre a tempestade,</verso>
+      <verso>Soa a tua voz, Senhor.</verso>
+      <coro>
+        <verso>Eis que ouvimos tua voz a animar os que andam sós</verso>
+        <verso>E, em ti sempre confiados, vão, por ti, sempre a lutar</verso>
+        <verso>Nesta vida tormentosa,85 qual fragor86 do vasto mar.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quando o mar vem, mansamente,</verso>
+      <verso>Sobre a areia se espraiar;</verso>
+      <verso>Quando a brisa sussurrante</verso>
+      <verso>Calmamente perpassar,</verso>
+      <verso>Soa mística harmonia,</verso>
+      <verso>Ouve-se um feliz rumor;</verso>
+      <verso>Desse coro, docemente,</verso>
+      <verso>Vem a tua voz, Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando o coração aflito</verso>
+      <verso>Quer à dor, ao mal fugir,</verso>
+      <verso>E se agita e luta e ruge</verso>
+      <verso>Sem descanso e paz sentir,</verso>
+      <verso>Qual um som que se repete</verso>
+      <verso>Nas quebradas a rolar,</verso>
+      <verso>Ao aflito e contristado</verso>
+      <verso>Tua voz vem consolar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>R. Gonçalves</origem_letra>
+</hino>

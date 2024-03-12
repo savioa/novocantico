@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino>
+<hino situacao="incompleto">
   <numero>003</numero>
   <n>3</n>
   <titulo>A Igreja em Adoração</titulo>
@@ -12,7 +12,7 @@
       <verso>Com esperança olhamos para ti.</verso>
       <verso>Teu santo livro, ó grande Deus, tomamos</verso>
       <verso>Com fé singela e reverente amor;</verso>
-      <verso>E, como atentos filhos, procuramos</verso>
+      <verso>E, como atentos filhos procuramos</verso>
       <verso>Ciência na palavra do Senhor.</verso>
     </estrofe>
     <estrofe>
@@ -28,22 +28,16 @@
     <estrofe>
       <verso>Ensina aos teus, Espírito divino,</verso>
       <verso>Dissipa as trevas destes corações;</verso>
-      <verso>E com a luz do teu celeste ensino,</verso>
+      <verso>E com a luz do teu celeste ensino</verso>
       <verso>Vem aclarar as santas instruções.</verso>
       <verso>Aviva em nós as forças da memória,</verso>
       <verso>Pois sempre mais queremos conhecer</verso>
       <verso>O Rei dos céus, o Cristo cuja glória</verso>
-      <verso>Enleva os santos anjos de prazer. Amém.</verso>
+      <verso>Enleva os santos anjos de prazer.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="02">Deus Trino</assunto>
-  <titulo_original>O selig Haus</titulo_original>
-  <metrica id="11_10_11_10_D">11.10.11.10.D</metrica>
-  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1872">Sarah Poulton Kalley</origem_letra>
-  <origem_musica id="NiemeyerE" referencia="Niemeyer, Edouard" ano="1854">Edouard Niemeyer</origem_musica>
-  <primeiro_verso_original>Eterno Pai, teu povo congregado</primeiro_verso_original>
-  <referencia_biblica id="05_033_003">Deuteronômio 33.3</referencia_biblica>
-  <referencia_biblica id="42_010_039">Lucas 10.39</referencia_biblica>
+  <origem_letra>S. P. Kalley</origem_letra>
 </hino>
-

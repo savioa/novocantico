@@ -20,7 +20,7 @@
     <estrofe>
       <verso>Com Cristo unido na luta moral</verso>
       <verso>Resisto ao erro, ao pecado fatal,</verso>
-      <verso>Bem alto erguendo a bandeira real.</verso>
+      <verso>Bem alto erguendo a bandeira real;</verso>
       <verso>Cada momento mais firme e leal!</verso>
     </estrofe>
     <estrofe>
@@ -38,12 +38,6 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="08">Companhia do Senhor</assunto>
-  <titulo_original>Moment by moment</titulo_original>
-  <metrica id="10_10_10_10_Coro">10.10.10.10.Coro</metrica>
-  <origem_letra id="WhittleDW" referencia="Whittle, Daniel Webster">Daniel Webster Whittle</origem_letra>
-  <origem_letra id="ElNathan" referencia="El Nathan (Whittle, Daniel Webster)">(El Nathan)</origem_letra>
-  <origem_letra id="GinsburgSL" referencia="Ginsburg, Salomão Luiz" ano="1909">Salomão Luiz Ginsburg</origem_letra>
-  <origem_musica id="MoodyMW" referencia="Moody, Mary Whittle">Mary Whittle Moody</origem_musica>
-  <primeiro_verso_original>Dying with Jesus, by death reckoned mine</primeiro_verso_original>
-  <referencia_biblica id="47_004_010_011">2 Coríntios 4.10,11</referencia_biblica>
+  <origem_letra>D. W. Whittle</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
 </hino>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>119</numero>
+  <n>119</n>
+  <titulo>Súplica pelo Culto</titulo>
+  <texto>
+    <estrofe>
+      <verso>Fala, ó Deus, agora, pela pregação,</verso>
+      <verso>Concedendo a todos iluminação!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, pelo evangelho, almas despertar;</verso>
+      <verso>Os remidos todos vem santificar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Manda à tua Igreja mais poder, Senhor,</verso>
+      <verso>Pela boa-nova do teu pregador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Torna-a instrumento da verdade e luz,</verso>
+      <verso>Do amor e graça que vêm de Jesus.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="09">Aspiração</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+</hino>

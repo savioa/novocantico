@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>235</numero>
+  <n>235</n>
+  <titulo>O Anjo da Paz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Um anjo formoso desceu das alturas,</verso>
+      <verso>Na fresca doçura da noite, em Belém,</verso>
+      <verso>E a luz fulgurante brilhou nas colinas,</verso>
+      <verso>Encheu as campinas e vales também.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A doce mensagem que o anjo trazia,</verso>
+      <verso>De grande alegria, de amor divinal,</verso>
+      <verso>Encheu de esperanças a vida do crente,</verso>
+      <verso>Feliz toda a gente naquele Natal!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se há sombras de medo e o mundo se empenha</verso>
+      <verso>Em luta ferrenha em ao bem se opor,</verso>
+      <verso>Mal surge dezembro, e eis outro clima,</verso>
+      <verso>Pois vem lá de cima bafejos de amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>É o anjo formoso que vem, novamente,</verso>
+      <verso>Lançar a semente do amor divinal,</verso>
+      <verso>Trazendo a este mundo canções de alegria,</verso>
+      <verso>Na santa harmonia que inspira o Natal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>W. C. Ferreira</origem_letra>
+</hino>

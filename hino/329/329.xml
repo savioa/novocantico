@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>329</numero>
+  <n>329</n>
+  <titulo>Instalação de Pastor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Senhor da Igreja, atende a nossa petição!</verso>
+      <verso>Que o teu trabalho siga com grande animação.</verso>
+      <verso>Os campos já branquejam, convidam a ceifar,</verso>
+      <verso>E os preciosos frutos na Igreja a arrecadar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A ti, Senhor, compete ceifeiros escolher.</verso>
+      <verso>Que tudo realizem conforme o teu querer.</verso>
+      <verso>Os ânimos prepara, inflama os corações</verso>
+      <verso>E manda os bons obreiros em grandes multidões.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se aquele que escolhemos mandado foi por ti,</verso>
+      <verso>Seu santo ministério conduze sempre aqui.</verso>
+      <verso>Confirma o pastorado com bênçãos especiais</verso>
+      <verso>E dá-lhe, em ricos frutos, divinas credenciais.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Alenta-lhe a esperança, aumenta nele a fé.</verso>
+      <verso>Na lida, não permitas que lhe vacile o pé.</verso>
+      <verso>E cada vez mais forte, mais cheio de fervor,</verso>
+      <verso>A todos manifeste a graça do Senhor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="07">Posse de Pastor</assunto>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

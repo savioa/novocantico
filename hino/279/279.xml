@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>279</numero>
+  <n>279</n>
+  <titulo>O Dia Triunfal Raiou</titulo>
+  <texto>
+    <estrofe>
+      <verso>O dia triunfal raiou</verso>
+      <verso>Trazendo o sol de alegre luz;</verso>
+      <verso>Pois ressurgiu e nos livrou</verso>
+      <verso>Da morte o nosso Rei Jesus.</verso>
+      <verso>Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Rejubilando sem cessar,</verso>
+      <verso>Com aleluias de louvor em coro</verso>
+      <verso>Vamos proclamar:</verso>
+      <verso>“Ressuscitou o Salvador!”</verso>
+      <verso>Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com alegria e com louvor</verso>
+      <verso>A Páscoa vamos celebrar,</verso>
+      <verso>Pois Cristo, o grande Vencedor,</verso>
+      <verso>De Deus o amor nos vem mostrar!</verso>
+      <verso>Aleluia!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="06">Ressurreição</assunto>
+  <origem_letra>N. Hermann</origem_letra>
+  <origem_letra>R. Wanderley</origem_letra>
+</hino>

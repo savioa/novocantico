@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>281-A</numero>
+  <n>281-A</n>
+  <titulo>Fronte Ensanguentada</titulo>
+  <texto>
+    <estrofe>
+      <verso>A fronte que uma vez sangrou agora brilha em luz!</verso>
+      <verso>Real é o halo que adornou o Vencedor Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ele às alturas ascendeu, à glória se elevou!</verso>
+      <verso>E é a eterna luz do céu, o Rei que se humilhou!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ele é dos anjos o prazer, dos salvos, Redentor.</verso>
+      <verso>A estes faz-se conhecer nos bens do seu amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A nós o escárnio dessa cruz completa graça traz!</verso>
+      <verso>Um nome eterno dá Jesus de glória, plena paz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os que carregam sua cruz, com Cristo hão de reinar.</verso>
+      <verso>Verão de perto a sua luz no sempiterno lar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="07">Ascensão</assunto>
+  <origem_letra>T. Kelly</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

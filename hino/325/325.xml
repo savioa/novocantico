@@ -2,61 +2,40 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>325</numero>
+  <n>325</n>
   <titulo>Aspiração Feminina</titulo>
   <texto>
     <estrofe>
-      <verso>A nós aqui reunidas,</verso>
-      <verso>Senhor, envia luz.</verso>
-      <verso>São tuas nossas vidas,</verso>
-      <verso>Ganhaste-as sobre a cruz.</verso>
-      <verso>É vão qualquer trabalho</verso>
-      <verso>Sem tua aprovação!</verso>
-      <verso>O nosso esforço é falho</verso>
-      <verso>Se não nos dás a mão.</verso>
+      <verso>A nós aqui reunidas, Senhor, envia luz.</verso>
+      <verso>São tuas nossas vidas, ganhaste-as sobre a cruz.</verso>
+      <verso>É vão qualquer trabalho sem tua aprovação!</verso>
+      <verso>O nosso esforço é falho se não nos dás a mão.</verso>
       <coro>
-        <verso>Nós crentes redimidas,</verso>
-        <verso>Depomos nosso lar</verso>
-        <verso>E as nossas próprias vidas</verso>
-        <verso>Perante o teu altar.</verso>
+        <verso>Nós, crentes redimidas, depomos nosso lar</verso>
+        <verso>E as nossas próprias vidas perante o teu altar.</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Se a nossa fé se abala</verso>
-      <verso>Em faces às tentações,</verso>
-      <verso>Levanta a voz e fala</verso>
-      <verso>Aos nossos corações.</verso>
-      <verso>A experiência viva</verso>
-      <verso>Do teu fiel amor</verso>
-      <verso>O nosso ardor ativa</verso>
-      <verso>E inspira em nós fervor.</verso>
+      <verso>Se a nossa fé se abala em face às tentações,</verso>
+      <verso>Levanta a voz e fala aos nossos corações.</verso>
+      <verso>A experiência viva do teu fiel amor</verso>
+      <verso>O nosso ardor ativa e inspira em nós fervor.</verso>
     </estrofe>
     <estrofe>
-      <verso>Esposas, mães piedosas,</verso>
-      <verso>Queremos ser, Senhor,</verso>
-      <verso>Fiéis e carinhosas,</verso>
-      <verso>Enchendo o lar de amor.</verso>
-      <verso>Que paz e harmonia</verso>
-      <verso>Dominem nosso lar</verso>
-      <verso>E em tua companhia</verso>
-      <verso>Possamos sempre andar.</verso>
+      <verso>Esposas, mães piedosas, queremos ser, Senhor,</verso>
+      <verso>Fiéis e carinhosas, enchendo o lar de amor.</verso>
+      <verso>Que paz e harmonia dominem nosso lar</verso>
+      <verso>E em tua companhia possamos sempre andar.</verso>
     </estrofe>
     <estrofe>
-      <verso>Escola de piedade</verso>
-      <verso>Que eleva a Igreja a Ti</verso>
-      <verso>Seja esta sociedade</verso>
-      <verso>Ao teu serviço aqui.</verso>
-      <verso>E o mundo, despertado,</verso>
-      <verso>Contemplará em nós</verso>
-      <verso>Rebanho santo e amado,</verso>
-      <verso>Atento à tua voz. Amém</verso>
+      <verso>Escola de piedade que eleva a Igreja a ti,</verso>
+      <verso>Seja esta sociedade ao teu serviço aqui.</verso>
+      <verso>E o mundo, despertado, contemplará em nós</verso>
+      <verso>Rebanho santo e amado, atento à tua voz.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="07">Igreja - Seu Ministério</secao>
   <assunto id="04">Sociedade Auxiliadora Feminina</assunto>
-  <titulo_original>Hankey</titulo_original>
-  <metrica id="7_6_7_6_D_Coro">7.6.7.6.D.Coro</metrica>
-  <origem_letra id="SalumIN" referencia="Salum, Isaac Nicolau" ano="1940">Isaac Nicolau Salum</origem_letra>
-  <origem_musica id="FischerWG" referencia="Fischer, William Gustavus" ano="1869">William Gustavus Fischer</origem_musica>
-  <referencia_biblica id="54_004_010">1 Timóteo 4.10</referencia_biblica>
+  <origem_letra>I. N. Salum</origem_letra>
 </hino>
-

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>323</numero>
+  <n>323</n>
+  <titulo>Santa Peleja</titulo>
+  <texto>
+    <estrofe>
+      <verso>Nesta arena da santa peleja,</verso>
+      <verso>No combate devemos entrar,</verso>
+      <verso>Batalhando com fé e coragem,</verso>
+      <verso>Pois a noite não tarda a chegar.</verso>
+      <coro>
+        <verso>Vamos, vamos, leais companheiras,</verso>
+        <verso>Caminhando na luz do Senhor!</verso>
+        <verso>A divisa193 do nosso estandarte194</verso>
+        <verso>Seja “fé, esperança e amor”! (bis)</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Mas se o mundo coberto de trevas</verso>
+      <verso>Nos olhar com rigor ou desdém,</verso>
+      <verso>Prossigamos, ousadas, avante,</verso>
+      <verso>Espalhando as ideias do bem.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pelejemos! A causa é sagrada!</verso>
+      <verso>Vamos todas com fé e oração</verso>
+      <verso>E, guiadas por Deus, Pai celeste,</verso>
+      <verso>Cumpriremos a nossa missão!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="04">Sociedade Auxiliadora Feminina</assunto>
+  <origem_letra>M. C. C. Lemos</origem_letra>
+</hino>

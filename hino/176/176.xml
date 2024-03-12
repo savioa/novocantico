@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>176</numero>
+  <n>176</n>
+  <titulo>Fidelidade do Cristão</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sempre fiéis, sim, a ti nós seremos,</verso>
+      <verso>Por tua graça, bendito Senhor!</verso>
+      <verso>Sempre fiéis, nós por ti lutaremos</verso>
+      <verso>Com teu poder, ó Jesus, Salvador!</verso>
+      <coro>
+        <verso>Sempre fiéis, irmãos, aqui sejamos;</verso>
+        <verso>Sempre fiéis a Cristo Jesus</verso>
+        <verso>Que, até à morte por nós prosseguindo,</verso>
+        <verso>Vida nos deu, salvação pela cruz!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Por ti viver, ó bendito Cordeiro,</verso>
+      <verso>Quem não deseja se te conhecer?</verso>
+      <verso>Quem, se de fato é cristão verdadeiro,</verso>
+      <verso>Não estará, por ti, pronto a sofrer?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Salvador, pecadores nós somos,</verso>
+      <verso>Como podemos deixar de cair?</verso>
+      <verso>Mas, se por ti amparados nós formos,</verso>
+      <verso>Sempre fiéis poderemos seguir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nós te louvamos pois tu, que venceste,</verso>
+      <verso>Sempre em triunfo nos podes levar.</verso>
+      <verso>A teus fiéis, ó Jesus, prometeste</verso>
+      <verso>Todos os dias com eles estar.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="14">Fidelidade</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

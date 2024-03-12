@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>107</numero>
+  <n>107</n>
+  <titulo>Perto da Cruz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quero estar ao pé da cruz, que tão rica fonte</verso>
+      <verso>Corre franca, salutar, de Sião no monte.</verso>
+      <coro>
+        <verso>Sim, na cruz, sim, na cruz sempre me glorio</verso>
+        <verso>E, por fim, descansarei salvo, além do rio.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>A tremer, ao pé da cruz, graça, amor achou-me;</verso>
+      <verso>Matutina estrela, ali, raios seus mandou-me.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Desta cruz desejo aqui sempre recordar-me;</verso>
+      <verso>Dela à sombra, Salvador, queiras abrigar-me!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Junto à cruz, ardendo em fé, sem temor vigio;</verso>
+      <verso>Firme, até a Pátria ver, santa, além do rio.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>J. C. Ribeiro</origem_letra>
+</hino>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>078</numero>
+  <n>78</n>
+  <titulo>Perfeita Expiação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sacrifícios imolados sobre o sanguinoso altar</verso>
+      <verso>Não tiravam os pecados; não podiam expiar</verso>
+      <verso>Nossas culpas, nossas culpas, nem remorsos dissipar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mas o sangue precioso que na cruz o Redentor</verso>
+      <verso>Derramou, tão generoso, tem poder expiador:</verso>
+      <verso>Purifica, purifica o mais ímpio pecador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Triste choro o meu pecado, mas Jesus me dá perdão</verso>
+      <verso>E, por ele perdoado, não verei condenação.</verso>
+      <verso>O Cordeiro, o Cordeiro dá completa remissão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Todo o peso do castigo — Punição que mereci!  </verso>
+      <verso>Lá na cruz, supremo Amigo, foi lançado sobre ti!</verso>
+      <verso>Vou cantando, vou cantando: minha culpa estava ali!</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="02">Perdão</assunto>
+  <origem_letra>H. Bonar</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

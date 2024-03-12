@@ -3,18 +3,18 @@
 <hino situacao="incompleto">
   <numero>030</numero>
   <n>30</n>
-  <titulo>Providência de Deus (na criação)</titulo>
+  <titulo>Providência de Deus (na Criação)</titulo>
   <texto>
     <estrofe>
-      <verso>Ó Deus, ó Providência! Com teu real poder</verso>
+      <verso>Ó Deus! Ó Providência! Com teu real poder</verso>
       <verso>Trouxeste à existência o mundo, todo ser!</verso>
-      <verso>E a tudo que criaste, com benfazeja mão,</verso>
+      <verso>E a tudo que criaste com benfazeja mão,</verso>
       <verso>As bênçãos não negaste da tua proteção.</verso>
       <coro>
         <verso>Eterno Deus, ó Deus sem par,</verso>
-        <verso>A criação, com gratidão</verso>
+        <verso>A Criação, com gratidão</verso>
         <verso>Te vem louvar!</verso>
-        <verso>Nos céus teu nome aclamam</verso>
+        <verso>Nos céus teu Nome aclamam</verso>
         <verso>Os astros, que são teus;</verso>
         <verso>A terra e o mar proclamam:</verso>
         <verso>“És o nosso Deus!”</verso>
@@ -30,16 +30,11 @@
       <verso>Dos campos, a verdura, dos frutos, o sabor,</verso>
       <verso>Celebram a ternura do teu constante amor!</verso>
       <verso>E a natureza inteira, por toda a Criação,</verso>
-      <verso>Proclama, alvissareira, a tua proteção. Amém.</verso>
+      <verso>Proclama, alvissareira, a tua proteção.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="06">Deus Providente</assunto>
-  <titulo_original>The Whole Wide World</titulo_original>
-  <metrica id="7_6_7_6_D_Coro">7.6.7.6.D.Coro</metrica>
-  <origem_letra id="Anonimo" referencia="Anônimo">Anônimo</origem_letra>
-  <origem_musica id="MaunderJH" referencia="Maunder, John Henry" ano="1894">John Henry Maunder</origem_musica>
-  <primeiro_verso_original>Ó Deus, ó Providência! Com teu real poder</primeiro_verso_original>
-  <referencia_biblica id="19_104_013">Salmos 104.13</referencia_biblica>
-  <referencia_biblica id="40_006_030">Mateus 6.30</referencia_biblica>
+  <origem_letra>Anônimo</origem_letra>
 </hino>

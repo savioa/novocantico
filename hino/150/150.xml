@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>150</numero>
+  <n>150</n>
+  <titulo>Salvação Perfeita</titulo>
+  <texto>
+    <estrofe>
+      <verso>Livres do medo! Já resgatados!</verso>
+      <verso>Cristo morreu por nossos pecados!</verso>
+      <verso>Na sua cruz o pacto se fez,</verso>
+      <verso>Fomos remidos de uma vez.</verso>
+      <coro>
+        <verso>Sim, de uma vez! Amigo, acredita,</verso>
+        <verso>No Salvador tens sorte bendita!</verso>
+        <verso>Cristo, na cruz, a Lei satisfez</verso>
+        <verso>E redimiu-nos de uma vez!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Ao malfeitor, que a pena merece,</verso>
+      <verso>Vida, perdão e paz oferece.</verso>
+      <verso>Vem a Jesus com santa avidez</verso>
+      <verso>Pois te recebe de uma vez!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Graça real! Não há mais castigo!</verso>
+      <verso>Não mais temor, nem sombra ou perigo!</verso>
+      <verso>Vestes reais, não triste nudez,</verso>
+      <verso>Cristo enriquece de uma vez!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Filhos de Deus” — Oh! Gozo inaudito!</verso>
+      <verso>Deus nos amou em grau infinito.</verso>
+      <verso>Nesta clemência não há dobrez,</verso>
+      <verso>Há segurança de uma vez!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>Ph. P. Bliss</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

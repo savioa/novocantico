@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>140</numero>
+  <n>140</n>
+  <titulo>Jornada do Crente</titulo>
+  <texto>
+    <estrofe>
+      <verso>Guia, ó Deus, a minha sorte nesta peregrinação.</verso>
+      <verso>Frágil sou, mas tu és forte, não me largue a tua mão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando em meio de inimigos ando cheio de temor;</verso>
+      <verso>Ou por entre mil perigos, vem guiar-me, ó Salvador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com o teu maná divino vem nutrir meu coração!</verso>
+      <verso>Guie a nuvem meu destino nesta imensa solidão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Fende a rocha milagrosa, dá-me puro manancial.</verso>
+      <verso>A coluna luminosa seja sempre o meu fanal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao Jordão, enfim, chegado, dá-me tua mão, Senhor,</verso>
+      <verso>E seguro, no outro lado, cantarei o teu louvor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>G. Williams</origem_letra>
+  <origem_letra>R. Holden</origem_letra>
+</hino>

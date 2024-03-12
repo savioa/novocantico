@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>110</numero>
+  <n>110</n>
+  <titulo>A Vida com Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Um dia Cristo achou-me mui longe do meu lar,</verso>
+      <verso>Perdido já no mundo, sem mais poder voltar!</verso>
+      <verso>Tomando-me em seus braços, firmou-me nos meus passos</verso>
+      <verso>E agora andamos juntos, voltando para o lar.</verso>
+      <coro>
+        <verso>A presença de Jesus enche o coração de luz!</verso>
+        <verso>Mui preciosa fica e também mais rica</verso>
+        <verso>Esta vida com Jesus.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Passamos pelo vale a fim de me provar,</verso>
+      <verso>Em meio a densas trevas que impedem-me o andar!</verso>
+      <verso>Não há nenhum perigo, pois já está comigo</verso>
+      <verso>O excelso Companheiro, voltando para o lar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Entramos na atmosfera que envolve aquele lar,</verso>
+      <verso>No qual meu Pai me aguarda e é onde vou morar!</verso>
+      <verso>Não há no mundo inteiro um outro Companheiro</verso>
+      <verso>Que mostre tanto zelo, voltando para o lar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+  <origem_letra>L. N. Morris</origem_letra>
+</hino>

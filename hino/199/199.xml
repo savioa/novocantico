@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>199</numero>
+  <n>199</n>
+  <titulo>Cristo Salva</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cristo salva o pecador, dá-lhe um novo coração;</verso>
+      <verso>Ao contrito, com amor, oferece salvação.</verso>
+      <coro>
+        <verso>Confiai em seu poder, confiai em seu amor!</verso>
+        <verso>Crede já que Cristo quer libertar o pecador.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo salva o pecador e concede-lhe perdão;</verso>
+      <verso>Aceitai o bom Senhor, aceitai de coração.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vinde todos e achareis plena paz no Redentor;</verso>
+      <verso>Vinde e então recebereis vida eterna no Senhor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>E. Neumeinster</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
+</hino>

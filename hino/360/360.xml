@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>360</numero>
+  <n>360</n>
+  <titulo>Pequena Luz</titulo>
+  <texto>
+    <estrofe>
+      <verso>No mundo, pequenina luz de Deus eu quero ser,</verso>
+      <verso>A refletir, do meu Jesus, seu brilho, seu poder.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em casa, pequenina flor, que aos pais possa alegrar,</verso>
+      <verso>E do celestial cultor o aroma exalar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na escola, pequenina mão que aceite com prazer</verso>
+      <verso>O farto, nutritivo pão, da ciência e do saber.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na igreja, pequenina voz que louve ao Salvador,</verso>
+      <verso>E nunca, ao fim da vida até, me afaste do Senhor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>290</numero>
+  <n>290</n>
+  <titulo>Jesus Já Vem</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus já vem, o grande Salvador,</verso>
+      <verso>O Bem-amado destes corações,</verso>
+      <verso>E os crentes mortos, vastas multidões,</verso>
+      <verso>Ressurgirão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus já vem! E ao mesmo tempo nós,</verso>
+      <verso>Os que no mundo vivos ele achar,</verso>
+      <verso>Já transformados vamos a cantar</verso>
+      <verso>O seu louvor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus já vem! Oh! Perfeição de amor!</verso>
+      <verso>Pois para sempre a andar com ele em luz,</verso>
+      <verso>Quer ter a Igreja que, na sua cruz,</verso>
+      <verso>Já redimiu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus já vem! Que bênçãos em irmos ver</verso>
+      <verso>A quem, por nós, a morte aqui sofreu</verso>
+      <verso>E a interceder por nós, compareceu</verso>
+      <verso>Perante o Pai.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Vem, Senhor! Não tardes, ó Jesus!</verso>
+      <verso>Pois tu somente irás satisfazer</verso>
+      <verso>Aos nossos corações, que anelam ver</verso>
+      <verso>Seu Salvador!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <origem_letra>R. Holden</origem_letra>
+</hino>

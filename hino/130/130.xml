@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>130</numero>
+  <n>130</n>
+  <titulo>Oração ao Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Dirijo a ti, Senhor, minha oração;</verso>
+      <verso>Eu sei que tudo vês no coração.</verso>
+      <verso>A ti venho adorar, a graça suplicar,</verso>
+      <verso>O teu favor buscar, Senhor meu Deus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dirijo a ti, Senhor, minha oração;</verso>
+      <verso>Do mal que pratiquei, a confissão!</verso>
+      <verso>Sê tu, ó meu Senhor, propício ao pecador,</verso>
+      <verso>Concede, em teu amor, pleno perdão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Dirijo a ti, Senhor, minha oração,</verso>
+      <verso>Divino amparo és em aflição.</verso>
+      <verso>Tu podes consolar, minha alma confortar</verso>
+      <verso>E sempre me guardar de todo o mal.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Atende, ó meu Senhor, minha oração,</verso>
+      <verso>Que humilde sobe a ti com gratidão;</verso>
+      <verso>Imploro, meu Senhor, por Cristo, o Mediador,</verso>
+      <verso>Que sempre em teu amor possa eu viver.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="10">Oração</assunto>
+  <origem_letra>J. Th. Houston</origem_letra>
+</hino>

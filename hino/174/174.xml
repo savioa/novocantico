@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>174</numero>
+  <n>174</n>
+  <titulo>Poderoso Salvador</titulo>
+  <texto>
+    <estrofe>
+      <verso>Confio em ti, Jesus Senhor,</verso>
+      <verso>Contigo seguro eu estou.</verso>
+      <verso>Os ímpios vieste buscar:</verso>
+      <verso>Tu és poderoso, tu és poderoso</verso>
+      <verso>E podes salvar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Livra minha alma, Senhor,</verso>
+      <verso>Das malhas do vil tentador!</verso>
+      <verso>Seus laços vêm despedaçar:</verso>
+      <verso>Tu és poderoso, tu és poderoso</verso>
+      <verso>E podes livrar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>No mundo sofreste, ó Jesus,</verso>
+      <verso>Por mim padeceste na cruz!</verso>
+      <verso>Teu sangue me pode lavar:</verso>
+      <verso>Tu és poderoso, tu és poderoso,</verso>
+      <verso>E podes guardar!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>S. G. Stock</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

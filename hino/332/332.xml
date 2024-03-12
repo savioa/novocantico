@@ -3,49 +3,31 @@
 <hino>
   <numero>332</numero>
   <n>332</n>
-  <titulo>Batismo infantil</titulo>
+  <titulo>Batismo Infantil</titulo>
   <texto>
     <estrofe>
-      <verso>Nossos filhos te pertencem,</verso>
-      <verso>Ó eterno Deus de amor!</verso>
-      <verso>São herdeiros da aliança</verso>
-      <verso>Que proclama teu amor,</verso>
-      <verso>E os trouxemos hoje aqui</verso>
-      <verso>Para os dedicar a ti.</verso>
+      <verso>Nossos filhos te pertencem, ó eterno Deus de amor!</verso>
+      <verso>São herdeiros da aliança que proclama teu amor</verso>
+      <verso>E os trouxemos hoje aqui para os dedicar a ti.</verso>
     </estrofe>
     <estrofe>
-      <verso>Desde os dias mais remotos,</verso>
-      <verso>Desde os tempos de Abraão,</verso>
-      <verso>Do antigo testamento,</verso>
-      <verso>Tempo da circuncisão,</verso>
-      <verso>O que nasce nesta fé</verso>
-      <verso>Do Senhor ovelha é.</verso>
+      <verso>Desde os dias mais remotos, desde os tempos de Abraão,</verso>
+      <verso>Do Antigo Testamento, tempo da circuncisão,</verso>
+      <verso>O que nasce nesta fé do Senhor ovelha é.</verso>
     </estrofe>
     <estrofe>
-      <verso>Ao trazê-los ao batismo,</verso>
-      <verso>Eis-nos a testemunhar</verso>
-      <verso>Que pertencem à Igreja,</verso>
-      <verso>Onde os vimos alistar:</verso>
-      <verso>Que pertencem ao Senhor</verso>
-      <verso>Seu amigo, Salvador.</verso>
+      <verso>Ao trazê-los ao batismo, eis-nos a testemunhar</verso>
+      <verso>Que pertencem à Igreja, onde os vimos alistar;</verso>
+      <verso>Que pertencem ao Senhor, seu amigo, Salvador.</verso>
     </estrofe>
     <estrofe>
-      <verso>Nesta hora tão solene,</verso>
-      <verso>Quando a água batismal</verso>
-      <verso>Se derrama nos infantes</verso>
-      <verso>Com valor sacramental,</verso>
-      <verso>Te pedimos, grande Deus,</verso>
-      <verso>Abençoa-os lá dos céus. Amém.</verso>
+      <verso>Nesta hora tão solene, quando a água batismal</verso>
+      <verso>Se derrama nos infantes, com valor sacramental,</verso>
+      <verso>Te pedimos, grande Deus, abençoa-os lá dos céus.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="07">Igreja - Seu Ministério</secao>
-  <assunto id="08">Batismo</assunto>
-  <titulo_original>Batismo</titulo_original>
-  <metrica id="8_7_8_7_7_7">8.7.8.7.7.7</metrica>
-  <origem_letra id="GuimaraesS" referencia="Guimarães, Sebastião">Sebastião Guimarães</origem_letra>
-  <origem_musica id="GuimaraesS" referencia="Guimarães, Sebastião" >Sebastião Guimarães</origem_musica>
-  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
-  <primeiro_verso_original>Nossos filhos te pertencem</primeiro_verso_original>
-  <referencia_biblica id="42_018_016">Lucas 18.16</referencia_biblica>
+  <assunto id="08">Bastismo</assunto>
+  <origem_letra>S. Guimarães</origem_letra>
 </hino>
-

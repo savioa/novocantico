@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>203</numero>
+  <n>203</n>
+  <titulo>Convite Para a Salvação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis, Cristo te convida; vem, pecador!</verso>
+      <verso>Concede eterna vida, vem, pecador!</verso>
+      <verso>Hoje é tão favorável, vem, pecador!</verso>
+      <verso>É tempo aceitável, vem, pecador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eis o ensejo agora, vem, pecador!</verso>
+      <verso>Atende sem demora, vem, pecador!</verso>
+      <verso>Careces desta graça? Vem, pecador!</verso>
+      <verso>Breve a vida passa! Vem, pecador!</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>Wm. E. Witter</origem_letra>
+  <origem_letra>Wm. E. Entzminger</origem_letra>
+</hino>

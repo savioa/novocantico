@@ -3,15 +3,15 @@
 <hino>
   <numero>063</numero>
   <n>63</n>
-  <titulo>As muitas bênçãos</titulo>
+  <titulo>As Muitas Bênçãos</titulo>
   <texto>
     <estrofe>
       <verso>Se da vida as vagas procelosas são,</verso>
       <verso>Se, com desalento, julgas tudo vão,</verso>
-      <verso>Conta as muitas bênçãos, dize-as de uma vez,</verso>
+      <verso>Conta as muitas bênçãos, dize-as de uma vez</verso>
       <verso>E verás, surpreso, quanto Deus já fez.</verso>
       <coro>
-        <verso>Conta as bênçãos, dize-as quantas são,</verso>
+        <verso>Conta as bênçãos, dize quantas são,</verso>
         <verso>Recebidas da divina mão!</verso>
         <verso>Vem dizê-las, todas de uma vez,</verso>
         <verso>E verás, surpreso, quanto Deus já fez!</verso>
@@ -20,7 +20,7 @@
     <estrofe>
       <verso>Tens acaso mágoas, triste é teu lidar?</verso>
       <verso>É a cruz pesada que tens de levar?</verso>
-      <verso>Conta as muitas bênçãos! Logo exultarás,</verso>
+      <verso>Conta as muitas bênçãos! Logo exultarás</verso>
       <verso>E, fortalecido, tudo vencerás!</verso>
     </estrofe>
     <estrofe>
@@ -30,20 +30,14 @@
       <verso>A mansão celeste que vais habitar.</verso>
     </estrofe>
     <estrofe>
-      <verso>Seja o teu combate longo ou breve aqui,</verso>
-      <verso>Não te desanimes Deus será por ti!</verso>
-      <verso>Seu divino auxílio minorando o mal,</verso>
+      <verso>Seja o teu combate longo ou breve aqui</verso>
+      <verso>Não te desanimes: Deus será por ti!</verso>
+      <verso>Seu divino auxílio, minorando o mal,</verso>
       <verso>Te dará consolo e galardão final.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="11">Gratidão</assunto>
-  <titulo_original>Count Your Blessings</titulo_original>
-  <metrica id="11_11_11_11_Coro">11.11.11.11.Coro</metrica>
-  <origem_letra id="OatmanJ" referencia="Oatman, Johnson">Johnson Oatman</origem_letra>
-  <origem_letra id="SmartER" referencia="Smart, Eliza Rivers" ano="1903">Eliza Rivers Smart</origem_letra>
-  <origem_musica id="ExcellEO" referencia="Excell, Edwin Othello">Edwin Othello Excell</origem_musica>
-  <primeiro_verso_original>When upon life's billows you are tempest tossed</primeiro_verso_original>
-  <referencia_biblica id="19_103_001_002">Salmos 103.1,2</referencia_biblica>
+  <origem_letra>J. Oatman Jr.</origem_letra>
+  <origem_letra>E. R. Smart</origem_letra>
 </hino>
-

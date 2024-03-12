@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>081</numero>
+  <n>81</n>
+  <titulo>Súplica ao Espírito Santo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Espírito de Deus, convém ao teu auxílio recorrer;</verso>
+      <verso>Manancial de todo bem, usufruímos teu poder</verso>
+      <verso>E, no teu santo amor andar, é nosso anseio ao te adorar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sem ti o nosso culto é vão e nulo em tudo nos será;</verso>
+      <verso>Sem teu ensino e direção nossa alma luzes não terá;</verso>
+      <verso>E inutilmente o teu louvor entoaremos, ó Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó grande e santo instruidor, inspira as nossas petições,</verso>
+      <verso>Ensina a orar e dá fervor aos reverentes corações;</verso>
+      <verso>E ao trono eterno junto a Deus conduze aqueles que são teus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Fonte és e Autor de todo bem, luz e esperança no viver;</verso>
+      <verso>Opera em nós o que convém, em tudo imprime o teu querer.</verso>
+      <verso>Perante o céu será, então, perfeita a nossa adoração.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="01">Espírito Instruidor</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

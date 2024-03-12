@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>358</numero>
+  <n>358</n>
+  <titulo>Jesus e as Crianças</titulo>
+  <texto>
+    <estrofe>
+      <verso>Congregação:</verso>
+      <verso>1 A Jesus crianças vinham</verso>
+      <verso>Sua bênção suplicar.</verso>
+      <verso>Vós, que agora sois crianças,</verso>
+      <verso>Vinde a ele, pois, louvar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se crianças de outro tempo</verso>
+      <verso>Aceitou com terno amor,</verso>
+      <verso>Hoje a todas as crianças</verso>
+      <verso>Salva, ainda, com favor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Crianças:</verso>
+      <verso>3 Meus pecados, no calvário,</verso>
+      <verso>Sobre a cruz Jesus pagou!</verso>
+      <verso>A maior das maravilhas</verso>
+      <verso>É que Cristo me amou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minhas mãos, tão pequeninas,</verso>
+      <verso>Se ergam sempre em teu louvor,</verso>
+      <verso>Ó Jesus, Senhor bendito,</verso>
+      <verso>Por salvar-nos com amor!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

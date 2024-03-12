@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>311</numero>
+  <n>311</n>
+  <titulo>Avante, ó Crentes</titulo>
+  <texto>
+    <estrofe>
+      <verso>Avante, avante, ó crentes, soldados de Jesus!</verso>
+      <verso>Erguei seu estandarte, lutai por sua cruz!</verso>
+      <verso>E contra os inimigos em grandes multidões,</verso>
+      <verso>O Excelso Comandante dirige os batalhões.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Avante, avante, ó crentes! Por Cristo pelejai!</verso>
+      <verso>Vesti sua armadura, em seu poder marchai!</verso>
+      <verso>No posto sempre achados, velando em oração,</verso>
+      <verso>Em meio dos perigos seguindo o Capitão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Avante, avante, ó crentes, a passo triunfal!</verso>
+      <verso>Após combate horrendo, virá a paz final!</verso>
+      <verso>Então, eternamente, será o vencedor</verso>
+      <verso>No céu glorificado com Cristo, o Salvador!</verso>
+      <coro>
+        <verso>Coro da 2ª música:</verso>
+        <verso>Avante, ó crentes, soldados de Jesus!</verso>
+        <verso>Erguei seu estandarte, lutai, lutai por sua cruz.</verso>
+      </coro>
+    </estrofe>
+    <origem_letra>G. Duffield Jr.</origem_letra>
+    <origem_letra>S. P. Kalley</origem_letra>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="03">Trabalho Cristão</assunto>
+</hino>

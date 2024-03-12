@@ -2,22 +2,21 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>145</numero>
+  <n>145</n>
   <titulo>Refúgio Verdadeiro</titulo>
   <texto>
     <estrofe>
       <verso>Seguro estou, não tenho temor do mal,</verso>
       <verso>Sim, guardado pela fé em meu Jesus.</verso>
       <verso>Não posso duvidar desse amor leal,</verso>
-      <verso>Ele em seu caminho sempre me conduz.</verso>
+      <verso>Ele em seu caminho sempre me conduz;</verso>
       <verso>Não me deixará, mas me abrigará,</verso>
       <verso>Do pecado vil me vem livrar;</verso>
       <verso>A sua graça não me recusará,</verso>
       <verso>Sim, Jesus é quem me pode sustentar.</verso>
       <coro>
-        <verso voz="Mulheres">No poder de Cristo, o Mestre,</verso>
-        <verso voz="Homens">No poder de Cristo, o Mestre, meu Senhor,</verso>
-        <verso voz="Mulheres">Minha vida salva está!</verso>
-        <verso voz="Homens">Minha vida, minha vida salva está!</verso>
+        <verso>No poder de Cristo, o Mestre,</verso>
+        <verso>Minha vida salva está!</verso>
         <verso>Do perigo que cercá-la</verso>
         <verso>Ele poderá livrá-la!</verso>
         <verso>Seu poder eterno sempre a susterá!</verso>
@@ -30,27 +29,21 @@
       <verso>Que procura, pertinaz, me enfraquecer.</verso>
       <verso>Confiado, então, nessa proteção,</verso>
       <verso>Sigo a Cristo e quero ser fiel</verso>
-      <verso>Na minha vida cheio de gratidão,</verso>
+      <verso>Na minha vida, cheio de gratidão,</verso>
       <verso>Sim, a meu Senhor e Rei Emanuel.</verso>
     </estrofe>
     <estrofe>
       <verso>Perigo algum me pode causar temor,</verso>
-      <verso>Pois meu Salvador não me abandonará!</verso>
+      <verso>Pois meu Salvador não me abandonará;</verso>
       <verso>Com sua proteção e com seu amor</verso>
-      <verso>Dirigindo a minha vida ele estará.</verso>
+      <verso>Dirigindo minha vida ele estará.</verso>
       <verso>Nunca o deixarei, mas fiel serei,</verso>
       <verso>Sempre firme, cheio de fervor!</verso>
       <verso>Estando bem firmado em Jesus, meu Rei,</verso>
       <verso>Sigo avante, confiando em seu amor.</verso>
     </estrofe>
- </texto>
+  </texto>
   <secao id="03">Edificação</secao>
   <assunto id="12">Proteção</assunto>
-  <titulo_original>Refúgio Verdadeiro</titulo_original>
-  <metrica id="11_11_11_10_9_11_11_Coro">11.11.11.10.9.11.11.Coro</metrica>
-  <origem_letra id="SouzaMA" referencia="Souza, Manuel Avelino de">Manuel Avelino de Souza</origem_letra>
-  <origem_musica id="WhyteJM" referencia="Whyte, John Marchant">John Marchant Whyte</origem_musica>
-  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
-  <referencia_biblica id="54_004_010">1 Timóteo 4.10</referencia_biblica>
+  <origem_letra>M. A. de Souza</origem_letra>
 </hino>
-

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>165</numero>
+  <n>165</n>
+  <titulo>Cuidado Divino</titulo>
+  <texto>
+    <estrofe>
+      <verso>Não desanimes! Deus proverá! Deus velará por ti!</verso>
+      <verso>Com suas asas te cobrirá, Deus velará por ti.</verso>
+      <coro>
+        <verso>Deus cuidará de ti! Na tua dor, com todo amor,</verso>
+        <verso>Jamais te deixará! Deus cuidará de ti!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Se no teu peito vibrar a dor, Deus velará por ti.</verso>
+      <verso>Tu já provaste seu grande amor, Deus velará por ti.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nos desalentos, nas provações, Deus velará por ti.</verso>
+      <verso>Nas desventuras, nas tentações, Deus velará por ti.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Como estiveres, não temas, vem! Deus velará por ti.</verso>
+      <verso>Teu Pai bondoso te espera além. Deus velará por ti.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>C. D. Martin</origem_letra>
+  <origem_letra>C. R. Siqueira</origem_letra>
+</hino>

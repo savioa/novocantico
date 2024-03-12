@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>117</numero>
+  <n>117</n>
+  <titulo>Pastor Divino</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis-nos, ó Pastor divino, todos juntos num lugar</verso>
+      <verso>Como ovelhas congregados, teu auxílio a suplicar.</verso>
+      <verso>És presente, és presente o rebanho a apascentar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Guia os tristes fatigados ao teu bom redil, Senhor.</verso>
+      <verso>Leva os tenros cordeirinhos os teus braços, bom pastor,</verso>
+      <verso>Às pastagens, às pastagens de celeste e doce amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Jesus bondoso, escuta nossa humilde petição!</verso>
+      <verso>Vem encher o teu rebanho de sincera gratidão!</verso>
+      <verso>Cantaremos, cantaremos tua imensa compaixão.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="09">Aspiração</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

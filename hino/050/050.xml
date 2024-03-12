@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>050</numero>
+  <n>50</n>
+  <titulo>Sangue Precioso</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cantarei a Cristo e seu excelso amor;</verso>
+      <verso>Por nós baixou à terra o grande Salvador.</verso>
+      <coro>
+        <verso>O sangue precioso de Cristo tem valor:</verso>
+        <verso>Das penas da justiça liberta o pecador.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Cantarei a Cristo! Por nós morreu na cruz.</verso>
+      <verso>Aos pobres pecadores quem salva é só Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cantarei a Cristo! Por nós cumpriu a lei!</verso>
+      <verso>Seu manto de justiça, alegre, vestirei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cantarei a Cristo! Nas nuvens voltará</verso>
+      <verso>E na celeste glória os seus receberá.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="10">Deus Vencedor</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

@@ -2,45 +2,33 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>274</numero>
-  <titulo>Morto e ressurreto</titulo>
+  <n>274</n>
+  <titulo>Morto e Ressurreto</titulo>
   <texto>
     <estrofe>
-      <verso>Eis morto o Salvador</verso>
-      <verso>Na sepultura,</verso>
-      <verso>Mas com poder real</verso>
-      <verso>Ressuscitou.</verso>
+      <verso>Eis morto o Salvador na sepultura,</verso>
+      <verso>Mas com poder real ressuscitou.</verso>
       <coro>
-        <verso voz="Mulheres">Da sepultura saiu!</verso>
-        <verso voz="Homens">Da sepultura saiu! Sim saiu!</verso>
-        <verso voz="Mulheres">Com triunfo e glória ressurgiu!</verso>
-        <verso voz="Homens">Com triunfo e glória ressurgiu! Ressurgiu!</verso>
+        <verso>Da sepultura saiu,</verso>
+        <verso>Com triunfo e glória ressurgiu!</verso>
         <verso>Ressurgiu, vencendo a morte</verso>
-        <verso>E seu poder!</verso>
+        <verso>E seu poder,</verso>
         <verso>Pode agora a todos vida conceder!</verso>
-        <verso>Ressurgiu! Ressurgiu!</verso>
+        <verso>Ressurgiu, ressurgiu!</verso>
         <verso>Aleluia! Ressurgiu!</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Tomaram precaução</verso>
-      <verso>Com seu sepulcro.</verso>
-      <verso>Foi tudo em vão, porém,</verso>
-      <verso>Para o reter.</verso>
+      <verso>Tomaram precaução com seu sepulcro.</verso>
+      <verso>Foi tudo em vão, porém, para o reter.</verso>
     </estrofe>
     <estrofe>
-      <verso>No grande Vencedor</verso>
-      <verso>Eis as primícias</verso>
-      <verso>Dos santos que também</verso>
-      <verso>Ressurgirão.</verso>
+      <verso>No grande Vencedor eis as primícias</verso>
+      <verso>Dos santos que também ressurgirão.</verso>
     </estrofe>
   </texto>
   <secao id="06">Cristo - Sua Vida</secao>
   <assunto id="06">Ressurreição</assunto>
-  <titulo_original>Christ Arose</titulo_original>
-  <metrica id="6_5_6_4_Irregular">6.5.6.4.Irregular</metrica>
-  <origem_letra id="LowryR" referencia="Lowry, Robert" ano="1874">Robert Lowry</origem_letra>
-  <origem_letra id="PitrowskyR" referencia="Pitrowsky Ricardo">Ricardo Pitrowsky</origem_letra>
-  <origem_musica id="LowryR" referencia="Lowry, Robert" ano="1874">Robert Lowry</origem_musica>
-  <primeiro_verso_original>Low in the grave He lay</primeiro_verso_original>
-  <referencia_biblica id="43_020_009">João 20.9</referencia_biblica>
+  <origem_letra>R. Lowry</origem_letra>
+  <origem_letra>R. Pitrowisky</origem_letra>
 </hino>

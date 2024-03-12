@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>256</numero>
+  <n>256</n>
+  <titulo>Glória Singular</titulo>
+  <texto>
+    <estrofe>
+      <verso>Visão de glória singular</verso>
+      <verso>A igreja pôde contemplar</verso>
+      <verso>Em Cristo, quando ascendeu</verso>
+      <verso>Ao monte e ali resplandeceu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com sua face a reluzir,</verso>
+      <verso>Quis ele a glória do porvir</verso>
+      <verso>Aos escolhidos demonstrar</verso>
+      <verso>Que em luz e paz hão de habitar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>As almas crentes subirão!</verso>
+      <verso>Mistério dado na visão!</verso>
+      <verso>Por isso, alegres, com louvor,</verso>
+      <verso>Cantamos hinos ao Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A Deus o Filho, a Deus o Pai</verso>
+      <verso>E a Deus o Espírito entoai!</verso>
+      <verso>O Deus que a graça nos quis dar</verso>
+      <verso>De sua glória contemplar.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <origem_letra>Latino anônimo</origem_letra>
+  <origem_letra>J. M. Neale</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

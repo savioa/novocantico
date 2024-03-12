@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>094</numero>
+  <n>94</n>
+  <titulo>A Porta da Salvação</titulo>
+  <texto>
+    <estrofe>
+      <verso>É franca a porta divinal, aberta a todo o mundo.</verso>
+      <verso>Por ela o pecador mortal avista amor profundo.</verso>
+      <coro>
+        <verso>Oh! Graça imensa! Pois, assim,</verso>
+        <verso>Jesus convida: Vinde a mim!</verso>
+        <verso>A mim, a mim; convida: vinde a mim!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Entrai! Jesus vos dá perdão, as culpas redimindo.</verso>
+      <verso>Entrai, buscando a salvação, pois seu amor é infindo.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aberta, sim, de par em par! Entrai com grande urgência,</verso>
+      <verso>Pois Deus a todos quer mostrar real munificência.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="06">Salvação</assunto>
+  <origem_letra> (L. Baxter</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

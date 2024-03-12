@@ -7,7 +7,7 @@
   <texto>
     <estrofe>
       <verso>Mais perto quero estar, meu Deus, de ti,</verso>
-      <verso>'Inda que seja a dor que me una a ti!</verso>
+      <verso>‘Inda que seja a dor que me una a ti!</verso>
       <verso>Sempre hei de suplicar: “Mais perto quero estar,</verso>
       <verso>Mais perto quero estar, meu Deus, de ti!”</verso>
     </estrofe>
@@ -15,29 +15,24 @@
       <verso>Mesmo vagando aqui, na solidão,</verso>
       <verso>De noite, a descansar, dormindo ao chão,</verso>
       <verso>Em sonhos vou clamar: “Mais perto quero estar,</verso>
-      <verso>Mais perto quero estar, meu Deus de ti!”</verso>
+      <verso>Mais perto quero estar, meu Deus, de ti!”</verso>
     </estrofe>
     <estrofe>
       <verso>Minha alma cantará a ti, Senhor!</verso>
       <verso>Betel aqui verei por teu favor.</verso>
       <verso>Eu sempre hei de rogar: “Mais perto quero estar,</verso>
-      <verso>Mais perto quero estar, meu Deus de ti!”</verso>
+      <verso>Mais perto quero estar, meu Deus, de ti!”</verso>
     </estrofe>
     <estrofe>
       <verso>E quando a morte, enfim, me vier chamar,</verso>
       <verso>Nos céus, com o Senhor, irei morar!</verso>
-      <verso>Então me alegrarei perto de ti meu Rei!</verso>
-      <verso>Perto de ti, meu Rei, meu Deus, de ti! Amém.</verso>
+      <verso>Então me alegrarei perto de ti, meu Rei!</verso>
+      <verso>Perto de ti, meu Rei, meu Deus, de ti!</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="09">Aspiração</assunto>
-  <titulo_original>Bethany</titulo_original>
-  <metrica id="6_4_6_4_6_6__6__4">6.4.6.4.6.6.[6].4</metrica>
-  <origem_letra id="AdamsSFF" referencia="Adams, Sarah Fuller Flower" ano="1841">Sarah Fuller Flower Adams</origem_letra>
-  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da" ano="1888">João Gomes da Rocha</origem_letra>
-  <origem_musica id="MasonL" referencia="Mason, Lowell" ano="1856">Lowell Mason</origem_musica>
-  <primeiro_verso_original>Nearer, My God, to Thee</primeiro_verso_original>
-  <referencia_biblica id="01_028_013">﻿Gênesis 28.13</referencia_biblica>
+  <origem_letra>S. F. Adams</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
 </hino>
-

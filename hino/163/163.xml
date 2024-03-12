@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>163</numero>
+  <n>163</n>
+  <titulo>Direção Divina</titulo>
+  <texto>
+    <estrofe>
+      <verso>As tuas mãos dirigem meu destino!</verso>
+      <verso>Ó Deus de amor, que seja sempre assim!</verso>
+      <verso>Teus são os meus poderes, minha vida;</verso>
+      <verso>Em tudo, eterno Pai, dispõe de mim.</verso>
+      <verso>Meus dias sejam curtos ou compridos,</verso>
+      <verso>Passados em tristezas ou prazer,</verso>
+      <verso>Em sombra ou luz, de acordo com o teu plano</verso>
+      <verso>É tudo bom se vem do teu querer.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>As tuas mãos dirigem meu destino,</verso>
+      <verso>Por mim cravadas na sangrenta cruz!</verso>
+      <verso>Por meus pecados foram traspassadas,</verso>
+      <verso>Bem posso nelas descansar, Jesus!</verso>
+      <verso>Nos céus erguidas, sempre intercedendo,</verso>
+      <verso>As santas mãos não pedirão em vão;</verso>
+      <verso>Ao seu cuidado, em plena confiança,</verso>
+      <verso>Entrego a minha eterna salvação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>As tuas mãos dirigem meu destino,</verso>
+      <verso>Acasos para mim não haverá!</verso>
+      <verso>O grande Pai vigia o meu caminho</verso>
+      <verso>E sem motivo não me afligirá!</verso>
+      <verso>Encontro em seu poder constante apoio,</verso>
+      <verso>Forte é seu braço, insone o seu amor;</verso>
+      <verso>Por fim, entrando na cidade eterna,</verso>
+      <verso>Eu louvarei meu Guia e Salvador. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

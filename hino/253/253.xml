@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>253</numero>
+  <n>253</n>
+  <titulo>Cristo, a Luz do Mundo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Luz do mundo, Jesus Cristo, dissipaste as ilusões!</verso>
+      <verso>Desvendaste os nossos olhos, libertando os corações!</verso>
+      <verso>Para ver-te, para ver-te, ouve nossas orações!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Neste mundo atribulado, onde opera Satanás,</verso>
+      <verso>Nós pregamos o evangelho, tua graça, amor e paz!</verso>
+      <verso>Luz divina, luz divina, vence toda luz falaz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E onde as trevas do pecado obscurecem teu amor,</verso>
+      <verso>Faze a luz do teu ensino dominar, ó Salvador!</verso>
+      <verso>Manifesta, manifesta tua glória, ó Redentor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Luz dos homens, luz da vida, brilha com poder nos teus!</verso>
+      <verso>Esclarece os incautos, revelando o grande Deus!</verso>
+      <verso>Luz do mundo, luz do mundo, és o resplendor dos céus!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

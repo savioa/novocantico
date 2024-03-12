@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>149</numero>
+  <n>149</n>
+  <titulo>Verdadeira Redenção</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eu confio em meu Jesus e seguro estou!</verso>
+      <verso>Pois, morrendo sobre a cruz, ele me salvou.</verso>
+      <coro>
+        <verso>Cristo me salvou e me transformou!</verso>
+        <verso>Por sua morte sobre a cruz nos deu vida eterna e luz.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Veio, assim, o bom Senhor salvação trazer</verso>
+      <verso>A tão pobre pecador pelo seu poder.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Verdadeira redenção tenho em meu Jesus!</verso>
+      <verso>Plena paz, consolação, vêm da sua cruz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Lá nos céus eu viverei com o Salvador;</verso>
+      <verso>Plenamente fruirei do seu grande amor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>M. G. L. Andrade</origem_letra>
+</hino>

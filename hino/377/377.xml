@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>377</numero>
+  <n>377</n>
+  <titulo>A Nação para Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Uma voz, nos primórdios da História,</verso>
+      <verso>Fez-se ouvir com solene vigor,</verso>
+      <verso>Proclamando a estupenda vitória</verso>
+      <verso>Sobre a morte, o pecado e a dor!</verso>
+      <verso>Foi Jesus, com palavras candentes</verso>
+      <verso>Do seu verbo divino e veraz,</verso>
+      <verso>Ordenando que a todas as gentes</verso>
+      <verso>Se pregasse o evangelho da paz.</verso>
+      <coro>
+        <verso>Eia, crentes, com santa ousadia,</verso>
+        <verso>Com nobreza e real vocação,</verso>
+        <verso>Vamos todos cantar a harmonia</verso>
+        <verso>Do evangelho de amor e perdão,</verso>
+        <verso>Exaltando esse amor tão profundo</verso>
+        <verso>Que dá vida imortal e feliz.</verso>
+        <verso>Para Cristo, a esperança do mundo,</verso>
+        <verso>Conquistemos o nosso país.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Gloriosa missão nos foi dada</verso>
+      <verso>De ganhar para Cristo os incréus!</verso>
+      <verso>Como é nobre esta grande cruzada</verso>
+      <verso>De elevar a nação para os céus!</verso>
+      <verso>Há, no entanto, uma força incontida</verso>
+      <verso>Que preside este afã singular:</verso>
+      <verso>É o amor que votamos à vida</verso>
+      <verso>Dos perdidos que Deus quer salvar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“A Nação para Cristo” — eis o lema,</verso>
+      <verso>O anelo sublime e imortal,</verso>
+      <verso>A divisa bendita e suprema,</verso>
+      <verso>Expressão do mais alto ideal!</verso>
+      <verso>Vamos, pois, incessantes na lida,</verso>
+      <verso>Em socorro dos nossos irmãos,</verso>
+      <verso>Transformar nossa pátria querida</verso>
+      <verso>Num reinado feliz de cristãos!</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="04">Pátria</assunto>
+  <origem_letra>H. A. Camargo</origem_letra>
+</hino>

@@ -2,42 +2,33 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>243</numero>
-  <titulo>Noite de paz</titulo>
+  <n>243</n>
+  <titulo>Noite de Paz</titulo>
   <texto>
     <estrofe>
-      <verso>Noite de Paz! Noite de Amor</verso>
-      <verso>Tudo dorme em derredor</verso>
-      <verso>Entre os astros que espargem a luz</verso>
-      <verso>Proclamando o menino Jesus</verso>
-      <verso>Brilha a estrela da paz</verso>
-      <verso>Brilha a estrela da paz.</verso>
+      <verso>Noite de paz! Noite de amor!</verso>
+      <verso>Tudo dorme em derredor.</verso>
+      <verso>Entre os astros que espargem a luz,</verso>
+      <verso>Proclamando o Menino Jesus,</verso>
+      <verso>Brilha a estrela da paz! (bis)</verso>
     </estrofe>
     <estrofe>
       <verso>Noite de paz! Noite de amor!</verso>
-      <verso>Nas campinas ao pastor</verso>
+      <verso>Nas campinas, ao pastor,</verso>
       <verso>Lindos anjos, mandados por Deus,</verso>
       <verso>Anunciam as novas dos céus:</verso>
-      <verso>Nasce o bom Salvador!</verso>
-      <verso>Nasce o bom Salvador!</verso>
+      <verso>Nasce o bom Salvador! (bis)</verso>
     </estrofe>
     <estrofe>
       <verso>Noite de paz! Noite de amor!</verso>
       <verso>Oh! Que belo resplendor</verso>
-      <verso>Ilumina o Menino Jesus</verso>
-      <verso>No presépio do mundo eis a luz,</verso>
-      <verso>Sol de eterno fulgor!</verso>
-      <verso>Sol de eterno fulgor!</verso>
+      <verso>Ilumina o menino Jesus!</verso>
+      <verso>No presépio do mundo, eis a luz,</verso>
+      <verso>Sol de eterno fulgor! (bis)</verso>
     </estrofe>
   </texto>
   <secao id="06">Cristo - Sua Vida</secao>
   <assunto id="02">Natal</assunto>
-  <titulo_original>Stille Nacht</titulo_original>
-  <metrica id="8_7_9_9_6__6_">8.7.9.9.6.[6]</metrica>
-  <origem_letra id="MohrJ" referencia="Mohr, Joseph" ano="1818">Joseph Mohr</origem_letra>
-  <origem_letra id="ComissaoDoHinarioEvangelico" referencia="Comissão do Hinário Evangélico" ano="1945">Comissão do Hinário Evangélico</origem_letra>
-  <origem_musica id="GruberFX" referencia="Gruber, Franz Xaver" ano="1818">Franz Xaver Gruber</origem_musica>
-  <origem_musica id="ReamAW" referencia="Ream, Albert Willard" ano="1946">Albert Willard Ream</origem_musica>
-  <primeiro_verso_original>Stille Nacht, heilige Nacht</primeiro_verso_original>
-  <referencia_biblica id="42_002_008_011">Lucas 2.8,11</referencia_biblica>
+  <origem_letra>J. Mohr</origem_letra>
+  <origem_letra>Comissão do Hinário Evangélico, 1945</origem_letra>
 </hino>
-

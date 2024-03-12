@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>271</numero>
+  <n>271</n>
+  <titulo>Ressurreição</titulo>
+  <texto>
+    <estrofe>
+      <coro>
+        <verso>Aleluia! Aleluia! Aleluia! Aleluia!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Ó filhos, vinde aqui cantar</verso>
+      <verso>Ao Rei do céu, da terra e mar</verso>
+      <verso>Que, ressurreto, vem reinar.</verso>
+      <verso>Aleluia! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>À tumba foram de manhã</verso>
+      <verso></verso>
+      <verso>Mas Cristo vive — a busca é vã!</verso>
+      <verso>Aleluia! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Um anjo, então, lhes proclamou</verso>
+      <verso>Que Cristo já ressuscitou!</verso>
+      <verso>As suas mágoas confortou.</verso>
+      <verso>Aleluia! Aleluia!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aceita agora, ó Salvador,</verso>
+      <verso>O nosso canto de louvor,</verso>
+      <verso>Que a ti erguemos com amor!</verso>
+      <verso>Aleluia! Aleluia!</verso>
+      <coro>
+        <verso>Aleluia! Aleluia! Aleluia! Aleluia!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="06">Ressurreição</assunto>
+  <origem_letra>J. Tisserand</origem_letra>
+  <origem_letra>J. Neale</origem_letra>
+  <origem_letra>J. W. Faustini</origem_letra>
+</hino>

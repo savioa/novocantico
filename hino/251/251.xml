@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>251</numero>
+  <n>251</n>
+  <titulo>O Pão da Vida</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó Cristo, Pão da Vida, descido lá do céu,</verso>
+      <verso>O Pão de nossas almas que o Pai de amor nos deu!</verso>
+      <verso>Em ti nos alegramos, provando, mesmo aqui,</verso>
+      <verso>Do alento e da bondade que achamos sempre em ti.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Da eterna e santa vida, da qual tu és o Autor,</verso>
+      <verso>Sustento e fortaleza és tu, também, Senhor!</verso>
+      <verso>Sem ti não nos assistem nem forças nem poder;</verso>
+      <verso>De ti, nosso alimento, queremos nós viver.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Cristo, Pão da Vida, a ti louvamos nós!</verso>
+      <verso>E ao Pai também erguemos a nossa alegre voz.</verso>
+      <verso>Agradecemos sempre o amor que aqui nos deu</verso>
+      <verso>Sustento verdadeiro, no santo Pão do céu.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <origem_letra>R. Holden</origem_letra>
+</hino>

@@ -3,33 +3,26 @@
 <hino>
   <numero>017</numero>
   <n>17</n>
-  <titulo>Deus seja louvado</titulo>
+  <titulo>Deus Seja Louvado</titulo>
   <texto>
     <estrofe>
       <verso>Seja louvado o Deus supremo,</verso>
-      <verso>Deus revelado em Israel!</verso>
+      <verso>Deus adorado em Israel!</verso>
       <verso>Onipotente, prodígios obra,</verso>
       <verso>Sempre clemente, sempre fiel.</verso>
       <coro>
         <verso>Seja louvado o Deus supremo,</verso>
-        <verso>Deus revelado em Israel.</verso>
+        <verso>Deus adorado em Israel.</verso>
       </coro>
     </estrofe>
     <estrofe>
       <verso>Louvor perene só Deus merece!</verso>
       <verso>Cantai, não cesse o seu louvor!</verso>
       <verso>De todos seja sempre exaltado,</verso>
-      <verso>E cante a Igreja com terno amor.</verso>
+      <verso>E cante a igreja com terno amor.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="04">Deus Soberano</assunto>
-  <titulo_original>Lenington</titulo_original>
-  <metrica id="10_9_10_9_Coro">10.9.10.9.Coro</metrica>
-  <origem_letra id="CaldasAPS" referencia="Caldas, Antônio Pereira de Sousa">Antônio Pereira de Sousa Caldas</origem_letra>
-  <origem_musica id="Anonimo" referencia="Anônimo">Anônimo</origem_musica>
-  <origem_musica id="ReamAW" referencia="Ream, Albert Willard" ano="1940">Albert Willard Ream</origem_musica>
-  <primeiro_verso_original>Seja louvado o Deus supremo</primeiro_verso_original>
-  <referencia_biblica id="19_071_022">Salmos 71.22</referencia_biblica>
+  <origem_letra>A. P. S. Caldas</origem_letra>
 </hino>
-

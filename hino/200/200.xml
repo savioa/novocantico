@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>200</numero>
+  <n>200</n>
+  <titulo>Palavra Abençoada</titulo>
+  <texto>
+    <estrofe>
+      <verso>Palavra abençoada, convite que contém</verso>
+      <verso>Promessa e cumprimento com infinito bem.</verso>
+      <verso>“Oh! Vinde a mim!” — conclama o Cristo Salvador,</verso>
+      <verso>Seus braços estendendo ao pobre pecador.</verso>
+      <coro>
+        <verso>Vinde, oh! Vinde a mim! (bis)</verso>
+        <verso>Tristes alquebrados, vinde, oh! Vinde a mim!</verso>
+        <verso>Vinde, oh! Vinde a mim! (bis)</verso>
+        <verso>Fracos e cansados, vinde, oh! Vinde a mim!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Por que viver tão longe da graça de Jesus?</verso>
+      <verso>Por que vagar nas trevas, podendo andar na luz?</verso>
+      <verso>Da vida sem proveito, da culpa e perdição,</verso>
+      <verso>Corramos para a senda da eterna salvação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em tudo, agora e sempre, ouçamos ao Senhor;</verso>
+      <verso>Pois há descanso e alívio no seu profundo amor.</verso>
+      <verso>Assim conheceremos a paz que só produz</verso>
+      <verso>No coração submisso o “vinde” de Jesus.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>J. G. Johnson</origem_letra>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

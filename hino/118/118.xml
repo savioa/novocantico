@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>118</numero>
+  <n>118</n>
+  <titulo>Esperando em Deus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Qual suspira a corça inquieta</verso>
+      <verso>Pelas águas a bramir,</verso>
+      <verso>Tua divinal presença</verso>
+      <verso>Quer minha alma, ó Deus, sentir.</verso>
+      <verso>Sede intensa me angustia!</verso>
+      <verso>Quando, ó Deus, virá o dia</verso>
+      <verso>De contínuo me alegrar</verso>
+      <verso>Por teu rosto contemplar?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pranteando, amargamente,</verso>
+      <verso>Vou vivendo os dias meus,</verso>
+      <verso>Pois os ímpios me atormentam</verso>
+      <verso>Perguntando por meu Deus.</verso>
+      <verso>Choro então os velhos dias,</verso>
+      <verso>Quando, em santas alegrias,</verso>
+      <verso>Proclamava o teu louvor</verso>
+      <verso>Junto a ti, ó meu Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em rajadas tormentosas</verso>
+      <verso>Teu juízo me alcançou</verso>
+      <verso>E minha alma, bem ferida,</verso>
+      <verso>Penitente se humilhou.</verso>
+      <verso>Tu, então, meus pés guiando,</verso>
+      <verso>Com ternura me amparando,</verso>
+      <verso>Alto abrigo me vens dar</verso>
+      <verso>E na Rocha me firmar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Por que tremes, ó minha alma,</verso>
+      <verso>E te abates dentro em mim?</verso>
+      <verso>Para longe os teus receios!</verso>
+      <verso>Deus ao teu penar põe fim!</verso>
+      <verso>Ele as ondas más quebranta,</verso>
+      <verso>Nos seus braços te levanta.</verso>
+      <verso>Ó minha alma, sem temor,</verso>
+      <verso>Canta a Deus o teu louvor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="09">Aspiração</assunto>
+  <origem_letra>Paráfrase do Sl 42</origem_letra>
+  <origem_letra>M. S. Porto Filho</origem_letra>
+</hino>

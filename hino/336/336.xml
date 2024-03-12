@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>336</numero>
+  <n>336</n>
+  <titulo>Transformação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eu, perdido pecador, longe do meu Jesus</verso>
+      <verso>Me encontrava, sem vigor, a perecer sem luz.</verso>
+      <verso>Meu estado Cristo viu, dando-me sua mão,</verso>
+      <verso>E salvar-me conseguiu da perdição.</verso>
+      <coro>
+        <verso>Cristo me amou e me livrou!</verso>
+        <verso>O seu imenso amor me transformou!</verso>
+        <verso>Foi seu poder, o seu querer!</verso>
+        <verso>Sim, Cristo, o Salvador, me transformou!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Minha vida, todo o ser, quero lhe consagrar!</verso>
+      <verso>Ao seu lado vou viver, o seu amor cantar.</verso>
+      <verso>A mensagem transmitir aos que perdidos são!</verso>
+      <verso>Venham todos já fruir a salvação!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="09">Convertidos</assunto>
+  <origem_letra>J. Rowe</origem_letra>
+  <origem_letra>S. L Ginsburg</origem_letra>
+</hino>

@@ -3,7 +3,7 @@
 <hino>
   <numero>131</numero>
   <n>131</n>
-  <titulo>Vida santificada</titulo>
+  <titulo>Vida Santificada</titulo>
   <texto>
     <estrofe>
       <verso>Para seres santo, tempo hás de tomar,</verso>
@@ -13,7 +13,7 @@
     </estrofe>
     <estrofe>
       <verso>Para seres puro, tempo hás de encontrar,</verso>
-      <verso>A sós com teu Mestre mui freqüente estar.</verso>
+      <verso>A sós com teu Mestre mui frequente estar;</verso>
       <verso>Teu olhar bem fito nele sempre ter,</verso>
       <verso>Teus atos provando seu grande poder.</verso>
     </estrofe>
@@ -24,19 +24,14 @@
       <verso>Ao seu bom conselho com fé recorrer.</verso>
     </estrofe>
     <estrofe>
-      <verso>Para seres útil, tempo hás de guardar!</verso>
-      <verso>Ser calmo e paciente, em todo lugar;</verso>
+      <verso>Para seres útil, tempo hás de guardar;</verso>
+      <verso>Ser calmo e paciente em todo lugar;</verso>
       <verso>Ter a sua graça e mostrar amor,</verso>
-      <verso>Contente e submisso aos pés do Senhor,</verso>
+      <verso>Contente e submisso aos pés do Senhor.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="11">Santificação</assunto>
-  <titulo_original>Holiness</titulo_original>
-  <metrica id="6_5_6_5_D">6.5.6.5.D</metrica>
-  <origem_letra id="LongstaffWD" referencia="Longstaff, William Dunn">William Dunn Longstaff</origem_letra>
-  <origem_letra id="GinsburgSL" referencia="Ginsburg, Salomão Luiz" ano="1910">Salomão Luiz Ginsburg</origem_letra>
-  <origem_musica id="StebbinsGC" referencia="Stebbins, George Coles" ano="1890">George Coles Stebbins</origem_musica>
-  <primeiro_verso_original>Take time to be holy</primeiro_verso_original>
-  <referencia_biblica id="03_020_007">Levítico 20.7</referencia_biblica>
+  <origem_letra>W. D. Longstaff</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
 </hino>

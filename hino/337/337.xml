@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>337</numero>
+  <n>337</n>
+  <titulo>Profissão de Fé</titulo>
+  <texto>
+    <estrofe>
+      <verso>O céu festeja a conversão de mais um pecador!</verso>
+      <verso>Exulta a Igreja de prazer; é dia de esplendor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sustenta, ó Deus, o pecador que o mundo quis deixar!</verso>
+      <verso>Acolhe o nosso novo irmão que a fé vem professar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Confirma em teu poder, Senhor, a santa profissão</verso>
+      <verso>E a cerimônia a relembrar o sangue da aspersão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Consolador divino, vem as almas converter!</verso>
+      <verso>Vem muitas almas batizar, exerce o teu poder!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="10">Profissão de Fé</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+</hino>

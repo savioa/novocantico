@@ -3,46 +3,40 @@
 <hino>
   <numero>171</numero>
   <n>171</n>
-  <titulo>Deus proverá</titulo>
+  <titulo>Deus Proverá</titulo>
   <texto>
     <estrofe>
       <verso>Na forte aflição, perigo e dor,</verso>
       <verso>Na vil traição, no horrendo terror,</verso>
       <verso>Com toda a certeza vitória virá!</verso>
-      <verso>É firme a esperança: “Meu Deus proverá.”</verso>
+      <verso>É firme a esperança: “Meu Deus proverá”.</verso>
     </estrofe>
     <estrofe>
       <verso>Em tudo o Senhor nos pode valer,</verso>
       <verso>Do mal, com amor, nos quer defender!</verso>
-      <verso>Com Cristo bem perto, em nós se achará</verso>
-      <verso>A viva esperança: “Meu Deus proverá.”</verso>
+      <verso>Com Cristo bem perto em nós se achará</verso>
+      <verso>A viva esperança: “Meu Deus proverá”.</verso>
     </estrofe>
     <estrofe>
       <verso>Se vem Satanás nos amedrontar</verso>
-      <verso>E, astuto quiser a fé nos roubar</verso>
+      <verso>E, astuto, quiser a fé nos roubar,</verso>
       <verso>Não pode; é nossa e sempre será</verso>
-      <verso>A rica esperança: “Meu Deus proverá.”</verso>
+      <verso>A rica esperança: “Meu Deus proverá”.</verso>
     </estrofe>
     <estrofe>
       <verso>No rude labor, no esforço tenaz,</verso>
       <verso>Somente o Senhor vitória nos traz!</verso>
-      <verso>Em sua bondade nos socorrerá,</verso>
-      <verso>Conforme a esperança: “Meu Deus proverá.”</verso>
+      <verso>Em sua bondade nos socorrerá</verso>
+      <verso>Conforme a esperança: “Meu Deus proverá”.</verso>
     </estrofe>
     <estrofe>
       <verso>Na hora final, a morte a chegar,</verso>
       <verso>A voz divinal nos há de alegrar!</verso>
       <verso>Minha alma, segura, então cantará</verso>
-      <verso>A doce esperança: “Meu Deus proverá.”</verso>
+      <verso>A doce esperança: “Meu Deus proverá”.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="13">Confiança</assunto>
-  <titulo_original>Old German</titulo_original>
-  <metrica id="10_10_11_11">10.10.11.11</metrica>
-  <origem_letra id="NelsonJH" referencia="Nelson, Justus Henry" ano="1891">Justus Henry Nelson</origem_letra>
-  <origem_musica id="SacredMelodyColecao" referencia="“Sacred Melody” (Coleção)" ano="1761">“Sacred Melody” (Coleção)</origem_musica>
-  <primeiro_verso_original>Na forte aflição, perigo e dor</primeiro_verso_original>
-  <referencia_biblica id="50_004_013">Filipenses 4.13</referencia_biblica>
+  <origem_letra>J. H. Nelson</origem_letra>
 </hino>
-

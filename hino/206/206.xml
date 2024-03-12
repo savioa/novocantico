@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>206</numero>
+  <n>206</n>
+  <titulo>Convite de Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Triste estás, cansado, aflito,</verso>
+      <verso>Sem vigor, sem luz?</verso>
+      <verso>“Vem a mim!” Eis o convite de Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Quais as marcas que me apontam</verso>
+      <verso>Seu real perdão?”</verso>
+      <verso>Nos seus pés, nas mãos, no lado se acharão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Traz coroa de monarca?</verso>
+      <verso>Vestes de esplendor?”</verso>
+      <verso>Tem coroa, sim, de espinhos, sangue e dor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Quando o vir e então segui-lo,</verso>
+      <verso>Recompensará?”</verso>
+      <verso>Lutas, prantos e trabalhos te dará.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Se lhe peço que me aceite,</verso>
+      <verso>Pode recusar?”</verso>
+      <verso>Não! Jamais a infinda graça vai falhar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Se constante o obedeço,</verso>
+      <verso>Galardão terei?”</verso>
+      <verso>Sim, terás, e boas-vindas do teu Rei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Se confio na Palavra,</verso>
+      <verso>Salvará, por fim?”</verso>
+      <verso>Anjos, santos e o universo bradam: “Sim”.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>E. do Mar Saba</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>257</numero>
+  <n>257</n>
+  <titulo>Hosana ao Grande Rei</titulo>
+  <texto>
+    <estrofe>
+      <verso>Hosana! Hosana! Hosana!</verso>
+      <verso>Hosana ao Filho de Davi! Hosana ao grande Rei,</verso>
+      <verso>Ao Salvador, o Bom Pastor que resgatou sua grei!</verso>
+      <verso>Dos altos céus, de Deus o Pai, do trono celestial</verso>
+      <verso>Desceu Jesus, trazendo luz, a vida eternal.</verso>
+      <verso>Hosana ao Filho de Davi! Hosana nas alturas!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Hosana! Hosana! Hosana!</verso>
+      <verso>Hosana ao Filho de Davi! Hosana ao Redentor!</verso>
+      <verso>Com gratidão, meu coração entoa o seu louvor.</verso>
+      <verso>Messias, Príncipe da Paz, invicto General,</verso>
+      <verso>Meu Deus, meu Rei, serei aqui um servo teu, leal.</verso>
+      <verso>Hosana ao Filho de Davi! Hosana nas alturas!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="04">Entrada Triunfal</assunto>
+  <origem_letra>A. J. Milan</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>259</numero>
+  <n>259</n>
+  <titulo>Hosana e Glória</titulo>
+  <texto>
+    <estrofe>
+      <verso>A ti, hosana e glória, ó Cristo Salvador,</verso>
+      <verso>Cantavam as crianças com vozes de louvor.</verso>
+      <verso>O povo hebreu saudou-te com palmas e com flor,</verso>
+      <verso>E nós cantamos hinos a ti, Rei Vencedor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tu és o Rei eterno, tu és o Emanuel,</verso>
+      <verso>Que vens no santo Nome de nosso Deus fiel.</verso>
+      <verso>Com “vivas” te acolheram, às portas da paixão,</verso>
+      <verso>E nós cantamos hoje louvor e gratidão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Assim como aceitaste do povo a saudação,</verso>
+      <verso>Aceita o nosso canto de grata exaltação.</verso>
+      <verso>A ti, hosana e glória, ó Cristo Salvador,</verso>
+      <verso>Cantavam as crianças com vozes de louvor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="04">Entrada Triunfal</assunto>
+  <origem_letra>T. de Orleans</origem_letra>
+  <origem_letra>J. M. Neale</origem_letra>
+  <origem_letra>J. W. Faustini</origem_letra>
+</hino>

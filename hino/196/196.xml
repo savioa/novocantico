@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>196</numero>
+  <n>196</n>
+  <titulo>Gozo, Esplendores, Venturas</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Quanto gozo, esplendores, venturas,</verso>
+      <verso>Hão de fruir as fiéis criaturas!</verso>
+      <verso>Paz e descanso terão os cansados,</verso>
+      <verso>Pelo Senhor serão galardoados!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jerusalém, oh! Celeste cidade,</verso>
+      <verso>Pátria gloriosa de felicidade;</verso>
+      <verso>Lar ideal, sem pecado, sem jaça,</verso>
+      <verso>Sob o império inefável da Graça!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na mais completa e feliz harmonia,</verso>
+      <verso>Regozijando em perene alegria,</verso>
+      <verso>Nós cantaremos eternos louvores,</verso>
+      <verso>Com gratidão ao Senhor dos senhores.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De glória eterna, Senhor, te cobriste!</verso>
+      <verso>Em ti, de ti e por ti tudo existe!</verso>
+      <verso>Nós te adoramos na voz deste canto,</verso>
+      <verso>Deus Pai, Deus Filho e Espírito Santo.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="17">Lar Celestial</assunto>
+  <origem_letra>P. Abelardo</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

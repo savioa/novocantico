@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>101</numero>
+  <n>101</n>
+  <titulo>A Voz da Salvação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ouvi a doce voz de Cristo, o Redentor,</verso>
+      <verso>Chamar-me para a salvação que vem do seu amor.</verso>
+      <coro>
+        <verso>Fui ao meu Senhor que me convidou;</verso>
+        <verso>Bem nenhum havia em mim,</verso>
+        <verso>Mas ele me salvou.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Nas trevas eu vivi, indigno e sem valor;</verso>
+      <verso>Porém, agora, em teu poder, eu ando, ó Salvador!</verso>
+      <verso>3 A Deus eu louvarei por essa redenção,</verso>
+      <verso>Pois tendo Cristo, o Redentor, eu tenho a salvação.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="07">Testemunho</assunto>
+  <origem_letra>L. Hartsough</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

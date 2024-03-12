@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>181</numero>
+  <n>181</n>
+  <titulo>Irmãos em Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Bem-vindos, irmãos em Jesus, a nós, bem unidos na paz</verso>
+      <verso>Que Cristo nos dá pela cruz com graça divina, eficaz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Saudamos com santo prazer aos crentes em nosso Senhor</verso>
+      <verso>Pois juntos queremos viver honrando o fiel Benfeitor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De quanta ternura e amor podemos aqui partilhar</verso>
+      <verso>E, em Cristo, no riso ou na dor, real comunhão desfrutar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Unidos vivemos aqui; unidos seremos nos céus,</verso>
+      <verso>Alegres, cantando ali a grande clemência de Deus.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="15">Fraternidade</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

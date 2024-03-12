@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>255</numero>
+  <n>255</n>
+  <titulo>A Ovelha Perdida</titulo>
+  <texto>
+    <estrofe>
+      <verso>Noventa e nove ovelhas vão seguras ao curral.</verso>
+      <verso>Mas uma se extraviou do aprisco pastoral,</verso>
+      <verso>Vagando em montes de terror,</verso>
+      <verso>Distante do fiel Pastor. (bis)</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Noventa e nove a ti, Pastor, não podem contentar?”</verso>
+      <verso>“A errante é minha”, respondeu, “Zeloso a irei buscar!</verso>
+      <verso>Nos montes há perigos mil,</verso>
+      <verso></verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ninguém jamais imaginou o quanto padeceu;</verso>
+      <verso>Buscando a ovelha tão rebel, terrível dor sofreu.</verso>
+      <verso>Foi, pois, assim que o Bom Pastor</verso>
+      <verso>Salvou a ovelha por amor. (bis)</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem da montanha exultação: é a voz do Bom Pastor!</verso>
+      <verso>Ressoa em notas triunfais o Salmo Vencedor</verso>
+      <verso>E os anjos cantam lá nos céus: </verso>
+      <verso>“Voltou a ovelha para Deus”. (bis)</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="03">Ministério</assunto>
+  <origem_letra>E. C. Clephane</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

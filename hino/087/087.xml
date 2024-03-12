@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>087</numero>
+  <n>87</n>
+  <titulo>Alegria Perene</titulo>
+  <texto>
+    <estrofe>
+      <verso>Desperta e canta ao grande Deus,</verso>
+      <verso>Sim, ó minha alma, com fervor,</verso>
+      <verso>Pois muitos e preciosos bens</verso>
+      <verso>A ti tem dado com amor.</verso>
+      <coro>
+        <verso>Oh! Que grande amor! Oh! Divino amor</verso>
+        <verso>De Cristo pelo pecador!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Perdido, Cristo me encontrou</verso>
+      <verso>E dispensou-me compaixão;</verso>
+      <verso>Por seu tão grande amor de pai,</verso>
+      <verso>Tirou-me desta condição.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eu sei que é vil meu coração;</verso>
+      <verso>Propende sempre para o mal.</verso>
+      <verso>Mas ele em paz me guardará</verso>
+      <verso>Com seu amor que é perenal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="04">Amor de Deus</assunto>
+  <origem_letra>S. Medley</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
+</hino>

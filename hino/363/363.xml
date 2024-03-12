@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>363</numero>
+  <n>363</n>
+  <titulo>Venham as Crianças</titulo>
+  <texto>
+    <estrofe>
+      <verso>Venham, venham as crianças</verso>
+      <verso>Ao bendito Salvador,</verso>
+      <verso>Que na cruz, ao resgatá-las,</verso>
+      <verso>Revelou-lhes seu favor.</verso>
+      <verso>Cristo agora, Cristo sempre</verso>
+      <verso>Nos concede seu amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Venham, venham as crianças,</verso>
+      <verso>Pois Jesus as convidou!</verso>
+      <verso>Foi também por seus pecados</verso>
+      <verso>Que na amarga cruz penou.</verso>
+      <verso>Cristo agora, Cristo sempre</verso>
+      <verso>Com ternura nos amou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Venham, venham as crianças</verso>
+      <verso>Ao Senhor Jesus servir!</verso>
+      <verso>Receber os seus conselhos,</verso>
+      <verso>Sua santa lei ouvir.</verso>
+      <verso>Cristo agora, Cristo sempre</verso>
+      <verso>Quer na luz nos conduzir.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>138</numero>
+  <n>138</n>
+  <titulo>Refúgio</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó bondoso Salvador, sê tu meu amparador!</verso>
+      <verso>Negras ondas de aflição, fortes ventos perto estão.</verso>
+      <verso>Deste espanto e de terror vem salvar-me, ó bom Senhor,</verso>
+      <verso>E no porto faze entrar minha barca sem quebrar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Consternado nesta dor, sem refúgio, sem vigor,</verso>
+      <verso>Meu medroso coração vem rogar-te proteção.</verso>
+      <verso>Mostra o teu imenso amor, ó benigno Salvador!</verso>
+      <verso>Poderosa e clara luz, não me deixes, ó Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Compassivo Redentor, vale a um triste pecador!</verso>
+      <verso>Vida e gozo tu me dás, graça infinda, eterna paz.</verso>
+      <verso>Enche o débil coração com os dons da salvação</verso>
+      <verso>E, seguro, sem temor, gozarei do teu favor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>C. Wesley</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

@@ -3,7 +3,7 @@
 <hino>
   <numero>068</numero>
   <n>68</n>
-  <titulo>Necessidade</titulo>
+  <titulo>Dependência de Deus</titulo>
   <texto>
     <estrofe>
       <verso>Eu creio, Senhor, na divina promessa,</verso>
@@ -20,7 +20,7 @@
     <estrofe>
       <verso>Bem sei que nas preces eu posso buscar-te,</verso>
       <verso>Jamais dessa bênção na vida eu descri;</verso>
-      <verso>Contudo, é possível que eu dela me afaste;</verso>
+      <verso>Contudo, é possível que dela me afaste;</verso>
       <verso>Por isso, Senhor, eu preciso de ti.</verso>
     </estrofe>
     <estrofe>
@@ -32,11 +32,5 @@
   </texto>
   <secao id="02">Confissão</secao>
   <assunto id="01">Contrição e Arrependimento</assunto>
-  <titulo_original>Telford</titulo_original>
-  <metrica id="12_11_12_11">12.11.12.11</metrica>
-  <origem_letra id="GoncalvesAC" referencia="Gonçalves, Antonio de Campos" ano="1952">Antonio de Campos Gonçalves</origem_letra>
-  <origem_musica id="BragaHRF" referencia="Braga, Henriqueta Rosa Fernandes" ano="1952">Henriqueta Rosa Fernandes Braga</origem_musica>
-  <primeiro_verso_original>Eu creio, Senhor, na divina promessa</primeiro_verso_original>
-  <referencia_biblica id="19_034_010">Salmos 34.10</referencia_biblica>
+  <origem_letra>A. C. Gonçalves</origem_letra>
 </hino>
-

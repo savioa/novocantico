@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>224</numero>
+  <n>224</n>
+  <titulo>Consagração</titulo>
+  <texto>
+    <estrofe>
+      <verso>A ti seja consagrada minha vida, ó meu Senhor!</verso>
+      <verso>Meus momentos e meus dias sejam só em teu louvor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sempre minhas mãos se movam com presteza e com amor;</verso>
+      <verso>E meus pés velozes corram ao serviço do Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minha voz, Jesus, aceita, para o teu louvor cantar!</verso>
+      <verso>Faze que meus lábios possam a mensagem proclamar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os meus bens quero ofertar-te, nada quero te esconder;</verso>
+      <verso>Minha inteligência guia sob a luz do teu saber.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A vontade minha toma, sujeitando-a a ti, Senhor!</verso>
+      <verso>Do meu coração fazendo o teu trono, ó Salvador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Meu anelo, meu desejo, sejam só teu nome honrar!</verso>
+      <verso>Que meu ser completo eu possa, ó Jesus, te consagrar!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="05">Consagração</secao>
+  <assunto id="02">Dedicação</assunto>
+  <origem_letra>F. R. Havergal</origem_letra>
+  <origem_letra>L. F. G. da Silva</origem_letra>
+</hino>

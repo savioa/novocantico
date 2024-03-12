@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>160</numero>
+  <n>160</n>
+  <titulo>Cristo é Tudo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Nome algum, no céu, na terra, se compara ao de Jesus!</verso>
+      <verso>Ele sobre tudo reina, ele é minha eterna luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minhas dores ele sofre, sara o enfermo coração.</verso>
+      <verso>Seu amor me dá alívio na tristeza e na aflição.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>É Jesus o meu tesouro, nele encontro todo o bem.</verso>
+      <verso>Valem mais que o mundo inteiro as riquezas que ele tem.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>É Jesus meu alimento, o meu Pão celestial.</verso>
+      <verso>Do mais vero e santo gozo ele é meu manancial.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Infinita é sua graça, impossível de sondar!</verso>
+      <verso>Com os santos e anjos quero a Jesus louvores dar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>J. Law</origem_letra>
+</hino>

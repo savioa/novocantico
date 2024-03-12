@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>110-A</numero>
+  <n>110-A</n>
+  <titulo>Crer e Observar</titulo>
+  <texto>
+    <estrofe>
+      <verso>Em Jesus confiar, sua lei observar,</verso>
+      <verso>Oh! Que gozo, que bênção, que paz!</verso>
+      <verso>Satisfeito guardar tudo quanto ordenar,</verso>
+      <verso>Alegria perene nos traz.</verso>
+      <coro>
+        <verso>Crer e observar tudo quanto ordenar!</verso>
+        <verso>O fiel obedece ao que Cristo mandar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>O inimigo falaz, a calúnia mordaz</verso>
+      <verso>Cristo sabe desprestigiar;</verso>
+      <verso>Nem tristeza, nem dor, nem intriga, a maior,</verso>
+      <verso>Pode o crente fiel abalar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Grande prova de amor, comunhão no Senhor</verso>
+      <verso>Tem o crente zeloso e leal!</verso>
+      <verso>O seu rosto mirar, seus segredos privar,</verso>
+      <verso>É consolo que não tem igual.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Resolutos, Senhor, e com zelo e fervor,</verso>
+      <verso>Os teus passos queremos seguir!</verso>
+      <verso>Teus preceitos guardar, o teu nome exaltar,</verso>
+      <verso>Sempre a tua vontade cumprir.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+  <origem_letra>J. H. Sammis</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
+</hino>

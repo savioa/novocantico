@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>100</numero>
+  <n>100</n>
+  <titulo>Louvores a Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó minha alma, sem demora, </verso>
+      <verso>Vem a Cristo celebrar</verso>
+      <verso>E os louvores do seu Nome</verso>
+      <verso>Exultante publicar.</verso>
+      <verso>Vem, minha alma! Vem, minha alma</verso>
+      <verso>Sua graça proclamar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minha condição tão triste</verso>
+      <verso>Conheceu o Salvador,</verso>
+      <verso>Que do céu desceu à terra</verso>
+      <verso>Para ser meu Redentor!</verso>
+      <verso>Oh! Sublime! Oh! Sublime</verso>
+      <verso>É seu grande e santo amor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Meus pecados carregando</verso>
+      <verso>No madeiro, em meu lugar,</verso>
+      <verso>Foi Jesus crucificado</verso>
+      <verso>E me pôde, assim, salvar.</verso>
+      <verso>Para sempre, para sempre</verso>
+      <verso>Seus louvores vou cantar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="07">Testemunho</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

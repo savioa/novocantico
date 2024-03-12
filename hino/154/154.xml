@@ -2,11 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>154</numero>
-  <titulo>Segurança e paz</titulo>
+  <n>154</n>
+  <titulo>Segurança e Paz</titulo>
   <texto>
     <estrofe>
       <verso>Pelo vale escuro seguirei, Jesus,</verso>
-      <verso>Mas, por ti seguro, vendo a tua luz,</verso>
+      <verso>Mas, por ti seguro, vendo a tua luz.</verso>
       <verso>O meu passo incerto tu dirigirás;</verso>
       <verso>Ao sentir-te perto nunca perco a paz!</verso>
     </estrofe>
@@ -26,15 +27,11 @@
       <verso>Breve a noite desce, noite de Emaús,</verso>
       <verso>E meu ser carece de te ver, Jesus!</verso>
       <verso>Companheiro amigo que ao meu lado vens,</verso>
-      <verso>Sim, estás comigo, sempre me susténs. Amém.</verso>
+      <verso>Sim, estás comigo, sempre me susténs.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="12">Proteção</assunto>
-  <titulo_original>Stern, auf den ich schaue</titulo_original>
-  <metrica id="6_5_6_5_D">6.5.6.5.D</metrica>
-  <origem_letra id="MotaO" referencia="Mota, Otoniel">Otoniel Mota</origem_letra>
-  <origem_musica id="KochM" referencia="Koch, Minna" ano="1897">Minna Koch</origem_musica>
-  <primeiro_verso_original>Pelo vale escuro seguirei, Jesus</primeiro_verso_original>
-  <referencia_biblica id="20_020_024">Provérbios 20.24</referencia_biblica>
+  <origem_letra>O. Mota</origem_letra>
 </hino>

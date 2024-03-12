@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>137</numero>
+  <n>137</n>
+  <titulo>Abrigo no Temporal</titulo>
+  <texto>
+    <estrofe>
+      <verso>Rochedo forte é o Senhor, refúgio na tribulação!</verso>
+      <verso>Constante e firme amparador, refúgio na tribulação!</verso>
+      <coro>
+        <verso>Oh! Cristo é nosso abrigo no temporal,</verso>
+        <verso>Na tentação, em todo mal!</verso>
+        <verso>Sim, Cristo é nosso abrigo no temporal,</verso>
+        <verso>Refúgio na tribulação!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>É como sombra no calor, descanso na tribulação!</verso>
+      <verso>Refaz as forças, dá vigor: descanso na tribulação!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Piloto bom no bravo mar, firmeza na tribulação!</verso>
+      <verso>Ancoradouro singular, firmeza na tribulação!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Leal Amigo e Benfeitor, auxílio na tribulação!</verso>
+      <verso>Fiel e eterno Salvador, auxílio na tribulação!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>V. J. C. Worth</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

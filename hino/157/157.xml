@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>157</numero>
+  <n>157</n>
+  <titulo>Segurança em Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Por meu delitos expirou Jesus, a vida e luz!</verso>
+      <verso>Do meu pecado me livrou na ensanguentada cruz.</verso>
+      <coro>
+        <verso>Faze-me forte em confessar a ti, Jesus, Senhor!</verso>
+        <verso>Faze-me pronto a confiar no teu eterno amor.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Jamais terei tão fraca voz que trema ao confessar</verso>
+      <verso>A quem, por morte tão atroz, minha alma quis salvar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, eu desejo aqui cantar tão grande Salvador</verso>
+      <verso>E quando lá no céu chegar louvá-lo-ei melhor. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>I. Watts</origem_letra>
+  <origem_letra>J. J. Ransom</origem_letra>
+</hino>

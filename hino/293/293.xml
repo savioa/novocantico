@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>293</numero>
+  <n>293</n>
+  <titulo>O Dia Glorioso</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vinde, ó cristãos, regozijai-vos, o Senhor não tardará!</verso>
+      <verso>Já vem o glorioso dia em que Cristo voltará!</verso>
+      <coro>
+        <verso>Oh! Dia triunfal de Cristo quando lá do céu descer!</verso>
+        <verso>Todos juntos, jubilosos, vamos o Senhor a receber!</verso>
+        <verso>Vinde, ó cristãos, regozijai-vos! O Senhor não tardará!</verso>
+        <verso>Já vem o glorioso dia em que Cristo voltará!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Com multidão inumerável sobre as nuvens ele vem</verso>
+      <verso>E todos juntos entraremos com Jesus na glória além!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Então será glorificado nos remidos, o Senhor;</verso>
+      <verso>E o mundo inteiro admirará seu poder e seu amor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <origem_letra>Ira D. Sankey</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

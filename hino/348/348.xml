@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>348</numero>
+  <n>348</n>
+  <titulo>É este o Dia</titulo>
+  <texto>
+    <estrofe>
+      <verso>É este o dia que o bom Deus criou com sua mão!</verso>
+      <verso>A terra inteira, os altos céus, louvor alegres dão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Foi neste dia que o Senhor da tumba ressurgiu!</verso>
+      <verso>De Satanás, o atroz furor, com força repeliu!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vinde, louvai ao Rei-Senhor, ao Filho de Davi!</verso>
+      <verso>Vem ajudar-nos, Salvador, e habita em nós aqui.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Glória, louvor e adoração a Cristo vimos dar!</verso>
+      <verso>Os altos céus se alegrarão, louvando-o sem cessar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="12">Dia do Senhor</assunto>
+  <origem_letra>I. Watts</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

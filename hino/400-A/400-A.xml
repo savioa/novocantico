@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>400-A</numero>
+  <n>400-A</n>
+  <titulo>Ofertório</titulo>
+  <texto>
+    <estrofe>
+      <verso>Tudo vem de ti, Senhor,</verso>
+      <verso>E do que é teu te damos.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="09">Outros</secao>
+  <assunto id="01">Ofertório e Améns</assunto>
+</hino>

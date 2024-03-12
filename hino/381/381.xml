@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>381</numero>
+  <n>381</n>
+  <titulo>Intercessão pela Cidade</titulo>
+  <texto>
+    <estrofe>
+      <verso>A cidade, ó Deus, protege, cada rua, cada lar,</verso>
+      <verso>Seus cansados transeuntes, todo o humano labutar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Guarda a todos os governantes e aos que fazem nossa lei;</verso>
+      <verso>E que graças toda gente renda a ti, supremo Rei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Abençoa a nossa indústria e os que lutam pelo pão.</verso>
+      <verso>E que nós, Senhor, cantemos: “Tudo vem de tua mão!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Abençoa aos que trabalham, ao fiel batalhador!</verso>
+      <verso>Eficientes, produtivos, faze-os sempre, bom Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Abençoa nossa Igreja, nossos dias, nosso lar;</verso>
+      <verso>E que assim, por toda a vida, nós possamos te louvar!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="08">Assuntos Diversos</secao>
+  <assunto id="05">Cidade</assunto>
+  <origem_letra>J. W. Faustini</origem_letra>
+</hino>

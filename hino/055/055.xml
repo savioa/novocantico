@@ -7,8 +7,8 @@
   <texto>
     <estrofe>
       <verso>Cantai alegremente, cantai a Deus louvor;</verso>
-      <verso>Trazei a ele um canto de exultação e amor</verso>
-      <verso>É Deus quem faz a terra seus frutos produzir,</verso>
+      <verso>Trazei a ele um canto de exultação e amor.</verso>
+      <verso>É Deus quem faz a terra seus frutos produzir</verso>
       <verso>E as estações do ano em ordem prosseguir.</verso>
     </estrofe>
     <estrofe>
@@ -18,21 +18,14 @@
       <verso>Fartura concedendo com dadivosa mão.</verso>
     </estrofe>
     <estrofe>
-      <verso>Trazei aos seus altares dos frutos que ele deu,</verso>
-      <verso>E as almas da colheita por quem, Jesus morreu.</verso>
+      <verso>Trazei aos seus altares dos frutos que ele deu</verso>
+      <verso>E as almas da colheita por quem Jesus morreu.</verso>
       <verso>Prostrai-vos diante dele, humildes, com louvor,</verso>
-      <verso>E assim, em vossas vidas, dai graças ao Senhor!</verso>
+      <verso>E assim, em vossa vida, dai graças ao Senhor!</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="11">Gratidão</assunto>
-  <titulo_original>Wie lieblich ist der Maien</titulo_original>
-  <metrica id="7_6_7_6_D">7.6.7.6.D</metrica>
-  <origem_letra id="MonsellJSB" referencia="Monsell, John Samuel Bewley">John Samuel Bewley Monsell</origem_letra>
-  <origem_letra id="FaustiniJW" referencia="Faustini, João Wilson" ano="1963">João Wilson Faustini</origem_letra>
-  <origem_musica id="MelodiaNurnberg" referencia="Melodia de “Nürnberg”" ano="1581">Melodia de “Nürnberg”</origem_musica>
-  <origem_musica id="FaustiniJW" referencia="Faustini, João Wilson" ano="1967">João Wilson Faustini</origem_musica>
-  <primeiro_verso_original>Sing to the Lord of harvest</primeiro_verso_original>
-  <referencia_biblica id="19_065_011_012">Salmos 65.11,12</referencia_biblica>
+  <origem_letra>J. S. B. Monsell</origem_letra>
+  <origem_letra>J. W. Faustini</origem_letra>
 </hino>
-

@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>177</numero>
+  <n>177</n>
   <titulo>Firme nas Promessas</titulo>
   <texto>
     <estrofe>
@@ -9,17 +10,12 @@
       <verso>Cantarei louvores ao meu Criador!</verso>
       <verso>Fico, pelos séculos do seu amor,</verso>
       <verso>Firme nas promessas de Jesus!</verso>
-      <coro voz="Soprano">
+      <coro>
         <verso>Firme, firme,</verso>
-        <verso>Firme nas promessas de Jesus, meu Mestre!</verso>
+        <verso>Firme nas promessas</verso>
+        <verso>De Jesus, meu Mestre!</verso>
         <verso>Firme, firme,</verso>
-        <verso>Sim firme nas promessas de Jesus!</verso>
-      </coro>
-      <coro voz="Outros">
-        <verso>Firme, sempre firme, sim, nas promessas de Jesus,</verso>
-        <verso>Firme nas promessas de Jesus, meu Mestre!</verso>
-        <verso>Firme, sempre firme, sim, nas promessas de Jesus,</verso>
-        <verso>Sim firme nas promessas de Jesus!</verso>
+        <verso>Sim, firme nas promessas de Jesus!</verso>
       </coro>
     </estrofe>
     <estrofe>
@@ -36,19 +32,13 @@
     </estrofe>
     <estrofe>
       <verso>Firme nas promessas do Senhor Jesus,</verso>
-      <verso>Em amor ligado sempre à sua cruz!</verso>
+      <verso>Em amor ligado sempre à sua cruz,</verso>
       <verso>Cada dia mais me alegro em sua luz,</verso>
       <verso>Firme nas promessas de Jesus!</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="14">Fidelidade</assunto>
-  <titulo_original>Promises</titulo_original>
-  <metrica id="11_11_11_9_Coro">11.11.11.9.Coro</metrica>
-  <origem_letra id="CarterRK" referencia="Carter, Russel Kelso">Russel Kelso Carter</origem_letra>
-  <origem_letra id="Anonimo" referencia="Anônimo">Anônimo</origem_letra>
-  <origem_musica id="CarterRK" referencia="Carter, Russel Kelso">Russel Kelso Carter</origem_musica>
-  <primeiro_verso_original>Standing on the promises of Christ my King</primeiro_verso_original>
-  <referencia_biblica id="19_034_008">Salmos 34.8</referencia_biblica>
+  <origem_letra>R. K. Carter</origem_letra>
+  <origem_letra>Trad. Anônima</origem_letra>
 </hino>
-

@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino situacao='incompleto'>
-    <numero>056</numero>
-    <n>56</n>
-    <titulo>Ações de Graças e Súplica</titulo>
-    <texto>
-        <estrofe>
-            <verso>Graças te rendemos, Deus de luz e amor,</verso>
-            <verso>Pelo dom de Cristo, nosso Salvador;</verso>
-            <verso>Pelo que nos deste com bondosa mão,</verso>
-            <verso>Pelos dons da vida: veste, abrigo e pão.</verso>
-        </estrofe>
-        <estrofe>
-            <verso>Pelos bons amigos que, Senhor, te apraz</verso>
-            <verso>Congregar conosco, nesta doce paz.</verso>
-            <verso>Dá-nos sempre a graça de contigo estar,</verso>
-            <verso>Dá-nos sempre o gozo de teu Nome honrar! Amém.</verso>
-        </estrofe>
-    </texto>
-    <secao id='01'>Louvor e Adoração</secao>
-    <assunto id='11'>Gratidão</assunto>
-    <titulo_original>Stern, auf den ich schaue</titulo_original>
-    <metrica id='6_5_6_5'>6.5.6.5.D</metrica>
-    <origem_letra id='GueirosJ' referencia='Gueiros, Jerônimo'>Jerônimo Gueiros</origem_letra>
-    <origem_musica id='KochM' referencia='Koch, Minna'>Minna Koch</origem_musica>
-    <referencia_biblica id='19_075_001'>Salmos 75.1</referencia_biblica>
+<hino situacao="incompleto">
+  <numero>056</numero>
+  <n>56</n>
+  <titulo>Ações de Graças e Súplica</titulo>
+  <texto>
+    <estrofe>
+      <verso>Graças te rendemos, Deus de luz e amor,</verso>
+      <verso>Pelo dom de Cristo, nosso Salvador;</verso>
+      <verso>Pelo que nos deste com bondosa mão,</verso>
+      <verso>Pelos dons da vida: veste, abrigo e pão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pelos bons amigos que, Senhor, te apraz</verso>
+      <verso>Congregar conosco, nesta doce paz.</verso>
+      <verso>Dá-nos sempre a graça de contigo estar,</verso>
+      <verso>Dá-nos a alegria de teu Nome honrar! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="11">Gratidão</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
 </hino>

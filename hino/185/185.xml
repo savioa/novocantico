@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>185</numero>
+  <n>185</n>
+  <titulo>Glória Vindoura</titulo>
+  <texto>
+    <estrofe>
+      <verso>No tempo em que meu trabalho acabar</verso>
+      <verso>E enfim de Deus a presença gozar,</verso>
+      <verso>E quando a Cristo eu puder contemplar,</verso>
+      <verso>Oh! Quanta glória haverá com Jesus!</verso>
+      <coro>
+        <verso>Sim, haverá glória sem-par,</verso>
+        <verso>Junto a Jesus, glória sem-fim!</verso>
+        <verso>Oh! Quando a Cristo eu puder contemplar,</verso>
+        <verso>Glória, sim, glória haverá com Jesus!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>No tempo em que Cristo, o meu Redentor,</verso>
+      <verso>Tiver de dar-me o seu “vinde!” de amor,</verso>
+      <verso>Transposto, enfim, o meu vale de dor,</verso>
+      <verso>Oh! Quanta glória haverá com Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>No tempo em que meus irmãos for rever</verso>
+      <verso>Lá nos fulgores do céu — que prazer!</verso>
+      <verso>Sim, quando junto a Jesus for viver,</verso>
+      <verso>Oh! Quanta glória haverá com Jesus!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <origem_letra>L. P. G. da Silva</origem_letra>
+</hino>

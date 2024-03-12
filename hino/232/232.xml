@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>232</numero>
+  <n>232</n>
+  <titulo>Pequena Vila de Belém</titulo>
+  <texto>
+    <estrofe>
+      <verso>Pequena vila de Belém, repousa em teu dormir</verso>
+      <verso>Enquanto os astros lá no céu estão a refulgir.</verso>
+      <verso>Porém, nas tuas trevas resplende eterna luz,</verso>
+      <verso>Incomparável, divinal: nasceu o bom Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Da virgem mãe nasceu Jesus! Vós, anjos, proclamai</verso>
+      <verso>As boas-novas lá dos céus e a Deus louvores dai!</verso>
+      <verso>Estrelas matutinas, em hinos de louvor,</verso>
+      <verso>Aos anjos e homens proclamai de Deus o eterno amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O dom glorioso, divinal, nenhum estrondo faz,</verso>
+      <verso>Assim, aos homens, o Senhor concede a graça e paz.</verso>
+      <verso>Sereno e sem alarde vem ele ao mundo assim,</verso>
+      <verso>Trazendo aos homens redenção, amor e paz sem-fim.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Vem morar nos corações, divino Rei, Jesus,</verso>
+      <verso>E faze-os entrever no céu visões de tua luz.</verso>
+      <verso>Ali proclamam anjos de Deus o amor fiel!</verso>
+      <verso>Oh! Vem, Senhor, aqui reinar, eterno Emanuel.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>Ph. Brooks</origem_letra>
+  <origem_letra>S. Ferraz</origem_letra>
+</hino>

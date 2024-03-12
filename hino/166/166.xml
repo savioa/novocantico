@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>166</numero>
+  <n>166</n>
+  <titulo>Luz da Vida</titulo>
+  <texto>
+    <estrofe>
+      <verso>És da minha alma a luz, Senhor! Vem dissipar o meu temor!</verso>
+      <verso>Noite não há se perto estás e em ti alcanço plena paz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sempre comigo estás, Senhor! Só tenho vida em teu amor.</verso>
+      <verso>Do dia esvai-se toda a luz, sigo bem junto a ti, Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com os enfermos vem estar, os pobres vem alimentar!</verso>
+      <verso>Aos que no leito sofrem dor dá teu conforto e paz, Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E desde cedo, ao despertar, o nosso passo vem guiar!</verso>
+      <verso>Na imensidão do teu amor vem nos guardar, ó Salvador.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>J. Kable</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

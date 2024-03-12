@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>338</numero>
+  <n>338</n>
+  <titulo>Dia da Profissão de Fé</titulo>
+  <texto>
+    <estrofe>
+      <verso>Salve, dia de festa e canto,</verso>
+      <verso>Quando venho a fé professar</verso>
+      <verso>Em Deus Pai, no Espírito Santo</verso>
+      <verso>E em Jesus que me veio salvar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Salve, tempo que evoca o passado,</verso>
+      <verso>Quando a mão do meu Deus me tomou!</verso>
+      <verso>Ele, amigo sem-par, ao meu lado</verso>
+      <verso>Com amor fraternal me guiou!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Salve, data de alegre memória,</verso>
+      <verso>De convívio, de amor fraternal!</verso>
+      <verso>Salve, dia em que canto vitória</verso>
+      <verso>Contra as fúrias tremendas do mal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="10">Profissão de Fé</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+  <origem_letra>C. A. B. Marra</origem_letra>
+</hino>

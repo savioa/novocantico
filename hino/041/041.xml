@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino situacao='incompleto'>
+<hino situacao="incompleto">
   <numero>041</numero>
   <n>41</n>
-  <titulo>Louvor pela Graça Divina</titulo>
+  <titulo>Louvor Pela Graça Divina</titulo>
   <texto>
     <estrofe>
       <verso>Louvai, louvai Cristo, o bom Mestre divino!</verso>
@@ -34,13 +34,8 @@
       <verso>Cristo, assim, os crentes protegerá.</verso>
     </estrofe>
   </texto>
-  <secao id='01'>Louvor e Adoração</secao>
-  <assunto id='09'>Deus Salvador</assunto>
-  <titulo_original>Joyful song</titulo_original>
-  <metrica id='Irregular'>Irregular</metrica>
-  <origem_letra id='CrosbyFJ' referencia='Crosby, Fanny Jane'>Fanny Jane Crosby</origem_letra>
-  <origem_letra id='GinsburgSL' referencia='Ginsburg, Salomão Luiz'>Salomão Luiz Ginsburg</origem_letra>
-  <origem_musica id='AllenCG' referencia='Allen, Chester G.'>Chester G. Allen</origem_musica>
-  <primeiro_verso_original>Praise Him, praise Him</primeiro_verso_original>
-  <referencia_biblica id='62_003_016'>1 João 3.16</referencia_biblica>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="09">Deus Salvador</assunto>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
 </hino>

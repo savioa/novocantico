@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>321</numero>
+  <n>321</n>
+  <titulo>Mãos ao Trabalho</titulo>
+  <texto>
+    <estrofe>
+      <verso>Mãos ao trabalho, jovens! Vai já passando o alvor.</verso>
+      <verso>Eia, enquanto tendes vossa vida em flor!</verso>
+      <verso>Vamos, enquanto é dia, com força trabalhar!</verso>
+      <verso>Eia, que, em vindo a noite, não há mais lidar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mãos ao trabalho, homens! Firmes, enquanto há luz.</verso>
+      <verso>Eia, que é tempo agora de servir a Jesus!</verso>
+      <verso>Ide o vigor da vida todos ao bem votar!</verso>
+      <verso>Eia, que, em vindo a noite, não há mais lidar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mãos ao trabalho, todos! Breve nos chega o fim,</verso>
+      <verso>Quando soar um dia da morte o clarim!</verso>
+      <verso>Vamos, irmãos, à obra! Por Cristo trabalhar!</verso>
+      <verso>Eia, que, em vindo a noite, vamos descansar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="03">Trabalho Cristão</assunto>
+  <origem_letra>A. L. W. Coghill</origem_letra>
+  <origem_letra>A. H. da Silva</origem_letra>
+</hino>

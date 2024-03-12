@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>074</numero>
+  <n>74</n>
+  <titulo>Sinceridade</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus, Senhor, me achego a ti,</verso>
+      <verso>Tua ira santa mereci;</verso>
+      <verso>O teu favor me estende aqui!</verso>
+      <verso>Aceita um pecador!</verso>
+      <coro>
+        <verso>Eu venho como estou!</verso>
+        <verso>Sim, venho como estou!</verso>
+        <verso>Porque Jesus por mim morreu,</verso>
+        <verso>Eu venho como estou!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>As minhas culpas grandes são,</verso>
+      <verso>Mas tu, que não morreste em vão,</verso>
+      <verso>Me podes conceder perdão!</verso>
+      <verso>Aceita um pecador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Vem agora, Salvador,</verso>
+      <verso>Livrar-me por teu grande amor,</verso>
+      <verso>Pois tu, Jesus, és meu Senhor;</verso>
+      <verso>Aceita um pecador.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <origem_letra>E. H. Hamilton</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

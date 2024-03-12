@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>267</numero>
+  <n>267</n>
+  <titulo>Precioso Sangue</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Que precioso sangue o Senhor verteu,</verso>
+      <verso>Quando, para resgatar-nos, padeceu!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Que precioso sangue, sangue de Jesus,</verso>
+      <verso>Que por nós foi derramado sobre a cruz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Que precioso sangue! Nele temos paz.</verso>
+      <verso>Tudo quanto a lei exige, satisfaz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Que precioso sangue, sangue remidor!</verso>
+      <verso>Nele Cristo manifesta seu amor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

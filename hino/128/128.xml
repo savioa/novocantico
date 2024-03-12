@@ -3,57 +3,35 @@
 <hino>
   <numero>128</numero>
   <n>128</n>
-  <titulo>Comunhão preciosa</titulo>
+  <titulo>Comunhão Preciosa</titulo>
   <texto>
     <estrofe>
-      <verso>Preciosas são as horas</verso>
-      <verso>Na presença de Jesus!</verso>
-      <verso>Comunhão deliciosa</verso>
-      <verso>Da minha alma com a luz</verso>
-      <verso>Os cuidados deste mundo</verso>
-      <verso>Não me podem abalar,</verso>
-      <verso>Pois é ele o meu abrigo</verso>
-      <verso>Quando o tentador chegar. (bis)</verso>
+      <verso>Preciosas são as horas na presença de Jesus!</verso>
+      <verso>Comunhão deliciosa da minha alma com a luz.</verso>
+      <verso>Os cuidados deste mundo não me podem abalar,</verso>
+      <verso>Pois é ele o meu abrigo quando o tentador chegar.</verso>
     </estrofe>
     <estrofe>
-      <verso>Ao sentir-me rodeado</verso>
-      <verso>De cuidados terreais,</verso>
-      <verso>Irritado e abatido,</verso>
-      <verso>Ou em dúvidas fatais,</verso>
-      <verso>A Jesus eu me dirijo</verso>
-      <verso>Nesses tempos de aflição;</verso>
-      <verso>As palavras que ele fala</verso>
-      <verso>Trazem paz consolação. (bis)</verso>
+      <verso>Ao sentir-me rodeado de cuidados terreais,</verso>
+      <verso>Irritado e abatido ou em dúvidas fatais,</verso>
+      <verso>A Jesus eu me dirijo nesses tempos de aflição;</verso>
+      <verso>As palavras que ele fala trazem paz, consolação.</verso>
     </estrofe>
     <estrofe>
-      <verso>Se confesso meus temores,</verso>
-      <verso>Toda a minha imperfeição,</verso>
-      <verso>Ele escuta com paciência</verso>
-      <verso>Essa triste confissão.</verso>
-      <verso>Com ternura repreende</verso>
-      <verso>Meu pecado e todo o mal;</verso>
-      <verso>É Jesus o meu Amigo,</verso>
-      <verso>O melhor e o mais leal. (bis)</verso>
+      <verso>Se confesso meus temores, toda a minha imperfeição,</verso>
+      <verso>Ele escuta com paciência essa triste confissão.</verso>
+      <verso>Com ternura repreende meu pecado e todo o mal;</verso>
+      <verso>É Jesus o meu Amigo, o melhor e o mais leal.</verso>
     </estrofe>
     <estrofe>
-      <verso>Se quereis saber quão doce</verso>
-      <verso>É a divina comunhão,</verso>
-      <verso>Podereis mui bem prová-la</verso>
-      <verso>E tereis compensação.</verso>
-      <verso>Procurai estar sozinhos</verso>
-      <verso>Em conversa com Jesus,</verso>
-      <verso>Provareis na vossa vida</verso>
-      <verso>O poder que vem da cruz. (bis)</verso>
+      <verso>Se quereis saber quão doce é a divina comunhão,</verso>
+      <verso>Podereis mui bem prová-la e tereis compensação.</verso>
+      <verso>Procurai estar sozinhos em conversa com Jesus,</verso>
+      <verso>Provareis na vossa vida o poder que vem da cruz.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="10">Oração</assunto>
-  <titulo_original>In the Secret of His Presence</titulo_original>
-  <metrica id="8_7_8_7_D__7">8.7.8.7.D.[7]</metrica>
-  <origem_letra id="GorehEL" referencia="Goreh, Ellen Lakshmi">Ellen Lakshmi Goreh</origem_letra>
-  <origem_letra id="ClarkMA" referencia="Clark, Myron August" ano="1894">Myron August Clark</origem_letra>
-  <origem_musica id="StebbinsGC" referencia="Stebbins, George Coles" ano="1883">George Coles Stebbins</origem_musica>
-  <primeiro_verso_original>In the Secret of His Presence</primeiro_verso_original>
-  <referencia_biblica id="40_006_006">Mateus 6.6</referencia_biblica>
+  <origem_letra>E. L. Goreh</origem_letra>
+  <origem_letra>M. A. Clark</origem_letra>
 </hino>
-

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>077</numero>
+  <n>77</n>
+  <titulo>Divino Perdão</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quão abençoado aquele que Jesus na cruz salvou!</verso>
+      <verso>Seu pecado foi coberto, sua dívida passou</verso>
+      <verso>Para o Justo, para o Justo que, a salvar-nos, expirou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Triste e envolto no silêncio, meus pecados escondi;</verso>
+      <verso>Que pesar de consciência, que misérias padeci!</verso>
+      <verso>Noite e dia, noite e dia tua indignação senti.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mas, por fim, desesperado, descobri minha aflição.</verso>
+      <verso>Meus delitos confessando em Jesus achei perdão.</verso>
+      <verso>Esta graça, esta graça pede eterna gratidão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Deus bondoso, todo crente teu socorro implorará;</verso>
+      <verso>Dos remorsos, vero alívio em Jesus encontrará.</verso>
+      <verso>Alegria, alegria nele sempre reinará!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Deus bondoso! Deus clemente! teu auxílio me darás</verso>
+      <verso>E, com teu olhar divino, os meus pés conduzirás.</verso>
+      <verso>Sempre dócil, sempre dócil e submisso me farás.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em receios e tristezas anda aflito o pecador,</verso>
+      <verso>Mas em Cristo bem guardados, para nós não há temor.</verso>
+      <verso>Exultamos, exultamos no divino Salvador!</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="02">Perdão</assunto>
+  <origem_letra>Sl 32</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

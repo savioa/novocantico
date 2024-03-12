@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>202</numero>
+  <n>202</n>
+  <titulo>Palavras Preciosas</titulo>
+  <texto>
+    <estrofe>
+      <verso>Preciosas as palavras de Jesus, eterno Rei:</verso>
+      <verso>“Aquele que vier a mim, eu não desprezarei.”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Preciosas as palavras de Jesus, eterno Rei:</verso>
+      <verso>“Ó vós, cansados, vinde já! É suave a minha lei.”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Preciosas as palavras de Jesus, eterno Rei:</verso>
+      <verso>“A porta sou, por mim entrai, descanso vos darei.”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Preciosas as palavras de Jesus, eterno Rei:</verso>
+      <verso>“Por vós o mundo já venci, por vós a vida dei.”</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>J. Jones</origem_letra>
+</hino>

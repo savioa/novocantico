@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>361</numero>
+  <n>361</n>
+  <titulo>Brilhando com Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Manda-nos luzir o Senhor Jesus,</verso>
+      <verso>Como a vela acesa dá de noite a luz!</verso>
+      <verso>Quer que nós brilhemos como a luz do céu:</verso>
+      <verso>Tu no teu cantinho e eu no meu!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo sempre a luz para si requer,</verso>
+      <verso>Percebendo logo se ela enfraquecer.</verso>
+      <verso>Sempre a luz mostremos, que Jesus nos deu:</verso>
+      <verso>Tu no teu cantinho e eu no meu!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao redor, então, manda a luz brilhar</verso>
+      <verso>Para as densas trevas hoje dissipar.</verso>
+      <verso>Com Jesus brilhemos, pois nos escolheu:</verso>
+      <verso>Tu no teu cantinho e eu no meu!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>S. Warner</origem_letra>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

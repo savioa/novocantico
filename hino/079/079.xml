@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>079</numero>
+  <n>79</n>
+  <titulo>Glória ao Salvador</titulo>
+  <texto>
+    <estrofe>
+      <verso>Chegado à cruz do bom Salvador,</verso>
+      <verso>Prostrado aos pés do meu Redentor,</verso>
+      <verso>Ele atendeu logo ao meu clamor;</verso>
+      <verso>Glória ao Salvador!</verso>
+      <coro>
+        <verso>Glória ao Salvador! Glória ao Salvador!</verso>
+        <verso>Eu sei que Cristo já me salvou;</verso>
+        <verso>Glória ao Salvador!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Que maravilha, Jesus me amou!</verso>
+      <verso>Tudo de graça me perdoou!</verso>
+      <verso>Dos meus grilhões ele me livrou!</verso>
+      <verso>Glória ao Salvador!</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="02">Perdão</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

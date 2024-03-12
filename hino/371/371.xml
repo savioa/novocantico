@@ -2,46 +2,30 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>371</numero>
+  <n>371</n>
   <titulo>A Bíblia</titulo>
   <texto>
     <estrofe>
-      <verso>Da Bíblia a luz celeste</verso>
-      <verso>Lampeje aqui, Senhor,</verso>
-      <verso>A luz que vem de Cristo,</verso>
-      <verso>O Mestre e Salvador.</verso>
-      <verso>Tal como o sol no espaço</verso>
-      <verso>Difunde a sua luz,</verso>
-      <verso>Teu livro aqui resplenda</verso>
-      <verso>A glória de Jesus.</verso>
+      <verso>Da Bíblia a luz celeste lampeje aqui, Senhor,</verso>
+      <verso>A luz que vem de Cristo, o Mestre e Salvador.</verso>
+      <verso>Tal como o sol no espaço difunde a sua luz,</verso>
+      <verso>Teu Livro aqui resplenda a glória de Jesus.</verso>
     </estrofe>
     <estrofe>
-      <verso>Senhor, que a tua Igreja</verso>
-      <verso>Rebrilhe qual fanal,</verso>
-      <verso>Da Bíblia refletindo</verso>
-      <verso>A luz celestial.</verso>
-      <verso>Num proceloso mundo</verso>
-      <verso>Rumando à perdição,</verso>
-      <verso>Que a Bíblia a todos mostre,</verso>
-      <verso>Em Cristo, a salvação.</verso>
+      <verso>Senhor, que a tua Igreja rebrilhe qual fanal,</verso>
+      <verso>Da Bíblia refletindo a luz celestial.</verso>
+      <verso>Num proceloso mundo, rumando à perdição,</verso>
+      <verso>Que a Bíblia a todos mostre, em Cristo, a salvação.</verso>
     </estrofe>
     <estrofe>
-      <verso>Concede inteligência!</verso>
-      <verso>Queremos perceber</verso>
-      <verso>O que, Senhor, na Bíblia,</verso>
-      <verso>Mandaste-nos dizer.</verso>
-      <verso>Adestra-nos, ó Mestre,</verso>
-      <verso>Com teu Verbo eficaz!</verso>
-      <verso>Instrui e repreende,</verso>
-      <verso>Destrói o que é falaz! Amém.</verso>
+      <verso>Concede inteligência! Queremos perceber</verso>
+      <verso>O que, Senhor, na Bíblia, mandaste-nos dizer.</verso>
+      <verso>Adestra-nos, ó Mestre, com teu Verbo eficaz!</verso>
+      <verso>Instrui e repreende, destrói o que é falaz!</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="02">Bíblia</assunto>
-  <titulo_original>Ellacombe</titulo_original>
-  <metrica id="7_6_7_6_D">7.6.7.6.D</metrica>
-  <origem_letra id="GueirosJ" referencia="Gueiros, Jerônimo">Jerônimo Gueiros</origem_letra>
-  <origem_musica id="ZionsharfeColecao" referencia="“Zionsharfe” (Coleção)" ano="1854">“Zionsharfe” (Coleção)</origem_musica>
-  <origem_musica id="KocherC" referencia="Kocher, Conrad">Conrad Kocher</origem_musica>
-  <primeiro_verso_original>Da Bíblia a luz celeste</primeiro_verso_original>
-  <referencia_biblica id="19_119_004">Salmos 119.4</referencia_biblica>
+  <origem_letra>J. Gueiros</origem_letra>
 </hino>

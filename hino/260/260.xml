@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>260</numero>
+  <n>260</n>
+  <titulo>Amor Que Vence</titulo>
+  <texto>
+    <estrofe>
+      <verso>Amor, que por amor desceste!</verso>
+      <verso>Amor, que por amor morreste!</verso>
+      <verso>Ah! Quanta dor não padeceste!</verso>
+      <verso>Minha alma vieste resgatar</verso>
+      <verso>E meu amor ganhar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Amor, que por amor seguias</verso>
+      <verso>A mim, que sem amor tu vias!</verso>
+      <verso>Oh! Quanto amor por mim sentias,</verso>
+      <verso>Eterno Deus, Senhor Jesus,</verso>
+      <verso>Sofrendo sobre a cruz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Amor, que tudo me perdoas,</verso>
+      <verso>Amor, que até mesmo abençoas</verso>
+      <verso>Um réu de quem tu te afeiçoas!</verso>
+      <verso>Vencido, ó Salvador, por ti,</verso>
+      <verso>Teu grande amor senti!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Amor sublime, que perduras;</verso>
+      <verso>Que em tua graça me seguras,</verso>
+      <verso>Cercando-me de mil venturas!</verso>
+      <verso>Aceita agora, ó Salvador,</verso>
+      <verso>O meu humilde amor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>G. Matheson</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

@@ -3,7 +3,7 @@
 <hino situacao="incompleto">
   <numero>394</numero>
   <n>394</n>
-  <titulo>Perfeito amor</titulo>
+  <titulo>Perfeito Amor</titulo>
   <texto>
     <estrofe>
       <verso>Perfeito amor, além do entendimento,</verso>
@@ -21,16 +21,12 @@
       <verso>Dá que eles tenham forças e alegria</verso>
       <verso>Nos dissabores, lutas, provações!</verso>
       <verso>Que assim conservem juntos a harmonia,</verso>
-      <verso>Perfeitos tendo sempre os corações. Amém.</verso>
+      <verso>Perfeitos tendo sempre os corações.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="07">Casamento</assunto>
-  <titulo_original>O perfect love</titulo_original>
-  <metrica id="">11.10.11.10</metrica>
-  <origem_letra id="GurneyDFB" referencia="Gurney, Dorothy Frances Bloomfield" ano="1883">Dorothy Frances Bloomfield Gurney</origem_letra>
-  <origem_letra id="FaustiniJW" referencia="Faustini, João Wilson" ano="1953">João Wilson Faustini</origem_letra>
-  <origem_musica id="BarnbyJ" referencia="Barnby, Joseph" ano="1889">Joseph Barnby</origem_musica>
-  <primeiro_verso_original>O perfect Love, all human thought transcending</primeiro_verso_original>
-  <referencia_biblica id="58_013_004">Hebreus 13.4</referencia_biblica>
+  <origem_letra>D. F. B. Gumey</origem_letra>
+  <origem_letra>J. W. Faustini</origem_letra>
 </hino>

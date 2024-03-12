@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>102</numero>
+  <n>102</n>
+  <titulo>O Céu com Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Depois que Cristo me salvou,</verso>
+      <verso>Em céu o mundo se tornou;</verso>
+      <verso>Até no meio do sofrer</verso>
+      <verso>Eu tenho paz no meu viver.</verso>
+      <coro>
+        <verso>Oh! Aleluia! Sim, é céu,</verso>
+        <verso>É céu fruir perdão aqui!</verso>
+        <verso>Na terra ou mar, por onde for,</verso>
+        <verso>Com o Senhor é céu ali.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Mui longe eu via outrora o céu;</verso>
+      <verso>Mas, quando Cristo me valeu,</verso>
+      <verso>Então senti meu coração</verso>
+      <verso>Entrar no céu da retidão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Bem pouco importa eu habitar</verso>
+      <verso>Em alto monte, à beira-mar,</verso>
+      <verso>Em casa ou gruta, boa ou ruim,</verso>
+      <verso>É céu ali, com Cristo em mim.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="07">Testemunho</assunto>
+  <origem_letra>C. F. Butler</origem_letra>
+  <origem_letra>B. R. Duarte</origem_letra>
+</hino>

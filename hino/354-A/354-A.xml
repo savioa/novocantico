@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>354-A</numero>
+  <n>354-A</n>
+  <titulo>Escola Dominical</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vamos todos à Escola Sagrada</verso>
+      <verso>A Palavra de Deus aprender.</verso>
+      <verso>A verdade dos céus revelada</verso>
+      <verso>Dá-nos luz, dá-nos vida e poder!</verso>
+      <coro>
+        <verso>Trabalhemos pela escola,</verso>
+        <verso>Estudando com amor</verso>
+        <verso>E pregando Jesus Cristo,</verso>
+        <verso>Nosso Mestre e Salvador.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Vamos todos, crianças e adultos,</verso>
+      <verso>Palmilhando o caminho da cruz.</verso>
+      <verso>Estudar a grandeza dos vultos,</verso>
+      <verso>Entre os quais predomina Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Propaguemos com fé, corajosos,</verso>
+      <verso>Desta escola o sublime ideal.</verso>
+      <verso>E veremos um dia, ditosos,</verso>
+      <verso>A vitória do bem sobre o mal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="13">Escola Dominical</assunto>
+  <origem_letra>N. Emmerich</origem_letra>
+</hino>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>106</numero>
+  <n>106</n>
+  <titulo>Fonte Carmesim</titulo>
+  <texto>
+    <estrofe>
+      <verso>Há uma fonte carmesim</verso>
+      <verso>Que meu Jesus abriu</verso>
+      <verso>No dia em que na cruz, por mim,</verso>
+      <verso>Morreu e me remiu.</verso>
+      <coro>
+        <verso>Eu creio, sim, eu creio,</verso>
+        <verso>Jesus por mim morreu!</verso>
+        <verso>Foi sobre a cruz, com grande amor,</verso>
+        <verso>Que Cristo padeceu.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>E desde que, por seu amor,</verso>
+      <verso>O rumo me apontou,</verso>
+      <verso>Confio nele, com fervor,</verso>
+      <verso>Pois que me resgatou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A sua morte sobre a cruz</verso>
+      <verso>Traz vida imortal</verso>
+      <verso>E vou morar com Cristo em luz</verso>
+      <verso>Na glória celestial.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="07">Testemunho</assunto>
+  <origem_letra>Wm. Cowper</origem_letra>
+  <origem_letra>M. G. L. de Andrade</origem_letra>
+</hino>

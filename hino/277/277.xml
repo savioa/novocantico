@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>277</numero>
+  <n>277</n>
+  <titulo>Cristo Vive! Ressurgiu!</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cristo vive! Ressuscitou de entre os mortos (bis)</verso>
+      <verso>E foi feito as primícias dos que dormem.</verso>
+      <verso>Glória e louvor sejam dadas com poder</verso>
+      <verso>Ao Pai eterno que no trono assentado está</verso>
+      <verso>E ao Cordeiro de Deus! Cristo vive! Ressurgiu</verso>
+      <verso>E foi feito as primícias dos que dormem!</verso>
+      <verso>Glória e louvor sejam dados com poder</verso>
+      <verso>Ao Pai eterno que no trono assentado está</verso>
+      <verso>E ao Cordeiro de Deus, por séculos e séculos,</verso>
+      <verso>Amém!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="06">Ressurreição</assunto>
+  <origem_letra>1Co 15.20 e Ap 5.13</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

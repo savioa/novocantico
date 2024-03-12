@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>355</numero>
+  <n>355</n>
+  <titulo>Oração Infantil</titulo>
+  <texto>
+    <estrofe>
+      <verso>Amigo dos meninos, benigno Salvador!</verso>
+      <verso>Conosco estás presente, querido e Bom Pastor!</verso>
+      <verso>Teus cordeirinhos guia com tua compaixão</verso>
+      <verso>E dá-nos para sempre um reto coração.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Teus santos mandamentos, oh! Faze-nos amar!</verso>
+      <verso>E tudo que é pecado de nós vem afastar.</verso>
+      <verso>Concede, nos estudos que temos hoje aqui,</verso>
+      <verso>Sejamos instruídos, o grande Deus, por ti!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

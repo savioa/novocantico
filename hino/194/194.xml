@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>194</numero>
+  <n>194</n>
+  <titulo>Morada Feliz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Com Jesus há morada feliz,</verso>
+      <verso>Prometida e segura nos céus.</verso>
+      <verso>Avistamos o lindo país,</verso>
+      <verso>Pela fé na Palavra de Deus.</verso>
+      <coro>
+        <verso>Com Jesus, no porvir,</verso>
+        <verso>Viveremos no lindo país. (bis)</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Pacientes podemos penar,</verso>
+      <verso>Se sofrermos por Cristo Jesus</verso>
+      <verso>Pois, sem culpa, sem falta ou pesar,</verso>
+      <coro>
+        <verso>Viveremos no Reino de luz!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>No descanso perfeito, eternal,</verso>
+      <verso>Desfrutando o labor que passou,</verso>
+      <verso>Cantaremos, em tom triunfal,</verso>
+      <verso>Os louvores de quem nos amou.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="17">Lar Celestial</assunto>
+  <origem_letra>S. F. Bennet</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

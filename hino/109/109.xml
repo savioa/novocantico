@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>109</numero>
+  <n>109</n>
+  <titulo>O Bom Pastor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quero o Salvador comigo, ao seu lado sempre andar.</verso>
+      <verso>Quero tê-lo muito perto, no seu braço descansar.</verso>
+      <coro>
+        <verso>Confiando no Senhor, protegido em seu amor,</verso>
+        <verso>Seguirei o meu caminho sem tristeza e sem temor.</verso>
+      </coro>
+      <estrofe>
+        <verso>Quero o Salvador comigo, porque fraca é minha fé;</verso>
+        <verso>Sua voz me dá conforto quando me vacila o pé.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quero o Salvador comigo, dia a dia, em meu viver;</verso>
+        <verso>Através de luz ou sombras, no desgosto e no prazer.</verso>
+      </estrofe>
+      <estrofe>
+        <verso>Quero o Salvador comigo, sábio guia e bom pastor,</verso>
+        <verso>Nesta vida e além da morte, longe de perigo e dor.</verso>
+      </estrofe>
+    </estrofe>
+    <origem_letra>L. Edwards</origem_letra>
+    <origem_letra>R. H. Moreton</origem_letra>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+</hino>

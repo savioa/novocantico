@@ -2,16 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>230</numero>
-  <titulo>Adoração</titulo>
+  <n>230</n>
+  <titulo>Adoração ao Nosso Senhor</titulo>
   <texto>
     <estrofe>
-      <verso>Ó! Vinde fiéis, triunfantes e alegres,</verso>
+      <verso>Oh! Vinde fiéis, triunfantes e alegres,</verso>
       <verso>Sim, vinde a Belém, já movidos de amor!</verso>
       <verso>Nasceu vosso Rei, o Messias prometido,</verso>
       <coro>
-        <verso voz="Só Soprano">Ó! Vinde, adoremos!</verso>
-        <verso voz="Exceto Baixo">Ó! Vinde, adoremos!</verso>
-        <verso voz="Todos">Ó! Vinde, adoremos ao nosso Senhor!</verso>
+        <verso>Oh! Vinde, adoremos! Oh! Vinde, adoremos!</verso>
+        <verso>Oh! Vinde, adoremos ao nosso Senhor!</verso>
       </coro>
     </estrofe>
     <estrofe>
@@ -32,13 +32,7 @@
   </texto>
   <secao id="06">Cristo - Sua Vida</secao>
   <assunto id="02">Natal</assunto>
-  <titulo_original>Adeste Fideles</titulo_original>
-  <metrica id="Irregular">Irregular</metrica>
-  <origem_letra id="Anonimo" referencia="Anônimo" ano="séc. XVII-XVIII">Anônimo</origem_letra>
-  <origem_letra id="HoustonJT" referencia="Houston, James Theodore" ano="1881">James Theodore Houston</origem_letra>
-  <origem_musica id="CantusDiversi" referencia="&#x201C;Cantus Diversi&#x201D;" ano="1751">&#x201C;Cantus Diversi&#x201D;</origem_musica>
-  <origem_musica id="WadeJohnF" referencia="Wade, John Francis">John Francis Wade</origem_musica>
-  <primeiro_verso_original>Adeste, fideles, laeti triumphantes</primeiro_verso_original>
-  <referencia_biblica id="40_002_001_002">Mateus 2.1,2</referencia_biblica>
+  <origem_letra>Latino</origem_letra>
+  <origem_letra>anônimo</origem_letra>
+  <origem_letra>J. Th. Houston</origem_letra>
 </hino>
-

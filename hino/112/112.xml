@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>112</numero>
+  <n>112</n>
+  <titulo>Rica Promessa</titulo>
+  <texto>
+    <estrofe>
+      <verso>“Não temas! Contigo eu sempre estarei!”</verso>
+      <verso>Oh! Rica promessa do bondoso Rei!</verso>
+      <verso>Qual astro que brilha lá na escuridão,</verso>
+      <verso>A mais linda promessa brilha no meu coração!</verso>
+      <coro>
+        <verso>Comigo estar! Comigo estar!</verso>
+        <verso>Sim, Jesus me promete sempre comigo estar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>As luzes do mundo se apagarão,</verso>
+      <verso>Os dias mais belos breve passarão;</verso>
+      <verso>Jesus, Luz do mundo, não se extinguirá,</verso>
+      <verso>E essa luz resplendente sempre em mim brilhará.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E se pelas águas tiver de passar,</verso>
+      <verso>Seus braços eternos hão de me guardar!</verso>
+      <verso>Sim, mesmo no fogo que me vem provar,</verso>
+      <verso>Meu Senhor me promete sempre comigo estar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="08">Companhia do Senhor</assunto>
+  <origem_letra>E. E. Hewitt</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

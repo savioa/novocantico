@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>331</numero>
+  <n>331</n>
+  <titulo>Oração</titulo>
+  <texto>
+    <estrofe>
+      <verso>Confirma, ó Salvador, a decisão feliz</verso>
+      <verso>De quem, por teu amor, deixar o mundo quis,</verso>
+      <verso>E agora vem se batizar,</verso>
+      <verso>Submisso e humilde ao teu mandar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aperfeiçoa em paz e em teu divino amor</verso>
+      <verso>O coração que faz tal confissão, Senhor;</verso>
+      <verso>E em tudo faze o meu viver</verso>
+      <verso>Conforme, sempre, o teu querer!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Protetor fiel, amparador dos teus,</verso>
+      <verso>Do mundo do tropel conduz os passos meus!</verso>
+      <verso>Nas tentações sê tu, Senhor,</verso>
+      <verso>O meu constante defensor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nos sentimentos bons, na comunhão veraz,</verso>
+      <verso>Revela os ricos dons que o teu poder nos traz;</verso>
+      <verso>Mostrando ao mundo, assim, Jesus,</verso>
+      <verso>Que é bom andar na tua luz.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="08">Bastismo</assunto>
+  <origem_letra>M. S. Porto Filho</origem_letra>
+</hino>

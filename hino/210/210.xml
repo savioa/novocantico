@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>210</numero>
+  <n>210</n>
+  <titulo>O Filho Perdido</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vem, filho perdido, ó pródigo, vem!</verso>
+      <verso>Ruína te espera nas trevas além.</verso>
+      <verso>Tu de medo, tremendo, e faminto, gemendo,</verso>
+      <verso>Ó filho perdido, vem, pródigo, vem!</verso>
+      <coro>
+        <verso>Vem, vem! Ó pródigo, vem!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, filho perdido! Ó pródigo, vem!</verso>
+      <verso>Teu pai te convida, querendo-te bem!</verso>
+      <verso>Vestes há para ornar-te, ricos dons: vem fartar-te!</verso>
+      <verso>Ó filho perdido, vem, pródigo, vem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, filho perdido! Oh! Volta a Jesus!</verso>
+      <verso>Bondade infinita se avista na cruz.</verso>
+      <verso>Em miséria vagando, tuas culpas chorando,</verso>
+      <verso>Ó filho perdido, vem, pródigo, vem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó pródigo, escuta a voz do Senhor!</verso>
+      <verso>Oh! Rompe as ciladas do vil tentador!</verso>
+      <verso>Em teu lar há bastante, e tu vagas errante!</verso>
+      <verso>Ó filho perdido, vem, pródigo, vem!</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>E. H. Gates</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

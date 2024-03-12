@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>310</numero>
+  <n>310</n>
+  <titulo>Quem Salva é Só Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>De Deus, ó eterna Igreja, que espalhas santa luz,</verso>
+      <verso>Proclama aos pecadores: “Quem salva é só Jesus!”</verso>
+      <verso>“Quem salva é só Jesus!” “Quem salva é só Jesus!”</verso>
+      <verso>Proclama aos pecadores: “Quem salva é só Jesus!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aos presos, algemados no mundo que seduz,</verso>
+      <verso>Revela a esperança: “Quem salva é só Jesus!”</verso>
+      <verso>“Quem salva é só Jesus!” “Quem salva é só Jesus!”</verso>
+      <verso>Revela a esperança: “Quem salva é só Jesus!”</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Atrai os que, perdidos, mui longe estão da cruz.</verso>
+      <verso>Vai, dize aos desgarrados: “Quem salva é só Jesus!”</verso>
+      <verso>“Quem salva é só Jesus!” “Quem salva é só Jesus!”</verso>
+      <verso>Vai, dize aos desgarrados: “Quem salva é só Jesus!”</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="02">Evangelização</assunto>
+  <origem_letra>R. R. dos Santos</origem_letra>
+</hino>

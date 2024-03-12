@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>304</numero>
+  <n>304</n>
+  <titulo>A Voz do Evangelho</titulo>
+  <texto>
+    <estrofe>
+      <verso>A voz do evangelho já se fez ouvir aqui,</verso>
+      <verso>Publicando, em som alegre, o que Deus já fez por ti.</verso>
+      <verso>Pois tanto ao mundo amou e ao perdido pecador,</verso>
+      <verso>Que do céu lhe deu seu Filho para ser seu Redentor.</verso>
+      <coro>
+        <verso>Santa paz e perdão é a nova lá dos céus!</verso>
+        <verso>Santa paz e perdão, bendito o nosso Deus!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>A voz do evangelho segurança, vida e paz,</verso>
+      <verso>É o amor de Jesus Cristo que o perdão de Deus nos traz.</verso>
+      <verso>As novas se nos dão de haver um Salvador,</verso>
+      <verso>Poderoso e mui bondoso que perdoa o pecador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A voz do evangelho vem a todos avisar</verso>
+      <verso>Do perigo, grande e grave, para quem se descuidar.</verso>
+      <verso>Salvai-vos desde já, não vos detenhais no mal,</verso>
+      <verso>Cobiçando os seus prazeres, pois vos pode ser fatal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="02">Evangelização</assunto>
+  <origem_letra>S. W. Martin</origem_letra>
+  <origem_letra>J. Jones</origem_letra>
+</hino>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>275</numero>
+  <n>275</n>
+  <titulo>Cristo Venceu</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cristo venceu! Liberta está minha alma!</verso>
+      <verso>Tenho a divina calma de sua paz,</verso>
+      <verso>Bem longe dos grilhões1 da eterna morte,</verso>
+      <verso>Bem junto à fonte que me satisfaz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo venceu! Meu coração se abre</verso>
+      <verso>Ao resplendor da soberana luz.</verso>
+      <verso>De claridade inunda minha vida,</verso>
+      <verso>De formosura veste minha cruz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo venceu! A noite se fez dia:</verso>
+      <verso>Nova esperança nele eu encontrei!</verso>
+      <verso>Das armas da justiça revestido,</verso>
+      <verso>Pelejo agora na divina grei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo venceu! Temores mais não sinto.</verso>
+      <verso>Vencida a morte, abriu-se o denso véu!</verso>
+      <verso>Cristo venceu! O Filho poderoso</verso>
+      <verso>Reina e com ele viverei no céu!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="06">Ressurreição</assunto>
+  <origem_letra>R. R. dos Santos</origem_letra>
+</hino>

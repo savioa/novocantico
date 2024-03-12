@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>233</numero>
+  <n>233</n>
+  <titulo>Os Pastores no Campo</titulo>
+  <texto>
+    <estrofe>
+      <verso>No campo o rebanho guardando,</verso>
+      <verso>Os pastores deitados no chão,</verso>
+      <verso>Mal se vê, pela luz das estrelas,</verso>
+      <verso>Que ao redor as ovelhas estão.</verso>
+      <verso>De repente, um clarão tudo envolve</verso>
+      <verso>Quando, lá das alturas dos céus,</verso>
+      <verso>Desce um anjo fulgente de glória</verso>
+      <verso>Cantando em louvor de Deus!</verso>
+      <verso>No primeiro Natal, eis que um anjo</verso>
+      <verso>Gloriosa mensagem nos traz:</verso>
+      <coro>
+        <verso>“Glória a Deus nas alturas,</verso>
+        <verso>Na terra acordo e paz!”</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>“Boas-novas alegres vos trago;</verso>
+      <verso>Em Belém Jesus Cristo nasceu!”</verso>
+      <verso>Logo após, lindo coro de anjos</verso>
+      <verso>Aparece cantando no céu.</verso>
+      <verso>Oh! Jamais tão bendita mensagem</verso>
+      <verso>Aos ouvidos de todos soou,</verso>
+      <verso>Nem tão doce e divina harmonia</verso>
+      <verso>O próprio céu enlevou.</verso>
+      <verso>Oh! Bem-vindo o evangelho a este mundo</verso>
+      <verso>Que em pecado e miséria ainda jaz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>À cidade vão logo os pastores</verso>
+      <verso>Para verem de perto Jesus!</verso>
+      <verso>No presépio, o menino contemplam</verso>
+      <verso>Que, do mundo, é a lídima Luz.</verso>
+      <verso>As estrelas parecem unir-se</verso>
+      <verso>Ao celeste conjunto a cantar:</verso>
+      <verso>“Em Belém, de Davi a cidade,</verso>
+      <verso>Nasceu quem vos vem salvar!”</verso>
+      <verso>Como cantam! E cremos que nunca</verso>
+      <verso>Desse canto ouviremos assaz!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>A. Watson</origem_letra>
+</hino>

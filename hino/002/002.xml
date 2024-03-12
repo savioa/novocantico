@@ -6,20 +6,13 @@
   <titulo>Reverência</titulo>
   <texto>
     <estrofe>
-      <verso>O Senhor está no seu santo templo,</verso>
       <verso>O Senhor está no seu santo templo!</verso>
-      <verso>Cale-se diante dele toda a terra,</verso>
-      <verso>Cale-se diante dele toda a terra!</verso>
-      <verso voz="Contralto">Toda a terra!</verso>
+      <verso>O Senhor está no seu santo templo!</verso>
+      <verso>Cale-se diante dele toda terra!</verso>
+      <verso>Cale-se diante dele toda terra!</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="01">Intróitos</assunto>
-  <titulo_original>Reverência</titulo_original>
-  <metrica id='Irregular'>Irregular</metrica>
-  <origem_musica id="PortugalV" referencia="Portugal, Volmer">Volmer Portugal</origem_musica>
-  <origem_musica id="JerseyJ" referencia="Jersey, Jeferson">Jeferson Jersey</origem_musica>
-  <primeiro_verso_original>O Senhor está no seu santo templo</primeiro_verso_original>
-  <referencia_biblica id="35_002_020">Habacuque 2.20</referencia_biblica>
-  <referencia_biblica id="19_011_004">Salmos 11.4</referencia_biblica>
+  <origem_letra>Hc 2.20</origem_letra>
 </hino>

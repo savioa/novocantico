@@ -3,17 +3,15 @@
 <hino>
   <numero>127</numero>
   <n>127</n>
-  <titulo>Hora bendita</titulo>
+  <titulo>Hora Bendita</titulo>
   <texto>
     <estrofe>
       <verso>Bendita hora de oração</verso>
       <verso>Que acalma o aflito coração,</verso>
-      <verso>O qual por meio de Jesus,</verso>
+      <verso>O qual, por meio de Jesus,</verso>
       <verso>Ao Pai suplica auxílio e luz.</verso>
       <verso>Em tempos de cuidado e dor,</verso>
       <verso>Refúgio tenho em meu Senhor;</verso>
-      <verso>Vencendo o ardil da tentação,</verso>
-      <verso>Bendigo a hora de oração.</verso>
       <verso>Vencendo o ardil da tentação,</verso>
       <verso>Bendigo a hora de oração.</verso>
     </estrofe>
@@ -26,8 +24,6 @@
       <verso>Ao seu amor, ao seu poder;</verso>
       <verso>Contente e sem perturbação,</verso>
       <verso>Eu busco a hora de oração.</verso>
-      <verso>Contente e sem perturbação,</verso>
-      <verso>Eu busco a hora de oração.</verso>
     </estrofe>
     <estrofe>
       <verso>Bendita hora de oração,</verso>
@@ -38,18 +34,10 @@
       <verso>Na glória dos mais altos céus,</verso>
       <verso>Lembrar-me-ei, com gratidão,</verso>
       <verso>Das horas suaves de oração.</verso>
-      <verso>Lembrar-me-ei, com gratidão,</verso>
-      <verso>Das horas suaves de oração.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="10">Oração</assunto>
-  <titulo_original>Sweet hour</titulo_original>
-  <metrica id="8_8_8_8_D_8_8_">8.8.8.8.D[8.8]</metrica>
-  <origem_letra id="WalfordWW" referencia="Walford, William W." ano="1842">William W. Walford</origem_letra>
-  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1877">Sarah Poulton Kalley</origem_letra>
-  <origem_musica id="BradburyWB" referencia="Bradbury, William Batchelder" ano="1859">William Batchelder Bradbury</origem_musica>
-  <primeiro_verso_original>Sweet hour of prayer</primeiro_verso_original>
-  <referencia_biblica id="52_005_017">1 Tessalonicenses 5.17</referencia_biblica>
+  <origem_letra>W. W. Walford</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
 </hino>
-

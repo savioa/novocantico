@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>167</numero>
+  <n>167</n>
+  <titulo>Cristo, Esperança Nossa</titulo>
+  <texto>
+    <estrofe>
+      <verso>“Cristo esperança nossa!” Vinde, ó salvos, proclamar!</verso>
+      <verso>Ele é eterno Deus bendito, é refúgio singular.</verso>
+      <verso>É quem guarda, quem protege,</verso>
+      <verso>Quem aos homens quer salvar.</verso>
+      <verso>Quem aos homens quer salvar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Cristo, esperança nossa!” Pois da culpa nos livrou;</verso>
+      <verso>Com seu sangue precioso, lá na cruz já nos comprou.</verso>
+      <verso>Deu-nos vida em sua morte,</verso>
+      <verso>Pois que já ressuscitou.</verso>
+      <verso>Pois que já ressuscitou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>“Cristo, esperança nossa!” Eis o lema vencedor.</verso>
+      <verso>Ao seu lado, contra as trevas, combatamos sem temor.</verso>
+      <verso>Nossa grande esperança</verso>
+      <verso>É o Cristo Salvador!</verso>
+      <verso>É o Cristo salvador!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>J. C. de Oliveira</origem_letra>
+</hino>

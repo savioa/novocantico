@@ -6,15 +6,13 @@
   <titulo>Vida Vitoriosa</titulo>
   <texto>
     <estrofe>
-      <verso>Cristo amado, sei que na força do mal</verso>
+      <verso>Cristo amado, sei que na força do mal,</verso>
       <verso>Tu, meu Mestre, sempre serás protetor.</verso>
       <verso>Tu me guardas, dando-me paz divinal!</verso>
       <verso>Eu contigo sempre serei vencedor!</verso>
       <coro>
-        <verso>Cristo, Mestre,</verso>
-        <verso>Sei que contigo sou vencedor!</verso>
-        <verso>Dá-me graça,</verso>
-        <verso>Dá-me do teu poder, Redentor!</verso>
+        <verso>Cristo, Mestre, sei que contigo sou vencedor!</verso>
+        <verso>Dá-me graça, dá-me do teu poder, Redentor!</verso>
       </coro>
     </estrofe>
     <estrofe>
@@ -32,15 +30,11 @@
     <estrofe>
       <verso>Oh! Que bênção ter a certeza do bem,</verso>
       <verso>Ter na vida paz e perdão do Senhor!</verso>
-      <verso>Mui alegre vou para a Pátria de além,</verso>
+      <verso>Mui alegre vou para a pátria de além,</verso>
       <verso>Onde reina Cristo Jesus, Rei de amor!</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="06">Mocidade</assunto>
-  <titulo_original>Amado</titulo_original>
-  <metrica id="">11.11.11.11.Coro</metrica>
-  <origem_letra id="SouzaMA" referencia="Souza, Manuel Avelino de">Manuel Avelino de Souza</origem_letra>
-  <origem_musica id="ScholfieldJP" referencia="Scholfield, Jack P.">Jack P. Scholfield</origem_musica>
-  <referencia_biblica id="55_002_004">2 Timóteo 2.4</referencia_biblica>
+  <origem_letra>M. A. de Souza</origem_letra>
 </hino>

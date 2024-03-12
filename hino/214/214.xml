@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>214</numero>
+  <n>214</n>
+  <titulo>Convite e Aceitação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ouço meu Senhor dizer: “Tuas forças débeis são,</verso>
+      <verso>Nada podes merecer; eu te dou a salvação”.</verso>
+      <coro>
+        <verso>A ti, Senhor Jesus, venho como estou;</verso>
+        <verso>Pois, sem nada merecer, teu sangue me salvou.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, eu venho a ti, Senhor, tua graça receber;</verso>
+      <verso>Infinito é teu amor, sem limite o teu poder.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pela fé em ti, Jesus, recebi perdão e paz;</verso>
+      <verso>Tua graça lá na cruz a minha alma satisfaz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando estou em aflições, tu és meu Consolador;</verso>
+      <verso>Quando exposto às tentações, meu auxílio e protetor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Lá na glória cantarei tua eterna salvação;</verso>
+      <verso>Junto ao trono renderei meu louvor e gratidão.</verso>
+      <coro>
+        <verso>A ti, Senhor Jesus, venho como estou;</verso>
+        <verso>Pois, sem nada merecer, teu sangue me salvou.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="02">Decisão</assunto>
+  <origem_letra>E. M. Hall</origem_letra>
+  <origem_letra>J. Th. Houston</origem_letra>
+</hino>

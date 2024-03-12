@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>170</numero>
+  <n>170</n>
+  <titulo>Redentor Onipotente</titulo>
+  <texto>
+    <estrofe>
+      <verso>Redentor onipotente, Poderoso Salvador,</verso>
+      <verso>Advogado onisciente é Jesus, meu bom Senhor.</verso>
+      <verso>Um abrigo sempre perto para todo pecador;</verso>
+      <verso>Um amigo inseparável é Jesus, meu Salvador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Água viva, Pão da vida, doce sombra no calor</verso>
+      <verso>Que ao descanso nos convida, é Jesus, meu Salvador!</verso>
+      <verso>Sol que extingue densas trevas refulgindo em plena luz,</verso>
+      <verso>Negra noite desfazendo, é meu bom Senhor, Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Fundamento inabalável em que posso confiar;</verso>
+      <verso>Infalível, imutável, rocha firme e secular!</verso>
+      <verso>Porta aberta, sempre aberta conduzindo à salvação;</verso>
+      <verso>Rica fonte donde emana plena paz, consolação!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

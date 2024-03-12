@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>060</numero>
+  <n>60</n>
+  <titulo>Ofertório</titulo>
+  <texto>
+    <estrofe>
+      <verso>Em tudo as tuas mãos, Senhor, nos têm enriquecido,</verso>
+      <verso>E às provisões do teu amor, bondosas, conduzido.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De ti procedem salvação e as bênçãos incontáveis</verso>
+      <verso>Que, dia a dia, ó Pai, nos dão as tuas mãos amáveis.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De ti vivemos nós, Senhor, e em ti nos alegramos;</verso>
+      <verso>Na comunhão do puro amor que em Cristo desfrutamos.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com mui sincero coração oferta aqui trazemos;</verso>
+      <verso>Recebe como gratidão de quanto a ti devemos. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="11">Gratidão</assunto>
+  <origem_letra>M. S. Porto Filho</origem_letra>
+</hino>

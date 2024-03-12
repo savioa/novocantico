@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>085</numero>
+  <n>85</n>
+  <titulo>Espírito Consolador</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vero Consolador, Espírito de Deus,</verso>
+      <verso>A tua paz e o teu amor revela aos que são teus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tal como o fogo a arder e todo o mal queimar,</verso>
+      <verso>Aquece as almas com poder, ensina-nos a te amar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Como óleo a ungir um povo só em ti,</verso>
+      <verso>A todos nós faze sentir a tua bondade aqui.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Nas trevas a brilhar com verdadeira luz,</verso>
+      <verso>O pecador faze encontrar o bom Salvador Jesus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Como água tu serás o purificador;</verso>
+      <verso>E viva fonte abrirás nos teus átrios, ó Senhor!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="02">Espírito Consolador</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

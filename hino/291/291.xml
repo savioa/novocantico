@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>291</numero>
+  <n>291</n>
+  <titulo>Triunfante Vem</titulo>
+  <texto>
+    <estrofe>
+      <verso>Entre nuvens multicores, com os santos vem do céu</verso>
+      <verso>Quem, amando os pecadores, morte atroz na cruz sofreu.</verso>
+      <verso>Aleluia! Cristo volta! Ele reina, pois venceu!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Todo olho há de vê-lo triunfante aqui descer.</verso>
+      <verso>Mesmo quem, num falso zelo, cruelmente o fez sofrer.</verso>
+      <verso>Seus algozes, consternados, sua glória hão de ver.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem gloriosa, num momento, a esperada Redenção!</verso>
+      <verso>Cessa todo sofrimento, queixas, mágoas longe vão.</verso>
+      <verso>Aleluia! Principia a total renovação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Todo o orbe, humildemente, honre e louve a ti, Senhor!</verso>
+      <verso>Ante o trono aurifulgente se prosterne com amor!</verso>
+      <verso>Inaugura o Reino Eterno! Aleluia! Vem, Senhor!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <origem_letra>C. Wesley</origem_letra>
+  <origem_letra>J. M. Sobrinho</origem_letra>
+</hino>

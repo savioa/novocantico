@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>159</numero>
+  <n>159</n>
+  <titulo>Bondoso Amigo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quão bondoso amigo é Cristo, revelou-nos seu amor</verso>
+      <verso>E nos diz que lhe entreguemos os cuidados, sem temor.</verso>
+      <verso>Falta ao coração dorido plena paz, consolação?</verso>
+      <verso>É porque nós não levamos tudo a ele, em oração.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Andas triste e carregado de pesares e de dor?</verso>
+      <verso>A Jesus, eterno abrigo, vai, com fé, teu mal expor.</verso>
+      <verso>Teus amigos te desprezam? Conta-lhe isso em oração</verso>
+      <verso>E o seu consolo terno tu terás no coração.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo é verdadeiro Amigo! Disso prova nos mostrou,</verso>
+      <verso>Quando, para resgatar-nos, ele, humilde, se encarnou.</verso>
+      <verso>Derramou precioso sangue para nos purificar!</verso>
+      <verso>Paz, em vida e no futuro, já podemos alcançar!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>J. M. Scriven</origem_letra>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

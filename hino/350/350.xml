@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>350</numero>
+  <n>350</n>
+  <titulo>A Palavra da Vida</titulo>
+  <texto>
+    <estrofe>
+      <verso>Fonte da celeste vida, manifesta o teu poder.</verso>
+      <verso>Vivifica os sem alento, faze os mortos renascer!</verso>
+      <verso>Vida eterna, vida eterna .</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao abrirmos o teu Livro, dele emane a luz dos céus!</verso>
+      <verso>Esclarece todo engano e dos erros livra os teus.</verso>
+      <verso>Ilumina, ilumina .</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na leitura desta Bíblia celebramos, ó Senhor,</verso>
+      <verso>Tendo, pelo teu ensino, comunhão em santo amor.</verso>
+      <verso>Exultamos, exultamos .</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pelo estudo da Palavra aprendemos de Jesus.</verso>
+      <verso>Oh! Concede os belos frutos que essa instrução produz!</verso>
+      <verso>Desfrutamos, desfrutamos .</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="13">Escola Dominical</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

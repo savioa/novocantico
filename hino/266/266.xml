@@ -3,49 +3,35 @@
 <hino>
   <numero>266</numero>
   <n>266</n>
-  <titulo>Rude cruz</titulo>
+  <titulo>Rude Cruz</titulo>
   <texto>
     <estrofe>
-      <verso>Rude cruz se erigiu,</verso>
-      <verso>Dela o dia fugiu</verso>
+      <verso>Rude cruz se erigiu, dela o dia fugiu</verso>
       <verso>Como emblema de vergonha e dor.</verso>
-      <verso>Mas eu sei que na cruz,</verso>
-      <verso>Nesse dia Jesus</verso>
+      <verso>Mas eu sei que na cruz, nesse dia Jesus</verso>
       <verso>Deu a vida por mim, pecador.</verso>
       <coro>
         <verso>Sim, eu amo a mensagem da cruz;</verso>
-        <verso voz="Exceto Soprano">rude cruz!</verso>
-        <verso>Seu triunfo meu gozo será!</verso>
-        <verso>Pois um dia em lugar de uma cruz,</verso>
-        <verso voz="Exceto Soprano">de uma cruz!</verso>
+        <verso>Seu triunfo alegria será!</verso>
+        <verso>Pois um dia, em lugar de uma cruz,</verso>
         <verso>A coroa Jesus me dará!</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Desde a glória dos céus,</verso>
-      <verso>O Cordeiro de Deus</verso>
+      <verso>Desde a glória dos céus, o Cordeiro de Deus</verso>
       <verso>Ao Calvário humilhante baixou.</verso>
-      <verso>Nessa cruz, para mim</verso>
-      <verso>Há mistério sem fim,</verso>
+      <verso>Nessa cruz, para mim, há mistério sem-fim,</verso>
       <verso>Porque nela Jesus me salvou.</verso>
     </estrofe>
     <estrofe>
-      <verso>Nessa cruz padeceu,</verso>
-      <verso>Desprezado morreu</verso>
+      <verso>Nessa cruz padeceu, desprezado morreu</verso>
       <verso>Meu Jesus, para dar-me perdão.</verso>
-      <verso>Eu me alegro na cruz </verso>
-      <verso>Dela vem graça e luz,</verso>
+      <verso>Eu me alegro na cruz, dela vêm graça e luz</verso>
       <verso>Para minha santificação.</verso>
     </estrofe>
   </texto>
   <secao id="06">Cristo - Sua Vida</secao>
   <assunto id="05">Paixão e Morte</assunto>
-  <titulo_original>The Old Rugged Cross</titulo_original>
-  <metrica id="6_6_9_D_Coro">6.6.9.D.Coro</metrica>
-  <origem_letra id="BennardG" referencia="Bennard, George" ano="1913">George Bennard</origem_letra>
-  <origem_letra id="AlmeidaA" referencia="Almeida, Antônio" ano="1920">Antônio Almeida</origem_letra>
-  <origem_musica id="BennardG" referencia="Bennard, George" ano="1913">George Bennard</origem_musica>
-  <primeiro_verso_original>On a hill far away stood an old rugged cross</primeiro_verso_original>
-  <referencia_biblica id="50_002_008_009">Filipenses 2.8,9</referencia_biblica>
+  <origem_letra>G. Bennard</origem_letra>
+  <origem_letra>A. Almeida</origem_letra>
 </hino>
-

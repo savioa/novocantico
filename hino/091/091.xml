@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>091</numero>
+  <n>91</n>
+  <titulo>A Fé dos Antigos</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Viva fé que nossos pais honraram sempre com valor.</verso>
+      <verso>Nós cantaremos mais e mais teus grandes feitos com ardor!</verso>
+      <coro>
+        <verso>Sublime fé, clarão de luz, inspiração que vem da cruz.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Bravos, quiseram nossos pais por ti as chamas afrontar;</verso>
+      <verso>E tal como esses ancestrais, queremos nós também andar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Alto pendão, sublime fé! Por ti queremos pelejar!</verso>
+      <verso>Tudo sofrendo, a morte até, e firmes sempre a ti honrar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="05">Fé</assunto>
+  <origem_letra>F. W. Faber</origem_letra>
+  <origem_letra>B. R. Duarte</origem_letra>
+</hino>

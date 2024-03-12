@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>143</numero>
+  <n>143</n>
+  <titulo>Salmo 23</titulo>
+  <texto>
+    <estrofe>
+      <verso>Deus é meu Pastor mui terno; nada, pois, me faltará.</verso>
+      <verso>Com seu santo amor eterno sempre me sustentará.</verso>
+      <verso>Às pastagens verdejantes ele vem me conduzir</verso>
+      <verso></verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vem, com suas mãos divinas, mansamente me guiar</verso>
+      <verso>Rumo às águas cristalinas que me vão dessedentar.</verso>
+      <verso>Por veredas da justiça, prazeroso me conduz</verso>
+      <verso></verso>
+    </estrofe>
+    <estrofe>
+      <verso>Se da morte o vale escuro traz-me aperto ao coração,</verso>
+      <verso>Caminhando vou, seguro, apoiado em seu bordão!</verso>
+      <verso>Na presença de inimigos eu terei, da Salvação,</verso>
+      <verso>Um banquete com amigos, com Jesus, meu vero Irmão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Óleo santo, derramado, a cabeça vem me ungir.</verso>
+      <verso>Vai meu cálice transbordando por grandioso bem fruir.</verso>
+      <verso>Certamente que a bondade sempre a me seguir terei</verso>
+      <verso>E no lar da eternidade mui feliz habitarei.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>Sl 23</origem_letra>
+  <origem_letra>B. Andrade</origem_letra>
+</hino>

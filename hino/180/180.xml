@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>180</numero>
+  <n>180</n>
+  <titulo>Amor Fraternal</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus, Pastor amado! Louvamos-te hoje, aqui,</verso>
+      <verso>Unidos pela graça, um corpo só em ti.</verso>
+      <verso>Contendas e malícias, que longe de nós vão,</verso>
+      <verso>Nenhum desgosto impeça a nossa santa união.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Família unida somos, família de Jesus!</verso>
+      <verso>Iluminados todos da mesma santa luz.</verso>
+      <verso>A mesma fé nos une num só divino amor</verso>
+      <verso>E cheios de alegria servimos ao Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Num só caminho estreito Deus mesmo nos conduz,</verso>
+      <verso>Só temos esperança no Salvador Jesus!</verso>
+      <verso>Sua morte preciosa a todos vida traz</verso>
+      <verso>E pelo mesmo sangue nos vem a mesma paz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pois sendo resgatados por um só Salvador,</verso>
+      <verso>Vivamos sempre unidos por mais ardente amor,</verso>
+      <verso>Com simpatia olhando os erros de um irmão,</verso>
+      <verso>Cuidando de ajudá-lo com branda compaixão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, bondoso Amigo, ensina-nos a amar</verso>
+      <verso>E, como tu fizeste, também a perdoar,</verso>
+      <verso>Pois tanto carecemos do auxílio teu, Senhor!</verso>
+      <verso>Unidos, graças damos por teu imenso amor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="15">Fraternidade</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

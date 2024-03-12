@@ -2,18 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>395</numero>
-  <titulo>Amor no lar</titulo>
+  <n>395</n>
+  <titulo>Amor no Lar</titulo>
   <texto>
     <estrofe>
       <verso>Mui felizes nos correm os dias</verso>
       <verso>E depressa se esvai nossa dor!</verso>
       <verso>São benditas as sãs alegrias</verso>
-      <verso>Quando reina no lar doce amor! </verso>
+      <verso>Quando reina no lar doce amor!</verso>
     </estrofe>
     <estrofe>
       <verso>Os caminhos pisamos juncados,</verso>
       <verso>Sim, juncados de ramos em flor!</verso>
-      <verso>Surgem bênçãos de todos os lados</verso>
+      <verso>Surgem bênçãos de todos os lados,</verso>
       <verso>Quando reina no lar doce amor!</verso>
     </estrofe>
     <estrofe>
@@ -24,7 +25,7 @@
     </estrofe>
     <estrofe>
       <verso>Os pais crentes aos filhos afirmam</verso>
-      <verso>As verdades da Lei do Senhor!</verso>
+      <verso>As verdades da lei do Senhor</verso>
       <verso>E com obras o ensino confirmam</verso>
       <verso>Quando reina no lar doce amor!</verso>
     </estrofe>
@@ -37,11 +38,6 @@
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="08">Lar Cristão</assunto>
-  <titulo_original>Amor no lar</titulo_original>
-  <metrica id="10_9_10_9">10.9.10.9</metrica>
-  <origem_letra id="McNaughtonJH" referencia="McNaughton, John Hugh" ano="1863">John Hugh McNaughton</origem_letra>
-  <origem_letra id="WrightHM" referencia="Wright, Henry Maxwell" ano="1918">Henry Maxwell Wright</origem_letra>
-  <origem_musica id="ConceicaoLR" referencia="Conceição, Leopoldina Ruth da" ano="1918">Leopoldina Ruth da Conceição</origem_musica>
-  <primeiro_verso_original>There is beauty all around</primeiro_verso_original>
-  <referencia_biblica id="47_005_014">2 Coríntios 5.14</referencia_biblica>
+  <origem_letra>J. H. McNaughton</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
 </hino>

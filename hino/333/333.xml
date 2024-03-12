@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>333</numero>
+  <n>333</n>
+  <titulo>O Batismo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Nós, Senhor, nos alegramos ao teu mando obedecer.</verso>
+      <verso>Pois tu mesmo nos mandaste o batismo receber.</verso>
+      <verso>Vem, agora, Deus de amor, conceder-nos teu favor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Este selo nos recorda mandamento do Senhor.</verso>
+      <verso>É figura que nos fala do poder renovador.</verso>
+      <verso>Vem por ele à Igreja unir quem te quer aqui seguir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Morte ao mundo declaramos, morte ao vil pecado, sim!</verso>
+      <verso>Com Jesus ao nosso lado a vitória é certa, enfim!</verso>
+      <verso>Ó Senhor, vem consagrar a quem vem se batizar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mortos para o mundo estamos, desejando a Deus servir.</verso>
+      <verso>Vivos em Jesus queremos sua imagem refletir.</verso>
+      <verso>Vem, Senhor, aqui fazer tua graça em nós crescer. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="08">Bastismo</assunto>
+  <origem_letra>L. P. G. da Silva</origem_letra>
+</hino>

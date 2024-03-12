@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>289</numero>
+  <n>289</n>
+  <titulo>Quem Irá?</titulo>
+  <texto>
+    <estrofe>
+      <verso>Eis os milhões que, em trevas tão medonhas,</verso>
+      <verso>Jazem perdidos, sem o Salvador!</verso>
+      <verso>Oh! Quem irá as novas proclamando</verso>
+      <verso>Que Deus, em Cristo, salva o pecador?</verso>
+      <coro>
+        <verso>“Todo o poder o Pai me deu,</verso>
+        <verso>Na terra como lá no céu!</verso>
+        <verso>Ide ao mundo anunciar o Evangelho,</verso>
+        <verso>E eis-me convosco sempre!”</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Portas abertas eis por todo o mundo,</verso>
+      <verso>Servos de Deus, avante sempre andai!</verso>
+      <verso>Crentes em Cristo, uni as vossas forças:</verso>
+      <verso>Da escravidão os povos libertai.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Deus! Apressa o glorioso dia</verso>
+      <verso>Em que os remidos todos se unirão</verso>
+      <verso>E em coro santo, excelso, jubiloso,</verso>
+      <verso>Eternamente glória a ti darão!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="08">A Grande Comissão</assunto>
+  <origem_letra>J. McGranahan</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

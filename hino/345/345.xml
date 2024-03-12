@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>345</numero>
+  <n>345</n>
+  <titulo>O Pão do Mundo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó Pão, só por amor partido! Ó Vinho, dado por amor!</verso>
+      <verso>Ó Cristo, vida nos tens sido por tua morte em grande dor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao pecador atribulado vens, mesmo agora, consolar.</verso>
+      <verso>De tua Ceia, ó Cristo amado, nossa alma vem alimentar.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="11">Ceia do Senhor</assunto>
+  <origem_letra>R. Heber</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

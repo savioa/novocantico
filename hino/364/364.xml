@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>364</numero>
+  <n>364</n>
+  <titulo>Graças a Deus</titulo>
+  <texto>
+    <estrofe>
+      <verso>De manhã, deixando o leito,</verso>
+      <verso>Faço a Deus minha oração.</verso>
+      <verso>Dou-lhe graças pela noite,</verso>
+      <verso>Pelo sono e proteção.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mas também, durante o dia,</verso>
+      <verso>Sou mui grato ao meu Senhor</verso>
+      <verso>Pelo pão, o lar e a vida,</verso>
+      <verso>Que me provam seu amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E depois, vindo a noitinha,</verso>
+      <verso>Novamente, ao me deitar,</verso>
+      <verso>Oro a Deus e, agradecido,</verso>
+      <verso>Durmo em paz, sem recear.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

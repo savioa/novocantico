@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>083</numero>
+  <n>83</n>
+  <titulo>Divino Instruidor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó divinal Instruidor, que nos mostraste o bom Senhor,</verso>
+      <verso>Com tua luz e teu poder reveste sempre o nosso ser.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó inefável Preceptor, por tua graça e teu favor</verso>
+      <verso>Inflama o nosso coração na vera e santa adoração.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Consolador, Senhor e Deus, dom inefável lá dos céus.</verso>
+      <verso>Revela ao mundo a tua luz, a Redenção que vem da cruz.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="01">Espírito Instruidor</assunto>
+  <origem_letra>S. Ferraz</origem_letra>
+</hino>

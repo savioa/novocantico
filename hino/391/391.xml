@@ -6,16 +6,13 @@
   <titulo>Mocidade Fiel</titulo>
   <texto>
     <estrofe>
-      <verso>Mocidade fiel, redimida,</verso>
+      <verso>Mocidade fiel, redimida, </verso>
       <verso>Mocidade que Cristo salvou,</verso>
       <verso>Inflamada de amor, vossa vida</verso>
-      <verso>Consagrai a quem vos libertou!</verso>
-      <verso>Consagrai a quem vos libertou!</verso>
+      <verso>Consagrai a quem vos libertou! (bis)</verso>
       <coro>
-        <verso>Mocidade! Mocidade!</verso>
-        <verso>Escutai o convite do Rei!</verso>
-        <verso>Ele é a Vida, o Caminho,</verso>
-        <verso>A Verdade! Mocidade!</verso>
+        <verso>Mocidade! Mocidade! Escutai o convite do Rei!</verso>
+        <verso>Ele é a Vida, o Caminho, a Verdade! Mocidade!</verso>
         <verso>Mocidade valente, atendei!</verso>
       </coro>
     </estrofe>
@@ -23,23 +20,16 @@
       <verso>Aos que vivem na sombra da morte,</verso>
       <verso>Na miséria, doença e aflição,</verso>
       <verso>Proclamai bem vibrante, bem forte,</verso>
-      <verso>Proclamai em Jesus salvação!</verso>
-      <verso>Proclamai em Jesus salvação!</verso>
+      <verso>Proclamai em Jesus salvação! (bis)</verso>
     </estrofe>
     <estrofe>
       <verso>Eis a luta! Marchando altaneira,</verso>
       <verso>Tendo o peito escudado na fé,</verso>
       <verso>Por Jesus, pela sua bandeira,</verso>
-      <verso>Mocidade valente, de pé.</verso>
-      <verso>Mocidade valente, de pé.</verso>
+      <verso>Mocidade valente, de pé! (bis)</verso>
     </estrofe>
   </texto>
   <secao id="08">Assuntos Diversos</secao>
   <assunto id="06">Mocidade</assunto>
-  <titulo_original>Redimida</titulo_original>
-  <metrica id="">10.9.10.[9].Coro</metrica>
-  <origem_letra id="SantosRR" referencia="Santos, Renato Ribeiro dos">Renato Ribeiro dos Santos</origem_letra>
-  <origem_musica id="SantosRR" referencia="Santos, Renato Ribeiro dos">Renato Ribeiro dos Santos</origem_musica>
-  <origem_musica id="BuyersN" referencia="Buyers, Norah">Norah Buyers</origem_musica>
-  <referencia_biblica id="55_002_004">2 Timóteo 2.4</referencia_biblica>
+  <origem_letra>R. R. dos Santos</origem_letra>
 </hino>

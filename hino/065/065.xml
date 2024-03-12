@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>065</numero>
+  <n>65</n>
+  <titulo>Gratidão e Louvor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Dai graças, todos vós, a Deus, humildemente;</verso>
+      <verso>Milagres fez por nós neste universo ingente.</verso>
+      <verso>Pois vós deveis saber que muitos bens nos deu,</verso>
+      <verso>Que pelo seu poder nos vem a luz do céu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O Deus da Redenção nos queira dar na vida</verso>
+      <verso>Alegre coração e auxílio em toda lida.</verso>
+      <verso>Mantenha-nos de pé por seu imenso amor</verso>
+      <verso>E nos conserve a fé em Cristo, o Salvador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Exaltação, louvor ao Pai, ao Filho amado</verso>
+      <verso>E ao bom Consolador que foi dos céus mandado!</verso>
+      <verso>Ao grande e trino Deus, em canto triunfal,</verso>
+      <verso>Tribute os hinos seus a igreja universal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="11">Gratidão</assunto>
+  <origem_letra>M. Rinckart</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

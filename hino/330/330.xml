@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>330</numero>
+  <n>330</n>
+  <titulo>A Bênção do Batismo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó Jesus, eu te confesso, para sempre és meu Senhor.</verso>
+      <verso>Obediente, aqui desejo pertencer-te, ó Salvador.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sendo agora batizado, tomo, enfim, o meu lugar</verso>
+      <verso>Entre o povo que o teu sangue veio lá na cruz comprar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Para o mundo agora, eu, morto, tenho vida em ti, Jesus,</verso>
+      <verso>Já nas trevas não vacilo, pois caminho em plena luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sendo nova criatura, santidade buscarei,</verso>
+      <verso>Pela qual o mundo veja que tu és Senhor e Rei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Fortalece o meu anseio de te ser fiel aqui,</verso>
+      <verso>Pois minha alma só aspira a viver de ti, em ti.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="08">Bastismo</assunto>
+  <origem_letra>Wm. Anglin</origem_letra>
+</hino>

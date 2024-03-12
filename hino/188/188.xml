@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>188</numero>
+  <n>188</n>
+  <titulo>Clara Luz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quanta dor, quanta amargura</verso>
+      <verso>Vem meu peito retalhar!</verso>
+      <verso>Não importa, se diviso</verso>
+      <verso>Clara luz além brilhar!</verso>
+      <verso>Nela, cheio de esperança,</verso>
+      <verso>Cravo os olhos tristes meus:</verso>
+      <verso>Ela é selo e garantia</verso>
+      <verso>Do supremo amor de Deus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Deus predestinou-me e fala:</verso>
+      <verso>“Tens em Cristo a Redenção;</verso>
+      <verso>Sou a luz dos pecadores,</verso>
+      <verso>Dissipando a escuridão”.</verso>
+      <verso>Vamos, vamos, companheiros,</verso>
+      <verso>Caminhemos nessa luz,</verso>
+      <verso>Que através da escura noite</verso>
+      <verso>Resplandece sobre a cruz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Eia, avante, a passos largos,</verso>
+      <verso>Vamos, vamos sem parar!</verso>
+      <verso>Ficará em densas trevas</verso>
+      <verso>Quem na luz não caminhar!</verso>
+      <verso>Pois nos mostra a bela terra</verso>
+      <verso>Donde mana leite e mel;</verso>
+      <verso>Essa luz jamais se apaga,</verso>
+      <verso>Pois provém do Deus fiel.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <origem_letra>J. C. Ribeiro</origem_letra>
+</hino>

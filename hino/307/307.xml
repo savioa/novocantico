@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>307</numero>
+  <n>307</n>
+  <titulo>A Santa Igreja</titulo>
+  <texto>
+    <estrofe>
+      <verso>Erga-se o estandarte tremulando à luz!</verso>
+      <verso>Seu brasão: coroa circundando a cruz!</verso>
+      <verso>Na cruzada invicta quem quer hoje entrar</verso>
+      <verso>E o evangelho santo ir anunciar?</verso>
+      <coro>
+        <verso>Erga-se o estandarte, tremulando à luz!</verso>
+        <verso>Seu brasão: coroa circundando a cruz.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Luta contra as trevas, luta contra o mal!</verso>
+      <verso>Eis-nos à peleja santa, divinal!</verso>
+      <verso>Dar combate ao erro, à superstição,</verso>
+      <verso>E salvar os homens da degradação.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vinde ao bom combate sem esmorecer!</verso>
+      <verso>De valor eterno glória haveis de ter.</verso>
+      <verso>A quem quer segui-lo, eis que diz Jesus:</verso>
+      <verso>“Negue-se a si mesmo, tome a sua cruz”.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Salvador, confio em teu grande amor!</verso>
+      <verso>Entro na batalha com vibrante ardor.</verso>
+      <verso>Dá que em teu serviço saiba a cruz tomar</verso>
+      <verso>E teu santo nome hoje e sempre honrar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="02">Evangelização</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

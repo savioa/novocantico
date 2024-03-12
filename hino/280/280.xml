@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>280</numero>
+  <n>280</n>
+  <titulo>Ascensão</titulo>
+  <texto>
+    <estrofe>
+      <verso>Subiste ao céu, triunfador! </verso>
+      <verso>De tudo agora és tu Senhor;</verso>
+      <verso>Venceste, Rei da glória!</verso>
+      <verso>Eis que te sentas junto ao Pai.</verso>
+      <verso>Colher, em breve, a Igreja vai</verso>
+      <verso>As bênçãos da vitória!</verso>
+      <verso>A cruz é luz. O pecado? Expiado!</verso>
+      <verso>Vida e morte, tudo está em mão que é forte!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Atrai-nos bem a ti, Jesus,</verso>
+      <verso>Que andemos sempre em tua luz</verso>
+      <verso>E o Reino teu busquemos.</verso>
+      <verso>Dá que vivamos com temor</verso>
+      <verso>E, humildes, pelo teu amor</verso>
+      <verso>O mal abandonemos!</verso>
+      <verso>Dá, Rei, à grei que, lutando sob teu mando,</verso>
+      <verso>Seja firme; e sua fé ao mundo afirme.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Clamamos, ó Jesus, por ti.</verso>
+      <verso>Vem ser com o teu povo aqui.</verso>
+      <verso>Faze que viva unido</verso>
+      <verso>E seja grato e liberal,</verso>
+      <verso>Buscando o bem celestial,</verso>
+      <verso>O bem imerecido. Oh! Sim! E assim,</verso>
+      <verso>Nós, constantes e exultantes, juntaremos</verso>
+      <verso>Nossas mãos: louvar-te-emos! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="07">Ascensão</assunto>
+  <origem_letra>J. M. da Mota Sobrinho</origem_letra>
+</hino>

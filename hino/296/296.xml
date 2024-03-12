@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>296</numero>
+  <n>296</n>
+  <titulo>Cristo Não Tarda</titulo>
+  <texto>
+    <estrofe>
+      <verso>Cristo em breve do céu virá,</verso>
+      <verso>Pois prometeu e não tardará.</verso>
+      <verso>Oh! Que alegria, que glória será,</verso>
+      <verso>Quando Jesus regressar!</verso>
+      <coro>
+        <verso>Cristo não tarda, não tarda em vir,</verso>
+        <verso>Cristo não tarda em vir.</verso>
+        <verso>Oh! Que alegria e glória será,</verso>
+        <verso>Quando Jesus regressar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Em breve os mortos ressurgirão,</verso>
+      <verso>Todos os crentes se encontrarão.</verso>
+      <verso>Juntos, alegres, ao céu subirão,</verso>
+      <verso>Quando Jesus regressar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na terra, em breve teremos paz,</verso>
+      <verso>Cristo prendeu o maligno mordaz!</verso>
+      <verso>Toda aflição ficará para trás,</verso>
+      <verso>Quando Jesus regressar!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cristo não tarda, não tarda em vir.</verso>
+      <verso>Quem pronto está para aquele porvir?</verso>
+      <verso>Oh! Que alegria teremos em ir</verso>
+      <verso>Quando Jesus regressar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="09">Segunda Vinda</assunto>
+  <origem_letra>D. W. Whittle</origem_letra>
+  <origem_letra>S. L. Ginsburg</origem_letra>
+</hino>

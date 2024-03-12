@@ -2,26 +2,27 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>240</numero>
-  <titulo>Louvor angelical</titulo>
+  <n>240</n>
+  <titulo>Louvor Angelical</titulo>
   <texto>
     <estrofe>
       <verso>Eis dos anjos a harmonia!</verso>
       <verso>Cantam glória ao Rei Jesus.</verso>
       <verso>Paz aos homens! Que alegria!</verso>
       <verso>Paz com Deus em plena luz.</verso>
-      <verso>Ouçam povos, exultantes;</verso>
-      <verso>Ergam salmos triunfantes,</verso>
-      <verso>Aclamando seu Senhor;</verso>
+      <verso>Ouçam povos, exultantes,</verso>
+      <verso>Ergam salmos triunfantes</verso>
+      <verso>Aclamando seu Senhor:</verso>
       <verso>Nasce Cristo, o Redentor!</verso>
       <coro>
         <verso>Exultai, ó terra e céus,</verso>
-        <verso>Dando glória ao Homen-Deus!</verso>
+        <verso>Dando glória ao Homem-Deus!</verso>
       </coro>
     </estrofe>
     <estrofe>
       <verso>Cristo, eternamente honrado,</verso>
-      <verso>Do seu trono se ausentou!</verso>
-      <verso>E entre os homens, encarnado,</verso>
+      <verso>Do seu trono se ausentou</verso>
+      <verso>E, entre os homens, encarnado,</verso>
       <verso>Deus conosco se mostrou.</verso>
       <verso>Quão bondosa Divindade!</verso>
       <verso>Quão gloriosa Humanidade!</verso>
@@ -31,7 +32,7 @@
     <estrofe>
       <verso>Cante o povo resgatado:</verso>
       <verso>Glória ao Príncipe da Paz!</verso>
-      <verso>Deus em Cristo, revelado</verso>
+      <verso>Deus em Cristo revelado</verso>
       <verso>Vida e luz ao mundo traz!</verso>
       <verso>Nasce a fim de renascermos!</verso>
       <verso>Vive para revivermos!</verso>
@@ -41,14 +42,6 @@
   </texto>
   <secao id="06">Cristo - Sua Vida</secao>
   <assunto id="02">Natal</assunto>
-  <titulo_original>Mendelssohn</titulo_original>
-  <metrica id="8_7_8_7_8_8_7_7_7_7">8.7.8.7.8.8.7.7.7.7</metrica>
-  <origem_letra id="WesleyC" referencia="Wesley, Charles" ano="1739">Charles Wesley</origem_letra>
-  <origem_letra id="MoretonRH" referencia="Moreton, Robert Hawkey" ano="1887">Robert Hawkey Moreton</origem_letra>
-  <origem_musica id="MendelssohnBF" referencia="Mendelssohn-Bartholdy, Felix">Felix Mendelssohn-Bartholdy</origem_musica>
-  <origem_musica id="FestgesangCantata" referencia="&#x201C;Festgesang&#x201D; (Cantata)" ano="1840">&#x201C;Festgesang&#x201D; (Cantata)</origem_musica>
-  <origem_musica id="CummingsWH" referencia="Cummings, William Hayman" ano="1855">William Hayman Cummings</origem_musica>
-  <primeiro_verso_original>Hark! The herald angels sing</primeiro_verso_original>
-  <referencia_biblica id="42_002_011">Lucas 2.11</referencia_biblica>
+  <origem_letra>C. Wesley</origem_letra>
+  <origem_letra>R. H. Moreton</origem_letra>
 </hino>
-

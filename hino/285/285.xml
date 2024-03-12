@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>285</numero>
+  <n>285</n>
+  <titulo>A Salvação do Brasil</titulo>
+  <texto>
+    <estrofe>
+      <verso>Do vasto Mato Grosso até ao Ceará,</verso>
+      <verso>Por vilas e cidades do sul ao Grão-Pará,</verso>
+      <verso>Deste evangelho santo que nos legou Jesus,</verso>
+      <verso>Ao povo brasileiro levemos nós a luz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Do Sul ao Amazonas, do Oeste até ao mar,</verso>
+      <verso>Já corre a doce nova do amor que não tem par.</verso>
+      <verso>Já muitos foram salvos da morte e perdição;</verso>
+      <verso>No sangue do Cordeiro acharam salvação!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Contudo, ainda muitos, bem longe de cristãos,</verso>
+      <verso>Adoram deuses feitos por suas próprias mãos.</verso>
+      <verso>De tão fatal pecado, da idolatria vil,</verso>
+      <verso>Unidos no evangelho, salvemos o Brasil.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="08">A Grande Comissão</assunto>
+  <origem_letra>A. H. da Silva</origem_letra>
+</hino>

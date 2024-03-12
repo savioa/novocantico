@@ -3,11 +3,11 @@
 <hino>
   <numero>315</numero>
   <n>315</n>
-  <titulo>Serviço do crente</titulo>
+  <titulo>Serviço do Crente</titulo>
   <texto>
     <estrofe>
       <verso>Vamos nós trabalhar, somos servos de Deus,</verso>
-      <verso>E o mestre seguir no caminho dos céus!</verso>
+      <verso>E o Mestre seguir no caminho dos céus!</verso>
       <verso>Com o seu bom conselho o vigor renovar,</verso>
       <verso>Diligentes fazendo o que ele ordenar.</verso>
       <coro>
@@ -18,13 +18,13 @@
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Vamos nós trabalhar e os famintos fartar,</verso>
-      <verso>Para a fonte os sedentos depressa levar!</verso>
+      <verso>Vamos nós trabalhar e os famintos fartar</verso>
+      <verso>Para à fonte os sedentos depressa levar!</verso>
       <verso>Só na cruz do Senhor nossa glória será,</verso>
       <verso>Pois Jesus salvação por seu sangue nos dá!</verso>
     </estrofe>
     <estrofe>
-      <verso>Vamos nós trabalhar, ajudados por Deus,</verso>
+      <verso>Vamos nós trabalhar, ajudados por Deus</verso>
       <verso>Que a coroa de glória nos dá lá nos céus.</verso>
       <verso>A mansão dos fiéis sempiterna será,</verso>
       <verso>Pois Jesus salvação inefável nos dá!</verso>
@@ -32,12 +32,6 @@
   </texto>
   <secao id="07">Igreja - Seu Ministério</secao>
   <assunto id="03">Trabalho Cristão</assunto>
-  <titulo_original>To the work</titulo_original>
-  <metrica id="12_12_12_Coro">12.12.12.Coro</metrica>
-  <origem_letra id="CrosbyFJ" referencia="Crosby, Fanny Jane">Fanny Jane Crosby</origem_letra>
-  <origem_letra id="MenezesMA" referencia="Menezes, Manoel Antônio de" ano="1885">Manoel Antônio de Menezes</origem_letra>
-  <origem_musica id="DoaneWH" referencia="Doane, William Howard" ano="1871">William Howard Doane</origem_musica>
-  <primeiro_verso_original>To the work! To the work! We are servants of God</primeiro_verso_original>
-  <referencia_biblica id="40_021_028">Mateus 21.28</referencia_biblica>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>M. A. Menezes</origem_letra>
 </hino>
-

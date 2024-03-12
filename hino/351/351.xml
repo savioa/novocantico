@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>351</numero>
+  <n>351</n>
+  <titulo>Belas Palavras de Vida</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quero ouvi-las mais outra vez, belas palavras de vida!</verso>
+      <verso>Narram tudo o que Cristo fez, belas palavras de vida!</verso>
+      <verso>Elas vêm de cima, seu poder anima.</verso>
+      <coro>
+        <verso>Que alegres são! Que alegres são!</verso>
+        <verso>Essas palavras de vida!</verso>
+        <verso>Que alegres são! Que alegres são!</verso>
+        <verso>Essas palavras de vida!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Só Jesus Cristo a todos dá belas palavras de vida!</verso>
+      <verso>Sem Jesus salvação não há; belas palavras de vida!</verso>
+      <verso>Com amor conclama, para o céu te chama.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Só Jesus Cristo é Salvador! Belas palavras de vida!</verso>
+      <verso>Quer salvar todo pecador! Belas palavras de vida!</verso>
+      <verso>Ele vivifica e nos purifica.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="13">Escola Dominical</assunto>
+  <origem_letra>Ph. P. Bliss</origem_letra>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

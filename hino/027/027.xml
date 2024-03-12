@@ -3,7 +3,7 @@
 <hino>
   <numero>027</numero>
   <n>27</n>
-  <titulo>Um hino ao Senhor</titulo>
+  <titulo>Um Hino ao Senhor</titulo>
   <texto>
     <estrofe>
       <verso>As grutas, as rochas imensas,</verso>
@@ -12,8 +12,8 @@
       <verso>Um hino ao teu Nome, Senhor!</verso>
       <coro>
         <verso>Nos céus e no mar e na terra,</verso>
-        <verso>Nos bosques, nos prados em flor,</verso>
-        <verso>No fragoso alcantil, na amplitude celeste,</verso>
+        <verso>Nos bosques, nos prados em flor;</verso>
+        <verso>No fragoso alcantil,12 na amplitude celeste,</verso>
         <verso>Um hino ressoa ao Senhor!</verso>
       </coro>
     </estrofe>
@@ -33,15 +33,10 @@
       <verso>E tu, pecador que vagueias,</verso>
       <verso>Que fazes ao teu Criador?</verso>
       <verso>Não achas momento em que cantes</verso>
-      <verso>Um hino de glória ao Senhor!</verso>
+      <verso>Um hino de glória ao Senhor?</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="05">Deus Criador</assunto>
-  <titulo_original>Um hino ao Senhor</titulo_original>
-  <metrica id="9_8_9_8_Coro">9.8.9.8.Coro</metrica>
-  <origem_letra id="SantosMG" referencia="Santos, Mattathias Gomes dos" ano="1931">Mattathias Gomes dos Santos</origem_letra>
-  <origem_musica id="GabrielCH" referencia="Gabriel, Charles Hutchinson">Charles Hutchinson Gabriel</origem_musica>
-  <primeiro_verso_original>As grutas, as rochas imensas</primeiro_verso_original>
-  <referencia_biblica id="19_009_002">Salmos 9.2</referencia_biblica>
+  <origem_letra>Matatias G. dos Santos</origem_letra>
 </hino>

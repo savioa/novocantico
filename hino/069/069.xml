@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>069</numero>
+  <n>69</n>
+  <titulo>Súplica</titulo>
+  <texto>
+    <estrofe>
+      <verso>Salvador, Jesus bendito, de minha alma a redenção,</verso>
+      <verso>Tua graça me convida a buscar-te em confissão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Por amor de mim morreste sobre a ensanguentada cruz!</verso>
+      <verso>Tu sofreste a minha pena. Oh! Meu Salvador Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A minha alma purifica em teu sangue remidor;</verso>
+      <verso>Faze que, leal e humilde, eu te sirva, meu Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tua ovelha, nos teus braços, bem segura guardarás.</verso>
+      <verso>Vem livrar-me dos pecados e guardar-me em tua paz!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

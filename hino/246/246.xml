@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>246</numero>
+  <n>246</n>
+  <titulo>Jesus, o Messias</titulo>
+  <texto>
+    <estrofe>
+      <verso>Jesus, o Messias, desceu lá do céu,</verso>
+      <verso>E foi no Natal quando ao mundo nasceu.</verso>
+      <verso>Alegre e feliz eu me devo sentir,</verso>
+      <verso>Pois ele é o bom Rei que nos veio remir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, o Messias, não quis aqui ter</verso>
+      <verso>Um berço macio e na vida prazer!</verso>
+      <verso>Mas na manjedoura nasceu meu Jesus,</verso>
+      <verso>Quando ele nos veio trazer vida e luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jesus, o Messias, que veio salvar,</verso>
+      <verso>A paz já nos deu e com Deus foi estar.</verso>
+      <verso>E neste Natal, abençoa, Senhor,</verso>
+      <verso>As vidas que agora te rendem louvor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>C. Christie</origem_letra>
+</hino>

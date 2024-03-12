@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>305</numero>
+  <n>305</n>
+  <titulo>Quem Quiser</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quem ouvir as novas deve proclamar:</verso>
+      <verso>Salvação de graça, vinde desfrutar!</verso>
+      <verso>Oh! Que o mundo inteiro ouça anunciar:</verso>
+      <verso>Todo o que quiser é vir!</verso>
+      <coro>
+        <verso>Todo o que quiser, todo o que quiser</verso>
+        <verso>Pode a boa-nova hoje receber!</verso>
+        <verso>Que o Senhor da Glória a todos quer remir!</verso>
+        <verso>Todo o que quiser é vir!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quem quiser, agora, venha aceitar;</verso>
+      <verso>Eis a porta aberta, entre sem tardar!</verso>
+      <verso>É Jesus caminho para ao céu chegar;</verso>
+      <verso>Todo o que quiser é vir!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que fiel promessa tens, ó pecador,</verso>
+      <verso>De uma vida eterna! Vem ao Salvador!</verso>
+      <verso>Ele a todos fala com mui terno amor:</verso>
+      <verso>Todo o que quiser é vir!</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="02">Evangelização</assunto>
+  <origem_letra>Ph. P. Bliss</origem_letra>
+  <origem_letra>M. A. de Menezes</origem_letra>
+</hino>

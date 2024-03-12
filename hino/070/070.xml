@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>070</numero>
+  <n>70</n>
+  <titulo>Descanso em Jesus</titulo>
+  <texto>
+    <estrofe>
+      <verso>Todo o meu tão vil pecado lanço, ó Cristo, sobre ti,</verso>
+      <verso>Pois, Cordeiro imaculado, tu me dás perdão aqui.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minha mancha tão impura tu bem podes retirar;</verso>
+      <verso>E deixar em ti segura a minha alma descansar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pobre sou, angustiado, mas revivo em tua cruz;</verso>
+      <verso>E meu coração cansado ponho só em ti, Jesus!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minhas mágoas carregaste no madeiro, em meu lugar;</verso>
+      <verso>Vida eterna me compraste, salvação me vieste dar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E na glória eterna, ao lado dos fiéis em multidão,</verso>
+      <verso>Meus louvores, Cristo amado, mais perfeitos te serão.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <origem_letra>Wm. H. Hewitson</origem_letra>
+</hino>

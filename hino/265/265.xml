@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>265</numero>
+  <n>265</n>
+  <titulo>Cristo Redentor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Que agonia dolorosa tu sofreste, ó meu Jesus!</verso>
+      <verso>Foi por mim tanta amargura que penaste ali na cruz.</verso>
+      <verso>Quanto amor! Oh! Quanto amor</verso>
+      <verso>No teu sangue, ó meu Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Desprezado até por Deus pelos crimes que eram meus,</verso>
+      <verso>Foi por mim, ó meu Jesus, todo o horror da infame cruz.</verso>
+      <verso>Quanto amor! Oh! Quanto amor</verso>
+      <verso>Na tua morte, ó meu Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Deus meu, Justiça e Amor são a essência do teu Ser.</verso>
+      <verso>Foi por isso que teu Filho veio à cruz por mim morrer!</verso>
+      <verso>Que justiça e quanto amor no teu Ser, ó Criador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pecadores, todos vós que buscais a salvação,</verso>
+      <verso>Vislumbrai no sacrifício quem nos trouxe a redenção!</verso>
+      <verso>Com amor, sim, muito amor, crede em Cristo, o Redentor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>P. L. Pitta</origem_letra>
+</hino>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>220</numero>
+  <n>220</n>
+  <titulo>Plena Dedicação</titulo>
+  <texto>
+    <estrofe>
+      <verso>Sobre a cruz Jesus comprou-me, corpo e alma, todo o ser.</verso>
+      <verso>Hoje e sempre, inteiramente, quero a ele pertencer.</verso>
+      <coro>
+        <verso>Meu Senhor! Meu Senhor! Sempre a ti pertencerei.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Os meus olhos guia sempre, consagrando-os a Jesus!</verso>
+      <verso>Da vaidade bem distantes, faze-os ver celeste luz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Oh! Dispõe o meu ouvido a fechar-se a todo mal,</verso>
+      <verso>Atendendo ao teu ensino com respeito filial.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Torna, ó Deus, a língua serva de Jesus, meu grande Rei!</verso>
+      <verso>Põe palavras nos meus lábios, e teu Nome exaltarei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Minhas mãos, Senhor, emprega mo serviço que convém,</verso>
+      <verso>Diligentes para o Mestre, trabalhando em todo o bem!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Os meus pés sustenta sempre, firmes, nos caminhos teus.</verso>
+      <verso>Nos sagrados mandamentos consolida os passos meus.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que ventura pertencer-te! Ouve a minha petição:</verso>
+      <verso>Vem, Senhor, supremo Amigo, dominar meu coração!</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="05">Consagração</secao>
+  <assunto id="02">Dedicação</assunto>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

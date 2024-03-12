@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>173</numero>
+  <n>173</n>
+  <titulo>Oração Vespertina</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vai fugindo o dia, breve a noite vem;</verso>
+      <verso>Vespertina estrela já se avista além.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao que mui cansado na tristeza jaz,</verso>
+      <verso>Dá, Jesus bendito, teu descanso e paz!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Noite de sossego vimos te pedir;</verso>
+      <verso>Em tuas mãos entregues, hemos de dormir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E quando acordarmos, faze, ó bom Senhor,</verso>
+      <verso>Que nós te sirvamos com maior vigor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="13">Confiança</assunto>
+  <origem_letra>S. B. Could</origem_letra>
+  <origem_letra>G. C. Searle</origem_letra>
+</hino>

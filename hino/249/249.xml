@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>249</numero>
+  <n>249</n>
+  <titulo>Na Manjedoura</titulo>
+  <texto>
+    <estrofe>
+      <verso>Num berço de palhas dormia Jesus,</verso>
+      <verso>O meigo menino que ali veio à luz.</verso>
+      <verso>Num rude presépio, de noite, em Belém,</verso>
+      <verso>Enquanto as estrelas brilhavam além.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O gado inquieto se põe a mugir,</verso>
+      <verso>Mas ele não teme e desperta a sorrir!</verso>
+      <verso>Eu te amo, Jesus! Vem meu sono velar,</verso>
+      <verso>Até quando o sol no horizonte raiar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tu foste criança, nasceste em Belém!</verso>
+      <verso>Por isso às crianças atendes também.</verso>
+      <verso>Desejo ter sempre ao meu lado, Senhor,</verso>
+      <verso>A tua presença tão cheia de amor.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>M. S. Porto Filho</origem_letra>
+</hino>

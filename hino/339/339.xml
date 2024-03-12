@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>339</numero>
+  <n>339</n>
+  <titulo>Dia Feliz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Oh! Dia alegre em que aceitei</verso>
+      <verso>Jesus e nele a salvação!</verso>
+      <verso>O amor de Cristo e seu perdão</verso>
+      <verso>eu mais e mais publicarei.</verso>
+      <coro>
+        <verso>Oh! Feliz, bem feliz o dia em que me converti!201</verso>
+        <verso>Jesus me ensina a vigiar e, confiado nele, a orar!</verso>
+        <verso>Oh! Feliz, bem feliz o dia em que me converti!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Completa a grande expiação,</verso>
+      <verso>pertenço agora ao meu Senhor!</verso>
+      <verso>Chamou-me a voz do seu amor</verso>
+      <verso>e nele achei real perdão!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Meu sacro voto, ó Salvador,</verso>
+      <verso>de dia em dia afirmarei!</verso>
+      <verso>E além da morte exultarei</verso>
+      <verso>louvando sempre a ti, Senhor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="10">Profissão de Fé</assunto>
+  <origem_letra>Ph. D.</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>153</numero>
+  <n>153</n>
+  <titulo>Amparo Divino</titulo>
+  <texto>
+    <estrofe>
+      <verso>Com tua mão segura bem a minha,</verso>
+      <verso>Pois eu tão frágil sou, ó Salvador,</verso>
+      <verso>Que não me atrevo a dar jamais um passo</verso>
+      <verso>Sem teu amparo, Cristo, meu Senhor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Com tua mão segura bem a minha</verso>
+      <verso>E meu caminho, alegre, seguirei!</verso>
+      <verso>Mesmo onde as sombras caem mais escuras,</verso>
+      <verso>Teu rosto vendo nada temerei.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E no momento de transpor o rio</verso>
+      <verso>Que tu, por mim, vieste atravessar,</verso>
+      <verso>Com tua mão segura bem a minha</verso>
+      <verso>E sobre a morte eu hei de triunfar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quando voltares lá dos céus descendo,</verso>
+      <verso>Segura bem a minha mão, Senhor,</verso>
+      <verso>E, meu Jesus, conduze-me contigo</verso>
+      <verso>Para onde eu goze teu eterno amor. Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="12">Proteção</assunto>
+  <origem_letra>F. J. Crosby</origem_letra>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

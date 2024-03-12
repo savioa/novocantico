@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>236</numero>
+  <n>236</n>
+  <titulo>Em Linda Noite</titulo>
+  <texto>
+    <estrofe>
+      <verso>Em linda noite ao mundo, a nós,</verso>
+      <verso>Em coro angelical,</verso>
+      <verso>Com harpas de ouro, o céu quis dar</verso>
+      <verso>Um canto divinal.</verso>
+      <verso>E toda a terra, então, ouviu</verso>
+      <verso>Promessas imortais</verso>
+      <verso>De glória a Deus, aos homens paz,</verso>
+      <verso>Com bênçãos eternais.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pairando sobre a terra estão</verso>
+      <verso>Os anjos a cantar</verso>
+      <verso>E sobre o mundo pecador</verso>
+      <verso>Derramam luz sem-par.</verso>
+      <verso>Acima dos tormentos mil,</verso>
+      <verso>Angústias do viver,</verso>
+      <verso>Proclamam vida perenal,</verso>
+      <verso>Pois bênçãos vêm trazer.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E vão-se os dias sem cessar,</verso>
+      <verso>Segundo a voz de Deus,</verso>
+      <verso>Mas sobre a terra as gerações</verso>
+      <verso>Caminham rumos seus!</verso>
+      <verso>E quando, enfim, reinar a paz</verso>
+      <verso>De Cristo, o Salvador,</verso>
+      <verso>Os salvos todos cantarão</verso>
+      <verso>Em coro o seu louvor!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>E. H. Sears</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

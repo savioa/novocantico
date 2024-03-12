@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>262</numero>
+  <n>262</n>
+  <titulo>Contemplação da Cruz</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ao contemplar a tua cruz</verso>
+      <verso>E o que sofreste ali, Senhor,</verso>
+      <verso>Sei que não há, ó meu Jesus,</verso>
+      <verso>Um bem maior que o teu amor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quero somente me gloriar</verso>
+      <verso>Na tua cruz, meu Salvador,</verso>
+      <verso>Pois que morreste em meu lugar!</verso>
+      <verso>Teu, sempre teu serei, Senhor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>De tua fronte, mãos e pés,</verso>
+      <verso>De teu ferido coração,</verso>
+      <verso>Teu sangue em dores tão cruéis</verso>
+      <verso>Deste por minha redenção.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ao contemplar a tua cruz,</verso>
+      <verso>O teu sofrer, o teu penar,</verso>
+      <verso>Quão leve sinto, ó meu Jesus,</verso>
+      <verso>A que me deste a carregar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Tudo o que eu possa consagrar</verso>
+      <verso>Ao teu serviço, ao teu louvor,</verso>
+      <verso>Em nada poderei pagar</verso>
+      <verso>Ao que me dás em teu amor! Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>I. Watts</origem_letra>
+  <origem_letra>M. S. Porto Filho</origem_letra>
+</hino>

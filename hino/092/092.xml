@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>092</numero>
+  <n>92</n>
+  <titulo>A Fé Contemplada</titulo>
+  <texto>
+    <estrofe>
+      <verso>Deus promete grandes coisas conceder</verso>
+      <verso>A qualquer que peça, crendo que há de obter,</verso>
+      <verso>Esperando, sem na fé enfraquecer.</verso>
+      <verso>O Senhor a fé contemplará!</verso>
+      <coro>
+        <verso>Tua fé Jesus contemplará,</verso>
+        <verso>Sim, o que Jesus promete, dá.</verso>
+        <verso>Ele vê o coração</verso>
+        <verso>E responde à petição;</verso>
+        <verso>Tua fé Jesus contemplará!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quantas maravilhas Deus realizou</verso>
+      <verso>Por alguém que firme nele confiou</verso>
+      <verso>E que da promessa em nada duvidou.</verso>
+      <verso>O Senhor a fé contemplará!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Sim, creiamos no que Deus nos prometeu,</verso>
+      <verso>Pois jamais desonrará o Nome seu;</verso>
+      <verso>Ele cumprirá promessas que nos deu.</verso>
+      <verso>O Senhor a fé contemplará!</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="05">Fé</assunto>
+  <origem_letra>J. Rowe</origem_letra>
+  <origem_letra>R. Pitrowsky</origem_letra>
+</hino>

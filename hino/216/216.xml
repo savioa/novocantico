@@ -2,47 +2,32 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>216</numero>
+  <n>216</n>
   <titulo>Perdão</titulo>
   <texto>
     <estrofe>
-      <verso>Acharei mercê em Deus?</verso>
-      <verso>Pode ainda perdoar?</verso>
-      <verso>Esquecer pecados meus?</verso>
-      <verso>Minha vida transformar?</verso>
+      <verso>Acharei mercê em Deus? Pode ainda perdoar?</verso>
+      <verso>Esquecer pecados meus? Minha vida transformar?</verso>
     </estrofe>
     <estrofe>
-      <verso>Eu que sempre resisti,</verso>
-      <verso>Sua ira suscitei;</verso>
-      <verso>Seus apelos não ouvi,</verso>
-      <verso>Transgredi a sua lei!</verso>
+      <verso>Eu que sempre resisti, sua ira suscitei,</verso>
+      <verso>Seus apelos não ouvi, transgredi a sua Lei!</verso>
     </estrofe>
     <estrofe>
-      <verso>Arrependo-me, Senhor,</verso>
-      <verso>Tenho ao mal grande aversão!</verso>
-      <verso>Sinto n'alma intenso horror;</verso>
-      <verso>Posso ter o teu perdão?</verso>
+      <verso>Arrependo-me, Senhor, tenho ao mal grande aversão!</verso>
+      <verso>Sinto n’alma intenso horror, Posso ter o teu perdão?</verso>
     </estrofe>
     <estrofe>
-      <verso>Mansamente, diz Jesus:</verso>
-      <verso>&#x201C;Quero a paz te conceder!</verso>
-      <verso>A salvar-te fui à cruz,</verso>
-      <verso>Salvo estás, se podes crer!&#x201D;</verso>
+      <verso>Mansamente, diz Jesus: “Quero a paz te conceder!</verso>
+      <verso>A salvar-te fui à cruz, salvo estás, se podes crer”.</verso>
     </estrofe>
     <estrofe>
-      <verso>Sim, eu creio e salvo estou!</verso>
-      <verso>Reina gozo lá no céu,</verso>
-      <verso>Pois a nova já chegou,</verso>
-      <verso>De mais um que nele creu.</verso>
-    </estrofe>    
+      <verso>Sim, eu creio e salvo estou! Alegria há no céu,</verso>
+      <verso>Pois a Nova já chegou de mais um que nele creu.</verso>
+    </estrofe>
   </texto>
   <secao id="04">Apelo</secao>
   <assunto id="02">Decisão</assunto>
-  <titulo_original>Aus der Tiefe</titulo_original>
-  <metrica id='7_7_7_7'>7.7.7.7</metrica>
-  <origem_letra id="WesleyC" referencia="Wesley, Charles">Charles Wesley</origem_letra>
-  <origem_letra id="NelsonJH" referencia="Nelson, Justus Henry" ano="1894">Justus Henry Nelson</origem_letra>
-  <origem_musica id="NurnbergischesGesangbuch" referencia="&#x201C;Nürnbergisches Gesangbuch&#x201D;" ano="1976-7">&#x201C;Nürnbergisches Gesangbuch&#x201D;</origem_musica>
-  <origem_musica id="HerbstM" referencia="Herbst, Martin">Martin Herbst</origem_musica>
-  <primeiro_verso_original>Holy Spirit, my heart yearns for Thee</primeiro_verso_original>
-  <referencia_biblica id="40_011_028">Mateus 11.28</referencia_biblica>
+  <origem_letra>C. Wesley</origem_letra>
+  <origem_letra>J. H. Nelson</origem_letra>
 </hino>

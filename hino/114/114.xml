@@ -2,23 +2,24 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>114</numero>
+  <n>114</n>
   <titulo>Brilho Celeste</titulo>
   <texto>
     <estrofe>
-      <verso>Peregrinando por sobre os montes,</verso>
+      <verso>Peregrinando por sobre os montes</verso>
       <verso>E pelos vales, sempre na luz,</verso>
       <verso>Cristo promete nunca deixar-me,</verso>
-      <verso>&#x201C;Eis-me convosco&#x201D; &#x2014; disse Jesus.</verso>
+      <verso>“Eis-me convosco” — disse Jesus.</verso>
       <coro>
         <verso>Brilho celeste! Brilho celeste!</verso>
-        <verso>Enche a minha alma, glória do céu!</verso>
+        <verso>Enche a minha alma, glória do Céu!</verso>
         <verso>Aleluia! Sigo cantando,</verso>
         <verso>Dando louvores, pois Cristo é meu!</verso>
       </coro>
     </estrofe>
     <estrofe>
-      <verso>Se vejo sombras por toda a parte,</verso>
-      <verso>O Salvador não hão de ocultar!</verso>
+      <verso>Se vejo sombras por toda parte,</verso>
+      <verso>O Salvador não hão de ocultar,</verso>
       <verso>Pois Cristo é luz que nunca se apaga,</verso>
       <verso>Bem ao seu lado sempre hei de andar.</verso>
     </estrofe>
@@ -31,12 +32,6 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="08">Companhia do Senhor</assunto>
-  <titulo_original>Heavenly sunlight</titulo_original>
-  <metrica id='10_9_10_9_Coro'>10.9.10.9.Coro</metrica>
-  <origem_letra id="ZelleyHJ" referencia="Zelley, Henry J.">Henry J. Zelley</origem_letra>
-  <origem_letra id="DuarteBR" referencia="Duarte, Benjamin Rufino" ano="1906">Benjamin Rufino Duarte</origem_letra>
-  <origem_musica id="CookGH" referencia="Cook, George H." ano="séc. XIX">George H. Cook</origem_musica>
-  <primeiro_verso_original>Walking in sunlight all of my journey</primeiro_verso_original>
-  <referencia_biblica id="23_002_005">Isaías 2.5</referencia_biblica>
+  <origem_letra>H. J. Zelley</origem_letra>
+  <origem_letra>B. R. Duarte</origem_letra>
 </hino>
-

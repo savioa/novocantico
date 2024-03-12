@@ -2,16 +2,18 @@
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
 <hino>
   <numero>108</numero>
-  <titulo>Aflição e paz</titulo>
+  <n>108</n>
+  <titulo>Aflição e Paz</titulo>
   <texto>
     <estrofe>
       <verso>Se paz a mais doce me deres gozar,</verso>
-      <verso>Se dor a mais forte sofrer,</verso>
+      <verso>Se dor a mais forte sofrer;</verso>
       <verso>Oh! Seja o que for, tu me fazes saber</verso>
       <verso>Que feliz com Jesus sempre sou!</verso>
       <coro>
         <verso>Sou feliz com Jesus,</verso>
-        <verso>Sou feliz com Jesus, meu Senhor!</verso>
+        <verso>Sou feliz com Jesus,</verso>
+        <verso>meu Senhor!</verso>
       </coro>
     </estrofe>
     <estrofe>
@@ -35,12 +37,6 @@
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="08">Companhia do Senhor</assunto>
-  <titulo_original>Ville de Havre</titulo_original>
-  <metrica id="11_8_11_9_Coro">11.8.11.9.Coro</metrica>
-  <origem_letra id="SpaffordHG" referencia="Spafford, Horatio Gates">Horatio Gates Spafford</origem_letra>
-  <origem_letra id="EntzmingerWE" referencia="Entzminger, William Edwin">William Edwin Entzminger</origem_letra>
-  <origem_musica id="BlissPP" referencia="Bliss, Philip Paul">Philip Paul Bliss</origem_musica>
-  <primeiro_verso_original>When peace, like a river</primeiro_verso_original>
-  <referencia_biblica id="45_005_011">Romanos 5.11</referencia_biblica>
+  <origem_letra>H. G. Spafford</origem_letra>
+  <origem_letra>Wm. E. Entzminger</origem_letra>
 </hino>
-

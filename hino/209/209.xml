@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>209</numero>
+  <n>209</n>
+  <titulo>Encorajamento</titulo>
+  <texto>
+    <estrofe>
+      <verso>Medo tens que o adversário vá vencer?</verso>
+      <verso>Luz te falta e onde estás não podes ver?</verso>
+      <verso>Abre o coração, que Cristo vai entrar,</verso>
+      <verso>E o sol em ti raiar.</verso>
+      <coro>
+        <verso>Deixa a luz do céu entrar,</verso>
+        <verso>Deixa o sol em ti nascer;</verso>
+        <verso>Abre o coração, que Cristo vai entrar,</verso>
+        <verso>E o sol em ti nascer.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Tu não tens ainda fé no Salvador?</verso>
+      <verso>Deus não ouve as tuas preces com favor?</verso>
+      <verso>Abre o coração, que Cristo vai entrar,</verso>
+      <verso>E o sol em ti raiar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Queres ir andando alegre para o céu,</verso>
+      <verso>Ignorando todo o negro e denso véu?</verso>
+      <verso>Abre o coração, que Cristo vai entrar,</verso>
+      <verso>E o sol em ti raiar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="04">Apelo</secao>
+  <assunto id="01">Convite</assunto>
+  <origem_letra>A. Blenkom</origem_letra>
+  <origem_letra>A. Q. Lomba</origem_letra>
+</hino>

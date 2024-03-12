@@ -3,11 +3,11 @@
 <hino>
   <numero>062</numero>
   <n>62</n>
-  <titulo>Hino de gratidão</titulo>
+  <titulo>Hino de Gratidão</titulo>
   <texto>
     <estrofe>
       <verso>Graças te dou por tudo que me deste,</verso>
-      <verso>Primeiro a Salvação em meu Jesus.</verso>
+      <verso>Primeiro a salvação em meu Jesus.</verso>
       <verso>Graças te dou por tudo que fizeste</verso>
       <verso>Por este pecador salvo na cruz!</verso>
       <coro>
@@ -21,7 +21,7 @@
       <verso>Eu te agradeço a bênção do trabalho</verso>
       <verso>E do meu lar, que alegra o meu viver;</verso>
       <verso>A correção paterna, quando falho,</verso>
-      <verso>Provando teu amor pelo meu ser.</verso>
+      <verso>Provando o teu amor pelo meu ser.</verso>
     </estrofe>
     <estrofe>
       <verso>Eu te agradeço o pão de cada dia,</verso>
@@ -33,17 +33,11 @@
       <verso>Eu te agradeço, ó Pai, os meus amigos,</verso>
       <verso>E os inimigos também te agradeço.</verso>
       <verso>Sou grato por vitórias em perigos</verso>
-      <verso>E outras bênçãos que eu não mereço. Amém.</verso>
+      <verso>E outras bênçãos que eu não mereço.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="11">Gratidão</assunto>
-  <titulo_original>Hino de gratidão</titulo_original>
-  <metrica id="11_11_11_11_Coro">11.11.11.11.Coro</metrica>
-  <origem_letra id="OliveiraJC" referencia="Oliveira, João Chrysóstomo de">João Chrysóstomo de Oliveira</origem_letra>
-  <origem_musica id="NogueiraE" referencia="Nogueira, Edilson">Edilson Nogueira</origem_musica>
-  <origem_musica id="ManuelRE" referencia="Manuel, Ralph Eugene" ano="1975">Ralph Eugene Manuel</origem_musica>
-  <primeiro_verso_original>Graças te dou por tudo que me deste</primeiro_verso_original>
-  <referencia_biblica id="19_103_001_002">Salmos 103.1,2</referencia_biblica>
-  <referencia_biblica id="47_009_015">2 Coríntios 9.15</referencia_biblica>
+  <origem_letra>J. C. de Oliveira</origem_letra>
 </hino>

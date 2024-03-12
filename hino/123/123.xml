@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>123</numero>
+  <n>123</n>
+  <titulo>Grande Amor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Ó Senhor, que a tudo excedes, dom celeste, amor sem-par,</verso>
+      <verso>Oh! Coroa de favores nosso frágil caminhar.</verso>
+      <verso>Grande amor, amor bendito, ó divina compaixão,</verso>
+      <verso>Vem socorre ao que padece e estende-lhe a mão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Senhor, a cada dia dá-nos tua inspiração!</verso>
+      <verso>Oh! Remove o mau desejo que nos tenta o coração.</verso>
+      <verso>Tu, somente, nos conheces e nos podes proteger.</verso>
+      <verso>Dá-nos, pois, a tua graça e com ela o teu poder.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ó Senhor, não te separes do rebanho terreal!</verso>
+      <verso>Une a Igreja estreitamente, dá-lhe vida fraternal.</verso>
+      <verso>Abençoa todo crente, ilumina-lhe o andar</verso>
+      <verso>E que todos se comprazam em teu Nome proclamar.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="09">Aspiração</assunto>
+  <origem_letra>C. Wesley</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

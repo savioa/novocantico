@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>263</numero>
+  <n>263</n>
+  <titulo>Junto à Cruz de Cristo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Na cruz de Jesus Cristo, meus olhos podem ver</verso>
+      <verso>Um vulto agonizante, por mim, ali morrer!</verso>
+      <verso>Então, estremecido, contemplo o grande amor!</verso>
+      <verso>Amor incomparável, por mim, vil pecador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Bem junto à cruz de Cristo eu quero me abrigar;</verso>
+      <verso>À sombra do madeiro alento posso achar.</verso>
+      <verso>Aragem no deserto, na estrada um doce lar,</verso>
+      <verso>Jesus sempre ameniza meu árduo caminhar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Viver eu quero sempre à sombra dessa cruz!</verso>
+      <verso>Nenhum fulgor anseio senão o de Jesus!</verso>
+      <verso>O mundo abandonando, eu tudo quis perder,</verso>
+      <verso>Porquanto achei a Cristo que transformou meu ser!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>E. C. Clephane</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

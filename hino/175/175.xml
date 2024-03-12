@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>175</numero>
+  <n>175</n>
+  <titulo>O Servo do Senhor</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quão bem-aventurado o servo do Senhor</verso>
+      <verso>Que não faz aliança com o desprezador!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Jamais o mau caminho dos ímpios quer seguir,</verso>
+      <verso>Nem por seu vil conselho se deixa seduzir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mas sumo regozijo em Deus alcançará</verso>
+      <verso>E em sua lei divina, feliz, meditará.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Bem como a linda planta ele há de florescer</verso>
+      <verso>E junto às águas vivas, viçoso, irá crescer.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Em toda a sua vida os frutos brotarão</verso>
+      <verso>E em tudo que ele intente vitórias surgirão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mas, doutra sorte, os ímpios não podem prosperar</verso>
+      <verso>E suas esperanças na morte irão findar.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mui breve nós veremos Jesus do céu descer</verso>
+      <verso>E sua igreja inteira na glória receber.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Então, os que desprezam o grande Salvador</verso>
+      <verso>Perecerão malditos diante do Senhor.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="14">Fidelidade</assunto>
+  <origem_letra>Sl 1</origem_letra>
+  <origem_letra>S. P. Kalley</origem_letra>
+</hino>

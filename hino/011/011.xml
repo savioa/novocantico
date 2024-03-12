@@ -3,19 +3,19 @@
 <hino>
   <numero>011</numero>
   <n>11</n>
-  <titulo>Trindade santíssima</titulo>
+  <titulo>Trindade Santíssima</titulo>
   <texto>
     <estrofe>
-      <verso>Santo! Santo! Santo! Deus Onipotente!</verso>
+      <verso>Santo! Santo! Santo! Deus onipotente!</verso>
       <verso>Louvam nossas vozes teu nome com fervor!</verso>
       <verso>Santo! Santo! Santo! Justo e compassivo!</verso>
-      <verso>És Deus Triúno, Excelso Criador!</verso>
+      <verso>És o Deus trino, excelso criador!</verso>
     </estrofe>
     <estrofe>
       <verso>Santo! Santo! Santo! Nós, os pecadores,</verso>
       <verso>Não podemos ver tua glória sem temor.</verso>
-      <verso>Tu somente és Santo! Só Tu és perfeito,</verso>
-      <verso>Deus Soberano, imenso em teu amor.</verso>
+      <verso>Tu somente és santo! Só tu és perfeito,</verso>
+      <verso>Deus soberano, imenso em teu amor.</verso>
     </estrofe>
     <estrofe>
       <verso>Santo! Santo! Santo! Todos os remidos,</verso>
@@ -24,20 +24,14 @@
       <verso>Eras, e sempre és, e hás de ser, Senhor!</verso>
     </estrofe>
     <estrofe>
-      <verso>Santo! Santo! Santo! Deus Onipotente!</verso>
+      <verso>Santo! Santo! Santo! Deus onipotente!</verso>
       <verso>Tuas obras louvam teu nome com fervor.</verso>
       <verso>Santo! Santo! Santo! Justo e compassivo!</verso>
-      <verso>Deus soberano, Excelso Criador! Amém.</verso>
+      <verso>Deus soberano, excelso criador! Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="03">Deus Santo</assunto>
-  <titulo_original>Nicaea</titulo_original>
-  <metrica id='12_12_12_10'>12.12.12.10</metrica>
-  <origem_letra id="HeberR" referencia="Heber, Reginald" ano="1827">Reginald Heber</origem_letra>
-  <origem_letra id="RochaJG" referencia="Rocha, João Gomes da" ano="1888">João Gomes da Rocha</origem_letra>
-  <origem_musica id="DykesJB" referencia="Dykes, John Bacchus" ano="1861">John Bacchus Dykes</origem_musica>
-  <origem_musica id="KettringDD" referencia="Kettring, Donald D." ano="1940">Donald D. Kettring</origem_musica>
-  <primeiro_verso_original>Holy, holy, holy, Lord God Almighty</primeiro_verso_original>
-  <referencia_biblica id="66_004_008">Apocalipse 4.8</referencia_biblica>
+  <origem_letra>R. Heber</origem_letra>
+  <origem_letra>J.G. Rocha (trad.)</origem_letra>
 </hino>

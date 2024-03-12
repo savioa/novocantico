@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>343</numero>
+  <n>343</n>
+  <titulo>Em Memória</titulo>
+  <texto>
+    <estrofe>
+      <verso>Levado pelo imenso amor que tu me tens, Senhor,</verso>
+      <verso>À tua Mesa, ó Salvador, lembrar-me-ei de ti!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Por meu pecado, sobre a cruz sofreste, meu Jesus.</verso>
+      <verso>Meu Salvador e minha luz, lembrar-me-ei de ti!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Na cruz teu corpo sucumbiu na morte que o feriu.</verso>
+      <verso>A mim teu sangue redimiu; lembrar-me-ei de ti!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>E quando a morte, enfim, chegar, Jesus, ao doce lar,</verso>
+      <verso>Os teus fiéis virás chamar: lembrar-te-ás de mim.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="11">Ceia do Senhor</assunto>
+  <origem_letra>J. Law</origem_letra>
+</hino>

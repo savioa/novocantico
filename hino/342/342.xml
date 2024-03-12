@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>342</numero>
+  <n>342</n>
+  <titulo>Comunhão</titulo>
+  <texto>
+    <estrofe>
+      <verso>Atendendo ao que mandaste, relembramos, ó Jesus,</verso>
+      <verso>O teu grande sacrifício consumado sobre a cruz.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Monumento precioso onde esplende o teu amor,</verso>
+      <verso>Esta Ceia é simbolismo do teu gesto redentor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Recordando o que sofreste, aguardamos o porvir</verso>
+      <verso>Quando, em majestade e glória, como o sol vais refulgir.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Que por meio desta Ceia nós cresçamos em poder;</verso>
+      <verso>O poder com que os remidos todo o mal irão vencer.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="11">Ceia do Senhor</assunto>
+  <origem_letra>J. Gueiros</origem_letra>
+</hino>

@@ -3,14 +3,14 @@
 <hino>
   <numero>028</numero>
   <n>28</n>
-  <titulo>Coroação</titulo>
+  <titulo>Celebração de Nosso Rei e Sustentador</titulo>
   <texto>
     <estrofe>
       <verso>Tuas obras te coroam</verso>
-      <verso>Como um halo de esplendor;</verso>
+      <verso>Como um halo de esplendor!</verso>
       <verso>Astros, anjos, céus entoam</verso>
       <verso>Hino eterno a ti, Senhor!</verso>
-      <verso>Campos, matas, vales, montes</verso>
+      <verso>Campos, matas, vales, montes,</verso>
       <verso>Verde outeiro e verde mar,</verso>
       <verso>Aves e sonoras fontes</verso>
       <verso>Formam coro singular!</verso>
@@ -29,22 +29,15 @@
       <verso>Fonte és de alegria e vida,</verso>
       <verso>És do bem o Inspirador;</verso>
       <verso>Tua graça nos convida</verso>
-      <verso>A viver em mútuo amor.</verso>
+      <verso>A viver em mútuo amor</verso>
       <verso>Quais alegres peregrinos,</verso>
       <verso>Sempre em marcha triunfal,</verso>
       <verso>Cantaremos gratos hinos</verso>
-      <verso>Na jornada, até o final!</verso>
+      <verso>Na jornada, até ao final!</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="05">Deus Criador</assunto>
-  <titulo_original>Hymn to joy</titulo_original>
-  <metrica id='8_7_8_7_D'>8.7.8.7.D</metrica>
-  <origem_letra id="DykeH" referencia="Dyke, Henry van" ano="1907">Henry van Dyke</origem_letra>
-  <origem_letra id="SalumIN" referencia="Salum, Isaac Nicolau" ano="1940">Isaac Nicolau Salum</origem_letra>
-  <origem_musica id="NonaSinfoniaCoral" referencia="Nona Sinfonia (Coral)" ano="1826">Nona Sinfonia (Coral)</origem_musica>
-  <origem_musica id="BeethovenL" referencia="Beethoven, Ludwig van">Ludwig van Beethoven</origem_musica>
-  <primeiro_verso_original>Joyful, joyful, we adore Thee</primeiro_verso_original>
-  <referencia_biblica id="19_032_011">Salmos 32.11</referencia_biblica>
-  <referencia_biblica id="19_149_001_003">Salmos 149.1,3</referencia_biblica>
+  <origem_letra>H. V. Dyke</origem_letra>
+  <origem_letra>Trad. I. N. Salum</origem_letra>
 </hino>

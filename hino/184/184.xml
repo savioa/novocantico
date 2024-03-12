@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>184</numero>
+  <n>184</n>
+  <titulo>Face a Face</titulo>
+  <texto>
+    <estrofe>
+      <verso>Em breve a vida vou findar, não mais aqui eu cantarei!</verso>
+      <verso>Nos céus, então, irei morar lá na presença do meu Rei.</verso>
+      <coro>
+        <verso>E face a face vê-lo-ei, liberto e salvo cantarei! (bis)</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>E seja o dia quando for que Deus me chame para lá,</verso>
+      <verso>Bem certo estou que o Salvador contente me receberá.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>A doce voz me soará de Cristo, amável Redentor!</verso>
+      <verso>“Fiel, bom servo, bem está, entra no gozo do Senhor”.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Por meu Jesus eu vou viver e minha luz farei brilhar.</verso>
+      <verso>De dia em dia hei de fazer o que ao meu Salvador honrar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <origem_letra>F. Crosby</origem_letra>
+  <origem_letra>Wm. E. Entzminger</origem_letra>
+</hino>

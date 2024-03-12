@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>366</numero>
+  <n>366</n>
+  <titulo>Joias Preciosas</titulo>
+  <texto>
+    <estrofe>
+      <verso>Quando, ó Cristo, aqui vieres as jóias buscar,</verso>
+      <verso>Entre as jóias, ricas jóias, também quero estar.</verso>
+      <coro>
+        <verso>Como a bela estrela da alva desejo brilhar!</verso>
+        <verso>Com Jesus, na sua glória, também quero estar!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Vem olhá-las, vem guardá-las com amor, ó Senhor!</verso>
+      <verso>Todas ricas, todas lindas e em pleno fulgor!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Criancinhas, criancinhas que amais a Jesus,</verso>
+      <verso>Sois as jóias, ricas jóias compradas na cruz.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="14">Crianças</assunto>
+  <origem_letra>Wm. O. Cushing</origem_letra>
+</hino>

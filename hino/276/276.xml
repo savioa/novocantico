@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>276</numero>
+  <n>276</n>
+  <titulo>Amorável Convite</titulo>
+  <texto>
+    <estrofe>
+      <verso>Vinde vós, fiéis, cantai amoravelmente:</verso>
+      <verso>Deus seu povo libertou triunfantemente!</verso>
+      <verso>Exultai Jerusalém com amor profundo,</verso>
+      <verso>Proclamai que ressurgiu o Senhor do mundo.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Têm as almas em Jesus redenção, guarida.</verso>
+      <verso>Ressurgiu o Redentor, eis a luz e a vida!</verso>
+      <verso>Foge o inverno, a dor cruel, do pecado a treva;</verso>
+      <verso>Redimidos por Jesus, ele ao céu nos leva!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Aleluia! Cantareis ao Senhor amado,</verso>
+      <verso>Salvador, Deus imortal, já ressuscitado!</verso>
+      <verso>Aleluia! Glória dai, com fervor supino!</verso>
+      <verso>Aleluia! sem cessar, ao Deus Uno e Trino.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="06">Ressurreição</assunto>
+  <origem_letra>J. M. Neale</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
+</hino>

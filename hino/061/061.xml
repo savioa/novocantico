@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>061</numero>
+  <n>61</n>
+  <titulo>Ações de Graças</titulo>
+  <texto>
+    <estrofe>
+      <verso>Graças dou por esta vida, pelo bem que revelou,</verso>
+      <verso>Graças dou pelo futuro e por tudo que passou.</verso>
+      <verso>Pelas bênçãos derramadas, pelo amor, pela aflição,</verso>
+      <verso>Pelas graças reveladas, graças dou pelo perdão.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Graças pelo azul-celeste e por nuvens que há também,</verso>
+      <verso>Pelas rosas do caminho e os espinhos que elas têm;</verso>
+      <verso>Pelas noites desta vida, pela estrela que brilhou,</verso>
+      <verso>Pela prece respondida e a esperança que falhou.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Pela cruz e o sofrimento e, afinal, ressurreição,</verso>
+      <verso>Pelo amor que é sem medida, pela paz no coração;</verso>
+      <verso>Pela lágrima vertida e o consolo que é sem-par,</verso>
+      <verso>Pelo dom da eterna vida sempre graças hei de dar.</verso>
+    </estrofe>
+  </texto>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="11">Gratidão</assunto>
+  <origem_letra>A. L. Storm</origem_letra>
+  <origem_letra>A. O. Denyszezuk</origem_letra>
+</hino>

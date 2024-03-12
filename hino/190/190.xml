@@ -3,7 +3,7 @@
 <hino>
   <numero>190</numero>
   <n>190</n>
-  <titulo>Maior que a dor</titulo>
+  <titulo>Maior Que a Dor</titulo>
   <texto>
     <estrofe>
       <verso>Se amarga for aqui a vida,</verso>
@@ -21,16 +21,10 @@
       <verso>Porém, o verdadeiro gozo,</verso>
       <verso>No céu, Jesus irá vos dar,</verso>
       <verso>Pois ele diz: “No lar formoso</verso>
-      <verso>Vou preparar-vos um lugar.”</verso>
+      <verso>Vou preparar-vos um lugar”.</verso>
     </estrofe>
   </texto>
   <secao id="03">Edificação</secao>
   <assunto id="16">Esperança</assunto>
-  <titulo_original>Amargura</titulo_original>
-  <metrica id="9_8_9_8">9.8.9.8</metrica>
-  <origem_letra id="RussoV" referencia="Russo, Vicente" ano="1957">Vicente Russo</origem_letra>
-  <origem_musica id="RussoV" referencia="Russo, Vicente" ano="1957">Vicente Russo</origem_musica>
-  <origem_musica id="FaustiniJW" referencia="Faustini, João Wilson" ano="1970">João Wilson Faustini</origem_musica>
-  <primeiro_verso_original>Se amarga for aqui a vida</primeiro_verso_original>
-  <referencia_biblica id="45_008_018">Romanos 8.18</referencia_biblica>
+  <origem_letra>V. Russo</origem_letra>
 </hino>

@@ -3,18 +3,18 @@
 <hino>
   <numero>064</numero>
   <n>64</n>
-  <titulo>Grata memória</titulo>
+  <titulo>Grata Memória</titulo>
   <texto>
     <estrofe>
       <verso>Nunca meus lábios cessarão, ó Cristo,</verso>
       <verso>De bendizer-te, de cantar-te glória;</verso>
-      <verso>Pois guardo na alma teu amor imenso:</verso>
+      <verso>Pois guardo na alma teu amor imenso.</verso>
       <verso>Grata memória!</verso>
     </estrofe>
     <estrofe>
       <verso>Quando perdido vagueava aflito</verso>
       <verso>E em densas trevas meu andar seguia,</verso>
-      <verso>Tu me buscastes, lá dos céus mandando</verso>
+      <verso>Tu me buscaste, lá dos céus mandando</verso>
       <verso>Luz que me guia!</verso>
     </estrofe>
     <estrofe>
@@ -24,7 +24,7 @@
       <verso>Que me chamava!</verso>
     </estrofe>
     <estrofe>
-      <verso>Aos fortes braços eu corri confiante,</verso>
+      <verso>Aos fortes braços eu corri confiante;</verso>
       <verso>Meigo e bondoso, não me recusaste</verso>
       <verso>E, em teu imenso, suave amor, tão puro,</verso>
       <verso>Me agasalhaste!</verso>
@@ -34,15 +34,11 @@
       <verso>De bendizer-te, de cantar-te glória;</verso>
       <verso>Pois em minha alma tu és sempre, ó Cristo,</verso>
       <verso>Grata memória!</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="11">Gratidão</assunto>
-  <titulo_original>Flemming</titulo_original>
-  <metrica id='11_11_11_5'>11.11.11.5.</metrica>
-  <origem_letra id="CabreraJB" referencia="Cabrera, Juan Bautista">Juan Bautista Cabrera</origem_letra>
-  <origem_letra id="PortoFilhoMS" referencia="Porto Filho, Manoel da Silveira" ano="1961">Manoel da Silveira Porto Filho</origem_letra>
-  <origem_musica id="FlemmingFF" referencia="Flemming, Friedrich Ferdinand" ano="1810">Friedrich Ferdinand Flemming</origem_musica>
-  <primeiro_verso_original>Nunca, Dios mio, cesará mi labio</primeiro_verso_original>
-  <referencia_biblica id="47_009_015">2 Coríntios 9.15</referencia_biblica>
+  <origem_letra>J. B. Cabrera</origem_letra>
+  <origem_letra>M. S. Porto Filho</origem_letra>
 </hino>

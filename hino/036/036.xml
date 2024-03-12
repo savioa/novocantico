@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
-<hino situacao='incompleto'>
+<hino situacao="incompleto">
   <numero>036</numero>
   <n>36</n>
-  <titulo>Exaltação</titulo>
+  <titulo>Exaltação Universal</titulo>
   <texto>
     <estrofe>
       <verso>De toda a terra e das nações,</verso>
@@ -12,24 +12,19 @@
       <verso>O Nome de Jesus cantai.</verso>
       <coro>
         <verso>O dom supremo, divinal,</verso>
-        <verso>Justiça eterna e santo amor,</verso>
+        <verso>Justiça eterna e santo amor;</verso>
         <verso>De litoral em litoral</verso>
-        <verso>Serão cantados ao Senhor</verso>
+        <verso>Serão cantados ao Senhor!</verso>
       </coro>
     </estrofe>
     <estrofe>
       <verso>Em toda língua bendizei</verso>
-      <verso>A Deus, Autor da Criação!</verso>
-      <verso>Em toda terra engrandecei</verso>
-      <verso>Jesus que trouxe a Redenção!</verso>
+      <verso>A Deus, autor da Criação!</verso>
+      <verso>Em toda a terra engrandecei</verso>
+      <verso>Jesus que trouxe a redenção!</verso>
     </estrofe>
   </texto>
-  <secao id='01'>Louvor e Adoração</secao>
-  <assunto id='08'>Deus Senhor</assunto>
-  <titulo_original>Creation</titulo_original>
-  <metrica id='8_8_8_8_D'>8.8.8.8.D</metrica>
-  <origem_letra id='NelsonJH' referencia='Nelson, Justus Henry'>Justus Henry Nelson</origem_letra>
-  <origem_musica id='HaydnFJ' referencia='Haydn, Franz Joseph'>Franz Joseph Haydn</origem_musica>
-  <primeiro_verso_original>De toda a terra e das nações</primeiro_verso_original>
-  <referencia_biblica id='47_009_015'>2 Coríntios 9.15</referencia_biblica>
+  <secao id="01">Louvor e Adoração</secao>
+  <assunto id="08">Deus Senhor</assunto>
+  <origem_letra>J. H. Nelson</origem_letra>
 </hino>

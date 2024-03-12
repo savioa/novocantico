@@ -3,36 +3,23 @@
 <hino>
   <numero>016</numero>
   <n>16</n>
-  <titulo>Louvor a Deus</titulo>
+  <titulo>Louvor ao Deus Soberano</titulo>
   <texto>
     <estrofe>
-      <verso>Louvai a Deus,</verso>
-      <verso>Soberano Senhor do que é feito.</verso>
-      <verso>Louvai-o, sim,</verso>
-      <verso>De vossa alma, tesouro perfeito!</verso>
-      <verso>A Deus cantai</verso>
-      <verso>E, com fervor, tributai</verso>
+      <verso>Louvai a Deus, soberano Senhor do que é feito.</verso>
+      <verso>Louvai-o, sim, de vossa alma, tesouro perfeito!</verso>
+      <verso>A Deus cantai e, com fervor, tributai</verso>
       <verso>Profundo amor e respeito.</verso>
     </estrofe>
     <estrofe>
-      <verso>Louvai a Deus</verso>
-      <verso>Que vos faz prosperar dia a dia;</verso>
-      <verso>E, com amor,</verso>
-      <verso>Vos defende e abençoa a porfia.</verso>
-      <verso>Lembrai, também,</verso>
-      <verso>Que o poderoso vos vem</verso>
+      <verso>Louvai a Deus que vos faz prosperar dia a dia</verso>
+      <verso>E, com amor, vos defende e abençoa a porfia.</verso>
+      <verso>Lembrai, também, que o poderoso vos vem</verso>
       <verso>Fazer feliz companhia.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="04">Deus Soberano</assunto>
-  <titulo_original>Lobe den Herren</titulo_original>
-  <metrica id='14_14_4_7_8'>14.14.4.7.8</metrica>
-  <origem_letra id="NeanderJ" referencia="Neander, Joachim" ano="1680">Joachim Neander</origem_letra>
-  <origem_letra id="GoncalvesAC" referencia="Gonçalves, Antonio de Campos" ano="1954">Antonio de Campos Gonçalves</origem_letra>
-  <origem_musica id="StralsundGesangbuch" referencia="&#x201C;Stralsund Gesangbuch&#x201D;" ano="1665">&#x201C;Stralsund Gesangbuch&#x201D;</origem_musica>
-  <origem_musica id="PraxisPietatisMelica" referencia="&#x201C;Praxis Pietatis Melica&#x201D;" ano="1668">&#x201C;Praxis Pietatis Melica&#x201D;</origem_musica>
-  <primeiro_verso_original>Lobe den Herren</primeiro_verso_original>
-  <referencia_biblica id="19_009_001">Salmos 9.1</referencia_biblica>
-  <referencia_biblica id="27_004_037">Daniel 4.37</referencia_biblica>
+  <origem_letra>J. Neander</origem_letra>
+  <origem_letra>A. C. Gonçalves</origem_letra>
 </hino>

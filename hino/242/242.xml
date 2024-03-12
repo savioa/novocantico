@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>242</numero>
+  <n>242</n>
+  <titulo>Os Anjos e o Natal</titulo>
+  <texto>
+    <estrofe>
+      <verso>Anjos das mansões da glória, sobre a terra já voai.</verso>
+      <verso>Conhecei do mundo a história, o Natal hoje anunciai:</verso>
+      <verso>Adoremos, adoremos, Cristo é o nosso grande Rei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>O rebanho aqui dormita, vós, pastores, acordai.</verso>
+      <verso>Entre os homens Deus habita, sua estrela contemplai!</verso>
+      <verso>Adoremos, adoremos, Cristo é o nosso grande Rei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>As visões deixai de lado, vinde, ó magos, e achareis</verso>
+      <verso>Das nações o Desejado, sua estrela conheceis!</verso>
+      <verso>Adoremos, adoremos, Cristo é o nosso grande Rei!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Vós, seus santos que, prostrados, esperáveis sem cansar,</verso>
+      <verso>Recebei o Cristo Amado, que conosco vem morar.</verso>
+      <verso>Adoremos, adoremos, Cristo é o nosso grande Rei!</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="02">Natal</assunto>
+  <origem_letra>J. Montgomery</origem_letra>
+  <origem_letra>J. Costa</origem_letra>
+</hino>

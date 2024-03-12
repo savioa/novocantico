@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>075</numero>
+  <n>75</n>
+  <titulo>Arrependimento e Súplica</titulo>
+  <texto>
+    <estrofe>
+      <verso>Abatido em meu pecado, clamo a ti, ó bom Senhor!</verso>
+      <verso>Olha o pranto, o desencanto deste pobre pecador.</verso>
+      <verso>Deus clemente e paciente, oh! Liberta-me do mal,</verso>
+      <verso>Para amar-te e consagrar-te minha vida até ao final.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Cada dia andaria lado a lado com Jesus,</verso>
+      <verso>Adorando, exaltando ao excelso Deus de luz.</verso>
+      <verso>Mas, ligado ao pecado, como posso andar, Senhor?</verso>
+      <verso>Dos contritos, os delitos, vem tirar, ó Redentor.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Deus bondoso, caridoso, da verdade eterno Autor,</verso>
+      <verso>Meu pecado confessado, oh! Perdoa por amor!</verso>
+      <verso>Deus clemente, Pai do crente, esperança e eterna luz,</verso>
+      <verso>Sê meu guia, noite e dia, para a glória de Jesus.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="02">Confissão</secao>
+  <assunto id="01">Contrição e Arrependimento</assunto>
+  <origem_letra>R. H. Moreton</origem_letra>
+</hino>

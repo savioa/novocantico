@@ -3,10 +3,10 @@
 <hino>
   <numero>067</numero>
   <n>67</n>
-  <titulo>Coração quebrantado</titulo>
+  <titulo>Coração Quebrantado</titulo>
   <texto>
     <estrofe>
-      <verso>Sonda-me, ó Deus, pois vês meu coração;</verso>
+      <verso>Sonda-me, ó Deus, pois vês meu coração!</verso>
       <verso>Prova-me, ó Pai, te peço em oração.</verso>
       <verso>De todo o mal liberta-me, Senhor,</verso>
       <verso>Até da transgressão que oculta for.</verso>
@@ -24,19 +24,15 @@
       <verso>Pois tu, Senhor, vieste em mim morar.</verso>
     </estrofe>
     <estrofe>
-      <verso>Lá do alto céu o avivamento vem,</verso>
-      <verso>E que comece em mim, seguindo além.</verso>
+      <verso>Lá do alto céu o avivamento vem</verso>
+      <verso>E que comece em mim, seguindo além.</verso>
       <verso>O teu poder, as bênçãos, teu favor</verso>
-      <verso>Concede aos que são teus, ó Pai de amor. Amém.</verso>
+      <verso>Concede aos que são teus, ó Pai de amor.</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="02">Confissão</secao>
   <assunto id="01">Contrição e Arrependimento</assunto>
-  <titulo_original>Cleanse me</titulo_original>
-  <metrica id='10_10_10_10'>10.10.10.10</metrica>
-  <origem_letra id="OrrJE" referencia="Orr, James Edwin">James Edwin Orr</origem_letra>
-  <origem_letra id="KaschelW" referencia="Kaschel, Werner">Werner Kaschel</origem_letra>
-  <origem_musica id="MelodiaMaori" referencia="Melodia maori">Melodia maori</origem_musica>
-  <primeiro_verso_original>Cleanse me</primeiro_verso_original>
-  <referencia_biblica id="19_139_023_024">Salmos 139.23,24</referencia_biblica>
+  <origem_letra>J. E. Orr</origem_letra>
+  <origem_letra>Trad. e 4ª estrofe Werner Kaschel</origem_letra>
 </hino>

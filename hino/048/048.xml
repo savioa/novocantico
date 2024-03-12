@@ -3,7 +3,7 @@
 <hino>
   <numero>048</numero>
   <n>48</n>
-  <titulo>Amor e gratidão</titulo>
+  <titulo>Amor e Gratidão</titulo>
   <texto>
     <estrofe>
       <verso>Jesus, quão infinito é teu divino amor!</verso>
@@ -15,16 +15,11 @@
       <verso>Por isso, alegremente, buscamos sempre a ti,</verso>
       <verso>Visando obedecer-te na vida breve aqui.</verso>
       <verso>Embora desprezados, com aflições e dor,</verso>
-      <verso>É suave e bom servir-te, bendito Salvador! Amém.</verso>
+      <verso>É suave e bom servir-te, bendito Salvador!</verso>
+      <verso>Amém.</verso>
     </estrofe>
   </texto>
   <secao id="01">Louvor e Adoração</secao>
   <assunto id="09">Deus Salvador</assunto>
-  <titulo_original>St. Christopher</titulo_original>
-  <metrica id="7_6_7_6_D">7.6.7.6.D</metrica>
-  <origem_letra id="KalleySP" referencia="Kalley, Sarah Poulton" ano="1865">Sarah Poulton Kalley</origem_letra>
-  <origem_musica id="MakerFC" referencia="Maker, Frederick Charles" ano="1881">Frederick Charles Maker</origem_musica>
-  <primeiro_verso_original>Jesus, quão infinito é teu divino amor</primeiro_verso_original>
-  <referencia_biblica id="48_001_004">Gálatas 1.4</referencia_biblica>
-  <referencia_biblica id="50_002_008_009">Filipenses 2.8,9</referencia_biblica>
+  <origem_letra>S. P. Kalley</origem_letra>
 </hino>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>261</numero>
+  <n>261</n>
+  <titulo>O Gólgota</titulo>
+  <texto>
+    <estrofe>
+      <verso>Mui longe o monte verde está, ao norte de Sião.</verso>
+      <verso>Ali na cruz, o bom Jesus nos deu a salvação.</verso>
+      <coro>
+        <verso>Oh! Quanto, quanto nos amou! Amemo-lo também!</verso>
+        <verso>E confiando em seu amor, façamos todo bem.</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Quem neste mundo sondará a dor que padeceu?</verso>
+      <verso>Mas crer podemos: “Foi por nós que ali na cruz sofreu”.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Morreu por nós na infame cruz, perdão nos concedeu.</verso>
+      <verso>Lavou os nossos corações no sangue que verteu.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Ninguém podia nos livrar da pena eternal.</verso>
+      <verso>Só Cristo pôde nos remir a preço divinal.</verso>
+    </estrofe>
+  </texto>
+  <secao id="06">Cristo - Sua Vida</secao>
+  <assunto id="05">Paixão e Morte</assunto>
+  <origem_letra>C. F. Alexander</origem_letra>
+  <origem_letra>J. G. Rocha</origem_letra>
+</hino>

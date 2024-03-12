@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>086</numero>
+  <n>86</n>
+  <titulo>Oração ao Espírito Santo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Espírito do Eterno Deus, opera em nós.</verso>
+      <verso>Espírito do Eterno Deus, opera em nós.</verso>
+      <verso>Quebranta-nos, consola-nos,</verso>
+      <verso>Transforma-nos, transborda-nos!</verso>
+      <verso>Espírito do Eterno Deus, opera em nós.</verso>
+      <verso>Amém.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="03">Espírito Vivificador</assunto>
+  <origem_letra>D. Iverson</origem_letra>
+</hino>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>312</numero>
+  <n>312</n>
+  <titulo>Há Trabalho Certo</titulo>
+  <texto>
+    <estrofe>
+      <verso>Há trabalho certo para ti, cristão,</verso>
+      <verso>Que demanda toda a tua devoção.</verso>
+      <verso>Vem, alegremente, a Cristo obedecer,</verso>
+      <verso>Pois só tu, ó crente, o poderás fazer.</verso>
+      <coro>
+        <verso>Por Jesus é trabalhar!</verso>
+        <verso>Prontamente, fielmente, trabalhar!</verso>
+        <verso>Em servi-lo, que prazer!</verso>
+        <verso>E só tu, ó crente, o poderás fazer!</verso>
+      </coro>
+    </estrofe>
+    <estrofe>
+      <verso>Para cada crente o Mestre preparou</verso>
+      <verso>Um trabalho certo, quando o resgatou.</verso>
+      <verso>O trabalho a que Jesus te chama aqui,</verso>
+      <verso>Como será feito, se o não for por ti?</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Mesmo que humilde, sendo para Deus,</verso>
+      <verso>Ele é contemplado lá dos altos céus!</verso>
+      <verso>E o esforço feito não será em vão,</verso>
+      <verso>Se tiver, de Cristo, plena aprovação!</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Quantos há perdidos, sem a salvação,</verso>
+      <verso>Quantos que precisam de consolação!</verso>
+      <verso>Como Cristo os ama, faze-os entender,</verso>
+      <verso>Pois só tu, ó crente, o poderás fazer.</verso>
+    </estrofe>
+  </texto>
+  <secao id="07">Igreja - Seu Ministério</secao>
+  <assunto id="03">Trabalho Cristão</assunto>
+  <origem_letra>H. M. Wright</origem_letra>
+</hino>

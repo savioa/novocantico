@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../hino.xsl"?>
+<hino situacao="incompleto">
+  <numero>191</numero>
+  <n>191</n>
+  <titulo>Rio da Vida</titulo>
+  <texto>
+    <estrofe>
+      <verso>Fonte de amor perene, manancial de luz!</verso>
+      <verso>Água da vida corre do trono de Jesus!</verso>
+      <verso>Calmo rio! Belo rio! Quero estar, também,</verso>
+      <verso>Onde as águas sempre correm desse rio além.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Muitos de nós já foram cantar no céu louvor;</verso>
+      <verso>Com os remidos cantam a Cristo, o Redentor.</verso>
+      <verso>Santo rio! Junto ao rio vou cantar, também,</verso>
+      <verso>Onde as vozes nunca cessam, na Jerusalém.</verso>
+    </estrofe>
+    <estrofe>
+      <verso>Límpida fonte corre, brilhante, corre a flux;</verso>
+      <verso>Quem fez aquela alvura? O sangue de Jesus.</verso>
+      <verso>Corre rio, calmo corre! Corra assim a paz,</verso>
+      <verso>Em minha alma, para sempre, corra mais e mais.</verso>
+    </estrofe>
+  </texto>
+  <secao id="03">Edificação</secao>
+  <assunto id="16">Esperança</assunto>
+  <origem_letra>H. Bonar</origem_letra>
+  <origem_letra>L. Ph. G. da Silva</origem_letra>
+</hino>
