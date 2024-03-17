@@ -26,6 +26,11 @@ function obterParametroUrl(nomeParametro)
 var valorParametroPesquisa = obterParametroUrl("q");
 if(valorParametroPesquisa != undefined)
 {
+  if (valorParametroPesquisa == '110')
+  {
+    window.location.href = "https://novocantico.com.br/hino/" + valorParametroPesquisa + "/" + valorParametroPesquisa + ".xml";
+  }
+
   $('input[name="q"]').focus();
   $('input[name="q"]').val(valorParametroPesquisa);
 }
