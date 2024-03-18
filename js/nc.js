@@ -41,6 +41,7 @@ if(valorParametroPesquisa != undefined)
   }
   else if (!isNaN(valorParametroPesquisa))
   {
+    valorParametroPesquisa = valorParametroPesquisa.padStart(3, '0');
     window.location.href = "https://novocantico.com.br/hino/" + valorParametroPesquisa + "/" + valorParametroPesquisa + ".xml";
   }
 
