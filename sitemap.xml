@@ -28,6 +28,12 @@
 		<loc>http://www.novocantico.com.br/hino/007/007.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/008/008.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/009/009.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/010/010.xml</loc>
 	</url>
 	<url>
@@ -55,10 +61,25 @@
 		<loc>http://www.novocantico.com.br/hino/018/018.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/019/019.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/020/020.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/021/021.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/022/022.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/023/023.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/024/024.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/025/025.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/026/026.xml</loc>
@@ -91,13 +112,37 @@
 		<loc>http://www.novocantico.com.br/hino/035/035.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/036/036.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/037/037.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/038/038.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/039/039.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/040/040.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/041/041.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/042/042.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/043/043.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/044/044.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/045/045.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/046/046.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/047/047.xml</loc>
@@ -109,7 +154,16 @@
 		<loc>http://www.novocantico.com.br/hino/049/049.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/050/050.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/051/051.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/052/052.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/053/053.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/054/054.xml</loc>
@@ -118,7 +172,22 @@
 		<loc>http://www.novocantico.com.br/hino/055/055.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/056/056.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/057/057.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/058/058.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/059/059.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/060/060.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/061/061.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/062/062.xml</loc>
@@ -130,6 +199,9 @@
 		<loc>http://www.novocantico.com.br/hino/064/064.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/065/065.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/066/066.xml</loc>
 	</url>
 	<url>
@@ -139,25 +211,139 @@
 		<loc>http://www.novocantico.com.br/hino/068/068.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/069/069.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/070/070.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/071/071.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/072/072.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/073/073.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/074/074.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/075/075.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/076/076.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/077/077.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/078/078.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/079/079.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/080/080.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/081/081.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/082/082.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/083/083.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/084/084.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/085/085.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/086/086.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/087/087.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/088/088.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/089/089.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/090/090.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/091/091.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/092/092.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/093/093.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/094/094.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/095/095.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/096/096.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/097/097.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/098/098.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/099/099.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/100/100.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/101/101.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/102/102.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/103/103.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/104/104.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/105/105.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/106/106.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/107/107.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/108/108.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/109/109.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/110/110.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/110/110.xml</loc>
+	</url>-A
+	<url>
+		<loc>http://www.novocantico.com.br/hino/111/111.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/112/112.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/113/113.xml</loc>
@@ -172,13 +358,58 @@
 		<loc>http://www.novocantico.com.br/hino/116/116.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/117/117.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/118/118.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/119/119.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/120/120.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/121/121.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/122/122.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/123/123.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/124/124.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/125/125.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/126/126.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/127/127.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/128/128.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/129/129.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/130/130.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/131/131.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/132/132.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/133/133.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/134/134.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/135/135.xml</loc>
@@ -187,7 +418,25 @@
 		<loc>http://www.novocantico.com.br/hino/136/136.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/137/137.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/138/138.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/139/139.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/140/140.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/141/141.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/142/142.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/143/143.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/144/144.xml</loc>
@@ -205,10 +454,19 @@
 		<loc>http://www.novocantico.com.br/hino/148/148.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/149/149.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/150/150.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/151/151.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/152/152.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/153/153.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/154/154.xml</loc>
@@ -220,7 +478,46 @@
 		<loc>http://www.novocantico.com.br/hino/156/156.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/157/157.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/158/158.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/159/159.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/160/160.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/161/161.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/162/162.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/163/163.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/164/164.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/165/165.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/166/166.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/167/167.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/168/168.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/169/169.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/170/170.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/171/171.xml</loc>
@@ -229,40 +526,172 @@
 		<loc>http://www.novocantico.com.br/hino/172/172.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/173/173.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/174/174.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/175/175.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/176/176.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/177/177.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/178/178.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/179/179.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/180/180.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/181/181.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/182/182.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/183/183.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/184/184.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/185/185.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/186/186.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/187/187.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/188/188.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/189/189.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/190/190.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/191/191.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/192/192.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/193/193.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/194/194.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/195/195.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/196/196.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/197/197.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/198/198.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/199/199.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/200/200.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/201/201.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/202/202.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/203/203.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/204/204.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/205/205.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/206/206.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/207/207.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/208/208.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/209/209.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/210/210.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/211/211.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/212/212.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/213/213.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/214/214.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/215/215.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/216/216.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/217/217.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/218/218.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/219/219.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/220/220.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/221/221.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/222/222.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/223/223.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/224/224.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/225/225.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/226/226.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/227/227.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/228/228.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/229/229.xml</loc>
@@ -274,10 +703,28 @@
 		<loc>http://www.novocantico.com.br/hino/231/231.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/232/232.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/233/233.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/234/234.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/235/235.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/236/236.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/237/237.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/237/237.xml</loc>
+	</url>-A
+	<url>
+		<loc>http://www.novocantico.com.br/hino/238/238.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/239/239.xml</loc>
@@ -286,19 +733,85 @@
 		<loc>http://www.novocantico.com.br/hino/240/240.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/241/241.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/242/242.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/243/243.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/244/244.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/245/245.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/246/246.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/247/247.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/248/248.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/249/249.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/250/250.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/251/251.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/252/252.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/253/253.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/254/254.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/255/255.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/256/256.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/257/257.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/258/258.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/259/259.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/260/260.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/261/261.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/262/262.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/263/263.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/264/264.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/265/265.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/266/266.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/267/267.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/268/268.xml</loc>
@@ -307,19 +820,88 @@
 		<loc>http://www.novocantico.com.br/hino/269/269.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/270/270.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/271/271.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/272/272.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/273/273.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/274/274.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/275/275.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/276/276.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/277/277.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/278/278.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/279/279.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/280/280.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/281/281.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/281/281.xml</loc>
+	</url>-A
+	<url>
 		<loc>http://www.novocantico.com.br/hino/282/282.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/283/283.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/284/284.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/285/285.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/286/286.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/287/287.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/288/288.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/289/289.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/290/290.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/291/291.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/292/292.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/293/293.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/294/294.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/295/295.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/296/296.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/297/297.xml</loc>
@@ -331,7 +913,55 @@
 		<loc>http://www.novocantico.com.br/hino/299/299.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/300/300.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/301/301.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/302/302.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/303/303.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/304/304.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/305/305.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/306/306.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/307/307.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/308/308.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/309/309.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/310/310.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/311/311.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/312/312.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/313/313.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/314/314.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/315/315.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/316/316.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/317/317.xml</loc>
@@ -340,11 +970,29 @@
 		<loc>http://www.novocantico.com.br/hino/318/318.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/319/319.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/320/320.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/321/321.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/322/322.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/323/323.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/324/324.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/325/325.xml</loc>
 	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/325/325.xml</loc>
+	</url>-A
 	<url>
 		<loc>http://www.novocantico.com.br/hino/326/326.xml</loc>
 	</url>
@@ -352,16 +1000,124 @@
 		<loc>http://www.novocantico.com.br/hino/327/327.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/328/328.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/329/329.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/330/330.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/331/331.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/332/332.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/333/333.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/334/334.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/335/335.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/336/336.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/337/337.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/338/338.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/339/339.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/340/340.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/341/341.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/342/342.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/343/343.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/344/344.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/345/345.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/346/346.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/347/347.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/348/348.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/349/349.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/350/350.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/351/351.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/352/352.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/353/353.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/354/354.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/354/354.xml</loc>
+	</url>-A
+	<url>
+		<loc>http://www.novocantico.com.br/hino/355/355.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/356/356.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/357/357.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/358/358.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/359/359.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/360/360.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/361/361.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/362/362.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/363/363.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/364/364.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/365/365.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/366/366.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/367/367.xml</loc>
@@ -370,7 +1126,16 @@
 		<loc>http://www.novocantico.com.br/hino/368/368.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/369/369.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/370/370.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/371/371.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/372/372.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/373/373.xml</loc>
@@ -385,14 +1150,80 @@
 		<loc>http://www.novocantico.com.br/hino/376/376.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/377/377.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/378/378.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/379/379.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/380/380.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/381/381.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/382/382.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/383/383.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/384/384.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/385/385.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/386/386.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/387/387.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/388/388.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/389/389.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/390/390.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/391/391.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/392/392.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/393/393.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/394/394.xml</loc>
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/395/395.xml</loc>
 	</url>
 	<url>
+		<loc>http://www.novocantico.com.br/hino/396/396.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/397/397.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/398/398.xml</loc>
+	</url>
+	<url>
 		<loc>http://www.novocantico.com.br/hino/399/399.xml</loc>
 	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/400/400.xml</loc>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/400/400.xml</loc>
+	</url>-A
 	<url>
 		<loc>http://www.novocantico.com.br/hino/A/A.xml</loc>
 	</url>
@@ -401,4 +1232,8 @@
 	</url>
 	<url>
 		<loc>http://www.novocantico.com.br/hino/C/C.xml</loc>
-	</url></urlset>
+	</url>
+	<url>
+		<loc>http://www.novocantico.com.br/hino/D/D.xml</loc>
+	</url>
+</urlset>
