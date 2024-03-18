@@ -26,8 +26,17 @@ function obterParametroUrl(nomeParametro)
 var valorParametroPesquisa = obterParametroUrl("q");
 if(valorParametroPesquisa != undefined)
 {
-  if (valorParametroPesquisa == '110')
+  valorParametroPesquisa = valorParametroPesquisa.toUpperCase();
+
+  anomalos = ["110-A", "110A", "237-A", "237A", "281-A", "281A", "325-A", "325A", "354-A", "354A", "400-A", "400A"];
+
+  if (anomalos.include(valorParametroPesquisa))
   {
+    if (valorParametroPesquisa.indexOf('-') == -1)
+    {
+      valorParametroPesquisa = valorParametroPesquisa.substring(0, 3) + "-A";
+    }
+    
     window.location.href = "https://novocantico.com.br/hino/" + valorParametroPesquisa + "/" + valorParametroPesquisa + ".xml";
   }
 
