@@ -28,7 +28,7 @@ if(valorParametroPesquisa != undefined)
 {
   valorParametroPesquisa = valorParametroPesquisa.toUpperCase();
 
-  anomalos = ["110-A", "110A", "237-A", "237A", "281-A", "281A", "325-A", "325A", "354-A", "354A", "400-A", "400A"];
+  var anomalos = ["110-A", "110A", "237-A", "237A", "281-A", "281A", "325-A", "325A", "354-A", "354A", "400-A", "400A"];
 
   if (anomalos.include(valorParametroPesquisa))
   {
