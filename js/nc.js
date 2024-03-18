@@ -30,7 +30,7 @@ if(valorParametroPesquisa != undefined)
 
   var anomalos = ["110-A", "110A", "237-A", "237A", "281-A", "281A", "325-A", "325A", "354-A", "354A", "400-A", "400A"];
 
-  if (anomalos.include(valorParametroPesquisa))
+  if (anomalos.includes(valorParametroPesquisa))
   {
     if (valorParametroPesquisa.indexOf('-') == -1)
     {
