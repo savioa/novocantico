@@ -10,12 +10,12 @@
       <verso>Com voz de júbilo, vinde e aclamai!</verso>
       <verso>Com coração transbordante de graças,</verso>
       <verso>Seu grande amor, todos, vinde e louvai.</verso>
-    </estrofe>
-    <estrofe>
-      <verso>No céu, na terra, que maravilhas</verso>
-      <verso>Vai operando o poder do Senhor!</verso>
-      <verso>Mas seu amor, aos homens perdidos,</verso>
-      <verso>Das maravilhas é sempre a maior.</verso>
+      <coro>
+        <verso>No céu, na terra, que maravilhas</verso>
+        <verso>Vai operando o poder do Senhor!</verso>
+        <verso>Mas seu amor, aos homens perdidos,</verso>
+        <verso>Das maravilhas é sempre a maior.</verso>
+      </coro>
     </estrofe>
     <estrofe>
       <verso>Já nossos pais nos contaram a história</verso>
